@@ -69,7 +69,7 @@
 </div>
 <script type="text/javascript">
 	$(document).ready(function() {
-		n = 34; leftNumber = 0;
+		n = 34; leftNumber = 0; // So luong qua tang  = 34
 		var gift = [];
 		for (var i = 0; i < n; i++) {
 			gift[i] = 0;
@@ -83,20 +83,19 @@
 			var itvGift = setInterval(function(){
 				if (gift[j] == 0) { // Neu qua chua duoc chon
 					$("#spilled-number").html(j+1);
-				}
-				i--;
-				if (i<0) {
-					clearInterval(itvGift);
-					$("#selected-gift-wrapper").append("<span class='selected-gift-number'>"+(j+1)+"</span>");
-					$("#gift-img").html("<img src='gift/img"+(j+1)+".jpg'>");
-					gift[j] = 1; // Da chon qua
-					return j;
+					i--;
+					if (i<0) {
+						clearInterval(itvGift);
+						$("#selected-gift-wrapper").append("<span class='selected-gift-number'>"+(j+1)+"</span>");
+						$("#gift-img").html("<img src='gift/img"+(j+1)+".jpg'>");
+						gift[j] = 1; // Da chon qua
+					}
 				}
 				j++;
 				if (j >= n) {
 					j = 0;
 				}
-			}, 25);
+			}, 10);
 		}
 		leftNumber = n;
 		$("#number").click(function() {
