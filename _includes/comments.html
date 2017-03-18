@@ -1,8 +1,9 @@
 <div class="page__comments">
   {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
   {% case site.comments.provider %}
-  {% when "custom" %}
-    {% include /comments-providers/custom_html.html %}
+  {% when "discourse" %}
+    <h4 class="page__comments-title">{{ comments_label }}</h4>
+    <section id="discourse-comments"></section>
   {% when "disqus" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="disqus_thread"></section>
@@ -76,5 +77,7 @@
         <!-- End new comment form -->
       {% endif %}
     </section>
+  {% when "custom" %}
+    <section id="custom-comments"></section>
   {% endcase %}
 </div>
