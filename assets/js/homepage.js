@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	$('p[verlang="en"]').hide();
 	function helloWorld(){
 		console.log('done');
 		$("#typed").typed({
