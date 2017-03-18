@@ -2,3 +2,10 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<!-- Custom scripts for each page -->		
+{% if page.js %}		
+  {% for js in page.js %}		
+    <script src="{{ site.url }}{{ site.baseurl }}{{ js }}"></script>		
+  {% endfor %}		
+{% endif %}		
