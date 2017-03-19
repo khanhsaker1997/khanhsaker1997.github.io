@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('p[verlang="vi"]').hide();
+	$('*[verlang="vi"]').hide();
 	function helloWorld(){
 		$("#typed").typed({
 			strings: ["Hi!", "I'm a student.", "I'm a blogger.", "I'm a developer.", "I'm Viet Anh.", "Nice to meet you!"],
