@@ -3,6 +3,10 @@
   display: none;
 }
 
+#typed {
+  font-family: 'Dancing Script', cursive;
+}
+
 
 .typed-cursor {
 opacity: 1;
