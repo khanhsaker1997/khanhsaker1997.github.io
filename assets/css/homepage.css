@@ -3,9 +3,10 @@
   display: none;
 }
 
-#typed {
+h2 {
   font-family: 'Dancing Script', cursive;
   font-size: 1.6em;
+  margin-top: 0;
 }
 
 
