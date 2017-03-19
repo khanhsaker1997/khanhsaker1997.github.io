@@ -80,6 +80,7 @@
   {% when "custom" %}
     <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="custom-comments">
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       <div class="fb-comments" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-numposts="5" data-width="100%"></div>
     </section>
   {% endcase %}
