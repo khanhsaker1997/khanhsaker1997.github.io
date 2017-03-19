@@ -31,4 +31,12 @@
   </style>
 <![endif]-->
 
+<!-- Custom CSS -->
+{% if page.css %}    
+  {% for css in page.css %}   
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}{{ css }}">   
+  {% endfor %}    
+{% endif %}   
+
+
 <meta http-equiv="cleartype" content="on">
