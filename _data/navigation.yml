@@ -1,10 +1,14 @@
 # main links
 main:
-  - title: "About me"
+  - title: "about me"
     url: "/"
-  - title: "My Posts"
-    url: "/posts/"
-  - title: "My Projects"
-    url: "/projects/"
-  - title: "Contact"
+  - title: "contact"
     url: "/contact/"
+  - title: "my projects"
+    url: "/projects/"
+  - title: "my posts"
+    url: "/posts/"
+  - title: "daily sharing"
+    url: "/dailysharings/"
+  
+  
