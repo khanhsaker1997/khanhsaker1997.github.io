@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Viet Anh Nguyen"
-  avatar           : "/assets/img/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://s.gravatar.com/avatar/220fb47fcaaa41b9b06d366a44615a4e?s=80" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student / Blogger / Developer"
   location         : "Hanoi, VN"
   email            : "vietanh@vietanhdev.com"
