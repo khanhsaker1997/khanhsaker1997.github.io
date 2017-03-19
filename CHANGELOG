@@ -1,4 +1,0 @@
-- Add custom script > _includes/scripts.html
-- Add custom stylesheet > _includes/stylesheets.html
-- Change _includes/page_hero.html : use page.pagelead = true if you want to show page lead
-- Remove from _include/seo.html : <meta property="og:locale" content="{{ site.locale | replace: "-", "_" | default: "en" }}"> 
