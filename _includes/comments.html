@@ -78,6 +78,8 @@
       {% endif %}
     </section>
   {% when "custom" %}
-    <section id="custom-comments"></section>
+    <section id="custom-comments">
+      <div class="fb-comments" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-numposts="5"></div>
+    </section>
   {% endcase %}
 </div>
