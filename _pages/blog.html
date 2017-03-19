@@ -24,17 +24,19 @@ author_profile: true
   <hr/>
   <div class="tags-expo-section">
     {% for tag in site.categories %}
-    <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-      <li>
-        {{ post.title }} <br/>
-      <small class="post-date">{{ post.date | date_to_string }}</small>
-      </li>
-      </a>
-      {% endfor %}
-    </ul>
+      {% if tag[0] != "sharingthings" %}
+        <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
+        <ul class="tags-expo-posts">
+          {% for post in tag[1] %}
+            <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+            <li>
+            {{ post.title }} <br/>
+          <small class="post-date">{{ post.date | date_to_string }}</small>
+          </li>
+          </a>
+          {% endfor %}
+        </ul>
+      {% endif %}
     {% endfor %}
   </div>
 </div>
