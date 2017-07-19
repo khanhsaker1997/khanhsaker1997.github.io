@@ -1,0 +1,57 @@
+<div class="page__comments">
+	<!-- Message comments -->
+	<!-- <section>
+		<h4 class="page__comments-title"></h4>
+		<form id="comment-after-post" class="page__comments-form js-form form" method="post" action="{{ site.mail_message_url }}" _lpchecked="1">
+			<div class="form__spinner">
+				<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+				<span class="sr-only">Loading...</span>
+			</div>
+			<fieldset>
+				<label for="comment-form-message">Bạn có góp ý về bài viết của tôi hoặc muốn nói gì đó với tôi? Gửi tin nhắn ngay:</label>
+				<div class="small help-block">Send me a message about my post or wanna tell me sth?</div>
+				<textarea type="text" rows="3" id="comment-form-message" name="message" tabindex="1"></textarea>
+				<label for="comment-form-name">Tên và mail để tôi có thể liên lạc với bạn:</label>
+				<div class="small help-block">Your name and your email</div>
+				<input type="text" id="comment-form-name" name="email" tabindex="2">
+			</fieldset>
+			<fieldset>
+				<input type="submit" id="comment-form-submit" tabindex="5" class="btn btn-default" value="Send">
+			</fieldset>
+		</form>
+	</section> -->
+
+	<section>
+		<h4>Comments</h4>
+		<div class="small help-block">Lưu ý: Hệ thống comment Disqus có thể không được load thành công do bị chặn bởi nhà mạng. Để khắc phục, đổi DNS về 8.8.8.8 hoặc 8.8.4.4 .</div>
+		<div id="disqus_thread"></div>
+		<script>
+		var disqus_config = function () {
+		this.page.url = "{{ page.url | absolute_url }}";
+		this.page.identifier = "{{ page.url }}";
+		};
+		(function() { // DON'T EDIT BELOW THIS LINE
+		var d = document, s = d.createElement('script');
+		s.src = 'https://vietanhdev.disqus.com/embed.js';
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+		})();
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	</section>
+
+
+	<!-- Facebook comments -->
+	<!-- <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8&appId=1794997907410583";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<h4 class="page__comments-title">Facebook comment</h4>
+	<section>
+		<div class="fb-comments" data-href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" data-numposts="5" data-width="100%"></div>
+	</section> -->
+</div>
