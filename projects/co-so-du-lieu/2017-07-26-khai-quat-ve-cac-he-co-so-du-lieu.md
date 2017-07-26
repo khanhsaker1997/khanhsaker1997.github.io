@@ -5,7 +5,7 @@ date:   2017-07-26
 categories: [CSDL,database,]
 tags: [CSDL,DBMS]
 ---
-##I- Cơ sở dữ liệu:
+## I- Cơ sở dữ liệu:
 1. **_Cơ sở dữ liệu_** là một tập hợp các dữ liệu có liên quan với nhau, được lưu trữ trên máy tính, có nhiều người sử dụng và được tổ chức theo một mô hình. **_Dữ liệu_** là những sự kiện có thể ghi lại được và có ý nghĩa.
 2. **_Tính chât_**
 
