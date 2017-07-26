@@ -1,14 +1,15 @@
----
+﻿---
 layout: single
-title: my projects
-author_profile: true
+title:  "Nhập môn Cơ sở dữ liệu - Những kiến thức căn bản"
+date:   2017-07-26
+categories: [study]
+tags: [Cơ sở dữ liệu, căn bản, nhập môn]
+header:
+  overlay_image: "/assets/img/csdl/head.jpg"
+
 projects:
-	- title: "Cơ sở dữ liệu"
-	  description: "Khái quát về các hệ cơ sở dữ liệu, Mô hình cơ sở dữ liệu, Mô hình cơ sở dữ liệu quan hệ, Ngôn ngữ cơ sở dữ liệu..."
-	  img: "https://khanhsaker97.github.io/assets/img/csdl/head.jpg"
-	  buttons:
-	    - text: "demo"
-	    link: "https://khanhsaker97.github.io/projects/co-so-du-lieu"
+	- title: "Khái quát về các hệ cơ sở dữ liệu"
+	  description: "Những khái niệm cơ bản nhất về hệ các hệ cơ sở dư liệu"
 ---
 
 <style media="screen">
