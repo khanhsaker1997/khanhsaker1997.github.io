@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title:  "Nhập môn Cơ sở dữ liệu - Những kiến thức căn bản"
 date:   2017-07-26
