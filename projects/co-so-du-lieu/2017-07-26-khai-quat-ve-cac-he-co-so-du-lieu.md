@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title:  "Chương I- CÁC KHÁI NIỆM CƠ BẢN VỀ HỆ CƠ SỞ DỮ LIỆU"
 date:   2017-07-26
