@@ -131,7 +131,6 @@ Oh ! Em nỡ quên tôi sao Mắt Biếc ơi !
 
 Thời gian chẳng níu tay em – [ hãy cứ để ] tình ta mãi miết trôi
 
-###
 
 - 12/07/2016
 

@@ -6,8 +6,8 @@ categories: [dailysharing]
 tags: [sống]
 lang: vi
 header:
-  overlay_image: "https://vietanhdev.com/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
-og_image: "https://vietanhdev.com/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+  overlay_image: "https://khanhsaker97.github.io/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+og_image: "https://khanhsaker97.github.io/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
 ---
 
 > **Link bài viết:** [https://www.facebook.com/thanh.akita/posts/10208865590339573?pnref=story](https://www.facebook.com/thanh.akita/posts/10208865590339573?pnref=story)
