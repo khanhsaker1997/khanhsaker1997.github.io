@@ -10,3 +10,5 @@ header:
 
 ### Chương I: [Các khái niệm cơ bản về hệ cơ sở dữ liệu](https://khanhsaker97.github.io/projects/co-so-du-lieu/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu)
 
+### Chương II: [Mô hình thực thể - liên kết ER](https://khanhsaker97.github.io/projects/co-so-du-lieu/2017-07-27-mo-hinh-thuc-the-lien-ket)
+
