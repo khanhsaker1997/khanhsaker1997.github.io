@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Share: Mắt Biếc - TeA ft. PCGL (Bài nhạc được chuyển thể từ truyện dài của T.G Nguyễn Nhật Ánh)"
-date:   2017-03-19
+date:   2017-07-27
 categories: [dailysharing]
 tags: [music]
 lang: vi
