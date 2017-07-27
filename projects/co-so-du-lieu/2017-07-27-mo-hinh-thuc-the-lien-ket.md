@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title:  "Chương II- MÔ HÌNH THỰC THỂ - LIÊN KẾT (ER)"
 date:   2017-07-27
