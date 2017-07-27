@@ -10,9 +10,9 @@ tags: [CSDL,DBMS]
 1. **_Cơ sở dữ liệu_** là một tập hợp các dữ liệu có liên quan với nhau, được lưu trữ trên máy tính, có nhiều người sử dụng và được tổ chức theo một mô hình. **_Dữ liệu_** là những sự kiện có thể ghi lại được và có ý nghĩa.
 2. **_Tính chât_**
  * **Một cơ sở dữ Liệu:**
-  * Biểu thị một khía cạnh nào đó của thế giới thực như hoạt động của một công ty, một nhà trường, một ngân hàng... Những thay đổi của thế giới thực phải được phản ánh một cách trung thực vào trong cơ sở dữ liệu. Những thông tin được đưa vào trong cơ sở dữ liệu tạo tahnhf một không gian cơ sở dữ liệu hoặc là một "thế giới nhỏ".
-  * Là một tập hợp liên kết với nhau một cách logic và mang một ý nghĩa cổ hữu nào đó. Một cơ sở dữ liệu không phải là một tập hộp tùy tiện.
-  * có thể có cỡ tùy ý và có độ phức tạp thay đổi.
+   * Biểu thị một khía cạnh nào đó của thế giới thực như hoạt động của một công ty, một nhà trường, một ngân hàng... Những thay đổi của thế giới thực phải được phản ánh một cách trung thực vào trong cơ sở dữ liệu. Những thông tin được đưa vào trong cơ sở dữ liệu tạo tahnhf một không gian cơ sở dữ liệu hoặc là một "thế giới nhỏ".
+   * Là một tập hợp liên kết với nhau một cách logic và mang một ý nghĩa cổ hữu nào đó. Một cơ sở dữ liệu không phải là một tập hộp tùy tiện.
+   * có thể có cỡ tùy ý và có độ phức tạp thay đổi.
 	  
 ## II- Hệ quản trị cơ sở dữ liệu
 
@@ -37,7 +37,7 @@ tags: [CSDL,DBMS]
  * Mô hình phân cấp
  * Mô hình mạng
  * Mô hình quan hệ
- * Mô hình thực thể - liên kết*
+ * Mô hình thực thể - liên kết
  * Mô hình hướng đối tượng
 2. Con người trong hệ cơ sở dữ liệu:
  * **Người quản trị CSDL (Database Administrator - DBA)**: là người chịu trách nhiệm quản lý tài nguyên đó. Người này chịu trách nhiệm về việc cho phép truy cập cơ sở dữ liệu, tổ chức và hướng dẫn việc sử dụng, cấp các phần mềm và phần cứng theo yêu cầu.
@@ -46,7 +46,7 @@ tags: [CSDL,DBMS]
  * **Người phân tích hệ thống và lập trình ứng dụng**: người này xác định các yêu cầu của người sử dụng để đặc tả chương trình phù hợp với yêu cầu của họ.
  * **Người thiết kế và cài đặt hệ quản trị dữ liệu**: là người thiết kế, cài đặt các mô đun, giao diện cảu hệ quản trị CSDL thành các phần  mềm đóng gói.
  * **Người phát triển công cụ**: là những người thiết kế và cài đặt các công cụ, đó là phần mềm đóng gói dễ làm việc và thiết kế sử dụng.
- * **Các thao tác viên và những người bảo trì: là những người chịu trách nhiệm về việc chạy và bảo trì phần cứng và phần mềm của hệ thống.
+ * **Các thao tác viên và những người bảo trì**: là những người chịu trách nhiệm về việc chạy và bảo trì phần cứng và phần mềm của hệ thống.
 
 ## Tổng kết: các kiến thức cần nắm được qua chương này
 
