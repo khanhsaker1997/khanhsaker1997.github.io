@@ -8,5 +8,5 @@ header:
   overlay_image: "/assets/img/csdl/head.jpg"
 ---
 
-### [Chương I: Các khái niệm cơ bản về hệ cơ sở dữ liệu](https://khanhsaker97.github.io/projects/co-so-du-lieu/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu.md/)
+### [Chương I: Các khái niệm cơ bản về hệ cơ sở dữ liệu](https://khanhsaker97.github.io/projects/co-so-du-lieu/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu)
 
