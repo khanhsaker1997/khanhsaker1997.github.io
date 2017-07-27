@@ -49,4 +49,4 @@ tags: [CSDL,DBMS]
     3. Các chức năng của một hệ quản trị CSDL.
     4. Định nghĩa mô hình cơ sở dữ liệu và phân loại.
     5. Liệu kê các người có liên quan đến hệ cơ sở dữ liệu.
->Nguồn: Giáo trình CSDL ~ Nguyễn Tuệ
+> Nguồn: Giáo trình CSDL ~ Nguyễn Tuệ
