@@ -5,14 +5,14 @@ date:   2017-07-26
 categories: [CSDL,database,]
 tags: [CSDL,DBMS]
 ---
-## I- Cơ sở dữ liệu:
+## I- Cơ sở dữ liệu
     1. **_Cơ sở dữ liệu_** là một tập hợp các dữ liệu có liên quan với nhau, được lưu trữ trên máy tính, có nhiều người sử dụng và được tổ chức theo một mô hình. **_Dữ liệu_** là những sự kiện có thể ghi lại được và có ý nghĩa.
     2. **_Tính chât_**
      * **Một cơ sở dữ Liệu:**
 	  * Biểu thị một khía cạnh nào đó của thế giới thực như hoạt động của một công ty, một nhà trường, một ngân hàng... Những thay đổi của thế giới thực phải được phản ánh một cách trung thực vào trong cơ sở dữ liệu. Những thông tin được đưa vào trong cơ sở dữ liệu tạo tahnhf một không gian cơ sở dữ liệu hoặc là một "thế giới nhỏ".
 	  * Là một tập hợp liên kết với nhau một cách logic và mang một ý nghĩa cổ hữu nào đó. Một cơ sở dữ liệu không phải là một tập hộp tùy tiện.
 	  * có thể có cỡ tùy ý và có độ phức tạp thay đổi.
-## II- Hệ quản trị cơ sở dữ liệu:
+## II- Hệ quản trị cơ sở dữ liệu
     1. **_Hệ quản trị cơ sở dữ liệu_** là một tập hợp chương tình giúp cho người sử dụng tạo ra, duy trì và khai thác một cơ sở dữ liệu. Nó là một hệ thống phần mềm phổ dụng, làm dễ quá trình định nghĩa, xây dựng và thao tác cơ sở dữ liệu cho các ứng dụng khác nhau.
 
      * _Xây dựng_ một cơ sở dữ liệu là quá trình lưu trữ các dữ liệu trên các phương tiện lưu trữ được hệ quản trị cơ sở dữ liệu kiểm soát.
@@ -26,7 +26,7 @@ tags: [CSDL,DBMS]
 	 * Cũng cấp các thủ tục sao lưu và phục hồi dữ liệu để đảm bảo sự an toàn và toàn vẹn dữ liệu.
 	 * Xúc tiến và áp đặt các quy tắc an toàn để loại bỏ vấn đề toàn vẹn dữ liệu.
 	 * Cung cấp việc truy vấn dữ liệu thông qua một ngôn ngữ truy vấn.
-## III- Mô hình cơ sở dữ liệu:
+## III- Mô hình cơ sở dữ liệu
 **Mô hình cơ sở dữ liệu** là một tập hộp các khái niệm dùng để biểu diễn các cấu trúc của cơ sở dữ liệu. Cấu trúc cẩu một CSDL là các kiểu dữ liệu và các mối liên kết và các ràng buộc phải tuân theo trên các dữ liệu.
     1. Các loại mô hình cơ sở dữ liệu:
 	 * Mô hình phân cấp
@@ -43,7 +43,7 @@ tags: [CSDL,DBMS]
 	 * **Người phát triển công cụ**: là những người thiết kế và cài đặt các công cụ, đó là phần mềm đóng gói dễ làm việc và thiết kế sử dụng.
 	 * **Các thao tác viên và những người bảo trì: là những người chịu trách nhiệm về việc chạy và bảo trì phần cứng và phần mềm của hệ thống.
 
-## Tổng kết: các kiến thức cần nắm được qua chương này:
+## Tổng kết: các kiến thức cần nắm được qua chương này
     1. Định nghĩa các thuật ngữ: cơ sở dữ liệu, hệ quản trị CSDL, hệ CSDL, từ điển CSDL, mô hình CSDL.
     2. Các tính chất của một CSDL.
     3. Các chức năng của một hệ quản trị CSDL.
