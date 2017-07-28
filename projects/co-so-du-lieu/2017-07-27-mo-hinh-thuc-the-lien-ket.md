@@ -31,7 +31,7 @@ tags: [CSDL,Liên kết]
 
 2. **Kiểu thực thể, tập thực thể, khóa và tập giá trị**
 
-<p>Các kiểu thực thể và các tập thực thể: Một cơ sở dữ liệu thường chứa những nhóm thực thể như nhau. Ví dụ, một công ty thuê hàng trăm nhân viên và lưu giữ những thông tin tương tự liên quan đến mỗi nhân viên. Các thực thể nhân viên này chia sẻ các thuộc tính giống nhau nhưng mỗi thực thể có các giá trị riêng cho các thuộc tính đó. Một kiểu thực thể là một tập hợp các thực thể có các thuộc tính như nhau. Một kiểu thực thể trong cơ sở dữ liệu được mô tả bằng tên và các thuộc tính. Vídụ: NHÂNVIÊN (Họtên, Tuổi, Lương), CÔNGTY (Tên, Địađiểm, Giámđốc). Một tập hợp các thực thể của một kiểu thực thể cụ thể trong cơ sở dữ liệu tại một thời điểm được gọi là một tập thực thể, nó thường được tham chiếu đến bằng cách sử dụng tên của kiểu thực thể. Ví dụ, NHÂNVIÊN vừa dùng để chỉ một kiểu thực thể, vừa để chỉ tập hợp hiện tại của tất cả các thực thể nhân viên trong cơ sở dữ liệu. Hình dưới đây minh họa các kiểu thực thể NHÂNVIÊN, CÔNGTY và các tập thực thể tương ứng.</p>
+ * Các kiểu thực thể và các tập thực thể: Một cơ sở dữ liệu thường chứa những nhóm thực thể như nhau. Ví dụ, một công ty thuê hàng trăm nhân viên và lưu giữ những thông tin tương tự liên quan đến mỗi nhân viên. Các thực thể nhân viên này chia sẻ các thuộc tính giống nhau nhưng mỗi thực thể có các giá trị riêng cho các thuộc tính đó. Một kiểu thực thể là một tập hợp các thực thể có các thuộc tính như nhau. Một kiểu thực thể trong cơ sở dữ liệu được mô tả bằng tên và các thuộc tính. Vídụ: NHÂNVIÊN (Họtên, Tuổi, Lương), CÔNGTY (Tên, Địađiểm, Giámđốc). Một tập hợp các thực thể của một kiểu thực thể cụ thể trong cơ sở dữ liệu tại một thời điểm được gọi là một tập thực thể, nó thường được tham chiếu đến bằng cách sử dụng tên của kiểu thực thể. Ví dụ, NHÂNVIÊN vừa dùng để chỉ một kiểu thực thể, vừa để chỉ tập hợp hiện tại của tất cả các thực thể nhân viên trong cơ sở dữ liệu. Hình dưới đây minh họa các kiểu thực thể NHÂNVIÊN, CÔNGTY và các tập thực thể tương ứng.
 
 ![Hình 2](\assets\img\csdl\kieuThucThe.PNG)
 
@@ -57,11 +57,11 @@ tags: [CSDL,Liên kết]
 
 5. **Các ràng buộc trên các kiểu liên kết**
 
-<p>Các kiểu liên kết thường có một số ràng buộc để hạn chế số các tổ hợp có thể của các thực thể có thể tham gia trong tập hợp liên kết tương ứng. Các ràng buộc này được xác định từ tình trạng của thế giới thực mà kiểu liên kết biểu diễn. Ví dụ, nếu công ty có quy chế là một nhân viên chỉ làm việc cho một đơn vị thì chúng ta phải mô tả ràng buộc này trong lược đồ. Có hai loại ràng buộc chính: tỷ số lực lượng và sự tham gia.</p>
+ * Các kiểu liên kết thường có một số ràng buộc để hạn chế số các tổ hợp có thể của các thực thể có thể tham gia trong tập hợp liên kết tương ứng. Các ràng buộc này được xác định từ tình trạng của thế giới thực mà kiểu liên kết biểu diễn. Ví dụ, nếu công ty có quy chế là một nhân viên chỉ làm việc cho một đơn vị thì chúng ta phải mô tả ràng buộc này trong lược đồ. Có hai loại ràng buộc chính: tỷ số lực lượng và sự tham gia.
 
 6. **Thuộc tính của các kiểu liên kết**
 
-<p>Các kiểu liên kết cũng có thể có các thuộc tính, giống như các thuộc tính của các kiểu thực thể. Ví dụ, kiểu liên kết _làm việc trên_ giữa các kiểu thực thể NHÂNVIÊN và DỰÁN có thể có thuộc tính Sốgiờ để ghi lại số giờ làm việc của một nhân viên trên một dự án. Các thuộc tính của kiểu liên kết cũng được biểu diễn bằng một hình ô van và được nối với kiểu liên kết. Ví dụ:</p>
+ * Các kiểu liên kết cũng có thể có các thuộc tính, giống như các thuộc tính của các kiểu thực thể. Ví dụ, kiểu liên kết _làm việc trên_ giữa các kiểu thực thể NHÂNVIÊN và DỰÁN có thể có thuộc tính Sốgiờ để ghi lại số giờ làm việc của một nhân viên trên một dự án. Các thuộc tính của kiểu liên kết cũng được biểu diễn bằng một hình ô van và được nối với kiểu liên kết. Ví dụ:
 
 ![Hình 5](\assets\img\csdl\thuocTinhOfKieuLienKet.PNG)
 
