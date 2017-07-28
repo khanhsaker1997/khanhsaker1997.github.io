@@ -32,6 +32,7 @@ tags: [CSDL,Liên kết]
 2. **Kiểu thực thể, tập thực thể, khóa và tập giá trị**
 
 <p>Các kiểu thực thể và các tập thực thể: Một cơ sở dữ liệu thường chứa những nhóm thực thể như nhau. Ví dụ, một công ty thuê hàng trăm nhân viên và lưu giữ những thông tin tương tự liên quan đến mỗi nhân viên. Các thực thể nhân viên này chia sẻ các thuộc tính giống nhau nhưng mỗi thực thể có các giá trị riêng cho các thuộc tính đó. Một kiểu thực thể là một tập hợp các thực thể có các thuộc tính như nhau. Một kiểu thực thể trong cơ sở dữ liệu được mô tả bằng tên và các thuộc tính. Vídụ: NHÂNVIÊN (Họtên, Tuổi, Lương), CÔNGTY (Tên, Địađiểm, Giámđốc). Một tập hợp các thực thể của một kiểu thực thể cụ thể trong cơ sở dữ liệu tại một thời điểm được gọi là một tập thực thể, nó thường được tham chiếu đến bằng cách sử dụng tên của kiểu thực thể. Ví dụ, NHÂNVIÊN vừa dùng để chỉ một kiểu thực thể, vừa để chỉ tập hợp hiện tại của tất cả các thực thể nhân viên trong cơ sở dữ liệu. Hình dưới đây minh họa các kiểu thực thể NHÂNVIÊN, CÔNGTY và các tập thực thể tương ứng.</p>
+
 ![Hình 2](\assets\img\csdl\kieuThucThe.PNG)
 
 * Một kiểu thực thể được biểu diễn trong lược đồ ER như là một hình hôp chữ nhật có chứa tên kiểu thực thể. Các thuộc tính được đặt trong các hình ô van và được nối với các kiểu thực thể bằng các đường thẳng. Các thuộc tính phức hợp cũng được nối với các thuộc tính thành phần của nó bằng đường thẳng. Các thuộc tính đa trị được hiển thị trong các hình ô van đúp.
