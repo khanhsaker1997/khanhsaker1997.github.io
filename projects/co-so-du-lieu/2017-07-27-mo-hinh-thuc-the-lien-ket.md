@@ -6,7 +6,7 @@ categories: [CSDL,database,]
 tags: [CSDL,Liên kết]
 ---
 
-##### Đây là mô hình dữ liệu mức quan niệm phổ biến, tập trung vào các cấu trúc dữ liệu và các ràng buộc. Mô hình này thường được sử dụng để thiết kế các ứng dụng cơ sở dữ liệu và nhiều công cụ thiết kế cơ sở dữ liệu sử dụng các khái niệm của nó.
+<p>Đây là mô hình dữ liệu mức quan niệm phổ biến, tập trung vào các cấu trúc dữ liệu và các ràng buộc. Mô hình này thường được sử dụng để thiết kế các ứng dụng cơ sở dữ liệu và nhiều công cụ thiết kế cơ sở dữ liệu sử dụng các khái niệm của nó. </p>
 
 
 ## I- Sử dụng mô hình quan niệm bậc cao cho việc thiết kế CSDL.

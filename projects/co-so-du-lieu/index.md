@@ -12,3 +12,5 @@ header:
 
 ### Chương II: [Mô hình thực thể - liên kết ER](/projects/co-so-du-lieu/2017-07-27-mo-hinh-thuc-the-lien-ket)
 
+### Chương II: [Chương III- Mô hình quan hệ, các ràng buộc quan hệ và đại số quan hệ](/projects/co-so-du-lieu/2017-07-28-mo-hinh-quan-he)
+
