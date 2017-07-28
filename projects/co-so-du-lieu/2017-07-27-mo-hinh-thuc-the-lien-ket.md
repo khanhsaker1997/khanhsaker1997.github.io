@@ -13,10 +13,10 @@ tags: [CSDL,Liên kết]
 
 **Quá trình thiết kế một CSDL sử dụng mô hình quan niệm bậc cao được mô tả bằng hình dưới đây:**
 ![Hình 1](\assets\img\csdl\DLBacCao.PNG)
-* Bước đầu tiên là _tập hợp các yêu cầu và phân tích_. Người thiết kế CSDL phỏng vấn người sử dụng CSDL để hiểu và làm tài liệu về các yêu cầu về dữ liệu của họ. Kết quả của bước này là một tập hợp ghi chép súc tích về các yêu cầu của những người sử dụng.
-* Mỗi khi tất cả các yêu cầu đã được thu thập và phân tích, người tạo ra lược đồ quan niệm cho CSDL bằng cách sử dụng mô hình dữ liệu quan niệm mức cao. Bước này gọi là _thiết kế quan niệm_.
-* Tiếp theo là việc cài đặt một CSDL bằng cách sử dụng một hệ quản trị CSDL có sẵn. Bước này gọi là _thiết kế logic_ hoặc là _ánh xạ mô hình dữ liệu_. Kết quả của bước này là một lược đồ cơ sở dữ liệu dưới dạng một mô hình dữ liệu cài đặt của hệ quản trị CSDL.
-* Cuối cùng là bước _thiết kết vật lý_. Trong bước này ta phải chỉ ra các cấu trúc bên trong, các đường dẫn truy cập, tổ chức cho các tệp CSDL.
+ * Bước đầu tiên là _tập hợp các yêu cầu và phân tích_. Người thiết kế CSDL phỏng vấn người sử dụng CSDL để hiểu và làm tài liệu về các yêu cầu về dữ liệu của họ. Kết quả của bước này là một tập hợp ghi chép súc tích về các yêu cầu của những người sử dụng.
+ * Mỗi khi tất cả các yêu cầu đã được thu thập và phân tích, người tạo ra lược đồ quan niệm cho CSDL bằng cách sử dụng mô hình dữ liệu quan niệm mức cao. Bước này gọi là _thiết kế quan niệm_.
+ * Tiếp theo là việc cài đặt một CSDL bằng cách sử dụng một hệ quản trị CSDL có sẵn. Bước này gọi là _thiết kế logic_ hoặc là _ánh xạ mô hình dữ liệu_. Kết quả của bước này là một lược đồ cơ sở dữ liệu dưới dạng một mô hình dữ liệu cài đặt của hệ quản trị CSDL.
+ * Cuối cùng là bước _thiết kết vật lý_. Trong bước này ta phải chỉ ra các cấu trúc bên trong, các đường dẫn truy cập, tổ chức cho các tệp CSDL.
 
 ## II- Các thành phần cơ bản của mô hình ER
 
