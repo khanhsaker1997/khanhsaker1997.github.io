@@ -39,7 +39,7 @@ tags: [CSDL,Liên kết]
  * _Thuộc tính khóa của một kiểu thực thể_: Một ràng buộc quan trọng trên các thực thể của một kiểu thực thể là _khóa_. Một kiểu thực thể thường có một thuộc tính mà các giá trị của nó là khác nhau đối với mỗi thực thể tiêng biệt trong một tập thực thể. Thuộc tính như vậy gọi là _thuộc tính khóa_ và các giá trị của nó có thể dung để xác định từng thực thể một cách duy nhất. Ví dụ, thuộc tính Tên của kiểu thực thể CÔNGTY là khóa của kiểu thực thể đó vì mỗi thực thể công ty có một tên duy nhất. Đôi khi, nhiều thuộc tính kết hợp với nhau tạo thành một khóa, nghĩa là tổ hợp các giá trị của các thuộc tính này phải khác nhau đối với mỗi thực thể. Trong trường hợp như vậy ta có một thuộc tính _khóa phức hợp_. Chú ý rằng khóa phức hợp phải tối thiểu, nghĩa là tất cả các thuộc tính thành phần phải có mặt trong thuộc tính phức hợp để thỏa mãn tính chất duy nhất. 
  * _Miền giá trị của các thuộc tính_: Mỗi thuộc tính đơn của một kiểu thực thể được kết hợp với một miền giá trị. Đó là một tập các giá trị có thể gán cho thuộc tính này đối với mỗi thực thể riêng biệt. Các miền giá trị không hiển thị trong các sơ đồ ER.
  * Một cách toán học, một thuộc tính A của kiểu thực thể E có tập giá trị V có thể được định nghĩa như là một hàm từ E vào tập hợp lực lượng P(V) của V: A: E → P(V)
-							
+
 <p>Ta ký hiệu giá trị của thuộc tính A đối với thực thể e là A(e). Định nghĩa ở trên đúng cho các thuộc tính đơn trị, đa trị và thuộc tính không xác định. Một giá trị không xác định được biểu diễn bằng một tập rỗng. Với các thuộc tính đơn trị, A(e) là một giá trị đơn cho thực thể e. Các thuộc tính đa trị không có các hạn chế trên A(e). Với một thuộc tính phức hợp A, tập giá trị V là tích Đề các của P(V1)x P(V2)x….xP(Vn), trong đó V1, V2, …, Vn là tập các giá trị cho các thành phần đơn của A.</p>
 
 3. **Kiểu liên kết, tập liên kết và các thể hiện**
@@ -61,7 +61,7 @@ tags: [CSDL,Liên kết]
 
 6. **Thuộc tính của các kiểu liên kết**
 
-<p>Các kiểu liên kết cũng có thể có các thuộc tính, giống như các thuộc tính của các kiểu thực thể. Ví dụ, kiểu liên kết <làm việc trên> giữa các kiểu thực thể NHÂNVIÊN và DỰÁN có thể có thuộc tính Sốgiờ để ghi lại số giờ làm việc của một nhân viên trên một dự án. Các thuộc tính của kiểu liên kết cũng được biểu diễn bằng một hình ô van và được nối với kiểu liên kết. Ví dụ</p>
+<p>Các kiểu liên kết cũng có thể có các thuộc tính, giống như các thuộc tính của các kiểu thực thể. Ví dụ, kiểu liên kết _làm việc trên_ giữa các kiểu thực thể NHÂNVIÊN và DỰÁN có thể có thuộc tính Sốgiờ để ghi lại số giờ làm việc của một nhân viên trên một dự án. Các thuộc tính của kiểu liên kết cũng được biểu diễn bằng một hình ô van và được nối với kiểu liên kết. Ví dụ:</p>
 
 ![Hình 5](\assets\img\csdl\thuocTinhOfKieuLienKet.PNG)
 
