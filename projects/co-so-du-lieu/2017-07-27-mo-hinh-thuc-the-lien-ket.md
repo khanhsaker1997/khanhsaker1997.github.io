@@ -69,7 +69,7 @@ của A.</p>
 
 6. **Thuộc tính của các kiểu liên kết**
 
-<p>Các kiểu liên kết cũng có thể có các thuộc tính, giống như các thuộc tính của các kiểu thực thể. Ví dụ, kiểu liên kết <làm việc trên> giữa các kiểu thực thể NHÂNVIÊN và DỰÁN có thể có thuộc tính Sốgiờ để ghi lại số giờ làm việc của một nhân viên trên một dự án. Các thuộc tính của kiểu liên kết cũng được biểu diễn bằng một hình ô van và được nối với kiểu liên kết. Ví dụ:</p>
+<p>Các kiểu liên kết cũng có thể có các thuộc tính, giống như các thuộc tính của các kiểu thực thể. Ví dụ, kiểu liên kết <làm việc trên> giữa các kiểu thực thể NHÂNVIÊN và DỰÁN có thể có thuộc tính Sốgiờ để ghi lại số giờ làm việc của một nhân viên trên một dự án. Các thuộc tính của kiểu liên kết cũng được biểu diễn bằng một hình ô van và được nối với kiểu liên kết. Ví dụ: </p>
 
 ![Hình 5](\assets\img\csdl\thuocTinhOfKieuLienKet.PNG)
 
