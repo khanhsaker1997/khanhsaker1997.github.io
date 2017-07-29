@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title:  "Chương III- PHỤ THUỘC HÀM VÀ CHUẨN HÓA CƠ SỞ DỮ LIỆU QUAN HỆ, CÁC THUẬT TOÁN THIẾT KẾ CƠ SỞ DỮ LIỆU QUAN HỆ"
 date:   2017-07-29
@@ -24,4 +24,7 @@ tags: [CSDL,Phụ thuộc hàm,thiết kế, chuẩn hóa]
 2. _Các quy tắc suy diễn đối với các phụ thuộc hàm_
 * Có 6 quy tắc suy diễn đối với các phụ thuộc hàm:
 ![Hình 1](\assets\img\csdl\sauQuyTac.png)
+<<<<<<< HEAD
 * Amstrong đã chứng minh rằng các quy tắc suy diễn từ QT1 đến QT3 là đúng và đầy đủ. Đúng có nghĩa là cho trước một tập các phụ thuộc hàm F trên một lược đồ quan hệ R , bất kỳ một phụ thuộc hàm nào suy diễn được bằng cách áp dụng các quy tắc từ QT1 đến QT3 cũng đúng trong mỗi trạng thái quan hệ r của R thoả mãn các phụ thuộc hàm trong F. Đầy đủ có nghĩa là việc sử dụng các quy tắc từ QT1 đến QT3 lặp lại nhiều lần để suy diễn các phụ thuộc hàm cho đến khi không còn suy diễn được nữa sẽ cho kết quả là một tập hợp đầy đủ các phụ thuộc hàm có thể được suy diễn từ F. Nói cách khác, tập hợp các phụ thuộc hàm F+ (bao đóng của F) có thể xác định được từ F bằng cách áp dụng các quy tắc suy diễn từ QT1 đến QT3. Các quy tắc từ QT1 đến QT3 được gọi là các _quy tắc suy diễn_ Amstrong.
+=======
+>>>>>>> e35303cd4846d7452fa4cdf1125c45b7991ba378
