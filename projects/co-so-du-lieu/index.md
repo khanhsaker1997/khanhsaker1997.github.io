@@ -12,5 +12,6 @@ header:
 
 ### Chương II: [Mô hình thực thể - liên kết ER](/projects/co-so-du-lieu/2017-07-27-mo-hinh-thuc-the-lien-ket)
 
-### Chương II: [Chương III- Mô hình quan hệ, các ràng buộc quan hệ và đại số quan hệ](/projects/co-so-du-lieu/2017-07-28-mo-hinh-quan-he)
+### Chương III: [Chương III- Mô hình quan hệ, các ràng buộc quan hệ và đại số quan hệ](/projects/co-so-du-lieu/2017-07-28-mo-hinh-quan-he)
 
+### Chương IV: [Chương IV- Phụ thuộc hàm và chuẩn hóa cơ sở dữ liệu quan hệ, các thuật toán thiết kế cơ sở dữ liệu quan hệ](/projects/co-so-du-lieu/29-07-2017-phu-thuoc-ham)
