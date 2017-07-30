@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/projects/co-so-du-lieu/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/co-so-du-lieu/2017-07-27-mo-hinh-thuc-the-lien-ket/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/co-so-du-lieu/2017-07-28-mo-hinh-quan-he/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/co-so-du-lieu/29-07-2017-phu-thuoc-ham/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/about-me/</loc>
 </url>
 <url>
@@ -25,6 +37,9 @@
 <loc>http://localhost:4000/projects/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/projects/co-so-du-lieu/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/music/</loc>
 </url>
 <url>
@@ -38,6 +53,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/googledcefecab7f26db2d.html</loc>
-<lastmod>2017-07-16T21:12:59+07:00</lastmod>
+<lastmod>2017-07-30T21:18:00+07:00</lastmod>
 </url>
 </urlset>

@@ -6,7 +6,7 @@ $contactForm.submit(function(e) {
 	var defaultSubmitText = $submit.val();
 
 	$.ajax({
-		url: 'https://mail-gate-by-va.herokuapp.com/cfp',
+		url: 'https://khanhsaker1997@gmail',
 		method: 'POST',
 		data: $(this).serialize() + '&url=' + encodeURIComponent(window.location),
 		dataType: 'json',
