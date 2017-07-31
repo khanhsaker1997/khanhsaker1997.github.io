@@ -6,5 +6,27 @@
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
+      <item>
+        <title>Share: Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng! - Facebook Trịnh Thành</title>
+        <description>
+          
+          Link bài viết: https://www.facebook.com/thanh.akita/posts/10208865590339573?pnref=story Bài viết này được chia sẻ trên Facebook Trịnh Thành. Đôi khi việc so đo cuộc sống của bạn với cuộc sống của những người xung quanh sẽ làm bạn quên mất cuộc sống này là của riêng bạn. “Đừng để tâm thái quá bạn đang...
+        </description>
+        <pubDate>Sun, 30 Jul 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/dailysharing/ban-dang-di-dung-huong/</link>
+        <guid isPermaLink="true">http://localhost:4000/dailysharing/ban-dang-di-dung-huong/</guid>
+      </item>
+    
+      <item>
+        <title>Share: Mắt Biếc - TeA ft. PCGL (Bài nhạc được chuyển thể từ truyện dài của T.G Nguyễn Nhật Ánh)</title>
+        <description>
+          
+          Lyrics: Đọc 1 ( TeA ) : Thời giờ đã cuốn bay đi những ngày tuổi trẻ còn xanh ngời Một màu phượng vĩ mới nở hôm qua…mà đã cháy đỏ tim anh rồi Đã lâu ta ko về trường vắng Em còn tinh khôi nhành phượng thắm Mắt biếc...
+        </description>
+        <pubDate>Tue, 18 Jul 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/dailysharing/music-mat-biec/</link>
+        <guid isPermaLink="true">http://localhost:4000/dailysharing/music-mat-biec/</guid>
+      </item>
+    
   </channel>
 </rss>
