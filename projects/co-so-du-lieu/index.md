@@ -15,3 +15,5 @@ header:
 ### Chương III: [Chương III- Mô hình quan hệ, các ràng buộc quan hệ và đại số quan hệ](/projects/co-so-du-lieu/2017-07-28-mo-hinh-quan-he)
 
 ### Chương IV: [Chương IV- Phụ thuộc hàm và chuẩn hóa cơ sở dữ liệu quan hệ, các thuật toán thiết kế cơ sở dữ liệu quan hệ](/projects/co-so-du-lieu/29-07-2017-phu-thuoc-ham)
+
+### Chương V: [Chương V- Các thuật toán cơ bản trong cơ sở dữ liệu](/projects/co-so-du-lieu/2017-08-01-cac-thuat-toan)
