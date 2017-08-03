@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title:  "Hướng dẫn cài song song 2 hệ điều hành Windows 10 và Kali Linux"
 date:   2017-07-30
