@@ -13,7 +13,7 @@ og_image: "/assets/img/OperatingSystem/backgroundusb.jpg"
 
 #### Các bạn cần chuẩn bị cho mình phần mềm **Rufus**. Phần mềm này rất nhẹ nha. Các bạn có thể [tải về tại đây](http://rufus.akeo.ie/)
 
-![Hình 1](/assets/img/OperatingSystem/rufus.png)
+![Hình 1](/assets/img/OperatingSystem/rufus.jpg)
 
 * B1: Bạn chọn đường dẫn đến file _ISO_ của Kali Linux.
 * B2: Chọn USB mà bạn muốn tạo.
