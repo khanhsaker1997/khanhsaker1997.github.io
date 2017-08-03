@@ -11,11 +11,11 @@ og_image: "/assets/img/OperatingSystem/linux-vs-windows.jpg"
 ---
 ##### _Windows_ và _Linux_ và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dùng máy ảo, nhưng để trải nghiệm thật nhất, sau đây tôi sẽ hướng dẫn các bạn cài song song 2 hệ điều hành này.
 
-#### Với hướng dẫn này, t đang dùng Windows 10 và giờ  tôi sẽ cài thêm Kali Linux 2017 vào để dùng song song.
+#### Với hướng dẫn này, tôi đang dùng Windows 10 và giờ  tôi sẽ cài thêm Kali Linux 2017 vào để dùng song song.
 
 **Các bạn cần chuẩn bị:**
 1. Phân vùng ổ cứng tầm 15gb trên Windows (đưa phân vùng đó về chế độ Unallocated).
-2. Một USB Boot Kali Linux theo chuẩn giống hệ điều hành Windows mà bạn đang sử dụng.
+2. Một USB Boot Kali Linux theo chuẩn giống hệ điều hành Windows mà bạn đang sử dụng. Bạn có thể dùng phần mềm _Rufus_ và [xem hướng dẫn ở đây]()
 3. Kết nối Wifi hoặc mạng Ethernet.
 4. Máy tính và những ngón tay của b (Tất nhiên rồi hehe).
 
