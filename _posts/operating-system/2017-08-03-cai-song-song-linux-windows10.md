@@ -22,38 +22,63 @@ og_image: "/assets/img/OperatingSystem/linux-vs-windows.jpg"
 ### Ô cê rồi, sau khi chuẩn bị xong các bạn hãy làm theo các bước sau đây.
 
 * Bước 1: Cắm usb vào máy và khởi động boot vào usb. Máy tính sẽ hiện ảnh như thế này:
-![Hình 1]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali.png)
+
+![Hình 1](/assets/img/OperatingSystem/kali.png)
+
 Các bạn chọn **Graphical install**.
 * Bước 2: Chọn ngôn ngữ.
-![Hình 2]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali2.png)
+
+![Hình 2](/assets/img/OperatingSystem/kali2.png)
+
 Chọn quốc gia.
-![Hình 3]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali3.png)
+
+![Hình 3](/assets/img/OperatingSystem/kali3.png)
+
 Chọn bàn phím.
-![Hình 4]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali4.png)
+
+![Hình 4](/assets/img/OperatingSystem/kali4.png)
+
 * Bước 3: Cài đặt cấu hình:
 Điền Tên Host cho Kali Linux.
-![Hình 5]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali5.jpg)
+
+![Hình 5](/assets/img/OperatingSystem/kali5.jpg)
+
 Phần domain bỏ trống cũng được. Sau đó bạn điền pass cho tài khoản root.
-![Hình 6]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali6.jpg)
+
+![Hình 6](/assets/img/OperatingSystem/kali6.jpg)
+
 Chọn tiếp múi giờ.
-![Hình 7]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali7.jpg)
+
+![Hình 7](/assets/img/OperatingSystem/kali7.jpg)
+
 * Bước 4: Lựa chọn phân vùng cài đặt.
-![Hình 8]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali8.jpg)
+
+![Hình 8](/assets/img/OperatingSystem/kali8.jpg)
+
 Bạn chọn _Automatically partiton the free space_ rồi chọn _All file in one partition_, tiếp đến chọn _Finish partitioning and write changes to disk_.
 * Bước 5: Đợi quá trình cài đặt.
-![Hình 9]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali9.png)
+
+![Hình 9](/assets/img/OperatingSystem/kali9.png)
+
 * Bước 6: Cấu hình mạng. Bạn có thể chọn **Yes** hoặc **No** và sau đó phần cấu hình _HTTP Proxy_ bạn có thể bỏ trống.
-![Hình 10]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali10.jpg)
+
+![Hình 10](/assets/img/OperatingSystem/kali10.jpg)
+
 * Bước 7: Cấu hình GRUB Boot loader: bạn chọn **Yes** nha.
-![Hình 11]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali11.png)
+
+![Hình 11](/assets/img/OperatingSystem/kali11.png)
+
 Sau đó chọn ổ cứng bạn muốn cài đặt vào:
-![Hình 12]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali12.jpg)
+
+![Hình 12](/assets/img/OperatingSystem/kali12.jpg)
 
 ## Ô cê, vậy là xong rồi đó, khi này màn hình bạn sẽ hiện như thế này:
-![Hình 13]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali13.png)
+
+![Hình 13](/assets/img/OperatingSystem/kali13.png)
 
 Sau khi khởi động vào Grub của kali sẽ cho bạn chọn hệ điều hành như thế này :D
-![Hình 14]({{ site.url }}{{ site.baseurl }}/assets/img/OperatingSystem/kali14.png)
+
+![Hình 14](/assets/img/OperatingSystem/kali14.png)
 
 > By Nguyễn Duy Khánh
 
