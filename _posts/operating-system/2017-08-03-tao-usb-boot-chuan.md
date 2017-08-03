@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title:  "Hướng dẫn cài đặt USB Boot theo chuẩn UEFI hoặc GALECY"
 date:   2017-08-03
