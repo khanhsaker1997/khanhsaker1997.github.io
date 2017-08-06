@@ -6,8 +6,8 @@ categories: [life]
 tags: [cân bằng,life]
 lang: vi
 header:
-  overlay_image: "/assets/img/cuoc-song/can-bang-cuoc-song.jpg"
-og_image: "/assets/img/cuoc-song/can-bang-cuoc-song.jpg"
+  overlay_image: "/assets/img/cuoc-song/Can-bang-cuoc-song.jpg"
+og_image: "/assets/img/cuoc-song/Can-bang-cuoc-song.jpg"
 ---
 ### Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.
 
