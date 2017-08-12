@@ -7,6 +7,39 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình</title>
+        <description>
+          
+          Đôi khi sự cân bằng trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn. HỌC CÁCH SỐNG KHÔN NGOAN VỚI STRESS Bạn...
+        </description>
+        <pubDate>Sun, 06 Aug 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/life/can-bang-cuoc-song/</link>
+        <guid isPermaLink="true">http://localhost:4000/life/can-bang-cuoc-song/</guid>
+      </item>
+    
+      <item>
+        <title>Hướng dẫn cài đặt USB Boot theo chuẩn UEFI hoặc LEGACY</title>
+        <description>
+          
+          Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều hành khác thì hệ điều hành đó của bạn phải Boot theo chuẩn giống chuẩn...
+        </description>
+        <pubDate>Thu, 03 Aug 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/operating-systems/tao-usb-boot-chuan/</link>
+        <guid isPermaLink="true">http://localhost:4000/operating-systems/tao-usb-boot-chuan/</guid>
+      </item>
+    
+      <item>
+        <title>Hướng dẫn cài song song 2 hệ điều hành Windows 10 và Kali Linux</title>
+        <description>
+          
+          Windows và Linux và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dùng máy ảo, nhưng để trải nghiệm thật nhất, sau đây tôi sẽ hướng dẫn...
+        </description>
+        <pubDate>Thu, 03 Aug 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/operating-systems/cai-song-song-linux-windows10/</link>
+        <guid isPermaLink="true">http://localhost:4000/operating-systems/cai-song-song-linux-windows10/</guid>
+      </item>
+    
+      <item>
         <title>Share: Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng! - Facebook Trịnh Thành</title>
         <description>
           
