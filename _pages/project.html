@@ -1,0 +1,17 @@
+---
+layout: single
+title: "my projects"
+permalink: /projects/
+author_profile: true
+---
+
+
+{% for project in site.projects %}
+  {% capture month %}{{ project.date | date: '%m%Y' }}{% endcapture %}
+  {% capture nmonth %}{{ project.next.date | date: '%m%Y' }}{% endcapture %}
+    {% if month != nmonth %}
+      {% if forloop.index != 1 %}</ul>{% endif %}
+      <h3 class="sub-header">{{ project.date | date: '%B %Y' }}</h3><ul>
+    {% endif %}
+  <li><span class="time">{{ project.date | date: "%d/%m/%Y" }}</span> <a href="{{ project.url }}">{{ project.title }}</a></li>
+{% endfor %}
