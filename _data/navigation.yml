@@ -3,7 +3,7 @@ main:
   - title: "about me"
     url: "/"
   - title: "my projects"
-    url: "/_projects/"
+    url: "/projects/"
   - title: "my posts"
     url: "/posts/"
   - title: "music i like"
