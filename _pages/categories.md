@@ -22,7 +22,7 @@ author_profile: true
 {% for category in group_names %}
   {% assign projects = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for project in projects %}
+  {% for post in projects %}
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
