@@ -31,3 +31,30 @@ author_profile: true
     {% endfor %}
   </div>
 </div>
+
+<div class="tags-expo">
+  <div class="tags-expo-list">
+    {% for tag in site.categories %}
+      {% if tag[0] == "dailysharing" %}
+        <a href="#{{ tag[0] | slugify }}" class="project-tag">{{ tag[0] }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="tags-expo-section">
+    {% for tag in site.categories %}
+      {% if tag[0] == "dailysharing" %}
+        <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
+        <ul class="tags-expo-projects">
+          {% for project in tag[1] %}
+            <a class="project-title" href="{{ site.baseurl }}{{ project.url }}">
+            <li>
+            {{ project.title }} <br/>
+          <small class="project-date">{{ project.date | date_to_string }}</small>
+          </li>
+          </a>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

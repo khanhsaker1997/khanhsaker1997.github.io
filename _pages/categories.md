@@ -15,3 +15,14 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
+{% include base_path %}
+{% include group-by-array collection=site.projects field="categories" %}
+
+{% for category in group_names %}
+  {% assign projects = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for project in projects %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
