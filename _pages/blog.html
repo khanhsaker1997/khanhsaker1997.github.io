@@ -4,8 +4,6 @@ title: "my posts"
 permalink: /posts/
 author_profile: true
 ---
-
-
 {% for post in site.posts %}
   {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
   {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
