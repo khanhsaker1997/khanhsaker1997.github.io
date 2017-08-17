@@ -78,8 +78,8 @@ Sau đó chọn ổ cứng bạn muốn cài đặt vào:
 
 Sau khi khởi động vào Grub của kali sẽ cho bạn chọn hệ điều hành như thế này :D
 
+> Các bạn nhớ là khi khởi động phải boot Linux lên đầu, sau đó _Grub_ của Linux sẽ nhận phân vùng boot của Windows và bạn có thể lựa chọn. Và USB lúc boot theo chuẩn nào thì phải khởi động theo chuẩn đó (Galecy or UEFI).
+
 ![Hình 14](/assets/img/OperatingSystem/kali14.png)
 
 > By Nguyễn Duy Khánh
-
-
