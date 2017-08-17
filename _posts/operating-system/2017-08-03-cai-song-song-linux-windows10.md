@@ -70,7 +70,7 @@ Bạn chọn _Automatically partiton the free space_ rồi chọn _All file in o
 
 Sau đó chọn ổ cứng bạn muốn cài đặt vào:
 
-![Hình 12](/assets/img/OperatingSystem/kali12.jpg)
+![Hình 12](/assets/img/OperatingSystem/kali12.png)
 
 ## Ô cê, vậy là xong rồi đó, khi này màn hình bạn sẽ hiện như thế này:
 
