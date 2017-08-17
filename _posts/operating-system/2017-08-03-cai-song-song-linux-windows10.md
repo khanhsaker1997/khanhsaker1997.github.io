@@ -68,7 +68,7 @@ Bạn chọn _Automatically partiton the free space_ rồi chọn _All file in o
 
 ![Hình 11](/assets/img/OperatingSystem/kali11.png)
 
-Sau đó chọn ổ cứng bạn muốn cài đặt vào:
+Sau đó chọn ổ cứng bạn muốn cài đặt vào: Các bạn chọn **/dev/sda** nha.
 
 ![Hình 12](/assets/img/OperatingSystem/kali12.jpg)
 
