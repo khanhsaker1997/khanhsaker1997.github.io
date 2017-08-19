@@ -256,7 +256,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
   # _pages
   - scope:
@@ -274,5 +274,16 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: false
+      share: true
+      related: true
+  # _trickit
+  - scope:
+      path: ""
+      type: trickit
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
       related: true
