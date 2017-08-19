@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-16T22:03:30+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình</title><link href="http://localhost:4000/life/can-bang-cuoc-song/" rel="alternate" type="text/html" title="Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình" /><published>2017-08-06T00:00:00+07:00</published><updated>2017-08-06T00:00:00+07:00</updated><id>http://localhost:4000/life/can-bang-cuoc-song</id><content type="html" xml:base="http://localhost:4000/life/can-bang-cuoc-song/">&lt;h3 id=&quot;đôi-khi-sự-cân-bằng-trở-thành-thứ-quá-xa-xỉ-trong-cuộc-sống-bồn-bề-bạn-thấy-mệt-mỏi-bởi-những-cuộc-tìm-kiếm-hãy-thử-nghe-theo-những-lời-khuyên-dưới-đây-để-sống-cuộc-đời-mà-bạn-mong-muốn&quot;&gt;Đôi khi &lt;em&gt;sự cân bằng&lt;/em&gt; trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-19T15:29:32+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình</title><link href="http://localhost:4000/life/can-bang-cuoc-song/" rel="alternate" type="text/html" title="Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình" /><published>2017-08-06T00:00:00+07:00</published><updated>2017-08-06T00:00:00+07:00</updated><id>http://localhost:4000/life/can-bang-cuoc-song</id><content type="html" xml:base="http://localhost:4000/life/can-bang-cuoc-song/">&lt;h3 id=&quot;đôi-khi-sự-cân-bằng-trở-thành-thứ-quá-xa-xỉ-trong-cuộc-sống-bồn-bề-bạn-thấy-mệt-mỏi-bởi-những-cuộc-tìm-kiếm-hãy-thử-nghe-theo-những-lời-khuyên-dưới-đây-để-sống-cuộc-đời-mà-bạn-mong-muốn&quot;&gt;Đôi khi &lt;em&gt;sự cân bằng&lt;/em&gt; trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;HỌC CÁCH SỐNG KHÔN NGOAN VỚI STRESS
@@ -154,7 +154,7 @@ Bình lặng… nghĩ về cuộc sống xung quanh, bạn tự hỏi mình ph�
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/OperatingSystem/kali11.png&quot; alt=&quot;Hình 11&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Sau đó chọn ổ cứng bạn muốn cài đặt vào:&lt;/p&gt;
+&lt;p&gt;Sau đó chọn ổ cứng bạn muốn cài đặt vào: Các bạn chọn &lt;strong&gt;/dev/sda&lt;/strong&gt; nha.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/OperatingSystem/kali12.jpg&quot; alt=&quot;Hình 12&quot; /&gt;&lt;/p&gt;
 
@@ -163,6 +163,10 @@ Bình lặng… nghĩ về cuộc sống xung quanh, bạn tự hỏi mình ph�
 &lt;p&gt;&lt;img src=&quot;/assets/img/OperatingSystem/kali13.png&quot; alt=&quot;Hình 13&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sau khi khởi động vào Grub của kali sẽ cho bạn chọn hệ điều hành như thế này :D&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Các bạn nhớ là khi khởi động phải boot Linux lên đầu, sau đó &lt;em&gt;Grub&lt;/em&gt; của Linux sẽ nhận phân vùng boot của Windows và bạn có thể lựa chọn. Và USB lúc boot theo chuẩn nào thì phải khởi động theo chuẩn đó (Galecy or UEFI).&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/OperatingSystem/kali14.png&quot; alt=&quot;Hình 14&quot; /&gt;&lt;/p&gt;
 

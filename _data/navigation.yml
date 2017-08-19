@@ -8,6 +8,8 @@ main:
     url: "/posts/"
   - title: "music i like"
     url: "/music/"
+  - title: "Tricks IT"
+    url: "/trickit/"
 
   
   

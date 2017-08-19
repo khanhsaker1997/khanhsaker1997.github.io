@@ -41,6 +41,10 @@
 <lastmod>2017-08-01T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/trickit/2017-08-19-luon-chay-uong-dung-voi-adminstrator/</loc>
+<lastmod>2017-08-19T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/respon/co-so-du-lieu/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/</loc>
 </url>
 <url>
@@ -71,9 +75,6 @@
 <loc>http://localhost:4000/dailysharings/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cv/classroom-gameshow</loc>
-</url>
-<url>
 <loc>http://localhost:4000/search</loc>
 </url>
 <url>
@@ -83,10 +84,10 @@
 <loc>http://localhost:4000/respon/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/respon/ki-nang-cong-viec/</loc>
+<loc>http://localhost:4000/respon/co-so-du-lieu/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/respon/co-so-du-lieu/</loc>
+<loc>http://localhost:4000/respon/ki-nang-cong-viec/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/music/</loc>
@@ -101,10 +102,10 @@
 <loc>http://localhost:4000/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cv/robotws2017</loc>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
+<loc>http://localhost:4000/trickit/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/googledcefecab7f26db2d.html</loc>
