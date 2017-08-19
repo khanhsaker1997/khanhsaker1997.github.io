@@ -6,10 +6,10 @@ main:
     url: "/projects/"
   - title: "my posts"
     url: "/posts/"
-  - title: "music i like"
-    url: "/music/"
   - title: "Tricks IT"
     url: "/trickit/"
+  - title: "music i like"
+    url: "/music/"
 
   
   
