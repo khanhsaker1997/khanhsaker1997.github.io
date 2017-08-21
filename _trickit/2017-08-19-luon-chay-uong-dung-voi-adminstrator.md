@@ -20,6 +20,10 @@ og_image: "/assets/img/trickit/run-administrator.jpg"
 
 ![Hình 2](/assets/img/trickit/run-administrator3.PNG)
 
+**Các bạn có thể xem hướng dẫn chi tiết sau:**
+
+<iframe width="560" height="315"; max-width: 100%; margin: 0 auto; src="https://www.youtube.com/embed/kuNkRlf1iFg" frameborder="0" allowfullscreen></iframe>
+
 #### Ok vậy là xong rồi đó. Chúc các bạn thành công
 >By Nguyễn Duy Khánh
 
