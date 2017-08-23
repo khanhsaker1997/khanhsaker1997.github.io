@@ -14,7 +14,7 @@ og_image: "/assets/img/csdl/head.jpg"
 
 Các bạn đừng lo vì lỗi này rất dễ giải quyết. Đây là do thời điểm đó máy chủ SQL Server của bạn bỗng dưng lại chưa được bật. Để kiểm tra các bạn vào **Computer Management**.
 
-1. Bước 1: Các bạn _click_ chuột phải vào **This PC** và chọn **Manage > Services Server Configuration Manager > SQL Services**
+1. Bước 1: Các bạn _click_ chuột phải vào **This PC** và chọn **Manage > Services and Applications > Services Server Configuration Manager > SQL Server Services**
 ![Hình 2](/assets/img/csdl/errorConnect2.png)
 2. Bước 2: Các bạn kick chuột phải vào **SQL Server(MSSQLSERVER)** rồi chọn **Start** (trạng thái đang ở _stop_ nên không connect được server)
 ![Hình 3](/assets/img/csdl/errorConnect3.png)
