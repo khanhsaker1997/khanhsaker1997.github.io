@@ -2,12 +2,12 @@
 main:
   - title: "about me"
     url: "/"
-  - title: "my projects"
-    url: "/projects/"
   - title: "my posts"
     url: "/posts/"
   - title: "Tricks IT"
     url: "/trickit/"
+  - title: "CSDL"
+    url: "/projects/"
   - title: "music i like"
     url: "/music/"
 
