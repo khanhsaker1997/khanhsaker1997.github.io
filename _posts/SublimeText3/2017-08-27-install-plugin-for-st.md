@@ -23,4 +23,7 @@ Sau đó xuất hiện thư mục chứa các _package_ là .../Packages/. Các 
 Các Bạn muốn plugin vào thì cứ gõ vào _Search_ sẽ hiện lên đầy đủ các plugin liên quan đến từ khóa của bạn.
 OK Vậy là bạn đã cài đặt xong rồi đó.
 
+Xem chi tiết thêm tại:
+<iframe style="width: 560; height: 315; max-width: 100%; margin: 0 auto;" src="https://www.youtube.com/embed/OzT13THu-NI" frameborder="0" allowfullscreen></iframe>
+
 >By Nguyễn Duy Khánh
