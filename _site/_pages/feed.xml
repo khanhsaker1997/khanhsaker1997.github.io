@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Khắc phục lỗi không cài được plugins trên Sublime Text 3</title>
+        <description>
+          
+          Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng. Bỗng một ngày đẹp trời bạn mở Submile text lên và muốn cài 1 plugin mà cài xong vào List Package k...
+        </description>
+        <pubDate>Sun, 27 Aug 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/tricks/install-plugin-for-st/</link>
+        <guid isPermaLink="true">http://localhost:4000/tricks/install-plugin-for-st/</guid>
+      </item>
+    
+      <item>
         <title>Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình</title>
         <description>
           
