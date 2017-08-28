@@ -22,4 +22,8 @@ Ok. Vậy là xong rồi đó. Chúc các bạn thành công. Thanks you for wat
 
 ![Hình 2](/assets/img/trickit/google-translate2.png)
 
+_Xem Chi tiết hơn tại đây:_
+
+<iframe style="width: 560; height: 315; max-width: 100%; margin: 0 auto;" src="https://www.youtube.com/embed/iFcbSqEe51A" frameborder="0" allowfullscreen></iframe>
+
 >By Nguyễn Duy Khánh
