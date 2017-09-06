@@ -98,6 +98,12 @@ tags: [CSDL,DBMS,SQL,SQL server]
  )
  ```
 
+* Xóa các ràng buộc: Ví dụ xóa ràng buộc khóa chính tên PK_NHANVIEN trong bảng NHANVIEN
+```sql
+ALTER TABLE NHANVIEN DROP constraint PK_NHANVIEN
+```
+>Chú ý: Trước khi xóa khóa chính phải xóa khóa phụ liên kết tới nó trước.
+
 2. Các câu lệnh truy vấn dữ liệu:
 * Truy vấn cơ bản: Gồm 3 mệnh đề quyền lực
 ```sql
