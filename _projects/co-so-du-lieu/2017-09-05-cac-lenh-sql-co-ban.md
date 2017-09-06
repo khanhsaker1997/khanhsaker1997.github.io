@@ -75,7 +75,7 @@ tags: [CSDL,DBMS,SQL,SQL server]
 
   * Ràng buộc duy nhất: Cách tạo ra _Unique Constraint_ cũng tương tự như _Primary Key Constraint_ chỉ việc thay chữ **Primary Key** thành **Unique**
  > Chỉ có Một PRIMARY KEY CONSTRAINT trong một table trong khi ta có thể có Nhiều UNIQUE CONSTRAINT trên một table
-  * Ràng buộ khóa ngoại (Foreign Key Constraint):
+  * Ràng buộc khóa ngoại (Foreign Key Constraint): Khóa ngoại của một table được xem như con trỏ trỏ tới khóa chính của table khác.
  ```sql
  ALTER TABLE TenBang ADD CONSTRAINT TenRangBuoc FOREIGN KEY CacCotKhoaNgoai REFERENCES TenBang CacCotKhoaChinh
  ```
@@ -84,6 +84,18 @@ tags: [CSDL,DBMS,SQL,SQL server]
  ALTER TABLE NHANVIEN ADD CONSRAINT
  fk_nhanvien_maphong FOREIGN KEY(MAPHONG)
  REFERENCES PHONGBAN(MaPhong)
+ ```
+ Hoặc có thể ràng buộc khóa ngoại ngay từ khi tạo bảng:
+ ```sql
+ CREATE TABLE DIEMSV
+ (
+ STT INT NOT NULL AUTO_INCREMENT,
+ MaSV varchar(8) NOT NULL,
+ MonHoc varchar(6) NOT NULL,
+ HKI, HKII, ĐTB_Nam INT,
+ PRIMARY KEY (STT),
+ FOREIGN KEY (MaSV) REFERENCES HSSV(MaSV)
+ )
  ```
 
 2. Các câu lệnh truy vấn dữ liệu:
