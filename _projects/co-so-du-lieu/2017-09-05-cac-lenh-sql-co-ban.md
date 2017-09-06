@@ -5,8 +5,7 @@ date:   2017-09-05
 categories: [SQL]
 tags: [CSDL,DBMS,SQL,SQL server]
 ---
-1. Tạo và quản lý CSDL
-
+## Tạo và quản lý CSDL:
  * Tạo CSDL mới:
  ```sql
  CREATE DATABASE DatabaseName
@@ -64,7 +63,9 @@ tags: [CSDL,DBMS,SQL,SQL server]
  ALTER TABLE TenBang ADD CONSTRAINT TenRangBuoc PRIMARY KEY ThuocTinhKhoa
  -- ThuocTinhKhoa phải khác NULL
  ```
+
  Bạn có thể tạo ràng buộc khóa chính ngay từ khi tạo bảng: Ví dụ tạo khóa chính là cột **MaPhong** trong bảng **PhongBan**
+
  ```sql
  CREATE TABLE PhongBan(
  MaPhong Char(5),
@@ -102,17 +103,17 @@ tags: [CSDL,DBMS,SQL,SQL server]
  ```sql
  ALTER TABLE NHANVIEN DROP constraint PK_NHANVIEN
  ```
->Chú ý: Trước khi xóa khóa chính phải xóa khóa phụ liên kết tới nó trước.
+Chú ý: Trước khi xóa khóa chính phải xóa khóa phụ liên kết tới nó trước.
 
-2. Các câu lệnh truy vấn dữ liệu:
+## Các câu lệnh truy vấn dữ liệu:
 
-* Truy vấn cơ bản: Gồm 3 mệnh đề quyền lực
+ * Truy vấn cơ bản: Gồm 3 mệnh đề quyền lực
  ```sql
-SELECT Column1, Column2
-FROM Table1, Table2
-WHERE DieuKien
--- muốn chọn tất cả các cột trong bảng ta dùng SELECT *
--- phần điều kiện sử dụng các phép ">,<..., LIKE, BETWEEN, AND, OR, NOT..."
+ SELECT Column1, Column2
+ FROM Table1, Table2
+ WHERE DieuKien
+ -- muốn chọn tất cả các cột trong bảng ta dùng SELECT *
+ -- phần điều kiện sử dụng các phép ">,<..., LIKE, BETWEEN, AND, OR, NOT..."
  ```
 
 Cấu trúc truy vấn **SELECT** dạng đầy đủ:
@@ -127,19 +128,19 @@ FROM danh_sách_bảng/khung_nhìn
 [COMPUTE danh_sách_hàm_gộp [BY danh_sách_cột]]
 ```
 
-* Truy vấn lồng: Truy vấn dựa vào kết quả của một truy vấn con (đảm bảo truy vấn con chỉ trả về là một giá trị đơn)
+ * Truy vấn lồng: Truy vấn dựa vào kết quả của một truy vấn con (đảm bảo truy vấn con chỉ trả về là một giá trị đơn)
 ```sql
 SELECT * FROM DONDH
 WHERE NGAYDH = (SELECT MAX(NGAYDH) FROM DONDH)
 -- Câu lệnh trên trả về danh sách các đơn hàng gần đây nhất.
 ```
 
-* Hàm kết hợp: COUNT,MIN, MAX, SUM, AVG được đặt ở mệnh đề SELECT
+ * Hàm kết hợp: COUNT,MIN, MAX, SUM, AVG được đặt ở mệnh đề SELECT
 ```sql
 SELECT SUM(LUONG), MAX(LUONG),AVG(LUONG) FROM NHANVIEN
 ```
 
-* Gom nhóm: Cú pháp cơ bản
+ * Gom nhóm: Cú pháp cơ bản
 ```sql
 SELECT <danh sách các cột>
 FROM <danh sách các bảng>
@@ -148,7 +149,7 @@ GROUP BY <danh sách các cột gom nhóm>
 --Sau khi gom nhóm thì mỗi nhóm các bộ sẽ có cùng giá trị tại thuộc tính gom nhóm.
 ```
 
-* Điều kiện trên nhóm:
+ * Điều kiện trên nhóm:
 ```sql
 SELECT <danh sách các cột>
 FROM <danh sách các bảng>
@@ -174,8 +175,8 @@ FROM <danh sách các bảng>
 [ORDER BY <các thuộc tính sắp thứ tự>]
 ```
 
-* Cập nhật dữ liệu:
-  * Thêm dữ liệu:
+ * Cập nhật dữ liệu:
+   * Thêm dữ liệu:
   ```sql
   INSERT INTO <tên bảng>(<danh sách các thuộc tính>)
   VALUES (<danh sách các giá trị>)
@@ -187,13 +188,13 @@ FROM <danh sách các bảng>
   ```
   > Chú ý: Thứ tự các giá trị phải trùng với thứ tự các cột, có thể thêm giá trị NULL ở những thuộc tính k là khóa chính và NOT NULL
 
-  * Xóa (delete):
+   * Xóa (delete):
   ```sql
   DELETE FROM TenBang
   WHERE DieuKien
   ```
 
-  * Sửa (update):
+   * Sửa (update):
   ```sql
   UPDATE <tên bảng>
   SET <tên thuộc tính>=<giá trị mới>,<tên thuộc tính>=<giá trị mới>,…
@@ -205,3 +206,5 @@ FROM <danh sách các bảng>
   SET NGSINH='08/12/1965'
   WHERE MANV='333445555'
   ```
+
+>By Nguyễn Duy Khánh

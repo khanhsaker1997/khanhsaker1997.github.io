@@ -53,3 +53,4 @@ tags: [CSDL,DBMS,SQL,SQL server]
 > Hàm **SYSDATETIME()** trả về thời gian hiện tại của hệ thống mà không có múi giờ với độ chính xác mili giây
 > Hàm **SYSDATETIMEOFFSET()** giống với  hàm **SYSDATETIME()**, nhưng bao gồm cả múi giờ.
 
+> By Nguyễn Duy Khánh
