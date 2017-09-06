@@ -105,6 +105,7 @@ tags: [CSDL,DBMS,SQL,SQL server]
 >Chú ý: Trước khi xóa khóa chính phải xóa khóa phụ liên kết tới nó trước.
 
 2. Các câu lệnh truy vấn dữ liệu:
+
 * Truy vấn cơ bản: Gồm 3 mệnh đề quyền lực
  ```sql
 SELECT Column1, Column2
