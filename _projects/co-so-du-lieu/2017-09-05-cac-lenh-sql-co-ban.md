@@ -99,20 +99,20 @@ tags: [CSDL,DBMS,SQL,SQL server]
  ```
 
 * Xóa các ràng buộc: Ví dụ xóa ràng buộc khóa chính tên PK_NHANVIEN trong bảng NHANVIEN
-```sql
-ALTER TABLE NHANVIEN DROP constraint PK_NHANVIEN
-```
+ ```sql
+ ALTER TABLE NHANVIEN DROP constraint PK_NHANVIEN
+ ```
 >Chú ý: Trước khi xóa khóa chính phải xóa khóa phụ liên kết tới nó trước.
 
 2. Các câu lệnh truy vấn dữ liệu:
 * Truy vấn cơ bản: Gồm 3 mệnh đề quyền lực
-```sql
+ ```sql
 SELECT Column1, Column2
 FROM Table1, Table2
 WHERE DieuKien
 -- muốn chọn tất cả các cột trong bảng ta dùng SELECT *
 -- phần điều kiện sử dụng các phép ">,<..., LIKE, BETWEEN, AND, OR, NOT..."
-```
+ ```
 
 Cấu trúc truy vấn **SELECT** dạng đầy đủ:
 ```sql
