@@ -1,0 +1,884 @@
+<!doctype html>
+<!--
+  MakeitSimple Theme 1.0 by Viet Anh Nguyen
+  Based on Minimal Mistakes Jekyll Theme 4.2.2 by Michael Rose
+-->
+<html lang="vi" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>CÁC CÂU LỆNH SQL CĂN BẢN HAY SỬ DỤNG - Nguyễn Duy Khánh</title>
+
+
+
+
+<meta name="description" content="  Tạo và quản lý CSDL">
+
+
+
+
+<meta property="og:type" content="website">
+<meta name="author" content="Duy Khanh Nguyen">
+<meta property="og:title" content="CÁC CÂU LỆNH SQL CĂN BẢN HAY SỬ DỤNG">
+
+
+  <link rel="canonical" href="http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/">
+  <meta property="og:url" content="http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/">
+
+
+
+  <meta property="og:description" content="  Tạo và quản lý CSDL">
+
+
+
+
+
+  
+
+  
+    <meta property="fb:app_id" content="430337527301541">
+  
+
+
+
+  <meta property="og:image" content="https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=500">
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://localhost:4000",
+      "logo": "https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=500"
+    }
+  </script>
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Duy Khanh Nguyen",
+      "url" : "http://localhost:4000",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Nguyễn Duy Khánh Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+<!-- Custom CSS -->
+   
+
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- <link rel="stylesheet" type="text/css" href="https://khanhsaker97.github.io/assets/css/hihi_chatbot.css"> -->
+
+<!-- Particles Masthead -->
+<!-- <style type="text/css">
+	#masthead-particles {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		overflow: hidden;
+	}
+	.masthead {
+		-webkit-box-shadow: 0 1px 8px -2px #888;
+   		-moz-box-shadow: 0 1px 8px -2px #888;
+        box-shadow: 0 1px 8px -2px #888;
+	}
+</style> -->
+
+<!-- end custom head snippets -->
+
+
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div id="masthead-particles">
+      
+  </div>
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh</br>
+            <p id="site-subtitle" style=" margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
+                font-family: &quot;Maven Pro&quot;,-apple-system,&quot;.SFNSText-Regular&quot;,&quot;San Francisco&quot;,&quot;Roboto&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;Lucida Grande&quot;,Arial,sans-serif;
+            ">write code everyday <span class="blinking-cursor">_</span></p>
+        </a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/">about me</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/posts/">my posts</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/trickit/">Tricks IT</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/projects/">CSDL</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/music/">music i like</a></li>
+          
+            <!-- Search menu -->
+            <li class="masthead__menu-item"><a id="masthead-search" href="https://khanhsaker97.github.io/search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+        </ul>
+        <button><div class="navicon"></div></button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=250" alt="Duy Khanh Nguyen" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">Hi! I'm Duy Khanh</h3>
+    
+      <p class="author__bio" itemprop="description">
+        Blogger / Developer / Tech lover
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">Hanoi, VN</span>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://khanhsaker97.github.io" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="mailto:khanhsaker1997@gmail.com">
+            <meta itemprop="email" content="khanhsaker1997@gmail.com" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://www.facebook.com/khanhsakercsdn" itemprop="sameAs">
+            <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/khanhsaker97" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="CÁC CÂU LỆNH SQL CĂN BẢN HAY SỬ DỤNG">
+    <meta itemprop="description" content="  Tạo và quản lý CSDL">
+    <meta itemprop="datePublished" content="September 05, 2017">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">CÁC CÂU LỆNH SQL CĂN BẢN HAY SỬ DỤNG
+</h1>
+          
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  3 minute read
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <ol>
+  <li>Tạo và quản lý CSDL</li>
+</ol>
+
+<ul>
+  <li>Tạo CSDL mới:
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">CREATE</span> <span class="k">DATABASE</span> <span class="n">DatabaseName</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Mở CSDL để làm việc:
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="n">USE</span> <span class="n">DatabaseName</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Xóa CSDL:
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">DROP</span> <span class="k">DATABASE</span> <span class="n">DatabaseName</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Đổi tên CSDL:
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">ALTER</span> <span class="k">DATABASE</span> <span class="n">DatabaseName</span>
+ <span class="k">MODIFY</span> <span class="n">NAME</span> <span class="o">=</span> <span class="n">NewDatabaseName</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Tạo bảng:
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">CREATE</span> <span class="k">TABLE</span> <span class="n">TableName</span>
+ <span class="p">(</span>
+ <span class="n">ColumnName1</span> <span class="n">KieuDuLieu1</span> <span class="p">[</span><span class="k">NOT</span> <span class="k">NULL</span><span class="p">]</span>
+ <span class="n">ColumnName2</span> <span class="n">KieuDuLieu2</span> <span class="p">[</span><span class="k">NOT</span> <span class="k">NULL</span><span class="p">]</span>
+ <span class="p">)</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Thay đổi cấu trúc bảng:
+    <ul>
+      <li>Thêm 1 cột mới vào bảng:
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">ALTER</span> <span class="k">TABLE</span> <span class="n">TenBang</span> <span class="k">ADD</span> <span class="n">TenCot</span> <span class="n">KieuDuLieu</span>
+</code></pre>
+        </div>
+      </li>
+      <li>Xóa 1 cột trong bảng:
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">ALTER</span> <span class="k">TABLE</span> <span class="n">TenBang</span> <span class="k">DROP</span> <span class="k">COLUMN</span> <span class="n">TenCot</span>
+</code></pre>
+        </div>
+      </li>
+      <li>Sử đổi kiểu dữ liệu của cột:
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">ALTER</span> <span class="k">TABLE</span> <span class="n">TenBang</span> <span class="k">ALTER</span> <span class="k">COLUMN</span> <span class="n">TenCot</span> <span class="n">NewKieuDuLieu</span>
+</code></pre>
+        </div>
+      </li>
+      <li>Đổi tên cột:
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">EXEC</span> <span class="n">sp_rename</span> <span class="s1">'TableName.ColumnName'</span><span class="p">,</span> <span class="s1">'NewColumnName'</span>
+</code></pre>
+        </div>
+      </li>
+    </ul>
+  </li>
+  <li>Tạo các ràng buộc:
+    <ul>
+      <li>Ràng buộc khóa chính (<strong>Primary Key Constraint</strong>:
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">ALTER</span> <span class="k">TABLE</span> <span class="n">TenBang</span> <span class="k">ADD</span> <span class="k">CONSTRAINT</span> <span class="n">TenRangBuoc</span> <span class="k">PRIMARY</span> <span class="k">KEY</span> <span class="n">ThuocTinhKhoa</span>
+ <span class="c1">-- ThuocTinhKhoa phải khác NULL</span>
+</code></pre>
+        </div>
+        <p>Bạn có thể tạo ràng buộc khóa chính ngay từ khi tạo bảng: Ví dụ tạo khóa chính là cột <strong>MaPhong</strong> trong bảng <strong>PhongBan</strong></p>
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">CREATE</span> <span class="k">TABLE</span> <span class="n">PhongBan</span><span class="p">(</span>
+ <span class="n">MaPhong</span> <span class="n">Char</span><span class="p">(</span><span class="mi">5</span><span class="p">),</span>
+ <span class="n">TenPhg</span> <span class="n">VARCHAR</span><span class="p">(</span><span class="mi">20</span><span class="p">))</span>
+ <span class="k">CONSTRAINT</span> <span class="n">pk_PhongBan</span> <span class="k">PRIMARY</span> <span class="k">KEY</span> <span class="p">(</span><span class="n">MaPhong</span><span class="p">)</span>
+ <span class="p">)</span>
+</code></pre>
+        </div>
+      </li>
+      <li>Ràng buộc duy nhất: Cách tạo ra <em>Unique Constraint</em> cũng tương tự như <em>Primary Key Constraint</em> chỉ việc thay chữ <strong>Primary Key</strong> thành <strong>Unique</strong>
+        <blockquote>
+          <p>Chỉ có Một PRIMARY KEY CONSTRAINT trong một table trong khi ta có thể có Nhiều UNIQUE CONSTRAINT trên một table</p>
+        </blockquote>
+      </li>
+      <li>Ràng buộ khóa ngoại (Foreign Key Constraint):
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">ALTER</span> <span class="k">TABLE</span> <span class="n">TenBang</span> <span class="k">ADD</span> <span class="k">CONSTRAINT</span> <span class="n">TenRangBuoc</span> <span class="k">FOREIGN</span> <span class="k">KEY</span> <span class="n">CacCotKhoaNgoai</span> <span class="k">REFERENCES</span> <span class="n">TenBang</span> <span class="n">CacCotKhoaChinh</span>
+</code></pre>
+        </div>
+        <p>Ví dụ:</p>
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code> <span class="k">ALTER</span> <span class="k">TABLE</span> <span class="n">NHANVIEN</span> <span class="k">ADD</span> <span class="n">CONSRAINT</span>
+ <span class="n">fk_nhanvien_maphong</span> <span class="k">FOREIGN</span> <span class="k">KEY</span><span class="p">(</span><span class="n">MAPHONG</span><span class="p">)</span>
+ <span class="k">REFERENCES</span> <span class="n">PHONGBAN</span><span class="p">(</span><span class="n">MaPhong</span><span class="p">)</span>
+</code></pre>
+        </div>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ol>
+  <li>Các câu lệnh truy vấn dữ liệu:
+    <ul>
+      <li>Truy vấn cơ bản: Gồm 3 mệnh đề quyền lực
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="n">Column1</span><span class="p">,</span> <span class="n">Column2</span>
+<span class="k">FROM</span> <span class="n">Table1</span><span class="p">,</span> <span class="n">Table2</span>
+<span class="k">WHERE</span> <span class="n">DieuKien</span>
+<span class="c1">-- muốn chọn tất cả các cột trong bảng ta dùng SELECT *</span>
+<span class="c1">-- phần điều kiện sử dụng các phép "&gt;,&lt;..., LIKE, BETWEEN, AND, OR, NOT..."</span>
+</code></pre>
+        </div>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<p>Cấu trúc truy vấn <strong>SELECT</strong> dạng đầy đủ:</p>
+<div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="p">[</span><span class="k">ALL</span> <span class="o">|</span> <span class="k">DISTINCT</span><span class="p">][</span><span class="n">TOP</span> <span class="n">n</span><span class="p">]</span> <span class="n">danh_s</span><span class="err">á</span><span class="n">ch_ch</span><span class="err">ọ</span><span class="n">n</span>
+<span class="p">[</span><span class="k">INTO</span> <span class="n">t</span><span class="err">ê</span><span class="n">n_b</span><span class="err">ả</span><span class="n">ng_m</span><span class="err">ớ</span><span class="n">i</span><span class="p">]</span>
+<span class="k">FROM</span> <span class="n">danh_s</span><span class="err">á</span><span class="n">ch_b</span><span class="err">ả</span><span class="n">ng</span><span class="o">/</span><span class="n">khung_nh</span><span class="err">ì</span><span class="n">n</span>
+<span class="p">[</span><span class="k">WHERE</span> <span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u_ki</span><span class="err">ệ</span><span class="n">n</span><span class="p">]</span>
+<span class="p">[</span><span class="k">GROUP</span> <span class="k">BY</span> <span class="n">danh_s</span><span class="err">á</span><span class="n">ch_c</span><span class="err">ộ</span><span class="n">t</span><span class="p">]</span>
+<span class="p">[</span><span class="k">HAVING</span> <span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u_ki</span><span class="err">ệ</span><span class="n">n</span><span class="p">]</span>
+<span class="p">[</span><span class="k">ORDER</span> <span class="k">BY</span> <span class="k">c</span><span class="err">ộ</span><span class="n">t_s</span><span class="err">ắ</span><span class="n">p_x</span><span class="err">ế</span><span class="n">p</span><span class="p">]</span>
+<span class="p">[</span><span class="n">COMPUTE</span> <span class="n">danh_s</span><span class="err">á</span><span class="n">ch_h</span><span class="err">à</span><span class="n">m_g</span><span class="err">ộ</span><span class="n">p</span> <span class="p">[</span><span class="k">BY</span> <span class="n">danh_s</span><span class="err">á</span><span class="n">ch_c</span><span class="err">ộ</span><span class="n">t</span><span class="p">]]</span>
+</code></pre>
+</div>
+
+<ul>
+  <li>Truy vấn lồng: Truy vấn dựa vào kết quả của một truy vấn con (đảm bảo truy vấn con chỉ trả về là một giá trị đơn)
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="o">*</span> <span class="k">FROM</span> <span class="n">DONDH</span>
+<span class="k">WHERE</span> <span class="n">NGAYDH</span> <span class="o">=</span> <span class="p">(</span><span class="k">SELECT</span> <span class="k">MAX</span><span class="p">(</span><span class="n">NGAYDH</span><span class="p">)</span> <span class="k">FROM</span> <span class="n">DONDH</span><span class="p">)</span>
+<span class="c1">-- Câu lệnh trên trả về danh sách các đơn hàng gần đây nhất.</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Hàm kết hợp: COUNT,MIN, MAX, SUM, AVG được đặt ở mệnh đề SELECT
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="k">SUM</span><span class="p">(</span><span class="n">LUONG</span><span class="p">),</span> <span class="k">MAX</span><span class="p">(</span><span class="n">LUONG</span><span class="p">),</span><span class="k">AVG</span><span class="p">(</span><span class="n">LUONG</span><span class="p">)</span> <span class="k">FROM</span> <span class="n">NHANVIEN</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Gom nhóm: Cú pháp cơ bản
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="k">c</span><span class="err">ộ</span><span class="n">t</span><span class="o">&gt;</span>
+<span class="k">FROM</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="n">b</span><span class="err">ả</span><span class="n">ng</span><span class="o">&gt;</span>
+<span class="k">WHERE</span> <span class="o">&lt;</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="o">&gt;</span>
+<span class="k">GROUP</span> <span class="k">BY</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="k">c</span><span class="err">ộ</span><span class="n">t</span> <span class="n">gom</span> <span class="n">nh</span><span class="err">ó</span><span class="n">m</span><span class="o">&gt;</span>
+<span class="c1">--Sau khi gom nhóm thì mỗi nhóm các bộ sẽ có cùng giá trị tại thuộc tính gom nhóm.</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Điều kiện trên nhóm:
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="k">c</span><span class="err">ộ</span><span class="n">t</span><span class="o">&gt;</span>
+<span class="k">FROM</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="n">b</span><span class="err">ả</span><span class="n">ng</span><span class="o">&gt;</span>
+<span class="k">WHERE</span> <span class="o">&lt;</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="o">&gt;</span>
+<span class="k">GROUP</span> <span class="k">BY</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="k">c</span><span class="err">ộ</span><span class="n">t</span> <span class="n">gom</span> <span class="n">nh</span><span class="err">ó</span><span class="n">m</span><span class="o">&gt;</span>
+<span class="k">HAVING</span> <span class="o">&lt;</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span> <span class="n">tr</span><span class="err">ê</span><span class="n">n</span> <span class="n">nh</span><span class="err">ó</span><span class="n">m</span><span class="o">&gt;</span>
+</code></pre>
+    </div>
+    <p>Ví dụ: Cho biết những nhân viên có từ 2 người yêu trở lên:</p>
+    <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="n">MA_NVIEN</span><span class="p">,</span> <span class="k">COUNT</span><span class="p">(</span><span class="o">*</span><span class="p">)</span> <span class="k">as</span> <span class="n">SLNY</span>
+<span class="k">FROM</span> <span class="n">NGUOIYEU</span>
+<span class="k">GROUP</span> <span class="k">BY</span> <span class="n">MA_NVIEN</span>
+<span class="k">HAVING</span> <span class="k">COUNT</span><span class="p">(</span><span class="o">*</span><span class="p">)</span> <span class="o">&gt;=</span> <span class="mi">2</span>
+</code></pre>
+    </div>
+  </li>
+</ul>
+
+<h3 id="tóm-lại-các-bạn-hãy-nhớ-công-thức-này">Tóm lại các bạn hãy nhớ công thức này:</h3>
+<div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">SELECT</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="k">c</span><span class="err">ộ</span><span class="n">t</span><span class="o">&gt;</span>
+<span class="k">FROM</span> <span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="n">b</span><span class="err">ả</span><span class="n">ng</span><span class="o">&gt;</span>
+<span class="p">[</span><span class="k">WHERE</span> <span class="o">&lt;</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="o">&gt;</span><span class="p">]</span>
+<span class="p">[</span><span class="k">GROUP</span> <span class="k">BY</span> <span class="o">&lt;</span><span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="n">thu</span><span class="err">ộ</span><span class="k">c</span> <span class="n">t</span><span class="err">í</span><span class="n">nh</span> <span class="n">gom</span> <span class="n">nh</span><span class="err">ó</span><span class="n">m</span><span class="o">&gt;</span><span class="p">]</span>
+<span class="p">[</span><span class="k">HAVING</span> <span class="o">&lt;</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span> <span class="n">tr</span><span class="err">ê</span><span class="n">n</span> <span class="n">nh</span><span class="err">ó</span><span class="n">m</span><span class="o">&gt;</span><span class="p">]</span>
+<span class="p">[</span><span class="k">ORDER</span> <span class="k">BY</span> <span class="o">&lt;</span><span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="n">thu</span><span class="err">ộ</span><span class="k">c</span> <span class="n">t</span><span class="err">í</span><span class="n">nh</span> <span class="n">s</span><span class="err">ắ</span><span class="n">p</span> <span class="n">th</span><span class="err">ứ</span> <span class="n">t</span><span class="err">ự</span><span class="o">&gt;</span><span class="p">]</span>
+</code></pre>
+</div>
+
+<ul>
+  <li>Cập nhật dữ liệu:
+    <ul>
+      <li>Thêm dữ liệu:
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">INSERT</span> <span class="k">INTO</span> <span class="o">&lt;</span><span class="n">t</span><span class="err">ê</span><span class="n">n</span> <span class="n">b</span><span class="err">ả</span><span class="n">ng</span><span class="o">&gt;</span><span class="p">(</span><span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="n">thu</span><span class="err">ộ</span><span class="k">c</span> <span class="n">t</span><span class="err">í</span><span class="n">nh</span><span class="o">&gt;</span><span class="p">)</span>
+<span class="k">VALUES</span> <span class="p">(</span><span class="o">&lt;</span><span class="n">danh</span> <span class="n">s</span><span class="err">á</span><span class="n">ch</span> <span class="k">c</span><span class="err">á</span><span class="k">c</span> <span class="n">gi</span><span class="err">á</span> <span class="n">tr</span><span class="err">ị</span><span class="o">&gt;</span><span class="p">)</span>
+</code></pre>
+        </div>
+        <p>Ví dụ:</p>
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">INSERT</span> <span class="k">INTO</span> <span class="n">NHANVIEN</span><span class="p">(</span><span class="n">HONV</span><span class="p">,</span> <span class="n">TENLOT</span><span class="p">,</span> <span class="n">TENNV</span><span class="p">,</span> <span class="n">MANV</span><span class="p">)</span>
+<span class="k">VALUES</span> <span class="p">(</span><span class="err">„</span><span class="n">Le</span><span class="err">‟</span><span class="p">,</span> <span class="err">„</span><span class="n">Van</span><span class="err">‟</span><span class="p">,</span> <span class="err">„</span><span class="n">Tuyen</span><span class="err">‟</span><span class="p">,</span> <span class="err">„</span><span class="mi">635635635</span><span class="err">‟</span><span class="p">)</span>
+</code></pre>
+        </div>
+        <blockquote>
+          <p>Chú ý: Thứ tự các giá trị phải trùng với thứ tự các cột, có thể thêm giá trị NULL ở những thuộc tính k là khóa chính và NOT NULL</p>
+        </blockquote>
+      </li>
+      <li>Xóa (delete):
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">DELETE</span> <span class="k">FROM</span> <span class="n">TenBang</span>
+<span class="k">WHERE</span> <span class="n">DieuKien</span>
+</code></pre>
+        </div>
+      </li>
+      <li>Sửa (update):
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">UPDATE</span> <span class="o">&lt;</span><span class="n">t</span><span class="err">ê</span><span class="n">n</span> <span class="n">b</span><span class="err">ả</span><span class="n">ng</span><span class="o">&gt;</span>
+<span class="k">SET</span> <span class="o">&lt;</span><span class="n">t</span><span class="err">ê</span><span class="n">n</span> <span class="n">thu</span><span class="err">ộ</span><span class="k">c</span> <span class="n">t</span><span class="err">í</span><span class="n">nh</span><span class="o">&gt;=&lt;</span><span class="n">gi</span><span class="err">á</span> <span class="n">tr</span><span class="err">ị</span> <span class="n">m</span><span class="err">ớ</span><span class="n">i</span><span class="o">&gt;</span><span class="p">,</span><span class="o">&lt;</span><span class="n">t</span><span class="err">ê</span><span class="n">n</span> <span class="n">thu</span><span class="err">ộ</span><span class="k">c</span> <span class="n">t</span><span class="err">í</span><span class="n">nh</span><span class="o">&gt;=&lt;</span><span class="n">gi</span><span class="err">á</span> <span class="n">tr</span><span class="err">ị</span> <span class="n">m</span><span class="err">ớ</span><span class="n">i</span><span class="o">&gt;</span><span class="p">,</span><span class="err">…</span>
+<span class="p">[</span><span class="k">WHERE</span> <span class="o">&lt;</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="o">&gt;</span><span class="p">]</span>
+</code></pre>
+        </div>
+        <p>Ví dụ:</p>
+        <div class="language-sql highlighter-rouge"><pre class="highlight"><code><span class="k">UPDATE</span> <span class="n">NHANVIEN</span>
+<span class="k">SET</span> <span class="n">NGSINH</span><span class="o">=</span><span class="err">‟</span><span class="mi">08</span><span class="o">/</span><span class="mi">12</span><span class="o">/</span><span class="mi">1965</span><span class="err">‟</span>
+<span class="k">WHERE</span> <span class="n">MANV</span><span class="o">=</span><span class="err">„</span><span class="mi">333445555</span><span class="err">‟</span>
+</code></pre>
+        </div>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://localhost:4000/tags/#csdl" class="page__taxonomy-item" rel="tag">CSDL</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://localhost:4000/tags/#dbms" class="page__taxonomy-item" rel="tag">DBMS</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://localhost:4000/tags/#sql-server" class="page__taxonomy-item" rel="tag">SQL server</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://localhost:4000/tags/#sql" class="page__taxonomy-item" rel="tag">SQL</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://localhost:4000/categories/#sql" class="page__taxonomy-item" rel="tag">SQL</a>
+    
+    </span>
+  </p>
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-09-05T00:00:00+07:00">September 05, 2017</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=CÁC CÂU LỆNH SQL CĂN BẢN HAY SỬ DỤNG http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+    </div>
+
+    
+      <div class="page__comments">
+	<!-- Message comments -->
+	<!-- <section>
+		<h4 class="page__comments-title"></h4>
+		<form id="comment-after-post" class="page__comments-form js-form form" method="post" action="https://khanhsaker1997@gmail" _lpchecked="1">
+			<div class="form__spinner">
+				<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+				<span class="sr-only">Loading...</span>
+			</div>
+			<fieldset>
+				<label for="comment-form-message">Bạn có góp ý về bài viết của tôi hoặc muốn nói gì đó với tôi? Gửi tin nhắn ngay:</label>
+				<div class="small help-block">Send me a message about my post or wanna tell me sth?</div>
+				<textarea type="text" rows="3" id="comment-form-message" name="message" tabindex="1"></textarea>
+				<label for="comment-form-name">Tên và mail để tôi có thể liên lạc với bạn:</label>
+				<div class="small help-block">Your name and your email</div>
+				<input type="text" id="comment-form-name" name="email" tabindex="2">
+			</fieldset>
+			<fieldset>
+				<input type="submit" id="comment-form-submit" tabindex="5" class="btn btn-default" value="Send">
+			</fieldset>
+		</form>
+	</section> -->
+
+	<section>
+		<h4>Comments</h4>
+		<div class="small help-block">Lưu ý: Hệ thống comment Disqus có thể không được load thành công do bị chặn bởi nhà mạng. Để khắc phục, đổi DNS về 8.8.8.8 hoặc 8.8.4.4 .</div>
+		<div id="disqus_thread"></div>
+			<script>
+
+			/**
+			*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+			*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+			/*
+			var disqus_config = function () {
+			this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+			this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+			};
+			*/
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://khanhsaker97-github-io.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+			</script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	</section>
+
+
+
+	<!-- Facebook comments -->
+	<!-- <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8&appId=1794997907410583";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<h4 class="page__comments-title">Facebook comment</h4>
+	<section>
+		<div class="fb-comments" data-href="http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/" data-numposts="5" data-width="100%"></div>
+	</section> -->
+</div>
+    
+
+
+  </article>
+
+  <!-- Page related post showing last posts -->
+  
+    <div class="page__related">
+       <h4 class="page__related-title">Recent Posts</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/tricks/install-plugin-for-st/" rel="permalink">Khắc phục lỗi không cài được plugins trên Sublime Text 3
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  3 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/life/can-bang-cuoc-song/" rel="permalink">Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  3 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Đôi khi sự cân bằng trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/operating-systems/tao-usb-boot-chuan/" rel="permalink">Hướng dẫn cài đặt USB Boot theo chuẩn UEFI hoặc LEGACY
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  3 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều h...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/operating-systems/cai-song-song-linux-windows10/" rel="permalink">Hướng dẫn cài song song 2 hệ điều hành Windows 10 và Kali Linux
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  3 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Windows và Linux và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dù...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+    
+    
+      <li><a href="https://facebook.com/khanhsakercsdn"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+      <li><a href="http://github.com/khanhsaker97"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2017 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-102795282-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+<!-- Custom scripts for each page -->	
+	
+
+
+
+  </body>
+</html>
