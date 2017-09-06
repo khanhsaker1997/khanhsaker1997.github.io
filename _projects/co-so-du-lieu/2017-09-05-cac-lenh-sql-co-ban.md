@@ -59,7 +59,7 @@ tags: [CSDL,DBMS,SQL,SQL server]
   ```
 
 * Tạo các ràng buộc:
-  * Ràng buộc khóa chính (**Primary Key Constraint**:
+  * Ràng buộc khóa chính (**Primary Key Constraint**):
  ```sql
  ALTER TABLE TenBang ADD CONSTRAINT TenRangBuoc PRIMARY KEY ThuocTinhKhoa
  -- ThuocTinhKhoa phải khác NULL
@@ -164,7 +164,7 @@ FROM <danh sách các bảng>
   Ví dụ:
   ```sql
   INSERT INTO NHANVIEN(HONV, TENLOT, TENNV, MANV)
-  VALUES („Le‟, „Van‟, „Tuyen‟, „635635635‟)
+  VALUES ('Le', 'Van', 'Tuyen', '635635635')
   ```
   > Chú ý: Thứ tự các giá trị phải trùng với thứ tự các cột, có thể thêm giá trị NULL ở những thuộc tính k là khóa chính và NOT NULL
 
@@ -183,6 +183,6 @@ FROM <danh sách các bảng>
   Ví dụ:
   ```sql
   UPDATE NHANVIEN
-  SET NGSINH=‟08/12/1965‟
-  WHERE MANV=„333445555‟
+  SET NGSINH='08/12/1965'
+  WHERE MANV='333445555'
   ```

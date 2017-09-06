@@ -50,6 +50,6 @@ tags: [CSDL,DBMS,SQL,SQL server]
 |`Date`|3 bytes| `Từ 01/01/0001 đến 12/31/9999`|
 |`Time`|3-5 bytes| `00:00:00:0000000 tới 23:59:59:9999999`|
 
-> Hàm **SYSDATETIME** trả về thời gian hiện tại của hệ thống mà không có múi giờ với độ chính xác mili giây
-> Hàm **SYSDATETIMEOFFSET** giống với  hàm **SYSDATETIME**, nhưng bao gồm cả múi giờ.
+> Hàm **SYSDATETIME()** trả về thời gian hiện tại của hệ thống mà không có múi giờ với độ chính xác mili giây
+> Hàm **SYSDATETIMEOFFSET()** giống với  hàm **SYSDATETIME()**, nhưng bao gồm cả múi giờ.
 
