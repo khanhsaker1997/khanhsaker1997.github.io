@@ -3,7 +3,7 @@ layout: single
 title: "Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C"
 date: 2017-09-08
 categories: [tricks]
-tags: [sublime text,c++,config]
+tags: [sublime text,c++]
 lang: vi
 header:
   overlay_image: "/assets/img/ST3/header.jpg"
