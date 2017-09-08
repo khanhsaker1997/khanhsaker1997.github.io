@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title: "Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C"
 date: 2017-09-08
