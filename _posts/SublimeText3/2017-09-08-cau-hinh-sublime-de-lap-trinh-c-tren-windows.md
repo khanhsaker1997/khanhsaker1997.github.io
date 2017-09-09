@@ -1,4 +1,4 @@
----
+﻿
 layout: single
 title: "Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C"
 date: 2017-09-08
@@ -45,7 +45,7 @@ Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán v�
 
 ![Hình 3](/assets/img/ST3/st6.png)
 
-Ô cê vậy là xong rồi đó. Giờ bạn muốn biên dịch và chạy chương trình `C` bạn chỉ việc chọn *Tools* > *Build System* > *RunC++* :
+Ô cê vậy là xong rồi đó. Giờ bạn muốn biên dịch và chạy chương trình `C` bạn chỉ việc chọn *Tools* > *Build System* > *RunC++*  và nhấn `Ctrl + B`:
 ![Hình 4](/assets/img/ST3/st7.png)
 Sau đó là chương trình được Build và chạy lên như thế này :
 ![Hình 5](/assets/img/ST3/st8.png)
