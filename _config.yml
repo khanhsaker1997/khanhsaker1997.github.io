@@ -243,6 +243,12 @@ collections:
   trickit:
     output: true
     permalink: /:collection/:path/
+  laptrinhweb:
+    output: true
+    permalink: /:collection/:path/
+  laptrinhc:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -280,6 +286,17 @@ defaults:
   - scope:
       path: ""
       type: trickit
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _laptrinhc
+  - scope:
+      path: ""
+      type: laptrinhc
     values:
       layout: single
       author_profile: true
