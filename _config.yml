@@ -237,7 +237,7 @@ compress_html:
     
 #collections:
 collections:
-  projects:
+  csdl:
     output: true
     permalink: /:collection/:path/
   trickit:
@@ -268,7 +268,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: projects
+      type: csdl
     values:
       layout: single
       author_profile: true

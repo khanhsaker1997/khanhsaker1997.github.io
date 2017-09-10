@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C</title>
+        <description>
+          
+          Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++. Trước khi vào bài hướng dẫn các bạn phải cài đặt Sublime...
+        </description>
+        <pubDate>Fri, 08 Sep 2017 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows/</guid>
+      </item>
+    
+      <item>
         <title>Khắc phục lỗi không cài được plugins trên Sublime Text 3</title>
         <description>
           
@@ -81,83 +92,6 @@
     <description>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Chương I- CÁC KHÁI NIỆM CƠ BẢN VỀ HỆ CƠ SỞ DỮ LIỆU</title>
-        <description>
-          
-          I- Cơ sở dữ liệu Cơ sở dữ liệu là một tập hợp các dữ liệu có liên quan với nhau, được lưu trữ trên máy tính, có nhiều người sử dụng và được tổ chức theo một mô hình. Dữ liệu là những sự kiện có thể ghi lại...
-        </description>
-        <pubDate>Wed, 26 Jul 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/projects/co-so-du-lieu/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/co-so-du-lieu/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/</guid>
-      </item>
-    
-      <item>
-        <title>Chương II- MÔ HÌNH THỰC THỂ - LIÊN KẾT (ER)</title>
-        <description>
-          
-          Đây là mô hình dữ liệu mức quan niệm phổ biến, tập trung vào các cấu trúc dữ liệu và các ràng buộc. Mô hình này thường được sử dụng để thiết kế các ứng dụng cơ sở dữ liệu và nhiều công cụ thiết kế cơ sở dữ liệu...
-        </description>
-        <pubDate>Thu, 27 Jul 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/projects/co-so-du-lieu/2017-07-27-mo-hinh-thuc-the-lien-ket/</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/co-so-du-lieu/2017-07-27-mo-hinh-thuc-the-lien-ket/</guid>
-      </item>
-    
-      <item>
-        <title>Chương III- MÔ HÌNH QUAN HỆ, CÁC RÀNG BUỘC QUAN HỆ VÀ ĐẠI SỐ QUAN HỆ</title>
-        <description>
-          
-          Mô hình quan hệ được Ted Codd đưa ra đầu tiên vào năm 1970 và gây được chú ý ngay tức khắc vì tính đơn giản và các cơ sở toán học của nó. Mô hình quan hệ sử dụng khái niệm quan hệ toán học như là khối xây...
-        </description>
-        <pubDate>Fri, 28 Jul 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/projects/co-so-du-lieu/2017-07-28-mo-hinh-quan-he/</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/co-so-du-lieu/2017-07-28-mo-hinh-quan-he/</guid>
-      </item>
-    
-      <item>
-        <title>Chương III- PHỤ THUỘC HÀM VÀ CHUẨN HÓA CƠ SỞ DỮ LIỆU QUAN HỆ, CÁC THUẬT TOÁN THIẾT KẾ CƠ SỞ DỮ LIỆU QUAN HỆ</title>
-        <description>
-          
-          I- Các nguyên tắc thiết kế lược đồ quan hệ Ngữ nghĩa của các thuộc tính quan hệ Nguyên tắc 1: Thiết kế một lược đồ quan hệ sao cho dễ giải thích ý nghĩa của nó. Đừng tổ hợp các thuộc tính từ nhiều kiểu thực thể và kiểu...
-        </description>
-        <pubDate>Sat, 29 Jul 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/projects/co-so-du-lieu/2017-07-29-phu-thuoc-ham/</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/co-so-du-lieu/2017-07-29-phu-thuoc-ham/</guid>
-      </item>
-    
-      <item>
-        <title>Chương V- CÁC THUẬT TOÁN TRONG CƠ SỞ DỮ LIỆU</title>
-        <description>
-          
-          I- Các thuật toán tìm khóa Tìm bao đóng của tập các phụ thuộc hàm. Bao đóng của tập phụ thuộc hàm F (ký hiệu là F+) là tập hợp tất cả các phụ thuộc hàm suy diễn được từ F. Thuật toán: Cho lược đồ quan hệ R =...
-        </description>
-        <pubDate>Tue, 01 Aug 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/projects/co-so-du-lieu/2017-08-01-cac-thuat-toan/</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/co-so-du-lieu/2017-08-01-cac-thuat-toan/</guid>
-      </item>
-    
-      <item>
-        <title>CÁC CÂU LỆNH SQL CĂN BẢN HAY SỬ DỤNG</title>
-        <description>
-          
-          Tạo và quản lý CSDL: Tạo CSDL mới: CREATE DATABASE DatabaseName Mở CSDL để làm việc: USE DatabaseName Xóa CSDL: DROP DATABASE DatabaseName Đổi tên CSDL: ALTER DATABASE DatabaseName MODIFY NAME = NewDatabaseName Tạo bảng: CREATE TABLE TableName ( ColumnName1 KieuDuLieu1 [NOT NULL] ColumnName2 KieuDuLieu2 [NOT NULL] ) Thay đổi...
-        </description>
-        <pubDate>Tue, 05 Sep 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/co-so-du-lieu/2017-09-05-cac-lenh-sql-co-ban/</guid>
-      </item>
-    
-      <item>
-        <title>KIỂU DỮ LIỆU HAY SỬ DỤNG TRONG SQL</title>
-        <description>
-          
-          Mỗi cột (column), biến cục bộ (local variable), biểu thức (expression) và tham số (parameter) đều có một kiểu dữ liệu nhất định. Sau đây là danh sách các kiểu dữ liệu của SQL. Đối với tên bảng (table name)và tên cột (column name) chúng ta có thể đặt tên...
-        </description>
-        <pubDate>Wed, 06 Sep 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/</guid>
-      </item>
     
   </channel>
 </rss>

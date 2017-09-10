@@ -17,27 +17,27 @@
 
 
 
-<title>KIỂU DỮ LIỆU HAY SỬ DỤNG TRONG SQL - Nguyễn Duy Khánh</title>
+<title>Chương I- CÁC KHÁI NIỆM CƠ BẢN VỀ HỆ CƠ SỞ DỮ LIỆU - Nguyễn Duy Khánh</title>
 
 
 
 
-<meta name="description" content="Mỗi cột (column), biến cục bộ (local variable), biểu thức (expression) và tham số (parameter) đều có một kiểu dữ liệu nhất định. Sau đây là danh sách các kiểu dữ liệu của SQL.">
+<meta name="description" content="I- Cơ sở dữ liệu">
 
 
 
 
 <meta property="og:type" content="website">
 <meta name="author" content="Duy Khanh Nguyen">
-<meta property="og:title" content="KIỂU DỮ LIỆU HAY SỬ DỤNG TRONG SQL">
+<meta property="og:title" content="Chương I- CÁC KHÁI NIỆM CƠ BẢN VỀ HỆ CƠ SỞ DỮ LIỆU">
 
 
-  <link rel="canonical" href="http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/">
-  <meta property="og:url" content="http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/">
+  <link rel="canonical" href="http://localhost:4000/csdl/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/">
+  <meta property="og:url" content="http://localhost:4000/csdl/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/">
 
 
 
-  <meta property="og:description" content="Mỗi cột (column), biến cục bộ (local variable), biểu thức (expression) và tham số (parameter) đều có một kiểu dữ liệu nhất định. Sau đây là danh sách các kiểu dữ liệu của SQL.">
+  <meta property="og:description" content="I- Cơ sở dữ liệu">
 
 
 
@@ -174,7 +174,7 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/trickit/">Tricks IT</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/projects/">CSDL</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/csdl/">CSDL</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/music/">music i like</a></li>
@@ -315,15 +315,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="KIỂU DỮ LIỆU HAY SỬ DỤNG TRONG SQL">
-    <meta itemprop="description" content="Mỗi cột (column), biến cục bộ (local variable), biểu thức (expression) và tham số (parameter) đều có một kiểu dữ liệu nhất định. Sau đây là danh sách các kiểu dữ liệu của SQL.">
-    <meta itemprop="datePublished" content="September 06, 2017">
+    <meta itemprop="headline" content="Chương I- CÁC KHÁI NIỆM CƠ BẢN VỀ HỆ CƠ SỞ DỮ LIỆU">
+    <meta itemprop="description" content="I- Cơ sở dữ liệu">
+    <meta itemprop="datePublished" content="July 26, 2017">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">KIỂU DỮ LIỆU HAY SỬ DỤNG TRONG SQL
+          <h1 class="page__title" itemprop="headline">Chương I- CÁC KHÁI NIỆM CƠ BẢN VỀ HỆ CƠ SỞ DỮ LIỆU
 </h1>
           
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
@@ -333,188 +333,92 @@
 
 
 
-  1 minute read
+  4 minute read
 </p>
           
         </header>
       
 
       <section class="page__content" itemprop="text">
-        <h2 id="mỗi-cột-column-biến-cục-bộ-local-variable-biểu-thức-expression-và-tham-số-parameter-đều-có-một-kiểu-dữ-liệu-nhất-định-sau-đây-là-danh-sách-các-kiểu-dữ-liệu-của-sql">Mỗi cột (column), biến cục bộ (local variable), biểu thức (expression) và tham số (parameter) đều có một kiểu dữ liệu nhất định. Sau đây là danh sách các kiểu dữ liệu của SQL.</h2>
+        <h2 id="i--cơ-sở-dữ-liệu">I- Cơ sở dữ liệu</h2>
 
-<blockquote>
-  <p>Đối với tên bảng (table name)và tên cột (column name) chúng ta có thể đặt tên dài tối đa 128 ký tự.</p>
-</blockquote>
-
-<h3 id="kiểu-dữ-liệu">Kiểu dữ liệu:</h3>
-
-<ul>
-  <li>Số nguyên:</li>
-</ul>
-
-<table>
-  <thead>
-    <tr>
-      <th>Kiểu dữ liệu</th>
-      <th>Kích thước</th>
-      <th>Miền giá trị dữ liệu lưu trữ</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code class="highlighter-rouge">Int</code></td>
-      <td>4 bytes</td>
-      <td><code class="highlighter-rouge">Từ -2,147,483,648 đến  +2,147,483,648</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Smallint</code></td>
-      <td>2 bytes</td>
-      <td><code class="highlighter-rouge">Từ -32,768 đến 32,767</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Tinyint</code></td>
-      <td>1 byte</td>
-      <td><code class="highlighter-rouge"> Từ 0 đến 255</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Bit</code></td>
-      <td>1 byte</td>
-      <td><code class="highlighter-rouge">0 or 1 or Null</code></td>
-    </tr>
-  </tbody>
-</table>
+<ol>
+  <li><strong><em>Cơ sở dữ liệu</em></strong> là một tập hợp các dữ liệu có liên quan với nhau, được lưu trữ trên máy tính, có nhiều người sử dụng và được tổ chức theo một mô hình. <strong><em>Dữ liệu</em></strong> là những sự kiện có thể ghi lại được và có ý nghĩa.</li>
+  <li><strong><em>Tính chât</em></strong>
+    <ul>
+      <li><strong>Một cơ sở dữ Liệu:</strong></li>
+    </ul>
+  </li>
+</ol>
 
 <ul>
-  <li>Dạng số thập phân:</li>
+  <li>Biểu thị một khía cạnh nào đó của thế giới thực như hoạt động của một công ty, một nhà trường, một ngân hàng… Những thay đổi của thế giới thực phải được phản ánh một cách trung thực vào trong cơ sở dữ liệu. Những thông tin được đưa vào trong cơ sở dữ liệu tạo tahnhf một không gian cơ sở dữ liệu hoặc là một “thế giới nhỏ”.</li>
+  <li>Là một tập hợp liên kết với nhau một cách logic và mang một ý nghĩa cổ hữu nào đó. Một cơ sở dữ liệu không phải là một tập hộp tùy tiện.</li>
+  <li>có thể có cỡ tùy ý và có độ phức tạp thay đổi.</li>
 </ul>
 
-<table>
-  <thead>
-    <tr>
-      <th>Kiểu dữ liệu</th>
-      <th>Kích thước</th>
-      <th>Miền giá trị dữ liệu lưu trữ</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code class="highlighter-rouge">Decimal, Numeric</code></td>
-      <td>17 bytes</td>
-      <td><code class="highlighter-rouge">Từ -10^38 đến +10^38</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Float</code></td>
-      <td>8 bytes</td>
-      <td><code class="highlighter-rouge"> Từ -1.79E + 308 đến 1.79E + 308</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Real</code></td>
-      <td>4 bytes</td>
-      <td><code class="highlighter-rouge"> Từ -1.79E + 308 đến 1.79E + 308</code></td>
-    </tr>
-  </tbody>
-</table>
+<h2 id="ii--hệ-quản-trị-cơ-sở-dữ-liệu">II- Hệ quản trị cơ sở dữ liệu</h2>
+
+<ol>
+  <li><strong><em>Hệ quản trị cơ sở dữ liệu</em></strong> là một tập hợp chương tình giúp cho người sử dụng tạo ra, duy trì và khai thác một cơ sở dữ liệu. Nó là một hệ thống phần mềm phổ dụng, làm dễ quá trình định nghĩa, xây dựng và thao tác cơ sở dữ liệu cho các ứng dụng khác nhau.</li>
+</ol>
 
 <ul>
-  <li>Dạng chuỗi:</li>
+  <li><em>Xây dựng</em> một cơ sở dữ liệu là quá trình lưu trữ các dữ liệu trên các phương tiện lưu trữ được hệ quản trị cơ sở dữ liệu kiểm soát.</li>
+  <li><em>Thao tác</em> một cơ sở dữ liệu bao gồm các chức năng truy vấn cơ sở dữ liệu để lấy ra các dữ liệu cụ thể, cập nhật cơ sở dữ liệu để phản ánh các thay đổi trong thế giới nhỏ và tạo ra các báo cáo từ các dữ liệu
+    <ol>
+      <li><strong><em>Chức năng</em></strong> của một hệ quản trị cơ sở dữ liệu:</li>
+    </ol>
+  </li>
+  <li>Lưu trữ các định nghĩa, các mối liên kết dữ liệu và một từ điển dữ liệu.</li>
+  <li>Tạo ra các cấu trúc phức tạp theo yêu cầu để lưu trữ dữ liệu. Nó giúp người sử dụng làm nhiệm vụ khó khăn là định nghĩa và lập trình cho các đặc trưng vật lý của dữ liệu.</li>
+  <li>Biến đổi các dữ liệu được nhập vào để phù hợp với các cấu trúc dữ liệu ở điểm nêu bên trên.</li>
+  <li>Tạo ra một hệ thống bảo mật và áp đặt tính bảo mật và riêng tư trong CSDL.</li>
+  <li>Tạo ra các cấu trúc phức tạp cho phép nhiều người sử dụng truy cấp đến dữ liệu.</li>
+  <li>Cũng cấp các thủ tục sao lưu và phục hồi dữ liệu để đảm bảo sự an toàn và toàn vẹn dữ liệu.</li>
+  <li>Xúc tiến và áp đặt các quy tắc an toàn để loại bỏ vấn đề toàn vẹn dữ liệu.</li>
+  <li>Cung cấp việc truy vấn dữ liệu thông qua một ngôn ngữ truy vấn.</li>
 </ul>
 
-<table>
-  <thead>
-    <tr>
-      <th>Kiểu dữ liệu</th>
-      <th>Kích thước</th>
-      <th>Miền giá trị dữ liệu lưu trữ</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code class="highlighter-rouge">Char</code></td>
-      <td>N bytes</td>
-      <td><code class="highlighter-rouge">Từ 1 đến 8,000 ký tự, độ dài cố định</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Varchar</code></td>
-      <td>N bytes</td>
-      <td><code class="highlighter-rouge">Từ 1 đến 8,000 ký tự, độ dài cố định</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Text</code></td>
-      <td>N bytes</td>
-      <td><code class="highlighter-rouge">Từ 1 đến 2,147,483,647 ký tự</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Nchar</code></td>
-      <td>2* n bytes</td>
-      <td><code class="highlighter-rouge">Unicode, từ 1 đến 4,000 ký tự, mỗi ký tự 2 bytes</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Nvarchar</code></td>
-      <td>2* n bytes</td>
-      <td><code class="highlighter-rouge">Từ -10^38 đến 10^38</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Ntext</code></td>
-      <td>2*n bytes</td>
-      <td><code class="highlighter-rouge">Từ 1 đến 1,073,741,823 ký tự, mỗi ký tự 1 byte</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Image</code></td>
-      <td>N byte</td>
-      <td><code class="highlighter-rouge">Từ 1 đến 2,147,483,647</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Binary</code></td>
-      <td>N byte</td>
-      <td><code class="highlighter-rouge"> Từ 1 đến 8000</code></td>
-    </tr>
-  </tbody>
-</table>
+<h2 id="iii--mô-hình-cơ-sở-dữ-liệu">III- Mô hình cơ sở dữ liệu</h2>
 
-<ul>
-  <li>Dạng ngày giờ:</li>
-</ul>
+<p><strong>Mô hình cơ sở dữ liệu</strong> là một tập hộp các khái niệm dùng để biểu diễn các cấu trúc của cơ sở dữ liệu. Cấu trúc cẩu một CSDL là các kiểu dữ liệu và các mối liên kết và các ràng buộc phải tuân theo trên các dữ liệu.</p>
+<ol>
+  <li>Các loại mô hình cơ sở dữ liệu:
+    <ul>
+      <li>Mô hình phân cấp</li>
+      <li>Mô hình mạng</li>
+      <li>Mô hình quan hệ</li>
+      <li>Mô hình thực thể - liên kết</li>
+      <li>Mô hình hướng đối tượng</li>
+    </ul>
+  </li>
+  <li>Con người trong hệ cơ sở dữ liệu:
+    <ul>
+      <li><strong>Người quản trị CSDL (Database Administrator - DBA)</strong>: là người chịu trách nhiệm quản lý tài nguyên đó. Người này chịu trách nhiệm về việc cho phép truy cập cơ sở dữ liệu, tổ chức và hướng dẫn việc sử dụng, cấp các phần mềm và phần cứng theo yêu cầu.</li>
+      <li><strong>Người thiết kế CSDL</strong>: người này chịu tách nhiệm xác định các dữ liệu sẽ được lưu giữ trong cơ sở, chọn các cấu trúc thích hợp để biểu diễn và lưu giữ các dữ liệu đó.</li>
+      <li><strong>Người sử dụng</strong>: người mà có công việc của họ đòi hỏi truy cập đến cơ sở dữ liệu.</li>
+      <li><strong>Người phân tích hệ thống và lập trình ứng dụng</strong>: người này xác định các yêu cầu của người sử dụng để đặc tả chương trình phù hợp với yêu cầu của họ.</li>
+      <li><strong>Người thiết kế và cài đặt hệ quản trị dữ liệu</strong>: là người thiết kế, cài đặt các mô đun, giao diện cảu hệ quản trị CSDL thành các phần  mềm đóng gói.</li>
+      <li><strong>Người phát triển công cụ</strong>: là những người thiết kế và cài đặt các công cụ, đó là phần mềm đóng gói dễ làm việc và thiết kế sử dụng.</li>
+      <li><strong>Các thao tác viên và những người bảo trì</strong>: là những người chịu trách nhiệm về việc chạy và bảo trì phần cứng và phần mềm của hệ thống.</li>
+    </ul>
+  </li>
+</ol>
 
-<table>
-  <thead>
-    <tr>
-      <th>Kiểu dữ liệu</th>
-      <th>Kích thước</th>
-      <th>Miền giá trị dữ liệu lưu trữ</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code class="highlighter-rouge">datetime</code></td>
-      <td>8 bytes</td>
-      <td><code class="highlighter-rouge">Từ 01/01/1753 đến 31/12/9999</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">smalldatetime</code></td>
-      <td>4 bytes</td>
-      <td><code class="highlighter-rouge">Từ 01/01/1900 đến 06/06/2079</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Date</code></td>
-      <td>3 bytes</td>
-      <td><code class="highlighter-rouge">Từ 01/01/0001 đến 12/31/9999</code></td>
-    </tr>
-    <tr>
-      <td><code class="highlighter-rouge">Time</code></td>
-      <td>3-5 bytes</td>
-      <td><code class="highlighter-rouge">00:00:00:0000000 tới 23:59:59:9999999</code></td>
-    </tr>
-  </tbody>
-</table>
+<h2 id="tổng-kết-các-kiến-thức-cần-nắm-được-qua-chương-này">Tổng kết: các kiến thức cần nắm được qua chương này</h2>
 
-<blockquote>
-  <p>Hàm <strong>SYSDATETIME()</strong> trả về thời gian hiện tại của hệ thống mà không có múi giờ với độ chính xác mili giây
-Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIME()</strong>, nhưng bao gồm cả múi giờ.</p>
-</blockquote>
-
-<blockquote>
-  <p>By Nguyễn Duy Khánh</p>
-</blockquote>
+<ol>
+  <li>Định nghĩa các thuật ngữ: cơ sở dữ liệu, hệ quản trị CSDL, hệ CSDL, từ điển CSDL, mô hình CSDL.</li>
+  <li>Các tính chất của một CSDL.</li>
+  <li>Các chức năng của một hệ quản trị CSDL.</li>
+  <li>Định nghĩa mô hình cơ sở dữ liệu và phân loại.</li>
+  <li>Liệu kê các người có liên quan đến hệ cơ sở dữ liệu.
+    <blockquote>
+      <p>Nguồn: Giáo trình CSDL ~ Nguyễn Tuệ</p>
+    </blockquote>
+  </li>
+</ol>
 
         
       </section>
@@ -539,15 +443,7 @@ Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIM
     
       
       
-      <a href="http://localhost:4000/tags/#dbms" class="page__taxonomy-item" rel="tag">DBMS</a><span class="sep">, </span>
-    
-      
-      
-      <a href="http://localhost:4000/tags/#sql-server" class="page__taxonomy-item" rel="tag">SQL server</a><span class="sep">, </span>
-    
-      
-      
-      <a href="http://localhost:4000/tags/#sql" class="page__taxonomy-item" rel="tag">SQL</a>
+      <a href="http://localhost:4000/tags/#dbms" class="page__taxonomy-item" rel="tag">DBMS</a>
     
     </span>
   </p>
@@ -568,27 +464,31 @@ Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIM
     
       
       
-      <a href="http://localhost:4000/categories/#sql" class="page__taxonomy-item" rel="tag">SQL</a>
+      <a href="http://localhost:4000/categories/#csdl" class="page__taxonomy-item" rel="tag">CSDL</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://localhost:4000/categories/#database" class="page__taxonomy-item" rel="tag">database</a>
     
     </span>
   </p>
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-09-06T00:00:00+07:00">September 06, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-07-26T00:00:00+07:00">July 26, 2017</time></p>
         
       </footer>
 
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=KIỂU DỮ LIỆU HAY SỬ DỤNG TRONG SQL http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=Chương I- CÁC KHÁI NIỆM CƠ BẢN VỀ HỆ CƠ SỞ DỮ LIỆU http://localhost:4000/csdl/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/csdl/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=http://localhost:4000/csdl/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/csdl/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -656,7 +556,7 @@ Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIM
 	}(document, 'script', 'facebook-jssdk'));</script>
 	<h4 class="page__comments-title">Facebook comment</h4>
 	<section>
-		<div class="fb-comments" data-href="http://localhost:4000/projects/co-so-du-lieu/2017-09-06-kieu-du-lieu-trong-sql/" data-numposts="5" data-width="100%"></div>
+		<div class="fb-comments" data-href="http://localhost:4000/csdl/2017-07-26-khai-quat-ve-cac-he-co-so-du-lieu/" data-numposts="5" data-width="100%"></div>
 	</section> -->
 </div>
     
@@ -679,6 +579,35 @@ Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIM
     
     <h3 class="archive__item-title" itemprop="headline">
       
+        <a href="http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" rel="permalink">Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  4 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngô...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
         <a href="http://localhost:4000/tricks/install-plugin-for-st/" rel="permalink">Khắc phục lỗi không cài được plugins trên Sublime Text 3
 </a>
       
@@ -691,7 +620,7 @@ Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIM
 
 
 
-  1 minute read
+  4 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.
@@ -722,7 +651,7 @@ Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIM
 
 
 
-  1 minute read
+  4 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Đôi khi sự cân bằng trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để ...</p>
@@ -751,39 +680,10 @@ Hàm <strong>SYSDATETIMEOFFSET()</strong> giống với  hàm <strong>SYSDATETIM
 
 
 
-  1 minute read
+  4 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều h...</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-    <h3 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/operating-systems/cai-song-song-linux-windows10/" rel="permalink">Hướng dẫn cài song song 2 hệ điều hành Windows 10 và Kali Linux
-</a>
-      
-    </h3>
-    
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-
-
-
-
-
-
-  1 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description">Windows và Linux và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dù...</p>
   </article>
 </div>
 
