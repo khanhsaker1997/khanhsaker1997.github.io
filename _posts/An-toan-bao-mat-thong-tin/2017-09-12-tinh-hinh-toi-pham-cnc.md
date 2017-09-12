@@ -9,7 +9,7 @@ header:
 og_image: "/assets/img/post/an-toan-bao-mat.jpg"
 ---
 ## Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam
-1. Thực trạng công nghệ thông tin
+### Thực trạng công nghệ thông tin
 * 60% sàn chứng khoán của Mỹ là do công nghệ thông tin.
 * Ấn Độ đang giàu thứ 10 thế giới (cường quốc xuất khẩu phần mềm nhờ CNTT)
 * Nhật Bản đã khắc phục hậu quả của động đất, sóng thần và phát triển nhanh chóng nhờ công nghệ thông tin.
@@ -18,7 +18,8 @@ og_image: "/assets/img/post/an-toan-bao-mat.jpg"
 * Tại hội nghị của Hội đồng An ninh Liên bang Nga, **Học Thuyết an ninh thông tin Liên bang Nga** do tổng thống Nga Putin phê duyệt ngày 9/9/2000 cũng nhận đinh rằng: "Trong điều kiện hiện nay, "sức sát thương" của các cuộc tấn công thông tin có thể cao hơn bất kỳ một loại vũ khí thông thường nào"
 
 >Qua đây có thể thấy an toàn và bảo mật thông tin là một nhiệm vụ vô cùng quan trọng, khó khăn của bất kỳ một tổ chức, cá nhân nào khi tham gia trao đổi tin.
-2. **Hacker, Cracker** là gì:
+
+### **Hacker, Cracker** là gì:
 * Hack là sử dụng tính sáng tạo đê giải quyết một vấn đề nào đó. Nhiều người dùng sự sáng tạo đó để xâm nhập, lợi dụng khai thác những điểm yếu trên máy tính, điện thoại.. và nhiều thứ khác.
 * **Hacker**: là những người thực hiện hack. Có 4 loại hacker chính hiện hay.
     * Mũ trắng: Dùng Hack vào mục đích tốt.
@@ -27,10 +28,12 @@ og_image: "/assets/img/post/an-toan-bao-mat.jpg"
     * Mũ đỏ: Làm việc cho Chính phủ.
 
 * Một số **Nhóm Hacker**, **Hacker** nổi tiếng: Anonymous(vô danh), Lizard Squad, Lulzsec, Syrian Electronic Army(SEA)...
-3. Vượt qua _mật khẩu_ của WinXP
+
+### Vượt qua _mật khẩu_ của WinXP
 * Sử dụng tổ hợp phím **CTRL + ALT + DEL** 2 lần liên tiếp thì sẽ được cửa sổ đăng nhập
 * Tại **username = "administrator"** nhấn enter. Ô cê. Nếu k đc thì điển thêm **password = "administrator"**.
-4. Vượt qua mật khẩu Win 7 và Win 10
+
+### Vượt qua mật khẩu Win 7 và Win 10
 * Bản chất mật khẩu của windows nằm trong file SAM. Trong file này mật khẩu đã được mã hóa.
 * Dùng công cụ Hiren's Boot để cứu hộ Windows. Trong nó có chức năng phá Pass của windows (Xóa). *Phương thức này cùi rồi* và có nhiều phương pháp mới hiện đại hơn.
 * Dùng USB có cơ chế Bypass. Vượt qua mật khẩu chứ không xóa Pass của nó đi.
