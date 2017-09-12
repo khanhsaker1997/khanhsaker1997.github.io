@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-10T20:48:07+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C</title><link href="http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" rel="alternate" type="text/html" title="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C" /><published>2017-09-08T00:00:00+07:00</published><updated>2017-09-08T00:00:00+07:00</updated><id>http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows</id><content type="html" xml:base="http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">&lt;h2 id=&quot;ở-bài-trước-mình-đã-hướng-dẫn-các-bạn-khắc-phục-lỗi-không-cài-được-plugin-trên-sublime-text-3-bài-này-mình-sẽ-hướng-dẫn-các-bạn-cấu-hình-nó-để-lập-trình-ngôn-ngữ-c-c&quot;&gt;Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-12T21:02:35+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry><title type="html">Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc</title><link href="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/" rel="alternate" type="text/html" title="Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc" /><published>2017-09-12T00:00:00+07:00</published><updated>2017-09-12T00:00:00+07:00</updated><id>http://localhost:4000/sharingthing/loi-ich-doc-nhanh</id><content type="html" xml:base="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/">&lt;p&gt;Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn&lt;/p&gt;
+&lt;h3 id=&quot;đọc-nhanh-có-lợi-gì&quot;&gt;Đọc nhanh có lợi gì?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vào đầu những năm 2000 trên nhiều phương tiện truyền thông nói tới việc “ai có thông tin là có tất cả”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Điều này thật tuyệt vời khi đẩy tốc độ truyền thông của Việt Nam trở thành một trong những quốc gia tốt nhất trên thế giới. Tuy nhiên đến nay thông tin không còn quá quan trọng nữa khi tốc độ truy xuất dữ liệu và tìm kiếm thông tin ai cũng có thể tìm được trên điện thoại thông minh và công cụ tìm kiếm. Chúng ta có nhiều thông tin nhưng đến lúc chúng ta cần phân biệt tin đúng/ sai. Hay nhiều người kết luận thờ ơ “kệ nó, đúng hay sai chả ảnh hưởng gi đến mình”. Nhưng trong công việc bạn không thể vội vã làm ngay được điều đó. Bạn cần đọc, lọc, điều chỉnh, sửa chữa lượng dữ liệu lớn để tìm ra thông tin đúng nhất, phương án xử lý tốt nhất, có lợi cho đơn vị của bạn.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Đọc nhanh giúp tư du nhanh và suy nghĩ nhanh xử lý các tình huống.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Có một phòng nhân sự phàn nàn với tôi việc phải đọc lượng dữ liệu quá lớn về hồ sơ nhân sự của gần 800 công nhân, rồi lọc thông tin của họ, kiểm tra tính xác thực của thông tin, lập danh mục thông tin, chuyển thành dữ liệu tin cậy trên máy tính. Nhưng khi tôi thay đổi cách đọc và tổ chức lại cách làm việc toàn bộ khối lượng xử lý chính xác trong 8 ngày, kể cả lấy dấu vân tay. Điều quan trọng hơn là nhân viên phòng này đã học được cách đọc nhanh để kiểm soát hồ sơ cho những lần sau với hàng ngàn công nhân.&lt;/p&gt;
+
+&lt;h3 id=&quot;không-gian-và-môi-trường-cho-việc-đọc&quot;&gt;Không gian và môi trường cho việc đọc:&lt;/h3&gt;
+
+&lt;p&gt;Một cảm giác khác khi đọc sách là không gian tĩnh lặng. Lúc này tâm trí
+bạn được ru ngủ trong đó và bạn đọc trong trạng thái mơ màng, nửa thức nửa
+ngủ. Bạn không nhớ đã đọc những gì. Đây chính là cách tạo dần cho bạn thói
+quen lười đọc. Cứ nhin thấy sách, tài liệu là muốn ngủ rồi. Não của bạn đã bị
+tạo thói quen nhìn thấy sách là ngủ, là ngại đọc. Vì vậy rèn luyện đọc nhanh,
+đọc tốc độ cao cần tạo cho mình môi trường, không gian phù hợp ngay từ
+khi bắt đầu cuốn sách này hoặc với từng loại tài liệu tương ứng.
+Bạn cần lựa chọn không gian để đọc sách theo sở thích của mình mới cóthể mang lại hiệu quả cao nhất&lt;/p&gt;
+
+&lt;h3 id=&quot;đo-tốc-độ-đọc-và-nắm-bắt-thông-tin&quot;&gt;Đo tốc độ đọc và nắm bắt thông tin:&lt;/h3&gt;
+&lt;p&gt;Có một số cách mang tính căn bản về cách đo tốc độ đọc của bạn, một số
+công ty toàn cầu đã đưa tiêu chí tốc độ đọc cao làm cơ sở tuyển dụng. Một
+cách đơn giản nhất để đo tốc độ đọc đó là đưa ra một bài báo, một cuốn sách
+bất kỳ rồi bấm giờ, đọc trong bao nhiêu phút chia trung bình sẽ ra số lượng
+chữ đọc một phút.&lt;/p&gt;
+&lt;p&gt;Một cách đo khác đó là các dòng chữ sẽ chạy trên màn hình và bạn đọc
+theo nội dung các dòng chữ đó. Cách này tương tự như bạn đọc tài liệu trên
+điện thoại di động vậy. Nhưng để đo được bằng máy tốc độ thường nhanh
+hơn và mắt bạn phải nhìn tập trung vào một số dòng nhất định. Một cách
+khác cũng khá phổ biến hiện nay là dùng các phần mềm đếm chữ, thậm chí
+phần mềm có thể kiểm soát được chuyển động trong mắt của bạn để tự động
+tính toán được tốc độ đọc.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="đọc nhanh" /><category term="kỹ năng" /><summary type="html">Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn Đọc nhanh có lợi gì? Vào đầu những năm 2000 trên nhiều phương tiện truyền thông nói tới việc “ai có thông tin là có tất cả”.</summary></entry><entry><title type="html">Tình hình tội phạm sử dụng CÔNG NGHỆ CAO trên thế giới và Việt Nam hiện nay</title><link href="http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc/" rel="alternate" type="text/html" title="Tình hình tội phạm sử dụng CÔNG NGHỆ CAO trên thế giới và Việt Nam hiện nay" /><published>2017-09-12T00:00:00+07:00</published><updated>2017-09-12T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc</id><content type="html" xml:base="http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc/">&lt;h2 id=&quot;tình-hình-tội-phạm-sử-dụng-công-nghệ-cao-trên-thế-giới-và-việt-nam&quot;&gt;Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Thực trạng công nghệ thông tin
+    &lt;ul&gt;
+      &lt;li&gt;60% sàn chứng khoán của Mỹ là do công nghệ thông tin.&lt;/li&gt;
+      &lt;li&gt;Ấn Độ đang giàu thứ 10 thế giới (cường quốc xuất khẩu phần mềm nhờ CNTT)&lt;/li&gt;
+      &lt;li&gt;Nhật Bản đã khắc phục hậu quả của động đất, sóng thần và phát triển nhanh chóng nhờ công nghệ thông tin.&lt;/li&gt;
+      &lt;li&gt;Cả thế giới đang hướng tới xu thế &lt;code class=&quot;highlighter-rouge&quot;&gt;Iot&lt;/code&gt; : INTERNET OF THING. Nghĩa là cả thế giới kết nối Internet, mọi vật kết nối Internet.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hacker, Cracker&lt;/strong&gt; là gì:
+    &lt;ul&gt;
+      &lt;li&gt;Hack là sử dụng tính sáng tạo đê giải quyết một vấn đề nào đó. Nhiều người dùng sự sáng tạo đó để xâm nhập, lợi dụng khai thác những điểm yếu trên máy tính, điện thoại.. và nhiều thứ khác.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Hacker&lt;/strong&gt;: là những người thực hiện hack. Có 4 loại hacker chính hiện hay.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Mũ trắng: Dùng Hack vào mục đích tốt.&lt;/li&gt;
+      &lt;li&gt;Mũ đen: Dùng Hack vào mục đích xấu.&lt;/li&gt;
+      &lt;li&gt;Mũ xám: Kết hợp của cả đen và trắng.&lt;/li&gt;
+      &lt;li&gt;Mũ đỏ: Làm việc cho Chính phủ.
+    * Một số &lt;strong&gt;Nhóm Hacker&lt;/strong&gt;, &lt;strong&gt;Hacker&lt;/strong&gt; nổi tiếng: Anonymous(vô danh), Lizard Squad, Lulzsec, Syrian Electronic Army(SEA)…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Vượt qua &lt;em&gt;mật khẩu&lt;/em&gt; của WinXP
+    &lt;ul&gt;
+      &lt;li&gt;Sử dụng tổ hợp phím &lt;strong&gt;CTRL + ALT + DEL&lt;/strong&gt; 2 lần liên tiếp thì sẽ được cửa sổ đăng nhập&lt;/li&gt;
+      &lt;li&gt;Tại &lt;strong&gt;username = “administrator”&lt;/strong&gt; nhấn enter. Ô cê. Nếu k đc thì điển thêm &lt;strong&gt;password = “administrator”&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Vượt qua mật khẩu Win 7 và Win 10
+    &lt;ul&gt;
+      &lt;li&gt;Bản chất mật khẩu của windows nằm trong file SAM. Trong file này mật khẩu đã được mã hóa.&lt;/li&gt;
+      &lt;li&gt;Dùng công cụ Hiren’s Boot để cứu hộ Windows. Trong nó có chức năng phá Pass của windows (Xóa). &lt;em&gt;Phương thức này cùi rồi&lt;/em&gt; và có nhiều phương pháp mới hiện đại hơn.&lt;/li&gt;
+      &lt;li&gt;Dùng USB có cơ chế Bypass. Vượt qua mật khẩu chứ không xóa Pass của nó đi.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;một-số-kỹ-thuật-tấn-công-mạng&quot;&gt;Một số kỹ thuật tấn công mạng&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Yếu tố con người: Nắm bắt tâm lý của con người, và dùng các thủ thuật, chiêu trò giúp thuận lợi cho việc tấn công.&lt;/li&gt;
+  &lt;li&gt;Tấn công từ chối dịch vụ phân tán - DDOS: là kiểu tấn công làm cho mục tiêu, là các trang web, dịch vụ trực tuyến, trở nên quá tải…. Hiện chưa có giải pháp ngăn chặn triệt để kiểu tấn công tự chối dịch vụ phân tán này và chỉ có thể giảm bớt phần nào cường độ tấn công.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vụ tấn công VCCorp: 10/2014, Các trang báo điện tử của Việt Nam như &lt;em&gt;Dân trí&lt;/em&gt;, báo điện tử &lt;em&gt;Vietnamnet&lt;/em&gt; và báo &lt;em&gt;Tuổi trẻ&lt;/em&gt;, hay trang &lt;em&gt;Kênh 14, Cafef&lt;/em&gt; do VCCorp vận hành đã phải hứng chịu một đợt tấn công DDOS vô cùng mạnh mẽ. Ước tính thiệt hại 30 Tỷ đồng.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tấn công giả mạo &lt;strong&gt;Phishing&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Phishing là một hình thức gain lận để có những thông tin nhạy cảm nhưu username, password, credit card… bằng cách giả mạo như là một thực thể đáng tin cậy trong các giao tiếp trên mạng.&lt;/li&gt;
+      &lt;li&gt;Phishing sử dụng email hoặc tin nhắn tức thời, gửi đến ngừi dùng, yêu cầu họ cung cấp thông tin cần thiết.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tấn công Bruteforce: Thử tất cả các chuỗi mật khẩu để có thể tìm ra mật khẩu&lt;/li&gt;
+  &lt;li&gt;Nguy cơ từ các phần mềm: Các phần mềm bạn đang sử dụng có thể ẩn chứa Virut, đặc biệt là với phần mềm crack. Bạn nên update phần mềm để được vá lỗi thường xuyên.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;làm-sao-để-hạn-chế-bị-hack&quot;&gt;Làm sao để hạn chế bị Hack:&lt;/h2&gt;
+&lt;p&gt;Để hạn chế bị hack, bạn phải cập nhật, nâng cấp phần mềm đang sử dụng thường xuyên. Tránh sử dụng những phần mềm không rõ nguồn gốc. Không Click vào những đường link lạ. Đặc biệt là k nên sử dụng WinXP vì WinXP đã rất &lt;b&gt;cũ&lt;/b&gt; rồi và không được Microsoft hỗ trợ bảo mật nữa&lt;/p&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="bảo mật" /><category term="công nghệ cao" /><summary type="html">Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam Thực trạng công nghệ thông tin 60% sàn chứng khoán của Mỹ là do công nghệ thông tin. Ấn Độ đang giàu thứ 10 thế giới (cường quốc xuất khẩu phần mềm nhờ CNTT) Nhật Bản đã khắc phục hậu quả của động đất, sóng thần và phát triển nhanh chóng nhờ công nghệ thông tin. Cả thế giới đang hướng tới xu thế Iot : INTERNET OF THING. Nghĩa là cả thế giới kết nối Internet, mọi vật kết nối Internet. Hacker, Cracker là gì: Hack là sử dụng tính sáng tạo đê giải quyết một vấn đề nào đó. Nhiều người dùng sự sáng tạo đó để xâm nhập, lợi dụng khai thác những điểm yếu trên máy tính, điện thoại.. và nhiều thứ khác. Hacker: là những người thực hiện hack. Có 4 loại hacker chính hiện hay. Mũ trắng: Dùng Hack vào mục đích tốt. Mũ đen: Dùng Hack vào mục đích xấu. Mũ xám: Kết hợp của cả đen và trắng. Mũ đỏ: Làm việc cho Chính phủ. * Một số Nhóm Hacker, Hacker nổi tiếng: Anonymous(vô danh), Lizard Squad, Lulzsec, Syrian Electronic Army(SEA)… Vượt qua mật khẩu của WinXP Sử dụng tổ hợp phím CTRL + ALT + DEL 2 lần liên tiếp thì sẽ được cửa sổ đăng nhập Tại username = “administrator” nhấn enter. Ô cê. Nếu k đc thì điển thêm password = “administrator”. Vượt qua mật khẩu Win 7 và Win 10 Bản chất mật khẩu của windows nằm trong file SAM. Trong file này mật khẩu đã được mã hóa. Dùng công cụ Hiren’s Boot để cứu hộ Windows. Trong nó có chức năng phá Pass của windows (Xóa). Phương thức này cùi rồi và có nhiều phương pháp mới hiện đại hơn. Dùng USB có cơ chế Bypass. Vượt qua mật khẩu chứ không xóa Pass của nó đi.</summary></entry><entry xml:lang="vi"><title type="html">Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C</title><link href="http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" rel="alternate" type="text/html" title="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C" /><published>2017-09-08T00:00:00+07:00</published><updated>2017-09-08T00:00:00+07:00</updated><id>http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows</id><content type="html" xml:base="http://localhost:4000/posts/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">&lt;h2 id=&quot;ở-bài-trước-mình-đã-hướng-dẫn-các-bạn-khắc-phục-lỗi-không-cài-được-plugin-trên-sublime-text-3-bài-này-mình-sẽ-hướng-dẫn-các-bạn-cấu-hình-nó-để-lập-trình-ngôn-ngữ-c-c&quot;&gt;Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.&lt;/h2&gt;
 
 &lt;p&gt;Trước khi vào bài hướng dẫn các bạn phải cài đặt Sublime Text 3 (tất nhiền rồi) và cài đặt &lt;em&gt;trình biên dịch C&lt;/em&gt;
  như là &lt;strong&gt;Cywin&lt;/strong&gt; hoặc &lt;strong&gt;Mingw&lt;/strong&gt; (Mingw dùng phổ biến hơn). Xem bài hướng dẫn &lt;a href=&quot;http://o7planning.org/vi/10467/huong-dan-cai-dat-trinh-bien-dich-c-cpp-mingw&quot;&gt;Cài Mingw để biên dịch ngôn ngữ C&lt;/a&gt; và Cài biến môi trường để lập trình C bằng cách&lt;/p&gt;

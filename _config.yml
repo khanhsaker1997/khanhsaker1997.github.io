@@ -304,3 +304,14 @@ defaults:
       comments: true
       share: true
       related: true
+  # _laptrinhweb
+  - scope:
+      path: ""
+      type: laptrinhweb
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
