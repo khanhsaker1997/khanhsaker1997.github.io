@@ -25,6 +25,7 @@ og_image: "/assets/img/post/an-toan-bao-mat.jpg"
     * Mũ đen: Dùng Hack vào mục đích xấu.
     * Mũ xám: Kết hợp của cả đen và trắng.
     * Mũ đỏ: Làm việc cho Chính phủ.
+
 * Một số **Nhóm Hacker**, **Hacker** nổi tiếng: Anonymous(vô danh), Lizard Squad, Lulzsec, Syrian Electronic Army(SEA)...
 3. Vượt qua _mật khẩu_ của WinXP
 * Sử dụng tổ hợp phím **CTRL + ALT + DEL** 2 lần liên tiếp thì sẽ được cửa sổ đăng nhập
