@@ -605,3 +605,14 @@ Sau đây là ví dụ về cách sử dụng một bảng và các thẻ khác 
    </body>
     
 </html>
+
+## Tổng Kết:
+```html
+Thẻ <table> đƣợc sử dụng để tạo bảng trong HTML
+* Mỗi dòng đƣợc tạo bởi phần tử <tr>
+* Trong mỗi dòng lại có các ô đƣợc tạo bởi phần tử <td>
+* Có thể sử dụng thuộc tính rowspan và colspan để gộp
+ô theo hàng hoặc theo cột.
+* Nếu một bảng dài, có thể chia bảng ra làm 3 phần với
+thẻ <thead>, <tbody>, <tfoot>
+```
