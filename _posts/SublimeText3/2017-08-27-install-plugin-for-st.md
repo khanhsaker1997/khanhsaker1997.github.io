@@ -2,7 +2,7 @@
 layout: single
 title: "Khắc phục lỗi không cài được plugins trên Sublime Text 3"
 date: 2017-08-27
-categories: [tricks]
+categories: [SublimeText3]
 tags: [sublime text, plugins]
 lang: vi
 header:

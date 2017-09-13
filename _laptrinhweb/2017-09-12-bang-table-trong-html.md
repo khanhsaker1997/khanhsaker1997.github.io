@@ -616,3 +616,5 @@ Thẻ <table> đƣợc sử dụng để tạo bảng trong HTML
 * Nếu một bảng dài, có thể chia bảng ra làm 3 phần với
 thẻ <thead>, <tbody>, <tfoot>
 ```
+
+>By Nguyễn Duy Khánh
