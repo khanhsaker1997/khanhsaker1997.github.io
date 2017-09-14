@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bảng - TABLE trong html"
+title: "Tạo Bảng - TABLE trong HTML"
 date: 2017-09-12
 categories: [laptrinhweb]
 tag: [bảng,table]
