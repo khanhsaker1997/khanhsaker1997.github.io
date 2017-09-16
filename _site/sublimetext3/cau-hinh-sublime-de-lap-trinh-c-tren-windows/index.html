@@ -1,10 +1,10 @@
-<!doctype html>
+<!DOCTYPE html>
 <!--
   MakeitSimple Theme 1.0 by Viet Anh Nguyen
   Based on Minimal Mistakes Jekyll Theme 4.2.2 by Michael Rose
--->
-<html lang="vi" class="no-js">
+--><html lang="vi" class="no-js">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
 
 <!-- begin SEO -->
@@ -157,10 +157,10 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh</br>
-            <p id="site-subtitle" style=" margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
-                font-family: &quot;Maven Pro&quot;,-apple-system,&quot;.SFNSText-Regular&quot;,&quot;San Francisco&quot;,&quot;Roboto&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;Lucida Grande&quot;,Arial,sans-serif;
-            ">write code everyday <span class="blinking-cursor">_</span></p>
+        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh
+            <p id="site-subtitle" style=' margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
+                font-family: "Maven Pro",-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+            '>write code everyday <span class="blinking-cursor">_</span></p>
         </a>
         <ul class="visible-links">
           
@@ -204,9 +204,7 @@
 
 
 
-<div class="page__hero--overlay"
-  style=" background-image: url('http://localhost:4000/assets/img/ST3/header.jpg');"
->
+<div class="page__hero--overlay" style=" background-image: url('http://localhost:4000/assets/img/ST3/header.jpg');">
   
     <div class="wrapper">
       <h1 class="page__title" itemprop="headline">
@@ -277,7 +275,7 @@
       
         <li>
           <a href="mailto:khanhsaker1997@gmail.com">
-            <meta itemprop="email" content="khanhsaker1997@gmail.com" />
+            <meta itemprop="email" content="khanhsaker1997@gmail.com">
             <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
           </a>
         </li>
@@ -368,23 +366,25 @@
 
 <p>Trước khi vào bài hướng dẫn các bạn phải cài đặt Sublime Text 3 (tất nhiền rồi) và cài đặt <em>trình biên dịch C</em>
  như là <strong>Cywin</strong> hoặc <strong>Mingw</strong> (Mingw dùng phổ biến hơn). Xem bài hướng dẫn <a href="http://o7planning.org/vi/10467/huong-dan-cai-dat-trinh-bien-dich-c-cpp-mingw">Cài Mingw để biên dịch ngôn ngữ C</a> và Cài biến môi trường để lập trình C bằng cách</p>
-<div class="highlighter-rouge"><pre class="highlight"><code> Vào *Control Panel&gt; System&gt; Advanced system settings&gt; Environment Variables*
+<div class="highlighter-rouge">
+<pre class="highlight"><code> Vào *Control Panel&gt; System&gt; Advanced system settings&gt; Environment Variables*
 chọn edit lại *path* vào add thêm các dòng sau:
 (ở đây MinGW được ví dụ là cài đặt tại thư mục C:\MinGW)
 - C:\MinGW\bin
 </code></pre>
 </div>
 <ul>
-  <li>Đầu tiên bạn mở Sublime Text 3 lên và chọn <em>Tools</em> &gt; <em>Build System</em> &gt; <em>New Build System..</em></li>
+  <li>Đầu tiên bạn mở Sublime Text 3 lên và chọn <em>Tools</em> &gt; <em>Build System</em> &gt; <em>New Build System..</em>
+</li>
 </ul>
 
-<p><img src="/assets/img/ST3/st4.png" alt="Hình 1" /></p>
+<p><img src="/assets/img/ST3/st4.png" alt="Hình 1"></p>
 
 <ul>
   <li>Sau đó sẽ hiện ra file để bạn cấu hình giúp lập trình C trên đó.</li>
 </ul>
 
-<p><img src="/assets/img/ST3/st5.png" alt="Hình 2" />
+<p><img src="/assets/img/ST3/st5.png" alt="Hình 2">
 Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán vào file đó rồi lưu lại với tên tùy ý, nên đặt tên là RunC++ như mình (Nếu các bạn lập trình C thì thay <code class="highlighter-rouge">g++</code> thành <code class="highlighter-rouge">gcc</code> nhé:</p>
 <pre><code class="language-sublime-build">{
 "cmd": ["g++", "$file_name", "-o", "${file_base_name}.exe", "&amp;&amp;", "start", "cmd", "/k" , "$file_base_name"],
@@ -401,12 +401,12 @@ Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán v�
 }
 </code></pre>
 
-<p><img src="/assets/img/ST3/st6.png" alt="Hình 3" /></p>
+<p><img src="/assets/img/ST3/st6.png" alt="Hình 3"></p>
 
 <p>Ô cê vậy là xong rồi đó. Giờ bạn muốn biên dịch và chạy chương trình <code class="highlighter-rouge">C</code> bạn chỉ việc chọn <em>Tools</em> &gt; <em>Build System</em> &gt; <em>RunC++</em>  và nhấn <code class="highlighter-rouge">Ctrl + B</code>:
-<img src="/assets/img/ST3/st7.png" alt="Hình 4" />
+<img src="/assets/img/ST3/st7.png" alt="Hình 4">
 Sau đó là chương trình được Build và chạy lên như thế này :
-<img src="/assets/img/ST3/st8.png" alt="Hình 5" />
+<img src="/assets/img/ST3/st8.png" alt="Hình 5">
 <strong>Chúc các bạn thành công nha</strong></p>
 
 <blockquote>
@@ -471,13 +471,13 @@ Sau đó là chương trình được Build và chạy lên như thế này :
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%E1%BA%A5u%20h%C3%ACnh%20Sublime%20Text%203%20tr%C3%AAn%20windows%20%C4%91%E1%BB%83%20l%E1%BA%ADp%20tr%C3%ACnh%20C%20http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
   <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
   <a href="https://plus.google.com/share?url=http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -529,7 +529,8 @@ Sau đó là chương trình được Build và chạy lên như thế này :
 			(d.head || d.body).appendChild(s);
 			})();
 			</script>
-			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
 	</section>
 
 
@@ -614,7 +615,7 @@ Sau đó là chương trình được Build và chạy lên như thế này :
   1 minute read
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiề...</p>
+    <p class="archive__item-excerpt" itemprop="description"><img class="emoji" title=":red_circle:" alt=":red_circle:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png" height="20" width="20" align="absmiddle"> Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, ...</p>
   </article>
 </div>
 
@@ -645,9 +646,7 @@ Sau đó là chương trình được Build và chạy lên như thế này :
     
     <p class="archive__item-excerpt" itemprop="description">Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam
 Thực trạng công nghệ thông tin
-
-  60% sàn chứng khoán của Mỹ là do công nghệ thông tin.
-  ...</p>
+<img class="emoji" title=":large_orange_diamond:" alt=":large_orange_diamond:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f536.png" height="20" width="20" align="absmiddle"> 60% sàn chứng khoán của Mỹ là do côn...</p>
   </article>
 </div>
 
@@ -707,7 +706,7 @@ Thực trạng công nghệ thông tin
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2017 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">© 2017 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
       </footer>
     </div>
 

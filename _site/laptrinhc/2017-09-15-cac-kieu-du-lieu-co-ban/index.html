@@ -17,27 +17,27 @@
 
 
 
-<title>Tổng quan và cấu trúc cơ bản của ngôn ngữ HTML - Nguyễn Duy Khánh</title>
+<title>Các kiểu dữ liệu cơ bản và các cấu trúc điều khiển - Nguyễn Duy Khánh</title>
 
 
 
 
-<meta name="description" content="Cấu trúc cơ bản của một trang web:">
+<meta name="description" content="Các kiểu dữ liệu cơ bản:">
 
 
 
 
 <meta property="og:type" content="website">
 <meta name="author" content="Duy Khanh Nguyen">
-<meta property="og:title" content="Tổng quan và cấu trúc cơ bản của ngôn ngữ HTML">
+<meta property="og:title" content="Các kiểu dữ liệu cơ bản và các cấu trúc điều khiển">
 
 
-  <link rel="canonical" href="http://localhost:4000/laptrinhweb/2017-09-11-cau-truc-co-ban-cua-chuong-trinh-html/">
-  <meta property="og:url" content="http://localhost:4000/laptrinhweb/2017-09-11-cau-truc-co-ban-cua-chuong-trinh-html/">
+  <link rel="canonical" href="http://localhost:4000/laptrinhc/2017-09-15-cac-kieu-du-lieu-co-ban/">
+  <meta property="og:url" content="http://localhost:4000/laptrinhc/2017-09-15-cac-kieu-du-lieu-co-ban/">
 
 
 
-  <meta property="og:description" content="Cấu trúc cơ bản của một trang web:">
+  <meta property="og:description" content="Các kiểu dữ liệu cơ bản:">
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-  <meta property="og:image" content="http://localhost:4000/assets/img/laptrinhweb/header.jpg">
+  <meta property="og:image" content="http://localhost:4000/assets/img/laptrinhc/header.jpg">
 
 
 
@@ -204,17 +204,17 @@
 
 
 
-<div class="page__hero--overlay" style=" background-image: url('http://localhost:4000/assets/img/laptrinhweb/header.jpg');">
+<div class="page__hero--overlay" style=" background-image: url('http://localhost:4000/assets/img/laptrinhc/header.jpg');">
   
     <div class="wrapper">
       <h1 class="page__title" itemprop="headline">
         
-          Tổng quan và cấu trúc cơ bản của ngôn ngữ HTML
+          Các kiểu dữ liệu cơ bản và các cấu trúc điều khiển
 
         
       </h1>
       <!-- 
-        <p class="page__lead"><h2 id="cấu-trúc-cơ-bản-của-một-trang-web">Cấu trúc cơ bản của một trang web:</h2>
+        <p class="page__lead"><h2 id="các-kiểu-dữ-liệu-cơ-bản">Các kiểu dữ liệu cơ bản:</h2>
 
 </p>
        -->
@@ -353,67 +353,176 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Tổng quan và cấu trúc cơ bản của ngôn ngữ HTML">
-    <meta itemprop="description" content="Cấu trúc cơ bản của một trang web:">
-    <meta itemprop="datePublished" content="September 11, 2017">
+    <meta itemprop="headline" content="Các kiểu dữ liệu cơ bản và các cấu trúc điều khiển">
+    <meta itemprop="description" content="Các kiểu dữ liệu cơ bản:">
+    <meta itemprop="datePublished" content="September 15, 2017">
     
 
     <div class="page__inner-wrap">
       
 
       <section class="page__content" itemprop="text">
-        <h2 id="cấu-trúc-cơ-bản-của-một-trang-web">Cấu trúc cơ bản của một trang web:</h2>
+        <h2 id="các-kiểu-dữ-liệu-cơ-bản">Các kiểu dữ liệu cơ bản:</h2>
 
-<p>Một trang web HTML có cấu trúc cơ bản gồm các phần như sau:</p>
+<table>
+  <thead>
+    <tr>
+      <th>Kiểu dữ liệu</th>
+      <th>giá trị</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>char</td>
+      <td>Ký tự hoặc số nguyên 8 bit</td>
+    </tr>
+    <tr>
+      <td>short</td>
+      <td>số nguyên 16 bit</td>
+    </tr>
+    <tr>
+      <td>long</td>
+      <td>số nguyên 32 bit</td>
+    </tr>
+    <tr>
+      <td>int</td>
+      <td>số nguyên độ dài bằng 1 word(16bit hoặc 32 bit)</td>
+    </tr>
+    <tr>
+      <td>float</td>
+      <td>số chấm động 4byte</td>
+    </tr>
+    <tr>
+      <td>double</td>
+      <td>số chấm động 8 byte</td>
+    </tr>
+    <tr>
+      <td>long double</td>
+      <td>số chấm động 10 byte</td>
+    </tr>
+    <tr>
+      <td>bool</td>
+      <td>giá trị Boolean,true hoặc false</td>
+    </tr>
+    <tr>
+      <td>wchar_t</td>
+      <td>ký tự 2 byte, lưu bảng chữ cái quốc tê</td>
+    </tr>
+  </tbody>
+</table>
 
-<div class="language-html highlighter-rouge">
-<pre class="highlight"><code><span class="cp">&lt;!DOCTYPE html&gt;</span> <span class="c">&lt;!--Thẻ duy nhất nằm ngoài thẻ &lt;html&gt; để cung cấp phiên bản HTML được sử dụng trong website --&gt;</span>
-<span class="nt">&lt;html&gt;</span>  <span class="c">&lt;!--Đây là thẻ khai báo trang web định dạng theo kiểu HTML --&gt;</span>
-<span class="nt">&lt;head&gt;</span> <span class="c">&lt;!--Thẻ này chứa các thông tin về trang web. Những thông tin này không được hiển thị trên cửa sổ trình duyệt --&gt;</span>
-    <span class="nt">&lt;title&gt;</span>Đây là thẻ tiêu đề<span class="nt">&lt;/title&gt;</span> <span class="c">&lt;!-- Nội dung của thẻ này được hiển thị ở thanh tiêu đề của cửa sổ của trình duyệt --&gt;</span>
-<span class="nt">&lt;/head&gt;</span>
-<span class="nt">&lt;body&gt;</span>
-Mọi thành phần muốn hiển thị trên cửa sổ thì đều phải được viết trong cặp thẻ body này
-<span class="nt">&lt;/body&gt;</span>
-<span class="nt">&lt;/html&gt;</span>
-</code></pre>
-</div>
-
-<h2 id="cấu-tạo-của-một-thẻ-tag">Cấu tạo của một thẻ tag:</h2>
-<div class="language-html highlighter-rouge">
-<pre class="highlight"><code>Bao gồm: <span class="nt">&lt;tenThe&gt;</span> Nội dung bên trong <span class="nt">&lt;/tenThe&gt;</span>
-Ví dụ thẻ tag <span class="nt">&lt;p&gt;&lt;/p&gt;</span>:
-</code></pre>
-</div>
-
+<h2 id="các-phép-toán-cơ-bản">Các phép toán cơ bản:</h2>
 <ul>
-  <li>Mỗi thẻ sẽ có thêm các thuộc tính nói cho chúng ta biết thêm về thông tin của các thành phần:</li>
+  <li>Phép gán (=):
+    <div class="language-c++ highlighter-rouge">
+<pre class="highlight"><code><span class="n">x</span><span class="o">=</span> <span class="mi">5</span><span class="p">;</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Các phép toán số học: (+,-,*,/,%)</li>
+  <li>Các phép gán kép: (+=,-=,*=,/=,%=,»=,«=,&amp;=,^=,|=)
+    <div class="language-c++ highlighter-rouge">
+<pre class="highlight"><code><span class="n">a</span> <span class="o">+=</span> <span class="n">b</span><span class="p">;</span> <span class="c1">// tương đương a = a + b;
+</span><span class="n">c</span> <span class="o">-=</span> <span class="n">b</span><span class="p">;</span> <span class="c1">// tương đương a = a - b;
+</span><span class="n">c</span><span class="err">á</span><span class="n">c</span> <span class="n">ph</span><span class="err">é</span><span class="n">p</span> <span class="n">to</span><span class="err">à</span><span class="n">n</span> <span class="n">ti</span><span class="err">ế</span><span class="n">p</span> <span class="n">theo</span> <span class="n">c</span><span class="err">ũ</span><span class="n">ng</span> <span class="n">t</span><span class="err">ươ</span><span class="n">ng</span> <span class="n">t</span><span class="err">ự</span> <span class="p">.</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Phép tăng và phép giảm (++,–)
+    <div class="language-c++ highlighter-rouge">
+<pre class="highlight"><code><span class="n">c</span><span class="o">++</span> <span class="n">t</span><span class="err">ươ</span><span class="n">ng</span> <span class="err">đươ</span><span class="n">ng</span> <span class="n">v</span><span class="err">ớ</span><span class="n">i</span> <span class="n">c</span> <span class="o">=</span> <span class="n">c</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span>
+<span class="n">c</span><span class="o">--</span> <span class="n">t</span><span class="err">ươ</span><span class="n">ng</span> <span class="err">đươ</span><span class="n">ng</span> <span class="n">v</span><span class="err">ớ</span><span class="n">i</span> <span class="n">c</span> <span class="o">=</span> <span class="n">c</span> <span class="o">-</span> <span class="mi">1</span><span class="p">;</span>
+</code></pre>
+    </div>
+  </li>
+  <li>Các phép toán quan hệ: (==,!=,&gt;,&lt;,&gt;=,&lt;=)</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Các phép toán logic: (!,&amp;&amp;,</td>
+          <td> </td>
+          <td>)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>Phép điều kiện: (?) Ví dụ: (7==5 ? 4 : 3) cho kết quả 3 do 7 khác 5.</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Các toán tử bit: (&amp;,</td>
+          <td>,^,~,«,»).</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
 </ul>
 
-<div class="language-html highlighter-rouge">
-<pre class="highlight"><code><span class="nt">&lt;tenThe</span> <span class="na">TenThuocTinh =</span><span class="err"> </span><span class="s">"values"</span> <span class="nt">&gt;</span> Nội dung bên trong <span class="nt">&lt;/tenThe&gt;</span>
-Ví dụ thẻ tag <span class="nt">&lt;p</span> <span class="na">bgcolor =</span><span class="err"> </span><span class="s">"red"</span><span class="nt">&gt;</span>Dòng chữ này sẽ có nền màu đỏ<span class="nt">&lt;/p&gt;</span> 
-</code></pre>
-</div>
-
-<h2 id="cách-tạo-một-trang-web-trên-máy-tính">Cách tạo một trang Web trên máy tính:</h2>
-<p>Bạn chọn bất kì một công cụ soạn thảo nào ví dụ như <strong>notepad</strong> có sẵn trên Windows rồi viết đoạn code cơ bản như bên trên. Sau đó lưu vào với đuổi <strong>.html</strong>. Ô cê bạn đã có một trang web, và bạn hãy mở nó lên với trình duyệt FireFox hoặc GoogleChrome nha <img class="emoji" title=":smile:" alt=":smile:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png" height="20" width="20" align="absmiddle"></p>
-
-<h3 id="tóm-lại-cần-nhớ">Tóm lại cần nhớ:</h3>
+<h2 id="cấu-trúc-điều-khiển">Cấu trúc điều khiển:</h2>
 <ul>
-  <li>Trang HTML là một tài liệu dạng văn bản</li>
-  <li>HTML sử dụng các thẻ tags (các ký tự được đặt trong cặp
-ngoặc nhọn) để cung cấp thông tin.</li>
-  <li>Các thẻ tags thƣờng đƣợc gọi nhƣ là các phần tử</li>
-  <li>Thẻ tags thƣờng đi theo cặp. Thẻ mở biểu thị bắt đầu một
-đoạn nội dung. Thẻ đóng kết thúc một đoạn nội dung.</li>
-  <li>Thẻ mở có thể mang thêm thuộc tính để cung cấp thêm
-thông tin về nội dung bên trong</li>
-  <li>Thuộc tính bắt buộc phải bao gồm 2 giá trị là name và
-value</li>
-  <li>Để học tốt HTML, thì chúng ta cần phải hiểu hết những thẻ
-tags có sẵn để chúng ta có thể sử dụng đƣợc</li>
+  <li>Cấu trúc lựa chọn <strong>if</strong>:
+    <div class="language-c++ highlighter-rouge">
+<pre class="highlight"><code><span class="k">if</span><span class="p">(</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="p">)</span>
+<span class="p">{</span>
+  <span class="n">kh</span><span class="err">ố</span><span class="n">i</span> <span class="n">l</span><span class="err">ệ</span><span class="n">nh</span>
+<span class="p">}</span>
+<span class="c1">// Nếu điều kiện là True thì khối lệnh được thực hiện. Điều kiện là False thì khối lệnh không được thực hiện
+</span></code></pre>
+    </div>
+  </li>
+  <li>Cấu trúc lựa chọn <strong>if/else</strong>:
+    <div class="language-c++ highlighter-rouge">
+<pre class="highlight"><code><span class="k">if</span><span class="p">(</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="p">)</span>
+<span class="p">{</span>
+  <span class="n">kh</span><span class="err">ố</span><span class="n">i</span> <span class="n">l</span><span class="err">ệ</span><span class="n">nh</span> <span class="mi">1</span>
+<span class="p">}</span>
+<span class="k">else</span>
+<span class="p">{</span>
+  <span class="n">kh</span><span class="err">ố</span><span class="n">i</span> <span class="n">l</span><span class="err">ệ</span><span class="n">nh</span> <span class="mi">2</span>
+<span class="p">}</span>
+<span class="c1">// Nếu điều kiện là True thì khối lệnh 1 được thực hiện. Điều kiện là False thì khối 2 lệnh không được thực hiện
+</span></code></pre>
+    </div>
+  </li>
+  <li>Cấu trúc lặp <strong>While</strong>
+    <div class="language-c++ highlighter-rouge">
+<pre class="highlight"><code><span class="k">while</span><span class="p">(</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="p">)</span>
+<span class="p">{</span>
+  <span class="n">kh</span><span class="err">ố</span><span class="n">i</span> <span class="n">l</span><span class="err">ệ</span><span class="n">nh</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c1">// Khi điều kiện đúng thì khối lệnh được thực hiện liên tục cho đến khi điều kiện sai thì dừng lại.
+</span></code></pre>
+    </div>
+  </li>
+  <li>Cấu trúc lặp <strong>Do-While</strong>
+    <div class="language-c++ highlighter-rouge">
+<pre class="highlight"><code><span class="k">do</span> <span class="p">{</span><span class="n">kh</span><span class="err">ố</span><span class="n">i</span> <span class="n">l</span><span class="err">ệ</span><span class="n">nh</span> <span class="mi">1</span><span class="p">}</span>
+<span class="k">while</span> <span class="p">(</span><span class="err">đ</span><span class="n">i</span><span class="err">ề</span><span class="n">u</span> <span class="n">ki</span><span class="err">ệ</span><span class="n">n</span><span class="p">)</span>
+<span class="c1">// Ban đầu khối lệnh 1 được thực hiện. Sau đó kiểm tra điều kiện. Nếu đúng thì thực hiện tiếp khối lệnh 1. sai thì dừng lại
+</span></code></pre>
+    </div>
+  </li>
+  <li>Cấu trúc lặp <strong>For</strong>
+```c++
+for (initialization; condition; increase) statement;</li>
 </ul>
+
+<p>Cách thức hoạt động của nó như sau:</p>
+
+<ol>
+  <li>Initialization được thực hiện. Nói chung nó đặt một giá khi ban đầu cho biến điều khiển. Lệnh này được thực hiện chỉ một lần.</li>
+  <li>Condition được kiểm tra, nếu nó là đúng vòng lặp tiếp tục còn nếu không vòng lặp kết thúc và statement được bỏ qua.</li>
+  <li>Statement được thực hiện. Nó có thể là một lệnh đơn hoặc là một khối lệnh được bao trong một cặp ngoặc nhọn.</li>
+  <li>Cuối cùng, increase được thực hiện để tăng biến điều khiển và vòng lặp quay trở lại bước 2.
+```
+    <blockquote>
+      <p>By Nguyễn Duy Khánh.</p>
+    </blockquote>
+  </li>
+</ol>
+
 
         
       </section>
@@ -434,15 +543,15 @@ tags có sẵn để chúng ta có thể sử dụng đƣợc</li>
     
       
       
-      <a href="http://localhost:4000/tags/#html" class="page__taxonomy-item" rel="tag">html</a><span class="sep">, </span>
+      <a href="http://localhost:4000/tags/#c" class="page__taxonomy-item" rel="tag">c++</a><span class="sep">, </span>
     
       
       
-      <a href="http://localhost:4000/tags/#tag" class="page__taxonomy-item" rel="tag">tag</a><span class="sep">, </span>
+      <a href="http://localhost:4000/tags/#c%C6%A1-b%E1%BA%A3n" class="page__taxonomy-item" rel="tag">cơ bản</a><span class="sep">, </span>
     
       
       
-      <a href="http://localhost:4000/tags/#th%E1%BA%BB" class="page__taxonomy-item" rel="tag">thẻ</a>
+      <a href="http://localhost:4000/tags/#syntax" class="page__taxonomy-item" rel="tag">syntax</a>
     
     </span>
   </p>
@@ -463,27 +572,27 @@ tags có sẵn để chúng ta có thể sử dụng đƣợc</li>
     
       
       
-      <a href="http://localhost:4000/categories/#laptrinhweb" class="page__taxonomy-item" rel="tag">laptrinhweb</a>
+      <a href="http://localhost:4000/categories/#laptrinhc" class="page__taxonomy-item" rel="tag">laptrinhc</a>
     
     </span>
   </p>
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-09-11T00:00:00+07:00">September 11, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-09-15T00:00:00+07:00">September 15, 2017</time></p>
         
       </footer>
 
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=T%E1%BB%95ng%20quan%20v%C3%A0%20c%E1%BA%A5u%20tr%C3%BAc%20c%C6%A1%20b%E1%BA%A3n%20c%E1%BB%A7a%20ng%C3%B4n%20ng%E1%BB%AF%20HTML%20http://localhost:4000/laptrinhweb/2017-09-11-cau-truc-co-ban-cua-chuong-trinh-html/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=C%C3%A1c%20ki%E1%BB%83u%20d%E1%BB%AF%20li%E1%BB%87u%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20c%C3%A1c%20c%E1%BA%A5u%20tr%C3%BAc%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20http://localhost:4000/laptrinhc/2017-09-15-cac-kieu-du-lieu-co-ban/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/laptrinhweb/2017-09-11-cau-truc-co-ban-cua-chuong-trinh-html/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/laptrinhc/2017-09-15-cac-kieu-du-lieu-co-ban/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=http://localhost:4000/laptrinhweb/2017-09-11-cau-truc-co-ban-cua-chuong-trinh-html/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=http://localhost:4000/laptrinhc/2017-09-15-cac-kieu-du-lieu-co-ban/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:4000/laptrinhweb/2017-09-11-cau-truc-co-ban-cua-chuong-trinh-html/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:4000/laptrinhc/2017-09-15-cac-kieu-du-lieu-co-ban/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -552,7 +661,7 @@ tags có sẵn để chúng ta có thể sử dụng đƣợc</li>
 	}(document, 'script', 'facebook-jssdk'));</script>
 	<h4 class="page__comments-title">Facebook comment</h4>
 	<section>
-		<div class="fb-comments" data-href="http://localhost:4000/laptrinhweb/2017-09-11-cau-truc-co-ban-cua-chuong-trinh-html/" data-numposts="5" data-width="100%"></div>
+		<div class="fb-comments" data-href="http://localhost:4000/laptrinhc/2017-09-15-cac-kieu-du-lieu-co-ban/" data-numposts="5" data-width="100%"></div>
 	</section> -->
 </div>
     
@@ -587,7 +696,7 @@ tags có sẵn để chúng ta có thể sử dụng đƣợc</li>
 
 
 
-  1 minute read
+  2 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.
@@ -618,7 +727,7 @@ tags có sẵn để chúng ta có thể sử dụng đƣợc</li>
 
 
 
-  1 minute read
+  2 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description"><img class="emoji" title=":red_circle:" alt=":red_circle:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png" height="20" width="20" align="absmiddle"> Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, ...</p>
@@ -647,7 +756,7 @@ tags có sẵn để chúng ta có thể sử dụng đƣợc</li>
 
 
 
-  1 minute read
+  2 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam
@@ -678,7 +787,7 @@ Thực trạng công nghệ thông tin
 
 
 
-  1 minute read
+  2 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngô...</p>
