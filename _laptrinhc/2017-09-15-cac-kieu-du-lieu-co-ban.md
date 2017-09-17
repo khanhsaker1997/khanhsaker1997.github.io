@@ -40,10 +40,10 @@ các phép toàn tiếp theo cũng tương tự .
 c++ tương đương với c = c + 1;
 c-- tương đương với c = c - 1;
 ```
-*  Các phép toán quan hệ: (==,!=,>,<,>=,<=)
-* Các phép toán logic: (!,&&,||)
+* Các phép toán quan hệ: (==,!=,>,<,>=,<=)
+* Các phép toán logic: (!,&&,`||`)
 * Phép điều kiện: (?) Ví dụ: (7==5 ? 4 : 3) cho kết quả 3 do 7 khác 5.
-* Các toán tử bit: (&,|,^,~,<<,>>).
+* Các toán tử bit: (&,`|`,^,~,<<,>>).
 
 ## Cấu trúc điều khiển:
 * Cấu trúc lựa chọn **if**:
@@ -84,7 +84,8 @@ while (điều kiện)
 // Ban đầu khối lệnh 1 được thực hiện. Sau đó kiểm tra điều kiện. Nếu đúng thì thực hiện tiếp khối lệnh 1. sai thì dừng lại
 ```
 
-* Cấu trúc lặp **For**
+* Cấu trúc lặp **For**:
+
 ```c++
 for (initialization; condition; increase) statement;
 
