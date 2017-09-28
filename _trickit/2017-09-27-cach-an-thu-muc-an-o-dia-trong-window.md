@@ -96,4 +96,8 @@ Mở cmd và di chuyển vùng làm việc của cmd tới ổ USB đó gõ:
 
 `ATTRIB -S -H /S /D` rồi  đợi chút là dữ liệu sẽ hiển thị ra ngay nha.
 
+Các bạn có thể xem chi tiết tại đây:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU3fDN0hrJ8" frameborder="0" allowfullscreen></iframe>
+
 >By Nguyễn Duy Khánh

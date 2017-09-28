@@ -25,4 +25,8 @@ Các bước làm như sau:
   - Ra đổi lại tên `.docx` và mở lại (khi mở lại cứ bấm ok ok hết). Sau đó bạn có thể chỉnh sửa file đó.
 * Đối với mật khẩu cấm sửa file excel: cũng như word nhưng sau khi mở file .rar bạn sẽ thấy các file `sheet`. Bạn mở file đó lên và tìm đến phần `password="abcxyz gì đó"`. Các bạn xóa phần `"abcxyz gì đó"` đi rồi mở lại là sẽ chỉnh sửa được nha. 
 
+Xem chi tiết tại đây nha:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d94we7la4pU" frameborder="0" allowfullscreen></iframe>
+
 >By Nguyễn Duy Khánh
