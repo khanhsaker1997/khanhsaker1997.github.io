@@ -93,6 +93,14 @@
 <lastmod>2017-09-13T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/an-toan-bao-mat-thong-tin/viet-nam-tac-chien-khong-gian-mang/</loc>
+<lastmod>2018-01-09T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/an-toan-bao-mat-thong-tin/cong-bo-giao-thuc-wpa3/</loc>
+<lastmod>2018-01-10T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/trickit/2017-08-19-luon-chay-uong-dung-voi-adminstrator/</loc>
 <lastmod>2017-08-19T00:00:00+07:00</lastmod>
 </url>
@@ -220,6 +228,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/googledcefecab7f26db2d.html</loc>

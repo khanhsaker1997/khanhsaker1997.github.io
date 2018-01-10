@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-28T16:09:05+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3</title><link href="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/" rel="alternate" type="text/html" title="Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3" /><published>2017-09-13T00:00:00+07:00</published><updated>2017-09-13T00:00:00+07:00</updated><id>http://localhost:4000/sublimetext3/phim-tat-sublime-text3</id><content type="html" xml:base="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/">&lt;h2 id=&quot;sublime-text-là-một-editor-mạnh-mẽ-với-nhiều-plugin-hữu-ích-sau-đây-là-danh-sách-các-phím-tắt-giup-bạn-làm-việc-nhanh-và-hiệu-quả-hơn-rất-nhiều-với-nó&quot;&gt;Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-10T18:36:47+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry><title type="html">Giao thức bảo mật WPA3 mới được công bố</title><link href="http://localhost:4000/an-toan-bao-mat-thong-tin/cong-bo-giao-thuc-wpa3/" rel="alternate" type="text/html" title="Giao thức bảo mật WPA3 mới được công bố" /><published>2018-01-10T00:00:00+07:00</published><updated>2018-01-10T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-bao-mat-thong-tin/cong-bo-giao-thuc-wpa3</id><content type="html" xml:base="http://localhost:4000/an-toan-bao-mat-thong-tin/cong-bo-giao-thuc-wpa3/">&lt;h2 id=&quot;giao-thức-bảo-mật-không-dây-wpa3-mới-vừa-được-công-bố-có-gì-đáng-quan-tâm&quot;&gt;Giao thức bảo mật không dây WPA3 mới vừa được công bố có gì đáng quan tâm?&lt;/h2&gt;
+
+&lt;p&gt;WiFi Alliance mới tuyên bố giao thức bảo mật không dây thế hệ mới đã được chờ đợi từ lâu - WiFi Protected Access (WPA3). WPA3 sẽ thay thế WPA2 - giao thức đã và đang được sử dụng 15 năm qua trên nhiều thiết bị không dây, trong đó có smartphone, laptop và các thiết bị IoT.&lt;/p&gt;
+
+&lt;p&gt;WPA2 từ lâu đã bị cho là không an toàn do các mạng WiFi mở không được mã hóa, khiến ai dùng chung mạng cũng có thể can thiệp vào kết nối của thiết bị khác.&lt;/p&gt;
+
+&lt;p&gt;Quan trọng nhất là WPA2 cũng mới bị phát hiện có lỗ hổng KRACK (Key Reinstallation Attack) cho phép kẻ tấn công can thiệp, giải mã traffic WiFi giữa các máy tính và các điểm truy cập.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/10/wifi-wpa-3-640.jpg&quot; alt=&quot;Chuẩn WiFi mới mang đến khả năng bảo mật cao hơn&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chuẩn WiFi mới mang đến khả năng bảo mật cao hơn&lt;/p&gt;
+
+&lt;p&gt;Chuẩn WiFi mới mang tới khả năng bảo mật cao hơn sẽ có trên các thiết bị không dây cá nhân và doanh nghiệp vào cuối năm nay.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;WPA3 bảo vệ quyền riêng tư của người dùng trên các mạng mở bằng cách mã hóa dữ liệu.&lt;/li&gt;
+  &lt;li&gt;WPA3 bảo vệ kiểu tấn công thử-sai, không cho hacker đăng nhập nhiều lần bằng các mật khẩu thông dụng cho tới khi thành công.&lt;/li&gt;
+  &lt;li&gt;WPA3 cũng đơn giản hóa việc bảo mật cho các thiết bị không có màn hình thiết lập như các thiết bị IoT.&lt;/li&gt;
+  &lt;li&gt;Ngoài ra còn có bộ bảo mật 192-bit cho người dùng yêu cầu cao như chính phủ…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Công nghệ bảo mật WiFi sẽ còn kéo dài hàng thập kỉ nữa, nên việc tiếp tục cập nhật để đáp ứng yêu cầu là rất quan trọng”, Joe Hoffman, đến từ SAR Insight &amp;amp; Consulting nói.&lt;/p&gt;
+
+&lt;p&gt;Vì phần cứng phải được WiFi Alliance chứng nhận mới dùng được WPA3 nên chuẩn mới sẽ không thể một sớm một chiều xuất hiện ngay được. Có thể sẽ mất vài tháng trước khi các nhà sản xuất hỗ trợ chuẩn mới, nhưng hy vọng sẽ là cuối năm nay.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nguồn: Quantrimang.com&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="bảo mật" /><category term="công nghệ cao" /><summary type="html">Giao thức bảo mật không dây WPA3 mới vừa được công bố có gì đáng quan tâm?</summary></entry><entry><title type="html">Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng</title><link href="http://localhost:4000/an-toan-bao-mat-thong-tin/viet-nam-tac-chien-khong-gian-mang/" rel="alternate" type="text/html" title="Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng" /><published>2018-01-09T00:00:00+07:00</published><updated>2018-01-09T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-bao-mat-thong-tin/viet-nam-tac-chien-khong-gian-mang</id><content type="html" xml:base="http://localhost:4000/an-toan-bao-mat-thong-tin/viet-nam-tac-chien-khong-gian-mang/">&lt;h2 id=&quot;việt-nam-thành-lập-bộ-tư-lệnh-tác-chiến-không-gian-mạng&quot;&gt;Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng&lt;/h2&gt;
+
+&lt;p&gt;Chiều qua (ngày 8/1), lễ công bố Quyết định của Thủ tướng về việc thành lập Bộ tư lệnh Tác chiến không gian mạng của Việt Nam đã được diễn ra.&lt;/p&gt;
+
+&lt;p&gt;Trong bài phát biểu, Thủ tướng Nguyễn Xuân Phúc đã nhấn mạnh tầm quan trọng của không gian mạng trong thời điểm hiện nay và tương lai. Không gian mạng đã và đang trở thành vùng lãnh thổ mới có vai trò quan trọng, nhất là khi khoa học công nghệ phát triển mạnh mẽ, làn sóng của cuộc cách mạng công nghiệp lần thứ 4 và sự phát triển của Internet trên tất cả các lĩnh vực.&lt;/p&gt;
+
+&lt;p&gt;Trong chiến tranh hiện đại có áp dụng các vũ khí công nghệ cao, không gian mạng được coi là môi trường tác chiến thứ 5 gắn kết chặt chẽ với tác chiến trên không, trên bộ, trên biển và trong không gian vũ trụ, tác chiến không gian mạng đã trở thành một phương thức tác chiến cơ bản giữ vai trò quan trọng. Việc bảo vệ không gian mạng góp phần bảo vệ vững chắc chủ quyền quốc gia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/09/bo-tu-lenh-tac-chien-khong-gian-mang-1.jpg&quot; alt=&quot;Thủ tướng Nguyễn Xuân Phúc phát biểu trong buổi lễ thành lập Bộ tư lệnh tác chiến không gian mạng. (Ảnh: VGP/Quang Hiếu.)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thủ tướng Nguyễn Xuân Phúc phát biểu trong buổi lễ thành lập Bộ tư lệnh tác chiến không gian mạng. (Ảnh: VGP/Quang Hiếu.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Lãnh đạo Chính phủ nhấn mạnh, lực lượng tác chiến không gian mạng được quan tâm đầu tư tiến thẳng lên hiện đại, cần phải xây dựng một Bộ Tư lệnh và lực lượng tác chiến không gian mạng thực sự trung thành, kỷ luật, trí tuệ, nhạy bén, hiệu quả để đủ sức mạnh chiến đấu và chiến thắng, bảo vệ chủ quyền quốc gia trên không gian mạng.&lt;/p&gt;
+
+&lt;p&gt;Hiện nhiều nước đã thành lập lực lượng tác chiến không gian mạng để bảo vệ chủ quyền quốc gia.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By Quantrimang.com&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="bảo mật" /><category term="công nghệ cao" /><summary type="html">Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng</summary></entry><entry xml:lang="vi"><title type="html">Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3</title><link href="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/" rel="alternate" type="text/html" title="Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3" /><published>2017-09-13T00:00:00+07:00</published><updated>2017-09-13T00:00:00+07:00</updated><id>http://localhost:4000/sublimetext3/phim-tat-sublime-text3</id><content type="html" xml:base="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/">&lt;h2 id=&quot;sublime-text-là-một-editor-mạnh-mẽ-với-nhiều-plugin-hữu-ích-sau-đây-là-danh-sách-các-phím-tắt-giup-bạn-làm-việc-nhanh-và-hiệu-quả-hơn-rất-nhiều-với-nó&quot;&gt;Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.&lt;/h2&gt;
 
 &lt;h3 id=&quot;nhóm-phím-tắt-chỉnh-sửa&quot;&gt;Nhóm phím tắt chỉnh sửa.&lt;/h3&gt;
 
@@ -429,179 +473,4 @@ Bình lặng… nghĩ về cuộc sống xung quanh, bạn tự hỏi mình ph�
 
 &lt;blockquote&gt;
   &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="systems" /><category term="song song" /><category term="hệ điều hành" /><summary type="html">Windows và Linux và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dùng máy ảo, nhưng để trải nghiệm thật nhất, sau đây tôi sẽ hướng dẫn các bạn cài song song 2 hệ điều hành này.</summary></entry><entry xml:lang="vi"><title type="html">Share: Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng! - Facebook Trịnh Thành</title><link href="http://localhost:4000/dailysharing/ban-dang-di-dung-huong/" rel="alternate" type="text/html" title="Share: Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng! - Facebook Trịnh Thành" /><published>2017-07-30T00:00:00+07:00</published><updated>2017-07-30T00:00:00+07:00</updated><id>http://localhost:4000/dailysharing/ban-dang-di-dung-huong</id><content type="html" xml:base="http://localhost:4000/dailysharing/ban-dang-di-dung-huong/">&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Link bài viết:&lt;/strong&gt; &lt;a href=&quot;https://www.facebook.com/thanh.akita/posts/10208865590339573?pnref=story&quot;&gt;https://www.facebook.com/thanh.akita/posts/10208865590339573?pnref=story&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;Bài viết này được chia sẻ trên Facebook Trịnh Thành. Đôi khi việc so đo cuộc sống của bạn với cuộc sống của những người xung quanh sẽ làm bạn quên mất cuộc sống này là của riêng bạn. “Đừng để tâm thái quá bạn đang đi chậm hay đi nhanh, chỉ cần đi đúng hướng, trong lòng có niềm tin, nơi chúng ta muốn đến nhất định có phong cảnh tươi đẹp nhất.”&lt;/p&gt;
-
-  &lt;p&gt;Sau đây là một đoạn trích từ bài viết:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng!&lt;/p&gt;
-
-&lt;p&gt;Nếu bạn 26 tuổi thì hãy thử nhìn quanh. Bạn bè bạn nhất định có những người đã kết hôn sinh đủ con bồng con bế, lại cũng có người chưa nếm vị nụ hôn đầu tiên... Có sinh viên ra trường lương khởi điểm 2000 USD, cũng có hàng ngàn cử nhân loay hoay không kiếm nổi công việc mưu sinh.
-Bạn có thấy kỳ lạ không?&lt;/p&gt;
-
-&lt;p&gt;Có phải xã hội này, bằng cách vô tình và cố tình đã giao cho bạn rất nhiều khung “deadline”: 22 tuổi tốt nghiệp đại học, 26 tuổi kết hôn, 30 tuổi có 2 con, 40 tuổi có gần này số dư trong tài khoản, 60 tuổi về hưu và mong đến tầm 80 90 tuổi hãy chết.&lt;/p&gt;
-
-&lt;p&gt;Nếu bạn thấy mình đang tụt lại quá xa so với những người đồng tuổi, bạn nhất định sẽ không tránh khỏi sợ hãi, thất vọng, buồn chán, như một vận động viên chạy lẹt đẹt dưới cùng trên đường đua. Bạn có hai luồng suy nghĩ: “Mình là kẻ về chót thất bại thảm hại”, hoặc “Mình sẽ dốc sức chạy vượt lên để về nhất.”&lt;/p&gt;
-
-&lt;p&gt;Lựa chọn thứ hai nghe có vẻ sáng suốt hơn đúng không?&lt;/p&gt;
-
-&lt;p&gt;Nhưng không, cách nghĩ tốt nhất chính là đừng nghĩ gì cả, hãy cứ chạy thôi, ngẩng cao đầu chạy thẳng về phía trước trên làn đường của bạn.&lt;/p&gt;
-
-&lt;vadev class=&quot;vadev-hide&quot;&gt;
-
-&lt;p&gt;Đừng thắc mắc vì sao cậu bạn kia 25 tuổi đã là CEO. Đừng nguýt mũi ghen tỵ và kiếm lý do không công nhận thành tích của người khác như kiểu “Vì bố nó là chủ tịch”, cũng đừng than thở “Cậu ấy quá giỏi và mình thì không bao giờ có thể giỏi như thế”. Càng đừng tự vấn “Tại sao mình cũng 25 tuổi mà không trở thành CEO được như cậu ta?”&lt;/p&gt;
-
-&lt;p&gt;Đơn giản thôi, vì bạn có nhiệm vụ khác trong thế giới này. Trong chiếc đồng hồ của cuộc đời bạn, bây giờ vẫn chưa phải lúc.&lt;/p&gt;
-
-&lt;p&gt;Bạn không cần phải đi nhanh hơn hay bằng ai, vì chúng ta đều đang chạy trên con đường riêng của mỗi người. Đích đến là hàng vô số điểm khác nhau không thể đo đếm. 30 tuổi chưa làm đám cưới chưa phải là ế, 40 tuổi vẫn nỗ lực hết sức để kiếm được công việc mơ ước không phải là muộn lắm rồi, 70 tuổi bắt đầu học lập trình máy tính thì cũng có sao. “Timeline” của tất thảy mọi người không thể nào đều đều giống nhau hết được, vì mỗi chúng ta đều đặc sắc theo cách của riêng mình.
-Cuộc sống đầy rẫy la liệt những bất công. Bạn thấy có rất nhiều người có vẻ đi xa hơn bạn chỉ vì họ may mắn. Người này sinh ra trong gia đình đầy đủ điều kiện, người kia được trời phú cho sắc đẹp lộng lẫy, lại có người gặp vận may trúng số Vietlott hàng chục tỷ.&lt;/p&gt;
-
-
-&lt;p&gt;Cuộc sống mà.&lt;/p&gt;
-
-&lt;p&gt;Phải chấp nhận thôi.&lt;/p&gt;
-
-&lt;p&gt;Bạn không thể thay đổi quy luật cuộc sống, vậy chỉ còn cách nghiêm chỉnh tuân thủ luật chơi. Gạt bỏ đi những ấm ức, so đo, đố kỵ tiêu cực trong lòng, đối thủ của bạn ngay lúc này chỉ có một duy nhất: bạn của ngày hôm qua.&lt;/p&gt;
-
-&lt;p&gt;Câu nói này bạn đã nghe nhiều lắm rồi đúng không?&lt;/p&gt;
-
-&lt;p&gt;Nhưng lý do duy nhất người ta tua lại nó nhiều đến thế đơn giản là vì nó đúng. Nếu bạn cứ mãi dành thời gian quý báu để nhìn bóng lưng của kẻ đằng trước hay cười nhạo gương mặt lấm tấm mồ hồi của người chạy sau thì bạn chỉ đang làm chậm tiến độ của chính mình. Cuộc sống cho chúng ta mỗi người một đề thi khác nhau, nếu giải bài theo phương pháp của người bên cạnh bạn sẽ trượt. Chi bằng hãy thôi nhìn ngang nhìn dọc, tập trung hết sức vào trận chiến của mình.
-Bạn không cần chạy nhanh hơn ai hết, bạn chỉ cần chạy hết tốc lực của mình. Không bao giờ là quá sớm. Không bao giờ là quá muộn. Muộn còn hơn không bao giờ. Cuộc sống của bạn mà. Làn đua của riêng bạn mà.&lt;/p&gt;
-
-&lt;p&gt;Đừng để tâm thái quá bạn đang đi chậm hay đi nhanh, chỉ cần đi đúng hướng, trong lòng có niềm tin, nơi chúng ta muốn đến nhất định có phong cảnh tươi đẹp nhất.
-Và, kể cả không đặt chân được tới vạch đích đã định, thì bạn cũng đã có cuộc hành trình tuyệt vời đúng không nào?&lt;/p&gt;
-
-&lt;p&gt;Thế giới này là nơi chỉ dành cho những kẻ sẵn sàng nhấc chân lên trải nghiệm, sẵn sàng trả giá, sẵn sàng chịu trách nhiệm cho mọi quyết định của đời mình, sẵng sàng nghĩ khác đi và sống đúng với bản ngã. Và nếu như chúng ta phải chịu trách nhiệm về trải nghiệm của chính mình, thì phải trải nghiệm nó một cách xứng đáng nhất.&lt;/p&gt;
-
-&lt;/vadev&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="sống" /><summary type="html">Link bài viết: https://www.facebook.com/thanh.akita/posts/10208865590339573?pnref=story Bài viết này được chia sẻ trên Facebook Trịnh Thành. Đôi khi việc so đo cuộc sống của bạn với cuộc sống của những người xung quanh sẽ làm bạn quên mất cuộc sống này là của riêng bạn. “Đừng để tâm thái quá bạn đang đi chậm hay đi nhanh, chỉ cần đi đúng hướng, trong lòng có niềm tin, nơi chúng ta muốn đến nhất định có phong cảnh tươi đẹp nhất.” Sau đây là một đoạn trích từ bài viết:</summary></entry><entry xml:lang="vi"><title type="html">Share: Mắt Biếc - TeA ft. PCGL (Bài nhạc được chuyển thể từ truyện dài của T.G Nguyễn Nhật Ánh)</title><link href="http://localhost:4000/dailysharing/music-mat-biec/" rel="alternate" type="text/html" title="Share: Mắt Biếc - TeA ft. PCGL (Bài nhạc được chuyển thể từ truyện dài của T.G Nguyễn Nhật Ánh)" /><published>2017-07-18T00:00:00+07:00</published><updated>2017-07-18T00:00:00+07:00</updated><id>http://localhost:4000/dailysharing/music-mat-biec</id><content type="html" xml:base="http://localhost:4000/dailysharing/music-mat-biec/">&lt;iframe style=&quot;width: 560; height: 315; max-width: 100%; margin: 0 auto;&quot; src=&quot;https://www.youtube.com/embed/QDY4Gy_4eYw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;lyrics&quot;&gt;Lyrics:&lt;/h2&gt;
-
-&lt;h3 id=&quot;đọc-1--tea--&quot;&gt;Đọc 1 ( TeA ) :&lt;/h3&gt;
-
-&lt;p&gt;Thời giờ đã cuốn bay đi những ngày tuổi trẻ còn xanh ngời&lt;/p&gt;
-
-&lt;p&gt;Một màu phượng vĩ mới nở hôm qua…mà đã cháy đỏ tim anh rồi&lt;/p&gt;
-
-&lt;p&gt;Đã lâu ta ko về trường vắng&lt;/p&gt;
-
-&lt;p&gt;Em còn tinh khôi nhành phượng thắm&lt;/p&gt;
-
-&lt;p&gt;Mắt biếc quay nhìn về khoảng trời..chả biết trong lòng anh đượm nắng !!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Khi phút đầu đang ngỡ rồi giật mình tan vỡ, em kể câu chuyện người vừa qua&lt;/p&gt;
-
-&lt;p&gt;Đã lâu chưa gặp không biết bây giờ tim em đã nở mấy mùa hoa??&lt;/p&gt;
-
-&lt;p&gt;Nhớ mắt em buồn và còn nhiều sâu thẳm..2 đứa chợt lặng mình ngồi im&lt;/p&gt;
-
-&lt;p&gt;Chắc lòng em nghĩ về phố thị..anh nhớ chuyện mình giữa đồi sim&lt;/p&gt;
-
-&lt;p&gt;Nhành hoa cỏ may như chiếc tuổi hồng..gió cuốn xa xa về cuối trời&lt;/p&gt;
-
-&lt;p&gt;Taynguyen chợt gọi trên con đường về nhưng tim em chả ở núi đồi&lt;/p&gt;
-
-&lt;p&gt;Làm sao đây hả mắt biếc ơi..chỉ là tiếng lòng muốn viết thôi&lt;/p&gt;
-
-&lt;p&gt;Thời gian chả níu tay ai lại qua những ngày buồn bã mải miết rơi&lt;/p&gt;
-
-&lt;p&gt;Quán xưa hay nhắc ôi những chiều ngây ngất…chắc giờ em chả còn nguyện giữ&lt;/p&gt;
-
-&lt;p&gt;Ta chả bận lòng , chả vấn vương khi 2 mình nhắc về chuyện cũ&lt;/p&gt;
-
-&lt;p&gt;Chợt thấy hạt sương trên đôi mi anh rồi.. biết bao giờ đọng thành trắng xóa&lt;/p&gt;
-
-&lt;p&gt;Như có nỗi buồn nào đó chơi vơi lặng lẽ rơi trên từng nhánh lá&lt;/p&gt;
-
-&lt;p&gt;Anh mang hoài niệm màu lan tím..để những đêm trăng còn mơ lại&lt;/p&gt;
-
-&lt;p&gt;Mắt biếc em nhìn sao quá xa xôi a tiếc những ngày còn thơ dại&lt;/p&gt;
-
-&lt;p&gt;Từng nghĩ hồi đó chỉ vô tình đưa em vào trang nhật hồng đời mình sắp viết thôi&lt;/p&gt;
-
-&lt;p&gt;Nhưng tiếc là buồn nào mà dễ phai đâu phai ko mắt biếc ơi??&lt;/p&gt;
-
-&lt;h3 id=&quot;điệp-khúc-1-&quot;&gt;Điệp Khúc 1 :&lt;/h3&gt;
-
-&lt;p&gt;Đời mình còn là mấy thoáng..để cho tuổi hồng này qua đi&lt;/p&gt;
-
-&lt;p&gt;Nếu mai em về xin hãy ngồi lại để mình cùng nghe điệu chapi&lt;/p&gt;
-
-&lt;p&gt;Đâu đó vang lên giữa mây trời&lt;/p&gt;
-
-&lt;p&gt;Góc phố buồn chân lúy túy..” về thôi ai ơi đã say rồi “&lt;/p&gt;
-
-&lt;p&gt;Hãy thiêu hồn a cháy bỏng..bằng chính ngọn lửa của riêng em ….&lt;/p&gt;
-
-&lt;p&gt;‘’ Phố núi nhắc tên em rồi ‘’&lt;/p&gt;
-
-&lt;p&gt;Đêm cứ dài mải miết trôi&lt;/p&gt;
-
-&lt;p&gt;Anh thấy buồn lắm mắt biếc ơi..!!! ( Anh thấy buồn lắm Mắt Biếc ơi )&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;đọc-2--pcgl--&quot;&gt;Đọc 2 ( PCGL ) :&lt;/h3&gt;
-
-&lt;p&gt;Mắt biếc em chả nhìn thấy anh ! … mắt biếc chỉ nghĩ về khoảng trời&lt;/p&gt;
-
-&lt;p&gt;Trong phút giây đó [ thì em vẫn ] môi cười nhưng tim anh tan từng mảng rồi&lt;/p&gt;
-
-&lt;p&gt;Nếu xem nhứ đây chỉ là phút mơ mộng - anh sẽ nguyện mơ cả nghìn lần&lt;/p&gt;
-
-&lt;p&gt;Cho anh được thấy bờ môi em cười khi đó anh biết là tình gần&lt;/p&gt;
-
-&lt;p&gt;Mấy chốc mình được ngồi kề nhau – Thì giờ lại nỡ vộ tan biến&lt;/p&gt;
-
-&lt;p&gt;Tên em vẫn còn vương lại trong tim tựa như hương – sắc – màu lan tím&lt;/p&gt;
-
-&lt;p&gt;Ta đứng lại chờ mà ngơ ngác – Vì em đã bên tình thơ khác&lt;/p&gt;
-
-&lt;p&gt;Em để lại ta là một nụ cười nhạt và cả bầu trời buồn xơ xác&lt;/p&gt;
-
-&lt;p&gt;Mắt Biếc em trông [ về nơi khuất xa xôi ] – Anh hoài nhìn lại phút tay cầm&lt;/p&gt;
-
-&lt;p&gt;Yên vui chỉ đến với anh bất chợt – Nhưng chắc chả đến hai lần …&lt;/p&gt;
-
-&lt;p&gt;Liệu em có về bên lối nhỏ khi xưa - Nơi đó gió thổi mây hoang dại&lt;/p&gt;
-
-&lt;p&gt;Để nghe khúc nhạc đong đưa những chiều buồn tênh còn vang lại&lt;/p&gt;
-
-&lt;p&gt;Và còn không em ? ..Những ngày say xưa chập chiều Mắt Biếc&lt;/p&gt;
-
-&lt;p&gt;Bao êm đềm kia [ đến nay vẫn còn đó ] bên trang nhật hồng xấp viết&lt;/p&gt;
-
-&lt;p&gt;Giá như em về lại với Tây Nguyên nghe núi rừng đang thở&lt;/p&gt;
-
-&lt;p&gt;..Nhưng mà thành phố hoa mĩ là nơi mà em đã chọn mùa lan nở&lt;/p&gt;
-
-&lt;h3 id=&quot;điệp-khúc-2-&quot;&gt;Điệp Khúc 2 :&lt;/h3&gt;
-
-&lt;p&gt;Oh ! Em từng yêu tôi chưa mắt biếc ơi ?&lt;/p&gt;
-
-&lt;p&gt;Tình thơ tôi trao đến em nhưng đôi môi vẫn còn ‘’ tiếc ‘’ lời …&lt;/p&gt;
-
-&lt;p&gt;… Em đã bên ai rồi mắt biếc ơi ?&lt;/p&gt;
-
-&lt;p&gt;Em chả cần nói – Thi tim tôi cũng tự khắc biết rồi ….&lt;/p&gt;
-
-&lt;p&gt;… Em đã yêu ai rồi mắt biếc ơi ?&lt;/p&gt;
-
-&lt;p&gt;Anh vỡ tan mất – Nếu một ngày em và họ xiết môi&lt;/p&gt;
-
-&lt;p&gt;Oh ! Em nỡ quên tôi sao Mắt Biếc ơi !&lt;/p&gt;
-
-&lt;p&gt;Thời gian chẳng níu tay em – [ hãy cứ để ] tình ta mãi miết trôi&lt;/p&gt;
-
-&lt;h2&gt;#&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;12/07/2016&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Taynguyen sầu lắng.&lt;/p&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="music" /><summary type="html"></summary></entry></feed>
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="systems" /><category term="song song" /><category term="hệ điều hành" /><summary type="html">Windows và Linux và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dùng máy ảo, nhưng để trải nghiệm thật nhất, sau đây tôi sẽ hướng dẫn các bạn cài song song 2 hệ điều hành này.</summary></entry></feed>
