@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <!--
   MakeitSimple Theme 1.0 by Viet Anh Nguyen
   Based on Minimal Mistakes Jekyll Theme 4.2.2 by Michael Rose
---><html lang="vi" class="no-js">
+-->
+<html lang="vi" class="no-js">
   <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
 
 <!-- begin SEO -->
@@ -22,7 +22,7 @@
 
 
 
-<meta name="description" content='Chèn hình ảnh:###Cú pháp cơ bản: &lt;img src="địa chỉ tương đối or tuyệt đối hình ảnh" alt="ảnh con mèo" title="ảnh đẹp"&gt;'>
+<meta name="description" content="Chèn hình ảnh:###Cú pháp cơ bản: &lt;img src=&quot;địa chỉ tương đối or tuyệt đối hình ảnh&quot; alt=&quot;ảnh con mèo&quot; title=&quot;ảnh đẹp&quot;&gt;">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-  <meta property="og:description" content='Chèn hình ảnh:###Cú pháp cơ bản: &lt;img src="địa chỉ tương đối or tuyệt đối hình ảnh" alt="ảnh con mèo" title="ảnh đẹp"&gt;'>
+  <meta property="og:description" content="Chèn hình ảnh:###Cú pháp cơ bản: &lt;img src=&quot;địa chỉ tương đối or tuyệt đối hình ảnh&quot; alt=&quot;ảnh con mèo&quot; title=&quot;ảnh đẹp&quot;&gt;">
 
 
 
@@ -157,10 +157,10 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh
-            <p id="site-subtitle" style=' margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
-                font-family: "Maven Pro",-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-            '>write code everyday <span class="blinking-cursor">_</span></p>
+        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh</br>
+            <p id="site-subtitle" style=" margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
+                font-family: &quot;Maven Pro&quot;,-apple-system,&quot;.SFNSText-Regular&quot;,&quot;San Francisco&quot;,&quot;Roboto&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;Lucida Grande&quot;,Arial,sans-serif;
+            ">write code everyday <span class="blinking-cursor">_</span></p>
         </a>
         <ul class="visible-links">
           
@@ -237,7 +237,7 @@
       
         <li>
           <a href="mailto:khanhsaker1997@gmail.com">
-            <meta itemprop="email" content="khanhsaker1997@gmail.com">
+            <meta itemprop="email" content="khanhsaker1997@gmail.com" />
             <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
           </a>
         </li>
@@ -316,7 +316,7 @@
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <meta itemprop="headline" content="Chèn hình ảnh và liên kết trong HTML">
-    <meta itemprop="description" content='Chèn hình ảnh:###Cú pháp cơ bản: &lt;img src="địa chỉ tương đối or tuyệt đối hình ảnh" alt="ảnh con mèo" title="ảnh đẹp"&gt;'>
+    <meta itemprop="description" content="Chèn hình ảnh:###Cú pháp cơ bản: &lt;img src=&quot;địa chỉ tương đối or tuyệt đối hình ảnh&quot; alt=&quot;ảnh con mèo&quot; title=&quot;ảnh đẹp&quot;&gt;">
     <meta itemprop="datePublished" content="September 19, 2017">
     
 
@@ -342,23 +342,17 @@
       <section class="page__content" itemprop="text">
         <h2 id="chèn-hình-ảnh">Chèn hình ảnh:</h2>
 <p>###Cú pháp cơ bản:</p>
-<div class="language-html highlighter-rouge">
-<pre class="highlight"><code> <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"địa chỉ tương đối or tuyệt đối hình ảnh"</span> <span class="na">alt=</span><span class="s">"ảnh con mèo"</span> <span class="na">title=</span><span class="s">"ảnh đẹp"</span><span class="nt">&gt;</span>
+<div class="language-html highlighter-rouge"><pre class="highlight"><code> <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"địa chỉ tương đối or tuyệt đối hình ảnh"</span> <span class="na">alt=</span><span class="s">"ảnh con mèo"</span> <span class="na">title=</span><span class="s">"ảnh đẹp"</span><span class="nt">&gt;</span>
 </code></pre>
 </div>
 
 <p>###Các thuộc tính:</p>
 <ul>
-  <li>
-<strong>src</strong>: thuộc tính này nói cho trình duyệt biết nơi có thể tìm thấy bức ảnh và hiển thị ra ngoài</li>
-  <li>
-<strong>alt</strong>: cung cấp thông tin mô tả về bức ảnh, dòng thông tin này sẽ được hiển thị thay thế bức ảnh trong trường hợp trình duyệt không thể load ảnh thành công.</li>
-  <li>
-<strong>title</strong>: Bạn cũng có thể sử dụng thuộc tính này để cucng cấp thêm thông tin về bức ảnh/ Nhiều trình duyệt sẽ hiển thị nội dung của thuộc tính này dưới dạng tooltip khi chúng ra di chuyển chuột qua ảnh.</li>
-  <li>
-<strong>height</strong>: thuộc tính quy định chiều cao của bức ảnh.</li>
-  <li>
-<strong>width</strong>: thuộc tính quy định độ rộng của bức ảnh.</li>
+  <li><strong>src</strong>: thuộc tính này nói cho trình duyệt biết nơi có thể tìm thấy bức ảnh và hiển thị ra ngoài</li>
+  <li><strong>alt</strong>: cung cấp thông tin mô tả về bức ảnh, dòng thông tin này sẽ được hiển thị thay thế bức ảnh trong trường hợp trình duyệt không thể load ảnh thành công.</li>
+  <li><strong>title</strong>: Bạn cũng có thể sử dụng thuộc tính này để cucng cấp thêm thông tin về bức ảnh/ Nhiều trình duyệt sẽ hiển thị nội dung của thuộc tính này dưới dạng tooltip khi chúng ra di chuyển chuột qua ảnh.</li>
+  <li><strong>height</strong>: thuộc tính quy định chiều cao của bức ảnh.</li>
+  <li><strong>width</strong>: thuộc tính quy định độ rộng của bức ảnh.</li>
 </ul>
 
 <blockquote>
@@ -370,29 +364,26 @@
   <li>Trước một đoạn văn: Đoạn băn bản sẽ bắt đầu một dòng mới dưới bức ảnh.</li>
 </ul>
 
-<p><img src="/laptrinhweb/anh1.jpg" alt="ảnh 1">
+<p><img src="/laptrinhweb/anh1.jpg" alt="ảnh 1" />
 Đây là hình ảnh ở trên đoạn văn này. Đây là hình ảnh ở trên đoạn văn này. Đây là hình ảnh ở trên đoạn văn này. Đây là hình ảnh ở trên đoạn văn này.</p>
 <ul>
   <li>Dòng đầu tiên bên trong đoạn: Ảnh sẽ được coi là “1 phần” của dòng văn bản.
-<img src="/laptrinhweb/anh2.jpg" alt="ảnh 2"> Đây là hình ảnh ở dòng đầu tiên trong đoạn này. Đây là hình ảnh ở dòng đầu tiên trong đoạn này. Đây là hình ảnh ở dòng đầu tiên trong đoạn này. Đây là hình ảnh ở dòng đầu tiên trong đoạn này.</li>
+<img src="/laptrinhweb/anh2.jpg" alt="ảnh 2" /> Đây là hình ảnh ở dòng đầu tiên trong đoạn này. Đây là hình ảnh ở dòng đầu tiên trong đoạn này. Đây là hình ảnh ở dòng đầu tiên trong đoạn này. Đây là hình ảnh ở dòng đầu tiên trong đoạn này.</li>
   <li>Dòng bên trong đoạn văn bản: Ảnh sẽ được coi là một từ trong văn bản.
-Đây là ảnh như là 1 từ trong băn bản. Đây là ảnh như là 1 từ trong băn bản. <img src="/laptrinhweb/anh3.jpg" alt="ảnh 3"> Đây là ảnh như là 1 từ trong băn bản. Đây là ảnh như là 1 từ trong băn bản. Đây là ảnh như là 1 từ trong băn bản.</li>
+Đây là ảnh như là 1 từ trong băn bản. Đây là ảnh như là 1 từ trong băn bản. <img src="/laptrinhweb/anh3.jpg" alt="ảnh 3" /> Đây là ảnh như là 1 từ trong băn bản. Đây là ảnh như là 1 từ trong băn bản. Đây là ảnh như là 1 từ trong băn bản.</li>
 </ul>
 
 <h2 id="chèn-liên-kết">Chèn liên kết:</h2>
 <p>Cú pháp cơ bản:</p>
-<div class="language-html highlighter-rouge">
-<pre class="highlight"><code><span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"https://facebook.com/khanhsakercsdn"</span><span class="nt">&gt;</span>Khánh Saker<span class="nt">&lt;/a&gt;</span>
+<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"https://facebook.com/khanhsakercsdn"</span><span class="nt">&gt;</span>Khánh Saker<span class="nt">&lt;/a&gt;</span>
 <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"https://facebook.com"</span><span class="nt">&gt;</span>Facebook<span class="nt">&lt;/a&gt;</span>
 </code></pre>
 </div>
 
 <p>###Các thuộc tính:</p>
 <ul>
-  <li>
-<strong>href</strong>: giống thuộc tính <strong>src</strong> của thẻ IMG bên trên.</li>
-  <li>
-<strong>title</strong>: thêm thông tin về liên kết
+  <li><strong>href</strong>: giống thuộc tính <strong>src</strong> của thẻ IMG bên trên.</li>
+  <li><strong>title</strong>: thêm thông tin về liên kết
 Ví dụ trên sẽ hiển thị như thế này:</li>
 </ul>
 <form>
@@ -468,13 +459,13 @@ Ví dụ trên sẽ hiển thị như thế này:</li>
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=Ch%C3%A8n%20h%C3%ACnh%20%E1%BA%A3nh%20v%C3%A0%20li%C3%AAn%20k%E1%BA%BFt%20trong%20HTML%20http://localhost:4000/laptrinhweb/2017-09-19-hinh-anh-va-lien-ket-trong-html/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=Chèn hình ảnh và liên kết trong HTML http://localhost:4000/laptrinhweb/2017-09-19-hinh-anh-va-lien-ket-trong-html/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
   <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/laptrinhweb/2017-09-19-hinh-anh-va-lien-ket-trong-html/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
   <a href="https://plus.google.com/share?url=http://localhost:4000/laptrinhweb/2017-09-19-hinh-anh-va-lien-ket-trong-html/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:4000/laptrinhweb/2017-09-19-hinh-anh-va-lien-ket-trong-html/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/laptrinhweb/2017-09-19-hinh-anh-va-lien-ket-trong-html/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -526,8 +517,7 @@ Ví dụ trên sẽ hiển thị như thế này:</li>
 			(d.head || d.body).appendChild(s);
 			})();
 			</script>
-			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	</section>
 
 
@@ -556,6 +546,36 @@ Ví dụ trên sẽ hiển thị như thế này:</li>
     <div class="page__related">
        <h4 class="page__related-title">Recent Posts</h4>
       <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/dailysharing/lap-trinh-swift/" rel="permalink">7 lý do bạn nên học ngôn ngữ lập trình Swift
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  2 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">7 lý do bạn nên học ngôn ngữ lập trình Swift
+Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắng bắt đầu với một ngôn ngữ lập trình cổ. Người mới học t...</p>
+  </article>
+</div>
+
         
           
 
@@ -650,35 +670,6 @@ Ví dụ trên sẽ hiển thị như thế này:</li>
 </div>
 
         
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-    <h3 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/" rel="permalink">Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc
-</a>
-      
-    </h3>
-    
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-
-
-
-
-
-
-  2 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description"><img class="emoji" title=":red_circle:" alt=":red_circle:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png" height="20" width="20" align="absmiddle"> Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, ...</p>
-  </article>
-</div>
-
-        
       </div>
     </div>
   
@@ -705,7 +696,7 @@ Ví dụ trên sẽ hiển thị như thế này:</li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">© 2018 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2018 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
       </footer>
     </div>
 

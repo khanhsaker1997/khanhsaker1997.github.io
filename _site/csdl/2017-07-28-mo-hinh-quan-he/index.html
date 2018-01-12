@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <!--
   MakeitSimple Theme 1.0 by Viet Anh Nguyen
   Based on Minimal Mistakes Jekyll Theme 4.2.2 by Michael Rose
---><html lang="vi" class="no-js">
+-->
+<html lang="vi" class="no-js">
   <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
 
 <!-- begin SEO -->
@@ -157,10 +157,10 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh
-            <p id="site-subtitle" style=' margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
-                font-family: "Maven Pro",-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-            '>write code everyday <span class="blinking-cursor">_</span></p>
+        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh</br>
+            <p id="site-subtitle" style=" margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
+                font-family: &quot;Maven Pro&quot;,-apple-system,&quot;.SFNSText-Regular&quot;,&quot;San Francisco&quot;,&quot;Roboto&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;Lucida Grande&quot;,Arial,sans-serif;
+            ">write code everyday <span class="blinking-cursor">_</span></p>
         </a>
         <ul class="visible-links">
           
@@ -237,7 +237,7 @@
       
         <li>
           <a href="mailto:khanhsaker1997@gmail.com">
-            <meta itemprop="email" content="khanhsaker1997@gmail.com">
+            <meta itemprop="email" content="khanhsaker1997@gmail.com" />
             <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
           </a>
         </li>
@@ -355,30 +355,25 @@
       </li>
       <li>Một lược đồ quan hệ R, ký hiệu là R(A1,A2,…, An), được tạo nên từ một tên quan hệ R một danh sách các thuộc tính A1,A2,…, An. Mỗi một thuộc tính Ai là tên vai trò của một miền D nào đó trong lược đồ quan hệ R. D được gọi là miền giá trị của Ai và được ký hiệu là Dom(Ai). Một lược đồ quan hệ được sử dụng để mô tả một quan hệ, R được gọi là tên của quan hệ đó. Cấp của một quan hệ là số các thuộc tính của lược đồ quan hệ của nó. Ví dụ, ta có lược đồ cho quan hệ cấp 5: SINHVIÊN (Mãsố, Họtên, Ngàysinh, Giớitính, Địachỉ). Với lược đồ quan hệ này, SINHVIÊN là tên của quan hệ.</li>
       <li>Một quan hệ (hoặc trạng thái quan hệ) r của lược đồ quan hệ R(A1,A2,…, An) được ký hiệu là r(R), là tập hợp các n-bộ r = {t1, t2, …, tn }. Mỗi n-bộ t là một danh sách có thứ tự của n giá trị, t = &lt;v1, v2, …, vn&gt;, trong đó mỗi vi ,1&lt;= i &lt;= n , là một phần tử của Dom(Ai) hoặc là một giá trị không xác định (null value). Giá trị thứ i của bộ t, tương ứng với thuộc tính Ai được ký hiệu là t[Ai] . Hình 1 dưới đây chỉ ra một ví dụ của quan hệ SINHVIÊN tương ứng với lược đồ quan hệ SINHVIÊN ở trên. Mỗi bộ trong quan hệ biểu diễn một thực thể sinh viên cụ thể. Quan hệ được biểu diễn như một bảng, trong đó mỗi bộ được hiển thị như một hàng và mỗi thuộc tính tương ứng với một đầu cột chỉ ra vai trò của các giá trị trong cột đó. Các giá trị không xác định biểu thị các thuộc tính mà giá trị của nó không biết được hoặc không tồn tại đối với từng bộ SINHVIÊN cụ thể.
-<img src="%5Cassets%5Cimg%5Ccsdl%5CquanHeSinhVien.png" alt="Hình 1">
-</li>
+<img src="\assets\img\csdl\quanHeSinhVien.png" alt="Hình 1" /></li>
     </ul>
   </li>
   <li>Các đặc trưng của các quan hệ
     <ul>
-      <li>
-<em>Thứ tự của các bộ trong một quan hệ</em>
+      <li><em>Thứ tự của các bộ trong một quan hệ</em>
         <ul>
           <li>Một quan hệ được định nghĩa như một tập hợp các bộ. Các phần tử trong một tập hợp không có thứ tự, vì vậy các bộ trong một quan hệ không có một thứ tự cụ thể. Tuy nhiên, trong một tệp, các bản ghi được lưu trữ một cách vật lý trên đĩa vì vậy luôn có một thứ tự giữa các bản ghi. Thứ tự này chỉ rõ bản ghi thứ nhất, bản ghi thứ hai, …, bản ghi thứ n. Một cách tương tự, khi ta biểu diễn một quan hệ như là một bảng, các hàng được hiển thị theo một thứ tự nhất định.</li>
         </ul>
       </li>
-      <li>
-<em>Thứ tự của các giá trị bên trong một bộ</em>
+      <li><em>Thứ tự của các giá trị bên trong một bộ</em>
         <ul>
           <li>Theo định nghĩa quan hệ ở trên, một n-bộ là một danh sách có thứ tự của n giá trị. Như vậy thứ tự của các giá trị trong một bộ là quan trọng, từ đó suy ra thứ tự của các thuộc tính trong một lược đồ quan hệ cũng quan trọng. Tuy nhiên, ở mức lôgic, thứ tự của các thuộc tính và các giá trị của nó là không thực sự quan trọng khi giữ được sự tương ứng giữa các thuộc tính và các giá trị.</li>
           <li>Có thể đưa ra một định nghĩa khác về quan hệ, định nghĩa này sẽ làm cho thứ tự của các giá trị trong một bộ là không cần thiết. Theo định nghĩa này, một lược đồ quan hệ R = {A1, A2,…,An} là một tập hợp các thuộc tính và một quan hệ r(R) là một tập hợp hữu hạn các ánh xạ r = {t1, t2, …., tm}, trong đó mỗi ti là một ánh xạ từ R vào D, trong đó D = dom(A1)∪dom(A2) ∪…∪dom(An). Trong định nghĩa này, t[Ai] phải ở trong dom(Ai) với 1&lt;= i &lt;= n với mỗi ánh xạ ti trong r. Mỗi ánh xạ ti được gọi là một bộ.</li>
         </ul>
       </li>
-      <li>
-<em>Các giá trị trong một bộ</em>
+      <li><em>Các giá trị trong một bộ</em>
 *Mỗi giá trị trong một bộ là một giá trị nguyên tử, điều đó có nghĩa là nó không phân chia được thành các thành phần trong phạm vi của mô hình quan hệ. Như vậy, trong mô hình quan hệ không cho phép có các thuộc tính phức hợp và các thuộc tính đa trị. Các thuộc tính đa trị phải được biểu diễn bằng các quan hệ còn các thuộc tính phức hợp chỉ được biểu diễn bằng các thuộc tính thành phần đơn của nó.</li>
-      <li>
-<em>Thể hiện của một quan hệ</em>
+      <li><em>Thể hiện của một quan hệ</em>
         <ul>
           <li>Một lược đồ quan hệ có thể được thể hiện như là một tuyên bố hoặc một khẳng định. Ví dụ lược đồ quan hệ SINHVIÊN ở trên khẳng định rằng, nói chung, một thực thể sinh viên có một mã số, họ tên, ngày sinh, giới tính, địa chỉ. Mỗi bộ trong quan hệ được thể hiện như là một sự kiện hoặc như một thể hiện cụ thể của một khẳng định. Ngoài các quan hệ biểu diễn các sự kiện về các thực thể, một số quan hệ có thể biểu diễn các sự kiện về mối liên kết. Ví dụ, lược đồ quan hệ NHÂNVIÊN_DỰÁN(MãsốNV, MãsốDA, Sốgiờ) khẳng định các nhân viên làm việc với các dự án. Mỗi bộ trong quan hệ này liên kết một nhân viên với một dự án mà anh ta làm việc cho nó.</li>
         </ul>
@@ -394,14 +389,12 @@
 </blockquote>
 
 <ol>
-  <li>
-<em>Các ràng buộc miền</em>
+  <li><em>Các ràng buộc miền</em>
     <ul>
       <li>Các ràng buộc miền chỉ ra rằng giá trị của mỗi thuộc tính A phải là một giá trị nguyên tử thuộc miền giá trị dom(A). Các kiểu dữ liệu liên kết với các miền bao gồm: các kiểu dữ liệu số chuẩn cho các số nguyên (short integer, integer, long integer), các số thực (float, double precision float). Ngoài ra còn các kiểu dữ liệu ký tự (dãy ký tự với độ dài cố định, dãy ký tự với độ dài thay đổi), ngày, thời gian và53 tiền tệ. Các loại miền khác có thể là các miền con của một kiểu dữ liệu hoặc một kiểu dữ liệu đếm được trong đó mọi giá trị có thể được liệt kê rõ ràng.</li>
     </ul>
   </li>
-  <li>
-<em>Ràng buộc khóa và ràng buộc trên các giá trị không xác định (null)</em>
+  <li><em>Ràng buộc khóa và ràng buộc trên các giá trị không xác định (null)</em>
     <ul>
       <li>Thông thường, có tồn tại các tập con của các thuộc tính của một lược đồ quan hệ có tính chất là không có hai bộ nào ở trong mọi trạng thái quan hệ r của R có cùng một tổ hợp giá trị cho các thuộc tính của nó. Giả sử chúng ta ký hiệu một tập con như vậy là SK, khi đó với hai bộ khác nhau bất kỳ t1 và t2 trong một trạng thái quan hệ r của R chúng ta có ràng buộc là t1[SK] ≠ t2[SK].</li>
       <li>Tập hợp thuộc tính SK như vậy được gọi là một siêu khoá của lược đồ quan hệ R. Một siêu khoá SK xác định rõ một ràng buộc về tính duy nhất, phát biểu rằng không có hai bộ khác nhau trong một trạng thái r của R có cùng một giá trị cho SK. Mỗi quan hệ có ít nhất là một siêu khoá mặc định, đó là tập hợp tất cả các thuộc tính của nó. Một khoá K của một lược đồ quan hệ R là một siêu khoá của R với tính chất là nếu bỏ đi bất kỳ thuộc tính A nào ra khỏi K thì sẽ còn lại một tập K không phải là siêu khoá của R. Như vậy, một khoá là một siêu khoá tối thiểu, nghĩa là đó là một siêu khoá mà ta không thể vứt bỏ thuộc tính nào ra khỏi nó mà vẫn giữ được ràng buộc về tính duy nhất.</li>
@@ -415,38 +408,32 @@
 <p>Trong phần này chúng ta thảo luận về các phép toán của mô hình quan hệ. Các phép toán của mô hình quan hệ có thể phân thành hai loại: các phép toán cập nhật và các phép toán đại số quan hệ. Các phép toán cập nhật được sử dụng để tạo ra một quan hệ đúng đắn. Các phép toán đại số quan hệ được sử dụng để đặc tả các phép lấy thông tin ra.</p>
 
 <ol>
-  <li>
-<em>các phép toán cập nhật</em>
+  <li><em>các phép toán cập nhật</em>
     <ul>
       <li>Các phép toán cập nhật gồm ba phép toán cơ bản là chèn, xoá và sửa đổi. Phép chèn được dùng để chèn một bộ giá trị hoặc nhiều bộ giá trị vào một quan hệ. Phép xoá dùng để loại bỏ các bộ giá trị và phép sửa đổi dùng để sửa đổi các giá trị của một số thuộc tính trong các bộ giá trị đã có. Mỗi khi các phép toán cập nhật được áp dụng, các ràng buộc trên lược đồ cơ sở dữ liệu có thể bị vi phạm. Trong phần này chúng ta sẽ nói đến khả năng vi phạm các ràng buộc của từng phép toán và các kiểu hành động có thể thực hiện khi một ràng buộc bị vi phạm.</li>
     </ul>
   </li>
-  <li>
-<em>Phép chèn (Insert)</em>
+  <li><em>Phép chèn (Insert)</em>
     <ul>
       <li>Phép chèn cung cấp một danh sách các giá trị cho một bộ mới t được chèn vào trong một quan hệ R. Phép chèn có thể vi phạm các kiểu ràng buộc được mô tả ở trên. Các ràng buộc miền có thể bị vi phạm nếu một giá trị thuộc tính được cho không thuộc vào miền tương ứng.</li>
     </ul>
   </li>
-  <li>
-<em>Xóa (Delete)</em>
+  <li><em>Xóa (Delete)</em>
     <ul>
       <li>Phép xoá được sử dụng để xoá một hoặc nhiều bộ giá trị của một quan hệ. Phép xoá chỉ có thể vi phạm ràng buộc tham chiếu trong trường hợp bộ bị xoá được tham chiếu bởi một khoá ngoài từ các bộ khác trong cơ sở dữ liệu. Để chỉ rõ một phép xoá, cần phải đưa ra một điều kiện trên các thuộc tính của quan hệ để chọn các bộ sẽ bị xoá.</li>
     </ul>
   </li>
-  <li>
-<em>Phép sửa đổi (Update)</em>
+  <li><em>Phép sửa đổi (Update)</em>
     <ul>
       <li>Phép toán sửa đổi được dùng để thay đổi các giá trị của một hoặc nhiều thuộc tính trong một (hoặc nhiều) bộ của một quan hệ R nào đấy.</li>
     </ul>
   </li>
-  <li>
-<em>Phép chọn (Select)</em>
+  <li><em>Phép chọn (Select)</em>
     <ul>
       <li>Phép chọn được sử dụng để chọn một tập hợp các bộ thoả mãn điều kiện chọn từ một quan hệ.</li>
     </ul>
   </li>
-  <li>
-<em>Phép chiếu (Project)</em>
+  <li><em>Phép chiếu (Project)</em>
     <ul>
       <li>Phép chiếu là phép toán chọn một số cột của bảng.</li>
     </ul>
@@ -459,20 +446,13 @@
 <h2 id="iv--chuyển-đổi-mô-hình-er-thành-mô-hình-quan-hệ">IV- Chuyển đổi mô hình ER thành mô hình quan hệ.</h2>
 <p><strong>Thuật toán chuyển dổi được thực hiện theo các bước sau:</strong></p>
 <ul>
-  <li>
-<strong><em>Bước 1</em></strong> Với mỗi kiểu thực thể thông thường E trong lược đồ ER, hãy tạo một quan hệ R chứa mọi thuộc tính đơn của E. Với các thuộc tính phức hợp, chỉ lấy các thuộc tính thành phần đơn của nó. Chọn một trong các thuộc tính khoá của E làm khoá chính cho R. Nếu khoá được chọn của E là phức hợp (gồm nhiều thuộc tính) thì tập các thuộc tính đơn đó sẽ cùng nhau tạo nên khoá chính của R.</li>
-  <li>
-<strong><em>Bước 2</em></strong> Với mỗi kiểu thứ thể yếu W trong lược đồ ER cùng với kiểu thực thể chủ E, hãy tạo một quan hệ R chứa tất các các thành phần đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của W như là các thuộc tính của R. Đưa các thuộc tính khoá chính của các quan hệ tương ứng với kiểu thực thể chủ làm khoá ngoài của R. Các thuộc tính này sẽ xác định kiểu liên kết của W. Khoá chính của R là một tổ hợp của khoá chính của các quan hệ tương ứng với kiểu thực thể chủ và khoá bộ phận của kiểu thực thể yếu W nếu có.</li>
-  <li>
-<strong><em>Bước 3</em></strong> Với mỗi kiểu liên kết 1:1 R trong lược đồ ER, hãy xác định các quan hệ S và T tương ứng với các kiểu thực thể tham gia trong R. Hãy chọn một trong các quan hệ, chẳng hạn S, và đưa khoá chính của T vào làm khoá ngoài trong S. Tốt nhất là chọn S là một kiểu thực thể tham gia toàn bộ vào R. Đưa tất các các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết 1:1 R vào làm các thuộc tính của S.</li>
-  <li>
-<strong><em>Bước 4</em></strong> Với mỗi kiểu liên kết hai ngôi R kiểu 1:N, hãy xác định quan hệ S biểu diễn kiểu thực thể tham gia ở phía N của kiểu liên kết. Đưa khoá chính của quan hệ T biểu diễn kiểu thực thể tham gia vào R ở phía 1 vào làm khoá ngoài trong S. Làm như vậy là vì mỗi thực thể cụ thể của phía N được liên kết với nhiều nhất là một thực thể cụ thể của phía 1 của kiểu liên kết. Đưa các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết 1:N vào làm các thuộc tính của S.</li>
-  <li>
-<strong><em>Bước 5</em></strong> Với mỗi kiểu liên kết N:M hai ngôi R, hãy tạo ra một quan hệ mới S để biểu diễn R. Đưa các khoá chính của các quan hệ biểu diễn các kiểu thực thể tham gia vào làm khoá ngoài của S. Tổ hợp các khoá chính đó sẽ tạo nên khoá chính của S. Đưa tất cả các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết N:M vào làm các thuộc tính của S. Chú ý rằng ta không thể biểu diễn một kiểu liên kết N:M bằng một thuộc tính khoá ngoài đơn giản trong một trong các quan hệ tham gia (như đã làm với các kiểu liên kết 1:1 và 1:N) vì tỷ số lực lượng N:M.</li>
-  <li>
-<strong><em>Bước 6</em></strong> Với mỗi thuộc tính đa trị A, hãy tạo ra một quan hệ mới R. Quan hệ R này sẽ chứa một thuộc tính tương ứng với A cộng với thuộc tính khoá K của quan hệ biểu diễn kiểu thực thể hoặc kiểu liên kết có thuộc tính là A làm khoá ngoài của R. Khoá chính của R là một tổ hợp của A và K. Nếu thuộc tính đa trị là phức hợp thì chúng ta chỉ đưa vào R các thành phần đơn của nó.</li>
-  <li>
-<strong><em>Bước 7</em></strong> Với mỗi kiểu liên kết n ngôi R, trong đó n &gt; 2, hãy tạo ra một quan hệ S để biểu diễn R. Đưa các khoá chính của các quan hệ biểu diễn các kiểu thực thể tham gia vào làm khoá ngoài của S. Đưa tất cả các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết n-ngôi vào làm thuộc tính của S. Khoá chính của S thường là một tổ hợp các khoá chính của các quan hệ biểu diễn các kiểu thực thể tham gia. Tuy nhiên, nếu ràng buộc lực lượng trên một kiểu thực thể E nào đó tham gia vào R là 1 thì khoá chính của S không được chứa thuộc tính khoá ngoài tham chiếu đến quan hệ E tương ứng với kiểu thực thể E.</li>
+  <li><strong><em>Bước 1</em></strong> Với mỗi kiểu thực thể thông thường E trong lược đồ ER, hãy tạo một quan hệ R chứa mọi thuộc tính đơn của E. Với các thuộc tính phức hợp, chỉ lấy các thuộc tính thành phần đơn của nó. Chọn một trong các thuộc tính khoá của E làm khoá chính cho R. Nếu khoá được chọn của E là phức hợp (gồm nhiều thuộc tính) thì tập các thuộc tính đơn đó sẽ cùng nhau tạo nên khoá chính của R.</li>
+  <li><strong><em>Bước 2</em></strong> Với mỗi kiểu thứ thể yếu W trong lược đồ ER cùng với kiểu thực thể chủ E, hãy tạo một quan hệ R chứa tất các các thành phần đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của W như là các thuộc tính của R. Đưa các thuộc tính khoá chính của các quan hệ tương ứng với kiểu thực thể chủ làm khoá ngoài của R. Các thuộc tính này sẽ xác định kiểu liên kết của W. Khoá chính của R là một tổ hợp của khoá chính của các quan hệ tương ứng với kiểu thực thể chủ và khoá bộ phận của kiểu thực thể yếu W nếu có.</li>
+  <li><strong><em>Bước 3</em></strong> Với mỗi kiểu liên kết 1:1 R trong lược đồ ER, hãy xác định các quan hệ S và T tương ứng với các kiểu thực thể tham gia trong R. Hãy chọn một trong các quan hệ, chẳng hạn S, và đưa khoá chính của T vào làm khoá ngoài trong S. Tốt nhất là chọn S là một kiểu thực thể tham gia toàn bộ vào R. Đưa tất các các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết 1:1 R vào làm các thuộc tính của S.</li>
+  <li><strong><em>Bước 4</em></strong> Với mỗi kiểu liên kết hai ngôi R kiểu 1:N, hãy xác định quan hệ S biểu diễn kiểu thực thể tham gia ở phía N của kiểu liên kết. Đưa khoá chính của quan hệ T biểu diễn kiểu thực thể tham gia vào R ở phía 1 vào làm khoá ngoài trong S. Làm như vậy là vì mỗi thực thể cụ thể của phía N được liên kết với nhiều nhất là một thực thể cụ thể của phía 1 của kiểu liên kết. Đưa các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết 1:N vào làm các thuộc tính của S.</li>
+  <li><strong><em>Bước 5</em></strong> Với mỗi kiểu liên kết N:M hai ngôi R, hãy tạo ra một quan hệ mới S để biểu diễn R. Đưa các khoá chính của các quan hệ biểu diễn các kiểu thực thể tham gia vào làm khoá ngoài của S. Tổ hợp các khoá chính đó sẽ tạo nên khoá chính của S. Đưa tất cả các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết N:M vào làm các thuộc tính của S. Chú ý rằng ta không thể biểu diễn một kiểu liên kết N:M bằng một thuộc tính khoá ngoài đơn giản trong một trong các quan hệ tham gia (như đã làm với các kiểu liên kết 1:1 và 1:N) vì tỷ số lực lượng N:M.</li>
+  <li><strong><em>Bước 6</em></strong> Với mỗi thuộc tính đa trị A, hãy tạo ra một quan hệ mới R. Quan hệ R này sẽ chứa một thuộc tính tương ứng với A cộng với thuộc tính khoá K của quan hệ biểu diễn kiểu thực thể hoặc kiểu liên kết có thuộc tính là A làm khoá ngoài của R. Khoá chính của R là một tổ hợp của A và K. Nếu thuộc tính đa trị là phức hợp thì chúng ta chỉ đưa vào R các thành phần đơn của nó.</li>
+  <li><strong><em>Bước 7</em></strong> Với mỗi kiểu liên kết n ngôi R, trong đó n &gt; 2, hãy tạo ra một quan hệ S để biểu diễn R. Đưa các khoá chính của các quan hệ biểu diễn các kiểu thực thể tham gia vào làm khoá ngoài của S. Đưa tất cả các thuộc tính đơn (hoặc các thành phần đơn của các thuộc tính phức hợp) của kiểu liên kết n-ngôi vào làm thuộc tính của S. Khoá chính của S thường là một tổ hợp các khoá chính của các quan hệ biểu diễn các kiểu thực thể tham gia. Tuy nhiên, nếu ràng buộc lực lượng trên một kiểu thực thể E nào đó tham gia vào R là 1 thì khoá chính của S không được chứa thuộc tính khoá ngoài tham chiếu đến quan hệ E tương ứng với kiểu thực thể E.</li>
 </ul>
 
 <blockquote>
@@ -545,13 +525,13 @@
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=Ch%C6%B0%C6%A1ng%20III-%20M%C3%94%20H%C3%8CNH%20QUAN%20H%E1%BB%86,%20C%C3%81C%20R%C3%80NG%20BU%E1%BB%98C%20QUAN%20H%E1%BB%86%20V%C3%80%20%C4%90%E1%BA%A0I%20S%E1%BB%90%20QUAN%20H%E1%BB%86%20http://localhost:4000/csdl/2017-07-28-mo-hinh-quan-he/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=Chương III- MÔ HÌNH QUAN HỆ, CÁC RÀNG BUỘC QUAN HỆ VÀ ĐẠI SỐ QUAN HỆ http://localhost:4000/csdl/2017-07-28-mo-hinh-quan-he/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
   <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/csdl/2017-07-28-mo-hinh-quan-he/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
   <a href="https://plus.google.com/share?url=http://localhost:4000/csdl/2017-07-28-mo-hinh-quan-he/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:4000/csdl/2017-07-28-mo-hinh-quan-he/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/csdl/2017-07-28-mo-hinh-quan-he/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -603,8 +583,7 @@
 			(d.head || d.body).appendChild(s);
 			})();
 			</script>
-			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	</section>
 
 
@@ -633,6 +612,36 @@
     <div class="page__related">
        <h4 class="page__related-title">Recent Posts</h4>
       <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/dailysharing/lap-trinh-swift/" rel="permalink">7 lý do bạn nên học ngôn ngữ lập trình Swift
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  14 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">7 lý do bạn nên học ngôn ngữ lập trình Swift
+Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắng bắt đầu với một ngôn ngữ lập trình cổ. Người mới học t...</p>
+  </article>
+</div>
+
         
           
 
@@ -727,35 +736,6 @@
 </div>
 
         
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-    <h3 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/" rel="permalink">Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc
-</a>
-      
-    </h3>
-    
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-
-
-
-
-
-
-  14 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description"><img class="emoji" title=":red_circle:" alt=":red_circle:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png" height="20" width="20" align="absmiddle"> Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, ...</p>
-  </article>
-</div>
-
-        
       </div>
     </div>
   
@@ -782,7 +762,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">© 2018 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2018 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
       </footer>
     </div>
 
