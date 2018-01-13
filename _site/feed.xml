@@ -1,10 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-12T17:47:35+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">7 lý do bạn nên học ngôn ngữ lập trình Swift</title><link href="http://localhost:4000/dailysharing/lap-trinh-swift/" rel="alternate" type="text/html" title="7 lý do bạn nên học ngôn ngữ lập trình Swift" /><published>2018-01-12T00:00:00+07:00</published><updated>2018-01-12T00:00:00+07:00</updated><id>http://localhost:4000/dailysharing/lap-trinh-swift</id><content type="html" xml:base="http://localhost:4000/dailysharing/lap-trinh-swift/">&lt;h1 id=&quot;7-lý-do-bạn-nên-học-ngôn-ngữ-lập-trình-swift&quot;&gt;7 lý do bạn nên học ngôn ngữ lập trình Swift&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-13T21:16:11+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">Những lý do mà bạn nên học Python ngay bây giờ</title><link href="http://localhost:4000/dailysharing/ly-do-nen-hoc-python/" rel="alternate" type="text/html" title="Những lý do mà bạn nên học Python ngay bây giờ" /><published>2018-01-13T00:00:00+07:00</published><updated>2018-01-13T00:00:00+07:00</updated><id>http://localhost:4000/dailysharing/ly-do-nen-hoc-python</id><content type="html" xml:base="http://localhost:4000/dailysharing/ly-do-nen-hoc-python/">&lt;h1 id=&quot;những-lý-do-mà-bạn-nên-học-python-ngay-bây-giờ&quot;&gt;Những lý do mà bạn nên học Python ngay bây giờ&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://3.bp.blogspot.com/-dnkavyywDLk/Wlmw9Da2ODI/AAAAAAAAB-0/eGv6XPio-fcDAPp5Dfk5sNqxbFciHFz6gCLcBGAs/s1600/CM_FCzGUAAQyQAt.jpg&quot; alt=&quot;hinh1&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nó-dễ-vờ-cờ-&quot;&gt;Nó dễ vờ cờ !!!&lt;/h3&gt;
+&lt;p&gt;Code được viết bằng &lt;strong&gt;Python&lt;/strong&gt; thì nó rất đã dễ đọc và nhìn - gần như phần “sườn” của Python được viết bằng tiếng Anh.&lt;/p&gt;
+
+&lt;p&gt;Với nhừng người mới học lập trình thì &lt;strong&gt;Python là thứ nếu bỏ qua thì bạn sẽ rất hối tiếc&lt;/strong&gt; vì quyết định này, nói thật đấy nếu bạn đang muốn học lập trình thì Python là thứ mà chắc chắn cần thử qua.&lt;/p&gt;
+
+&lt;h3 id=&quot;good-for-web-development&quot;&gt;Good for web development&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Framework&lt;/strong&gt; Django sẽ giúp bạn làm điều này bằng Python&lt;/p&gt;
+
+&lt;p&gt;Khi bạn bắt đầu dùng Django và Flask thì nó rất dễ gây nghiện và từ đó bạn sẽ không bao giờ nhìn lại em PHP.&lt;/p&gt;
+
+&lt;p&gt;Trong khi phần lớn các trang web vẫn dùng PHP nhưng nhiều ứng dụng web mới đang được xây dựng bằng Python chủ yếu là phần hệ thông của nó.&lt;/p&gt;
+
+&lt;p&gt;Nếu bạn đang lập kế hoạch để thực hiện phát triển ứng dụng web nào, hãy thử Python và Django / Flask. Tớ nghĩ bạn sẽ khá ấn tượng với nó đấy.&lt;/p&gt;
+
+&lt;h2 id=&quot;lôn-cao-vãi-lường--lương-cao-vãi-hồn&quot;&gt;Lôn cao vãi lường ( Lương cao vãi hồn)&lt;/h2&gt;
+
+&lt;p&gt;Theo trang indeed thì lương của &lt;strong&gt;Python vào khoảng 107,000 Trump&lt;/strong&gt; !!! Are u surprise,??? Với số tiền đó nếu tính để đi du lịch Nha Trang hoặc Hạ Long vào Tết này thì có đổ tiền xuống biển cho cá nó học tiếng Việt cũng không hết tiền !!!&lt;/p&gt;
+
+&lt;p&gt;Python ở VN thì mỗi &lt;strong&gt;Python Develops&lt;/strong&gt; nhận khoảng 1k5$ - 2k$ lương cứng, chưa kể làm thêm.&lt;/p&gt;
+
+&lt;p&gt;Vì vậy số tiền đó đã làm bạn muốn học Python ngay chưa nào ?&lt;/p&gt;
+
+&lt;h3 id=&quot;bảo-mật&quot;&gt;Bảo mật&lt;/h3&gt;
+
+&lt;p&gt;Python có một tính năng bảo mật rất high, chính vì vậy những &lt;strong&gt;Pentester hay Hacker&lt;/strong&gt; đều muốn sử dụng nó để thâm nhập và viết phần mềm v.v…&lt;/p&gt;
+
+&lt;p&gt;Nếu bạn muốn học và tìm hiểu về bảo mật thì Python chính là sự lựa chọn best time ever với tất cả những ai đang đọc bài này !&lt;/p&gt;
+
+&lt;h3 id=&quot;trí-tuệ-nhân-tạo-ai-iot&quot;&gt;Trí tuệ nhân tạo AI, IoT&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://4.bp.blogspot.com/-NpwWgPk9VVM/WlmwhJjtbkI/AAAAAAAAB-s/P1AWYHgjMKUTaBbVK22-5y77vCuWqDM6wCLcBGAs/s640/ai-digital-voices-796x398.jpg&quot; alt=&quot;hinh2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cuộc cách mạng công nghệ 4.0&lt;/strong&gt; nó đã sát mông rồi, việc học cũng phải thay đổi theo nó từng ngày từng giờ nếu như các ông không muốn mất việc :)) Điều này cũng sẽ làm bạn trở nên theo kịp với những xu hướng công nghệ.&lt;/p&gt;
+
+&lt;p&gt;Với sự linh hoạt của ngôn ngữ, tốc độ, và các chức năng của nó và sự trợ giúp từ các thư viện như scikit-learn, Keras, và TensorFlow, dễ dàng Python đã thống trị lĩnh vực học tập máy.&lt;/p&gt;
+
+&lt;h3 id=&quot;cộng-đồng-học-lớn&quot;&gt;Cộng đồng học lớn&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://2.bp.blogspot.com/-OxX_6wO7oeQ/WlmwWybBqpI/AAAAAAAAB-o/GD9E0B-FFTEVtmrklhKUFLrFR7EltfUAACLcBGAs/s400/6a0105360ba1c6970c01bb09a1646b970d-800wi.png&quot; alt=&quot;hinh3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Có một vấn đề bạn không thể tìm ra trong Python, hoặc cần một thứ gì đó phát triển việc học của bạn, thì chỉ cần lên những group &lt;strong&gt;Facebook&lt;/strong&gt; hay những cộng đồng Python, họ sẽ sẵn sàng giúp đỡ bạn. Did u know? Python là ngôn ngữ chiếm thứ 2 trong&lt;/p&gt;
+
+&lt;p&gt;Việc này khá tốt cho việc tự học lập trình vậy nên còn ngần  ngại gì mà không học ngôn ngữ này nào !&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nguồn: gloomyhackingteam.blogspot.com&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="python" /><category term="laptrinh" /><summary type="html">Những lý do mà bạn nên học Python ngay bây giờ</summary></entry><entry xml:lang="vi"><title type="html">7 lý do bạn nên học ngôn ngữ lập trình Swift</title><link href="http://localhost:4000/dailysharing/lap-trinh-swift/" rel="alternate" type="text/html" title="7 lý do bạn nên học ngôn ngữ lập trình Swift" /><published>2018-01-12T00:00:00+07:00</published><updated>2018-01-12T00:00:00+07:00</updated><id>http://localhost:4000/dailysharing/lap-trinh-swift</id><content type="html" xml:base="http://localhost:4000/dailysharing/lap-trinh-swift/">&lt;h1 id=&quot;7-lý-do-bạn-nên-học-ngôn-ngữ-lập-trình-swift&quot;&gt;7 lý do bạn nên học ngôn ngữ lập trình Swift&lt;/h1&gt;
 &lt;p&gt;Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắng bắt đầu với một ngôn ngữ lập trình cổ. Người mới học tốt hơn nên tiếp cận vào một thứ gì đó hiện đại hơn, chẳng hạn như Python, Ruby hoặc Swift. Tuy nhiên, những cựu chiến binh viết mã cũng có nhiều lợi ích khi chuyển sang ngôn ngữ lập trình Swift, kể cả những người cảm thấy bị “đốt cháy” bởi các ngôn ngữ chính cống.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-1.jpg&quot; alt=&quot;hinh1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Chỉ mới xuất hiện lần đầu vào năm 2014, Swift là một ngôn ngữ trẻ và nhiều lập trình viên đã hoài nghi về việc lựa chọn nó. Nhưng chắc chắn, chủ nghĩa hoài nghi sẽ giảm đi mỗi ngày - bạn nên học ngôn ngữ lập trình Swift sớm hơn nếu không muốn bị bỏ lại phía sau. Dưới đây là 7 lý do tuyệt vời có thể thuyết phục bạn học ngôn ngữ lập trình Swift.&lt;/p&gt;
-&lt;h2 id=&quot;swift-dùng-cho-mac-và-ios-apps&quot;&gt;Swift dùng cho Mac và iOS Apps&lt;/h2&gt;
+&lt;h3 id=&quot;swift-dùng-cho-mac-và-ios-apps&quot;&gt;Swift dùng cho Mac và iOS Apps&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-2.jpg&quot; alt=&quot;hinh2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Trong năm 2016, App Store đã tạo ra khoảng 20 tỷ đôla doanh thu cho các nhà phát triển ứng dụng trên nền tảng Mac và iOS. Do bởi Apple cắt giảm 30% doanh thu của App Store nên chúng tôi có thể ước tính người dùng đã chi khoảng 28,5 tỷ đôla cho ứng dụng trong năm đó.&lt;/p&gt;
@@ -12,7 +62,7 @@
 &lt;p&gt;Thật khổng lồ! Bạn không muốn nếm thử mẩu bánh đó à?&lt;/p&gt;
 
 &lt;p&gt;Ngôn ngữ lập trình Swift có thể được sử dụng để tạo ra ứng dụng Mac và ứng dụng iOS, hoạt động như sự thay thế cho ngôn ngữ Objective-C cũ, đây là lựa chọn duy nhất dành cho các nhà phát triển Mac và iOS cho đến bây giờ. Học một ngôn ngữ, tạo các ứng dụng trên hai nền tảng và khai thác vào thị trường ứng dụng đang phát triển. “Một mũi tên trúng hai con chim” phải không?&lt;/p&gt;
-&lt;h2 id=&quot;swift-là-cách-tuyệt-vời-để-phát-triển-nhanh-chóng&quot;&gt;Swift là cách tuyệt vời để phát triển nhanh chóng&lt;/h2&gt;
+&lt;h3 id=&quot;swift-là-cách-tuyệt-vời-để-phát-triển-nhanh-chóng&quot;&gt;Swift là cách tuyệt vời để phát triển nhanh chóng&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-3.jpg&quot; alt=&quot;hinh3&quot; /&gt;&lt;/p&gt;
 
@@ -30,28 +80,26 @@
 &lt;p&gt;Vì vậy, bạn có thể dành nhiều thời gian hơn để viết business logic thực tế và tốn ít thời gian lo lắng về tất cả các trường hợp có thể khiến mã của bạn “va chạm và bốc cháy”.&lt;/p&gt;
 
 &lt;p&gt;Hơn nữa, chính bản thân ngôn ngữ này đã giải quyết được rất nhiều cú pháp dài dòng trong Objective-C, làm cho nó dễ dàng hơn để viết và đọc. Điều đó có nghĩa là bạn sẽ mất ít thời gian hơn để viết mã với cùng số lượng nội dung như trong Objective-C. Trong quá trình thực hiện toàn bộ dự án, &lt;strong&gt;việc tiết kiệm thời gian là hoàn toàn cần thiết&lt;/strong&gt;!&lt;/p&gt;
-&lt;h2 id=&quot;swift-có-tốc-độ-thực-thi-nhanh&quot;&gt;Swift có tốc độ thực thi nhanh&lt;/h2&gt;
+&lt;h3 id=&quot;swift-có-tốc-độ-thực-thi-nhanh&quot;&gt;Swift có tốc độ thực thi nhanh&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-4.jpg&quot; alt=&quot;hinh4&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mặc dù là một ngôn ngữ cấp cao tập trung vào sự phát triển nhanh chóng, hiệu suất và tốc độ của Swift không có gì để chê cả. Theo Apple, Swift nhanh gấp 2,6 lần so với Objective-C và nhanh hơn 8,4 lần so với Python 2.7. Các nhà phát triển cuối cùng muốn làm cho ngôn ngữ này nhanh hơn C + +, một trong những ngôn ngữ thực hành nhanh nhất hiện nay.&lt;/p&gt;
 
 &lt;p&gt;Và nó không chỉ nhanh, mà còn mạnh mẽ và &lt;strong&gt;đáp ứng đầy đủ với các tính năng ngôn ngữ hiện đại&lt;/strong&gt; cho phép bạn viết mã nâng cao. Những điểm nổi bật bao gồm: generics, closures, tuples, multiple returns, iterators, các mẫu lập trình hàm có sẵn và nhiều hơn nữa.&lt;/p&gt;
-&lt;h2 id=&quot;swift-an-toàn-và-bảo-mật-hơn&quot;&gt;Swift an toàn và bảo mật hơn&lt;/h2&gt;
+&lt;h3 id=&quot;swift-an-toàn-và-bảo-mật-hơn&quot;&gt;Swift an toàn và bảo mật hơn&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-5.jpg&quot; alt=&quot;hinh5&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Nhiều tính năng trong cùng một ngôn ngữ khiến Swift nhanh hơn so với Objective-C; cũng làm cho nó &lt;strong&gt;an toàn và bảo mật hơn Objective-C.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Ví dụ, quản lý bộ nhớ tốt hơn nghĩa là ít cơ hội phân bổ sai dữ liệu, truy cập các bộ phận sai của bộ nhớ, thay đổi dữ liệu không cần thay đổi. Một ví dụ khác, xử lý lỗi tốt hơn nghĩa là &lt;strong&gt;giảm thiểu toàn bộ sự cố&lt;/strong&gt; và khi bị treo, kịch bản thảm khốc hiếm xảy ra hơn. Hành vi không đoán trước cũng được giảm thiểu đáng kể.&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Swift là miễn phí và mã nguồn mở
-&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-6.jpg&quot; alt=&quot;hinh6&quot; /&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;swift-là-miễn-phí-và-mã-nguồn-mở&quot;&gt;Swift là miễn phí và mã nguồn mở&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-6.jpg&quot; alt=&quot;hinh6&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Một năm sau khi Swift ra mắt, Apple đã đi đầu và làm cho mã nguồn mở. Trong khi các ngôn ngữ lập trình mã nguồn mở không phải là bất thường, thì thật bất thường đối với một công ty thường xuyên thúc đẩy công nghệ độc quyền làm một cái gì đó như thế này. Nhưng nó đã được chứng minh tính hiệu quả.&lt;/p&gt;
 
 &lt;p&gt;Là một nỗ lực mã nguồn mở, Swift nằm trong tay cộng đồng của nó. Người dùng có thể gửi bản sửa lỗi và &lt;strong&gt;cải tiến tính năng cho ngôn ngữ&lt;/strong&gt;, họ có thể giúp chuyển nó sang các nền tảng ngoài Mac và iOS; và điều chỉnh ngôn ngữ nếu nó bị chệch hướng.&lt;/p&gt;
-&lt;h2 id=&quot;swift-đang-lớn-lên-và-có-nhu-cầu-cao&quot;&gt;Swift đang lớn lên và có nhu cầu cao&lt;/h2&gt;
+&lt;h3 id=&quot;swift-đang-lớn-lên-và-có-nhu-cầu-cao&quot;&gt;Swift đang lớn lên và có nhu cầu cao&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-7.jpg&quot; alt=&quot;hinh7&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Theo báo cáo Octoverse năm 2017 của GitHub, Swift là ngôn ngữ hoạt động thứ 13 trong tất cả các dự án mã nguồn mở. Nhưng quan trọng hơn, nhu cầu của Swift như một ngôn ngữ nghề nghiệp cũng tăng vọt, và &lt;strong&gt;nếu bạn muốn trở thành một nhà phát triển ứng dụng, bạn cần phải biết nó.&lt;/strong&gt;&lt;/p&gt;
@@ -61,7 +109,7 @@
 &lt;p&gt;Glassdoor báo cáo mức lương cơ bản trung bình cho một nhà phát triển iOS là $94k.&lt;/p&gt;
 
 &lt;p&gt;Phát triển ứng dụng là một trong những công việc lập trình hot nhất hiện nay. Nếu bạn quyết định theo đuổi nó một cách nghiêm túc, hãy xem qua các bài viết về bản resume hoàn thiện và chuẩn bị cho một cuộc phỏng vấn lập trình.&lt;/p&gt;
-&lt;h2 id=&quot;swift-là-tương-lai-của-apple&quot;&gt;Swift là tương lai của Apple&lt;/h2&gt;
+&lt;h3 id=&quot;swift-là-tương-lai-của-apple&quot;&gt;Swift là tương lai của Apple&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://img.quantrimang.com/photos/image/2018/01/03/hoc-ngon-ngu-lap-trinh-swift-8.jpg&quot; alt=&quot;hinh8&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Apple đang tiếp tục đáp ứng nguồn lực ngôn ngữ lập trình Swift. Nếu được phát triển nhanh chóng trong vài năm, hãy tưởng tượng tầm quan trọng của nó sẽ như thế nào trong các sản phẩm của Apple sau này.&lt;/p&gt;
@@ -444,23 +492,4 @@ Bình lặng… nghĩ về cuộc sống xung quanh, bạn tự hỏi mình ph�
 
 &lt;blockquote&gt;
   &lt;p&gt;Nguồn: MR WHY – Phạm Ngọc Anh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="cân bằng" /><category term="life" /><summary type="html">Đôi khi sự cân bằng trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.</summary></entry><entry xml:lang="vi"><title type="html">Hướng dẫn cài đặt USB Boot theo chuẩn UEFI hoặc LEGACY</title><link href="http://localhost:4000/operating-systems/tao-usb-boot-chuan/" rel="alternate" type="text/html" title="Hướng dẫn cài đặt USB Boot theo chuẩn UEFI hoặc LEGACY" /><published>2017-08-03T00:00:00+07:00</published><updated>2017-08-03T00:00:00+07:00</updated><id>http://localhost:4000/operating-systems/tao-usb-boot-chuan</id><content type="html" xml:base="http://localhost:4000/operating-systems/tao-usb-boot-chuan/">&lt;h3 id=&quot;đôi-khi-các-bạn-muốn-tạo-một-usb-boot-để-cài-win-và-muốn-boot-theo-chuẩn-theo-ý-của-mình-chẳng-hạn-bạn-đang-dùng-windows-mà-muốn-cài-song-song-với-hệ-điều-hành-khác-thì-hệ-điều-hành-đó-của-bạn-phải-boot-theo-chuẩn-giống-chuẩn-của-windows-bạn-đang-dùng-với-kali-linux-cũng-vậy-muốn-grub-của-kali-linux-nhận-phân-vùng-của-windows-thì-bạn-cũng-phải-boot-theo-chuẩn-giống-với-windows-đang-sử-dụng-sau-đây-mình-sẽ-hướng-dẫn-các-bạn-cài-kali-linux-theo-chuẩn-uefi-hoặc-legacy&quot;&gt;Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều hành khác thì hệ điều hành đó của bạn phải Boot theo chuẩn giống chuẩn của Windows bạn đang dùng. Với Kali Linux cũng vậy, muốn &lt;strong&gt;Grub&lt;/strong&gt; của Kali Linux nhận phân vùng của Windows thì bạn cũng phải Boot theo chuẩn giống với Windows đang sử dụng. Sau đây mình sẽ hướng dẫn các bạn cài Kali Linux theo chuẩn UEFI hoặc LEGACY.&lt;/h3&gt;
-
-&lt;h4 id=&quot;các-bạn-cần-chuẩn-bị-cho-mình-phần-mềm-rufus-phần-mềm-này-rất-nhẹ-nha-các-bạn-có-thể-tải-về-tại-đây&quot;&gt;Các bạn cần chuẩn bị cho mình phần mềm &lt;strong&gt;Rufus&lt;/strong&gt;. Phần mềm này rất nhẹ nha. Các bạn có thể &lt;a href=&quot;http://rufus.akeo.ie/&quot;&gt;tải về tại đây&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/OperatingSystem/rufus.jpg&quot; alt=&quot;Hình 1&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;B1: Bạn chọn đường dẫn đến file &lt;em&gt;ISO&lt;/em&gt; của Kali Linux.&lt;/li&gt;
-  &lt;li&gt;B2: Chọn USB mà bạn muốn tạo.&lt;/li&gt;
-  &lt;li&gt;B3: Bạn Chọn &lt;em&gt;GPT partition scheme for UEFI computer&lt;/em&gt; nếu muốn Boot theo chuẩn UEFI và chọn &lt;em&gt;MBR partion scheme for BIOS or UEFI computers&lt;/em&gt; nếu muốn Boot theo chuẩn LEGACY.&lt;/li&gt;
-  &lt;li&gt;B4: Chọn định dạng &lt;em&gt;FAT32&lt;/em&gt; nếu Boot theo UEFI. còn LEGACY thì nên chọn NTFS&lt;/li&gt;
-  &lt;li&gt;B5: Bạn có thể đặt tên mới cho USB tại đây.&lt;/li&gt;
-  &lt;li&gt;B6: Nhấn &lt;em&gt;Start&lt;/em&gt; và chờ đợi.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vậy là Ô cê rồi.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;By Nguyễn Duy Khánh.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="usb" /><category term="boot" /><summary type="html">Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều hành khác thì hệ điều hành đó của bạn phải Boot theo chuẩn giống chuẩn của Windows bạn đang dùng. Với Kali Linux cũng vậy, muốn Grub của Kali Linux nhận phân vùng của Windows thì bạn cũng phải Boot theo chuẩn giống với Windows đang sử dụng. Sau đây mình sẽ hướng dẫn các bạn cài Kali Linux theo chuẩn UEFI hoặc LEGACY.</summary></entry></feed>
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="cân bằng" /><category term="life" /><summary type="html">Đôi khi sự cân bằng trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.</summary></entry></feed>
