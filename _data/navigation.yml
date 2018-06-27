@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "about me"
+  - title: "About me"
     url: "/"
-  - title: "my posts"
+  - title: "My posts"
     url: "/posts/"
   - title: "Tricks IT"
     url: "/trickit/"
