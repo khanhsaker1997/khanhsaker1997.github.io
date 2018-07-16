@@ -52,7 +52,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # For contact form
-mail_message_url         : "https://khanhsaker1997@gmail"
+mail_message_url         : "https://docs.google.com/forms/d/e/1FAIpQLSdaLOuWHSlzzAob7J1ShY2WuYTMGncV7yR7beavnnhcbTYNnw/formResponse"
 
 # SEO Related
 google_site_verification :
