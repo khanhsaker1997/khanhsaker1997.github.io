@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% assign sorted_entries = site.work | sort: 'order' %}
 {% include page-intro.html %}
 
 <main id="main" class="page-content" aria-label="Content">
@@ -13,9 +14,10 @@ layout: default
         <h2>Page {{ page.pagination_info.curr_page }} of {{ page.pagination_info.total_pages }}</h2>
       </header>
     {% endif %}
-
     <div class="entries">
-      {% include posts-paginated.html %}
+      {% for post in sorted_entries %}
+        {% include entry.html %}
+      {% endfor %}
     </div>
 
     {% include footer.html %}

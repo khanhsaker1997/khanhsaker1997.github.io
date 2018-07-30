@@ -1,15 +1,16 @@
 ---
-layout: archive
+layout: default
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<main id="main" class="page-content" aria-label="Content">
+  {% if page.section %}
+    <div class="sections">
+      {% include section.html %}
+    </div>
+  {% endif %}
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_projects | default: "Recent Posts" }}</h3>
-
-{% for project in paginator.projects %}
-  {% include archive-single.html %}
-{% endfor %}
+  <div class="index inner">
+    <div>{{ content }}</div>
+    {% include footer.html %}
+  </div>
+</main>

@@ -8,17 +8,15 @@ layout: default
   <div class="index inner">
     <div>{{ content }}</div>
 
-    {% if page.autogen %}
+    {% if page.autopages %}
       <header class="section-title">
         <h2>Page {{ page.pagination_info.curr_page }} of {{ page.pagination_info.total_pages }}</h2>
       </header>
     {% endif %}
-
     <div class="entries">
       {% include posts-paginated.html %}
     </div>
 
     {% include footer.html %}
   </div>
-  {% include popular-tags.html %}
 </main>
