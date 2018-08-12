@@ -3,10 +3,10 @@
 	padding: 0px;
 }
 /* For body */
-/* body{
-	background-image: (url('assets/img/background/square_bg.png'))
+body{
 	background-repeat: repeat-x repeat-y;
-} */
+	background: url(https://khanhsaker97.github.io/assets/img/background/square_bg.png);
+}
 .header{
 	width: 100%;
 	height: 100%;
