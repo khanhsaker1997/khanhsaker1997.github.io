@@ -101,7 +101,7 @@ body{
 
 /* For sidebar */
 .sidebar-wrapper{
-	background-color: SlateBlue;
+	background-color: #17a2b8;
 	width: 250px;
 	position: fixed;
 	right: -250px;
@@ -123,8 +123,8 @@ body{
 	text-decoration: none;
 	color: white;
 	padding: 15px;
-	font-size: 1.5rem;
-    font-weight: bold;
+	margin-top: 15px;
+	font-size: 1rem;
     line-height: 1.5;
 }
 /* End for sidebar */

@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Nguyễn Duy Khánh - I'm coder</title>
+	<link rel="icon" href="assets/homepage/img/Logo.jpg">
   <link rel="stylesheet" href="assets/homepage/index.css">
   <link rel="stylesheet" href="assets/homepage/css/bootstrap.min.css">
   <script type="text/javascript" src="assets/homepage/index.js"></script>
@@ -15,7 +16,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>
-<body id="page-top" class="container">
+<body class="container" id="page-top">
 
     <!-- carousel -->
     <div id="demo" class="carousel slide" data-ride="carousel">
@@ -73,8 +74,8 @@
         <div class="carousel-item">
           <img src="assets/homepage/img/Carousel/3.jpg" alt="New York" width="1349" height="566">
           <div class="carousel-caption">
-            <!-- <h3>I'm Developer</h3>
-            <p>Love technology, Love to learn</p> -->
+            <h3>I'm Developer</h3>
+            <p>Love technology, Love to learn</p>
           </div>   
         </div>
       </div>
@@ -95,7 +96,7 @@
 	<!-- Contact Info -->
 	<div class="info bg-info" style="height: auto;">
 		<div class="container">
-			<div class="aboutme row">
+			<div class="aboutme row" id="aboutme">
 				<div class="col-sm-12 col-md-6 text-center">
 					<h1 class="text-white">About me</h1>
 					<p class="text-white text-justify">Hiện tôi đang là sinh viên. Tôi yêu lập trình, thích tìm hiểu các công nghệ mới. Tôi đang tập trung phát triển và thiết kế web, các ứng dụng dựa trên nền tảng web.</p>
@@ -181,8 +182,6 @@
 	<!-- End Contact Info -->
 	<!-- Footer -->
 
-
-
 	<footer class="footer text-center">
 		<div class="container">
 			<ul class="list-inline mb-5">
@@ -213,20 +212,20 @@
 	<!--Nav sidebar -->
 	<nav class="sidebar-wrapper">
 		<ul class="sidebar-nav">
-			<li class="sidebar-brand">
-				<a class="js-scroll-trigger" href="#" onclick="sidebarremove()">Menu</a>
+			<li>
+				<a href="#" onclick="sidebarremove()">Menu</a>
 			</li>
-			<li class="sidebar-nav-item">
-				<a class="js-scroll-trigger" href="#">Home</a>
+			<li>
+				<a href="">Home</a>
 			</li>
-			<li class="sidebar-nav-item">
-				<a class="js-scroll-trigger" href="/posts/">My blog</a>
+			<li>
+				<a href="/posts/">My blog</a>
 			</li>
-			<li class="sidebar-nav-item">
-				<a class="js-scroll-trigger" href="#aboutme">About me</a>
+			<li>
+				<a href="#aboutme">About me</a>
 			</li>
-			<li class="sidebar-nav-item">
-				<a class="js-scroll-trigger" href="#contact">Contact</a>
+			<li>
+				<a href="#contact">Contact</a>
 			</li>
 		</ul>
 	</nav>
@@ -234,12 +233,6 @@
 
 	<!-- Code JS -->
 
-	<!-- For sidebar -->
-	<script>
-		function(){
-
-		}
-	</script>
 	<!-- For I'AM -->
 <script src="assets/homepage/js/typed.min.js"></script>
 <script>
@@ -252,7 +245,43 @@
 		});
 	});
 </script>
-	<!-- For I'AM -->
+<!--End For I'AM -->
+<!-- For Scroll -->
+<!-- <script src="assets/js/vendor/jquery/jquery-3.2.1.min.js"></script> -->
+<script>
+	// $(document).ready(function () {
+	// $('a[href^="#"]').on('click', function (e) {
+	//     e.preventDefault();
+
+	//     var target = this.hash;
+	//     var $target = $(target);
+
+	//     $('html, body').animate({
+	//         'scrollTop': $(this.hash).offset().top
+	//     }, 900, 'swing', function () {
+	//         window.location.hash = this.hash;
+	//     });
+	// 	});
+	// });
+
+    $("a[href^='#']").on('click', function(e) {
+
+       // prevent default anchor click behavior
+       e.preventDefault();
+
+       // animate
+       $('html, body').animate({
+           scrollTop: $(this.hash).offset().top
+         }, 300, function(){
+   
+           // when done, add hash to url
+           // (default click behaviour)
+           window.location.hash = this.hash;
+         });
+
+    });
+</script>
+<!-- End Scroll -->
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
