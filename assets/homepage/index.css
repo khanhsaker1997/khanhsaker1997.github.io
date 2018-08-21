@@ -4,8 +4,9 @@
 }
 /* For body */
 body{
-	background-repeat: repeat-x repeat-y;
-	background: url(https://khanhsaker97.github.io/assets/img/background/square_bg.png);
+	/* background-repeat: repeat-x repeat-y;
+	background: url(https://khanhsaker97.github.io/assets/img/background/square_bg.png); */
+	/* background-color: red; */
 }
 .header{
 	width: 100%;
