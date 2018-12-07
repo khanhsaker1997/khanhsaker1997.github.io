@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-13T21:16:11+07:00</updated><id>http://localhost:4000/</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">Những lý do mà bạn nên học Python ngay bây giờ</title><link href="http://localhost:4000/dailysharing/ly-do-nen-hoc-python/" rel="alternate" type="text/html" title="Những lý do mà bạn nên học Python ngay bây giờ" /><published>2018-01-13T00:00:00+07:00</published><updated>2018-01-13T00:00:00+07:00</updated><id>http://localhost:4000/dailysharing/ly-do-nen-hoc-python</id><content type="html" xml:base="http://localhost:4000/dailysharing/ly-do-nen-hoc-python/">&lt;h1 id=&quot;những-lý-do-mà-bạn-nên-học-python-ngay-bây-giờ&quot;&gt;Những lý do mà bạn nên học Python ngay bây giờ&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-07T10:08:25+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry xml:lang="vi"><title type="html">Những lý do mà bạn nên học Python ngay bây giờ</title><link href="http://localhost:4000/dailysharing/ly-do-nen-hoc-python/" rel="alternate" type="text/html" title="Những lý do mà bạn nên học Python ngay bây giờ" /><published>2018-01-13T00:00:00+07:00</published><updated>2018-01-13T00:00:00+07:00</updated><id>http://localhost:4000/dailysharing/ly-do-nen-hoc-python</id><content type="html" xml:base="http://localhost:4000/dailysharing/ly-do-nen-hoc-python/">&lt;h1 id=&quot;những-lý-do-mà-bạn-nên-học-python-ngay-bây-giờ&quot;&gt;Những lý do mà bạn nên học Python ngay bây giờ&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://3.bp.blogspot.com/-dnkavyywDLk/Wlmw9Da2ODI/AAAAAAAAB-0/eGv6XPio-fcDAPp5Dfk5sNqxbFciHFz6gCLcBGAs/s1600/CM_FCzGUAAQyQAt.jpg&quot; alt=&quot;hinh1&quot; /&gt;&lt;/p&gt;
 
@@ -173,7 +173,383 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;By Quantrimang.com&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="bảo mật" /><category term="công nghệ cao" /><summary type="html">Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng</summary></entry><entry xml:lang="vi"><title type="html">Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3</title><link href="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/" rel="alternate" type="text/html" title="Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3" /><published>2017-09-13T00:00:00+07:00</published><updated>2017-09-13T00:00:00+07:00</updated><id>http://localhost:4000/sublimetext3/phim-tat-sublime-text3</id><content type="html" xml:base="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/">&lt;h2 id=&quot;sublime-text-là-một-editor-mạnh-mẽ-với-nhiều-plugin-hữu-ích-sau-đây-là-danh-sách-các-phím-tắt-giup-bạn-làm-việc-nhanh-và-hiệu-quả-hơn-rất-nhiều-với-nó&quot;&gt;Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.&lt;/h2&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="bảo mật" /><category term="công nghệ cao" /><summary type="html">Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng</summary></entry><entry xml:lang="vi"><title type="html">Cách vượt qua mật khẩu không cho chỉnh sửa trong Microsoft Office</title><link href="http://localhost:4000/tricks/vuot-qua-mat-khau-cam-sua-office/" rel="alternate" type="text/html" title="Cách vượt qua mật khẩu không cho chỉnh sửa trong Microsoft Office" /><published>2017-09-27T00:00:00+07:00</published><updated>2017-09-27T00:00:00+07:00</updated><id>http://localhost:4000/tricks/vuot-qua-mat-khau-cam-sua-office</id><content type="html" xml:base="http://localhost:4000/tricks/vuot-qua-mat-khau-cam-sua-office/">&lt;p&gt;Khi các bạn tải một tài liệu trên mạng về có thể có tài liệu các bạn chỉ xem được nhưng không sửa được. Đó là do người chủ file đó đã đặt mật khẩu không cho sửa file và chỉ có mật khẩu đó mới sửa được.
+Bài viết này mình sẽ hướng dẫn các bạn phá mật khẩu của file Word hoặc Powpoint hoặc Excel.&lt;/p&gt;
+
+&lt;h2 id=&quot;cách-đặt-mặt-khẩu-cho-file-word&quot;&gt;Cách đặt mặt khẩu cho file word:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mật khẩu để mở file WORD EXCEL POWPOINT :&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Các bạn chọn: &lt;code class=&quot;highlighter-rouge&quot;&gt;FILE&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;INFO&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;PROTECTED DOCUMENT&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;ENCRYPT WITH PASSWORD&lt;/code&gt; rồi nhập password. Mật khẩu này được mã hóa dạng AES =&amp;gt; không có cách nào phá khóa. Các bạn lên mạng search thấy các phần mềm vượt qua mật khẩu file word thì đều là giả nha.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mật khẩu cấm sửa file word:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Các bạn chọn: &lt;code class=&quot;highlighter-rouge&quot;&gt;FILE&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;INFO&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;PROTECTED DOCUMENT&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;RESTRICT EDITTING&lt;/code&gt;. Bạn tích vào ô &lt;code class=&quot;highlighter-rouge&quot;&gt;Allow only this type of editing in the document:&lt;/code&gt; và nhập password.&lt;/p&gt;
+
+&lt;h2 id=&quot;phá-mật-khẩu-không-cho-chỉnh-sửa-của-các-file-wordpointexcel&quot;&gt;Phá mật khẩu không cho chỉnh sửa của các file Word,Point,Excel:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Đối với mật khẩu file word:
+Các bước làm như sau:
+    &lt;ul&gt;
+      &lt;li&gt;Đổi tên dưới dạng file &lt;code class=&quot;highlighter-rouge&quot;&gt;.rar&lt;/code&gt; rồi mở lên.&lt;/li&gt;
+      &lt;li&gt;Trong file &lt;code class=&quot;highlighter-rouge&quot;&gt;.rar&lt;/code&gt; đó có nhiều file. Các bạn vào file &lt;code class=&quot;highlighter-rouge&quot;&gt;WORD&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;setting.xml&lt;/code&gt; &amp;gt; tìm đến đoạn: &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;w:documentProtection...&lt;/code&gt; (dùng phím &lt;code class=&quot;highlighter-rouge&quot;&gt;CTRL + F&lt;/code&gt; để tìm cho nhanh) rồi xóa hết từ chỗ &lt;code class=&quot;highlighter-rouge&quot;&gt;w:edit=&quot;readOnly&quot;&lt;/code&gt; đến hết ngoặc &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt; chứa cái đó đi.&lt;/li&gt;
+      &lt;li&gt;Ra đổi lại tên &lt;code class=&quot;highlighter-rouge&quot;&gt;.docx&lt;/code&gt; và mở lại (khi mở lại cứ bấm ok ok hết). Sau đó bạn có thể chỉnh sửa file đó.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Đối với mật khẩu cấm sửa file excel: cũng như word nhưng sau khi mở file .rar bạn sẽ thấy các file &lt;code class=&quot;highlighter-rouge&quot;&gt;sheet&lt;/code&gt;. Bạn mở file đó lên và tìm đến phần &lt;code class=&quot;highlighter-rouge&quot;&gt;password=&quot;abcxyz gì đó&quot;&lt;/code&gt;. Các bạn xóa phần &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;abcxyz gì đó&quot;&lt;/code&gt; đi rồi mở lại là sẽ chỉnh sửa được nha.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Xem chi tiết tại đây nha:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d94we7la4pU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="crack" /><category term="password" /><summary type="html">Khi các bạn tải một tài liệu trên mạng về có thể có tài liệu các bạn chỉ xem được nhưng không sửa được. Đó là do người chủ file đó đã đặt mật khẩu không cho sửa file và chỉ có mật khẩu đó mới sửa được. Bài viết này mình sẽ hướng dẫn các bạn phá mật khẩu của file Word hoặc Powpoint hoặc Excel.</summary></entry><entry xml:lang="vi"><title type="html">Cách ẩn thư mục và ẩn ổ đĩa trong windows không cần dùng phần mềm</title><link href="http://localhost:4000/tricks/cach-an-thu-muc-an-o-dia-trong-window/" rel="alternate" type="text/html" title="Cách ẩn thư mục và ẩn ổ đĩa trong windows không cần dùng phần mềm" /><published>2017-09-27T00:00:00+07:00</published><updated>2017-09-27T00:00:00+07:00</updated><id>http://localhost:4000/tricks/cach-an-thu-muc-an-o-dia-trong-window</id><content type="html" xml:base="http://localhost:4000/tricks/cach-an-thu-muc-an-o-dia-trong-window/">&lt;p&gt;Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn.&lt;/p&gt;
+
+&lt;h2 id=&quot;cách-ẩn-1-file-hoặc-1-thư-mục&quot;&gt;Cách ẩn 1 file hoặc 1 thư mục:&lt;/h2&gt;
+&lt;h3 id=&quot;cách-1&quot;&gt;Cách 1:&lt;/h3&gt;
+&lt;p&gt;Một cách đơn giản thông thường khiến bạn có thể ẩn đi thư mục hoặc file là bạn hãy &lt;code class=&quot;highlighter-rouge&quot;&gt;Click&lt;/code&gt; chuột phải vào thư mục đó rồi chọn &lt;code class=&quot;highlighter-rouge&quot;&gt;Properties&lt;/code&gt;. Trong mục &lt;code class=&quot;highlighter-rouge&quot;&gt;Gerenal&lt;/code&gt; bạn chọn &lt;code class=&quot;highlighter-rouge&quot;&gt;Hidden&lt;/code&gt;. Sau đó nhấn &lt;code class=&quot;highlighter-rouge&quot;&gt;Apply&lt;/code&gt;
+&lt;img src=&quot;/assets/img/trickit/an-thu-muc1.png&quot; alt=&quot;anh1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuy nhiên cách này rất dễ bị lộ vì người khác chị cần bật chế độ view Hidden iteam thì thư mục đó vẫn hiển thị lên.&lt;/p&gt;
+
+&lt;h3 id=&quot;cách-2&quot;&gt;Cách 2:&lt;/h3&gt;
+&lt;p&gt;Các bạn tạo ra 1 file có nội dung bên trong là coppy đoạn code dưới đây và lưu lại với đuôi mở rộng &lt;code class=&quot;highlighter-rouge&quot;&gt;.bat&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;cls&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ECHO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;OFF&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Folder&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Private&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EXIST&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;khanhsaker97 Locker&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;UNLOCK&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EXIST&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Private&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;MDLOCKER&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CONFIRM&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Are&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;you&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sure&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;you&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;want&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lock&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;folder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;N&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;cho=&amp;gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cho&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%==&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Y&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOCK&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cho&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%==&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOCK&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cho&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%==&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;END&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cho&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%==&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;N&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;END&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Invalid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;choice&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CONFIRM&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LOCK&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ren&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Private&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;khanhsaker97 Locker&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;attrib&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;h&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;khanhsaker97 Locker&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Folder&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;locked&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;End&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;UNLOCK&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Enter&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;password&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;unlock&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;folder&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;pass=&amp;gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NOT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PASSWORD&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;FAIL&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;attrib&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;h&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;khanhsaker97 Locker&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;ren&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;khanhsaker97 Locker&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Private&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Folder&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Unlocked&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;successfully&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;End&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;FAIL&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Invalid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;password&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MDLOCKER&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;md&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Private&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Private&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;created&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;successfully&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;goto&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;End&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;End&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Bạn &lt;code class=&quot;highlighter-rouge&quot;&gt;Click&lt;/code&gt; vào file &lt;code class=&quot;highlighter-rouge&quot;&gt;.bat&lt;/code&gt; này sẽ sinh ra 1 folder tên là &lt;code class=&quot;highlighter-rouge&quot;&gt;private&lt;/code&gt; ở cùng thư mục với file đó. Bạn muốn ẩn những thư mục hay file gì thì hãy cho hết vào thư mục &lt;code class=&quot;highlighter-rouge&quot;&gt;private&lt;/code&gt; đó sau đó lại &lt;code class=&quot;highlighter-rouge&quot;&gt;Click&lt;/code&gt;tiếp vào file .bat đó. Xong rồi bây giờ thư mục &lt;code class=&quot;highlighter-rouge&quot;&gt;private&lt;/code&gt; đã bị ẩn đi.&lt;/p&gt;
+
+&lt;p&gt;Nếu bạn muốn mở nhìn thấy và mở file đó ra thì phải &lt;code class=&quot;highlighter-rouge&quot;&gt;Click&lt;/code&gt; tiếp vào file &lt;code class=&quot;highlighter-rouge&quot;&gt;.bat&lt;/code&gt; đó và nhập mật khẩu là &lt;code class=&quot;highlighter-rouge&quot;&gt;PASSWORD&lt;/code&gt; thì sẽ hiện ra. Mật khẩu bạn có thể thay đổi bằng cách xóa từ &lt;code class=&quot;highlighter-rouge&quot;&gt;PASSWORD&lt;/code&gt; ở trong đoạn code và thay bằng mật khẩu do bạn đặt ra.&lt;/p&gt;
+&lt;h2 id=&quot;cách-ẩn-1-ổ-đĩa&quot;&gt;Cách ẩn 1 ổ đĩa:&lt;/h2&gt;
+&lt;p&gt;Đầu tiên bạn mở cmd lên và gõ &lt;code class=&quot;highlighter-rouge&quot;&gt;DISKPART&lt;/code&gt; thì sẽ hiện ra 1 cửa sổ như thế này:
+&lt;img src=&quot;/assets/img/trickit/an-thu-muc2.png&quot; alt=&quot;anh2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Trong cửa sổ này bạn gõ:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;LIST VOLUME
+(Lệnh này để liệt kể các ổ đĩa)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/trickit/an-thu-muc3.png&quot; alt=&quot;anh3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Các ổ đĩa được đánh số thứ tự 0,1,2,3 với tên là D,C,E,F … và nhiều thông tin.&lt;/p&gt;
+
+&lt;p&gt;Gõ:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SELECT VOLUME 3
+(LỰA CHỌN Ổ ĐĨA 3 là ổ đĩa muốn ẩn)
+ 
+REMOVE LETTER F
+(F LÀ TÊN Ổ ĐĨA ĐÓ). lệnh này sẽ ẩn ổ đĩa F đi.
+
+ASSIGN LETTER F
+Lệnh này sẽ làm hiện lại ổ đĩa vừa ẩn (LƯU LẠI VỚI TÊN Ổ ĐĨA BAN ĐẦU ĐỂ TRÁNH NHẦM ĐƯỜNG DẪN VỚI NHỮNG GÌ ĐÃ CÀI ĐẶT)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Thật đơn giản phải không. Có thể dùng cách này để troll đứa bạn cùng phòng mình :D&lt;/p&gt;
+
+&lt;h2 id=&quot;sửa-lỗi-usb-không-hiện-dữ-liệu-bên-trong&quot;&gt;Sửa lỗi USB không hiện dữ liệu bên trong&lt;/h2&gt;
+&lt;p&gt;Mở cmd và di chuyển vùng làm việc của cmd tới ổ USB đó gõ:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ATTRIB -S -H /S /D&lt;/code&gt; rồi  đợi chút là dữ liệu sẽ hiển thị ra ngay nha.&lt;/p&gt;
+
+&lt;p&gt;Các bạn có thể xem chi tiết tại đây:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QU3fDN0hrJ8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="ẩn thư mục" /><category term="ẩn ổ đĩa" /><summary type="html">Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn.</summary></entry><entry xml:lang="vi"><title type="html">Tổng hợp các phím tắt hữu ích cho trên Windows</title><link href="http://localhost:4000/tricks/tong-hop-phim-tat-cho-windows/" rel="alternate" type="text/html" title="Tổng hợp các phím tắt hữu ích cho trên Windows" /><published>2017-09-18T00:00:00+07:00</published><updated>2017-09-18T00:00:00+07:00</updated><id>http://localhost:4000/tricks/tong-hop-phim-tat-cho-windows</id><content type="html" xml:base="http://localhost:4000/tricks/tong-hop-phim-tat-cho-windows/">&lt;p&gt;Thay vì sử dụng chuột, tổng hợp các phím tắt sau đây sẽ giúp cho bạn thao tác và xử nhanh trên giao diện của windows.&lt;/p&gt;
+
+&lt;h2 id=&quot;phím-tắt-chung&quot;&gt;Phím tắt chung:&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Phím tắt&lt;/td&gt;
+      &lt;td&gt;ý nghĩa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + C&lt;/td&gt;
+      &lt;td&gt;sao chép&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + X&lt;/td&gt;
+      &lt;td&gt;cắt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + V&lt;/td&gt;
+      &lt;td&gt;dán&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + Z&lt;/td&gt;
+      &lt;td&gt;hoàn lại tác vụ vừa thực hiện&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Delete&lt;/td&gt;
+      &lt;td&gt;xóa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shift + Delete&lt;/td&gt;
+      &lt;td&gt;xóa vĩnh viễn một đối tượng, không phục hồi được bằng cách vào thùng rác&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + kéo thả&lt;/td&gt;
+      &lt;td&gt;sao chép đối tượng đang chọn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + Shift + kéo thả&lt;/td&gt;
+      &lt;td&gt;tạo lối tắt cho đối tượng đang chọn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F2&lt;/td&gt;
+      &lt;td&gt;đổi tên đối tượng đang chọn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + &amp;gt;&lt;/td&gt;
+      &lt;td&gt;di chuyển con trỏ đến một điểm chèn về phía sau 1 từ&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + &amp;lt;&lt;/td&gt;
+      &lt;td&gt;di chuyển con trỏ đến một điểm chèn về trước sau 1 từ&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + mũi tên lên&lt;/td&gt;
+      &lt;td&gt;di chuyển con trỏ đến một điểm chèn lên trên một đoạn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + mũi tên xuống&lt;/td&gt;
+      &lt;td&gt;di chuyển con trỏ đến một điểm chèn xuống dưới một đoạn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + Shift + mũi tên&lt;/td&gt;
+      &lt;td&gt;chọn một khối văn bản&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shift + mũi tên&lt;/td&gt;
+      &lt;td&gt;chọn các đối tượng trên màn hình Desktop, trong cửa sổ Windows, trong các phần mềm soạn thảo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + A&lt;/td&gt;
+      &lt;td&gt;chọn tất cả&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F3&lt;/td&gt;
+      &lt;td&gt;tìm kiếm một tập tin, thư mục&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + O&lt;/td&gt;
+      &lt;td&gt;mở một đối tượng&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alt + Enter&lt;/td&gt;
+      &lt;td&gt;xem thuộc tính của đối tượng đang chọn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alt + F4&lt;/td&gt;
+      &lt;td&gt;đóng đối tượng đang kích hoạt, thoát chương trình đang kích hoạt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + F4&lt;/td&gt;
+      &lt;td&gt;đóng cửa sổ  con trong ứng dụng đa cửa sổ như Word, Excel…&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alt + Tab&lt;/td&gt;
+      &lt;td&gt;chuyển đổi qua lại giữa các cửa sổ đang mở&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alt + ESC&lt;/td&gt;
+      &lt;td&gt;Di chuyển vòng quanh theo thứ tự các đối tượng đang mở&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F6&lt;/td&gt;
+      &lt;td&gt;Di chuyển vòng quanh các phần tử giống nhau trong một cửa sổ hoặc trên màn hình Desktop&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F4&lt;/td&gt;
+      &lt;td&gt;sổ nội dung của thanh địa chỉ trong cửa sổ My Computer hoặc Windows Explorer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shift + F10&lt;/td&gt;
+      &lt;td&gt;hiển thị thực đơn tắt (thực đơn ngữ cảnh) của đối tượng đang chọn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alt + phím cách&lt;/td&gt;
+      &lt;td&gt;hiển thị thực đơn hệ thống (System menu) của cửa sổ đang kích hoạt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + ESC&lt;/td&gt;
+      &lt;td&gt;hiển thị thực đơn Start&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F10&lt;/td&gt;
+      &lt;td&gt;kích hoạt thanh thực đơn lệnh của ứng dụng đang được kích hoạt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;-&amp;gt;, &amp;lt;-, Up, Down&lt;/td&gt;
+      &lt;td&gt;di chuyển giữa các đối tượng đang chọn trong cửa sổ, giữa các nhánh lệnh trên thanh thực đơn lệnh&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F5&lt;/td&gt;
+      &lt;td&gt;cập nhật cho cửa sổ đang kích hoạt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Backspace&lt;/td&gt;
+      &lt;td&gt;trở về thư mục cấp trên liền kề của thư mục hiện tại trong cửa sổ My Computer hoặc Windows Explorer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ESC&lt;/td&gt;
+      &lt;td&gt;bỏ qua tác vụ hiện tại&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;phím-tắt-trên-hộp-thoại&quot;&gt;Phím tắt trên hộp thoại:&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + Tab&lt;/td&gt;
+      &lt;td&gt;chuyển sang thẻ kế tiếp trong hộp thoại&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ctrl + Shift + Tab&lt;/td&gt;
+      &lt;td&gt;chuyển về thẻ phía trước trong hộp thoại&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tab&lt;/td&gt;
+      &lt;td&gt;chuyển đến các phần lựa chọn, lệnh kế tiếp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shift + Tab&lt;/td&gt;
+      &lt;td&gt;chuyển về các phần lựa chọn, lệnh phía trước&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Enter&lt;/td&gt;
+      &lt;td&gt;thực hiện thiết lập hoặc nút nhấn đang kích hoạt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Phím cách&lt;/td&gt;
+      &lt;td&gt;chọn hoặc bỏ chọn trong ô chọn (checkbox)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mũi tên&lt;/td&gt;
+      &lt;td&gt;chọn một nút nếu đang ở trong một nhóm có nhiều nút chọn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F1&lt;/td&gt;
+      &lt;td&gt;hiển thị phần trợ giúp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;F4&lt;/td&gt;
+      &lt;td&gt;hiển thị dang sách giá trị của đối tượng đang kích hoạt&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Backspace&lt;/td&gt;
+      &lt;td&gt;trở về thư mục cấp cao hơn liền kế trong các hộp thoại lưu và mở&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;phím-đặc-biệt-trên-bàn-phím&quot;&gt;Phím đặc biệt trên bàn phím:&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows&lt;/td&gt;
+      &lt;td&gt;Hiển thị thanh thực đơn lệnh khởi động Start Menu&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + D&lt;/td&gt;
+      &lt;td&gt;Thu nhỏ hoặc phục hồi tất cả các cửa sổ đang mở&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + E&lt;/td&gt;
+      &lt;td&gt;Mở cửa sổ Windows Explorer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + F&lt;/td&gt;
+      &lt;td&gt;Tìm kiếm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + L&lt;/td&gt;
+      &lt;td&gt;Khóa màn hình, khóa máy (Windows XP trở lên)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + M&lt;/td&gt;
+      &lt;td&gt;Thu nhỏ hoặc phục hồi tất cả các cửa sổ đang mở&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + R&lt;/td&gt;
+      &lt;td&gt;Mở cửa sổ Run (tương ứng Start - Run)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + U&lt;/td&gt;
+      &lt;td&gt;Mở trình quản lý các tiện ích - Utility Manager&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + Tab&lt;/td&gt;
+      &lt;td&gt;Di chuyển giữa các tiêu đề cửa sổ đang mở trên thanh tác vụ - Taskbar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows + Break&lt;/td&gt;
+      &lt;td&gt;Mở cửa sổ System Properties.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Print Screen&lt;/td&gt;
+      &lt;td&gt;Chụp màn hình.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alt + Print Screen&lt;/td&gt;
+      &lt;td&gt;Chụp cửa sổ đang được kích hoạt&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="phím tắt" /><category term="windows" /><summary type="html">Thay vì sử dụng chuột, tổng hợp các phím tắt sau đây sẽ giúp cho bạn thao tác và xử nhanh trên giao diện của windows.</summary></entry><entry xml:lang="vi"><title type="html">Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3</title><link href="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/" rel="alternate" type="text/html" title="Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3" /><published>2017-09-13T00:00:00+07:00</published><updated>2017-09-13T00:00:00+07:00</updated><id>http://localhost:4000/sublimetext3/phim-tat-sublime-text3</id><content type="html" xml:base="http://localhost:4000/sublimetext3/phim-tat-sublime-text3/">&lt;h2 id=&quot;sublime-text-là-một-editor-mạnh-mẽ-với-nhiều-plugin-hữu-ích-sau-đây-là-danh-sách-các-phím-tắt-giup-bạn-làm-việc-nhanh-và-hiệu-quả-hơn-rất-nhiều-với-nó&quot;&gt;Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.&lt;/h2&gt;
 
 &lt;h3 id=&quot;nhóm-phím-tắt-chỉnh-sửa&quot;&gt;Nhóm phím tắt chỉnh sửa.&lt;/h3&gt;
 
@@ -239,44 +615,7 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="sublime text" /><category term="phím tắt" /><summary type="html">Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.</summary></entry><entry><title type="html">Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc</title><link href="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/" rel="alternate" type="text/html" title="Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc" /><published>2017-09-12T00:00:00+07:00</published><updated>2017-09-12T00:00:00+07:00</updated><id>http://localhost:4000/sharingthing/loi-ich-doc-nhanh</id><content type="html" xml:base="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/">&lt;p&gt;:red_circle: Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn&lt;/p&gt;
-&lt;h3 id=&quot;đọc-nhanh-có-lợi-gì&quot;&gt;Đọc nhanh có lợi gì?&lt;/h3&gt;
-&lt;p&gt;:white_check_mark: Vào đầu những năm 2000 trên nhiều phương tiện truyền thông nói tới việc “ai có thông tin là có tất cả”.&lt;/p&gt;
-
-&lt;p&gt;Điều này thật tuyệt vời khi đẩy tốc độ truyền thông của Việt Nam trở thành một trong những quốc gia tốt nhất trên thế giới. Tuy nhiên đến nay thông tin không còn quá quan trọng nữa khi tốc độ truy xuất dữ liệu và tìm kiếm thông tin ai cũng có thể tìm được trên điện thoại thông minh và công cụ tìm kiếm. Chúng ta có nhiều thông tin nhưng đến lúc chúng ta cần phân biệt tin đúng/ sai. Hay nhiều người kết luận thờ ơ “kệ nó, đúng hay sai chả ảnh hưởng gi đến mình”. Nhưng trong công việc bạn không thể vội vã làm ngay được điều đó. Bạn cần đọc, lọc, điều chỉnh, sửa chữa lượng dữ liệu lớn để tìm ra thông tin đúng nhất, phương án xử lý tốt nhất, có lợi cho đơn vị của bạn.&lt;/p&gt;
-
-&lt;p&gt;:white_check_mark: Đọc nhanh giúp tư du nhanh và suy nghĩ nhanh xử lý các tình huống.&lt;/p&gt;
-
-&lt;p&gt;Có một phòng nhân sự phàn nàn với tôi việc phải đọc lượng dữ liệu quá lớn về hồ sơ nhân sự của gần 800 công nhân, rồi lọc thông tin của họ, kiểm tra tính xác thực của thông tin, lập danh mục thông tin, chuyển thành dữ liệu tin cậy trên máy tính. Nhưng khi tôi thay đổi cách đọc và tổ chức lại cách làm việc toàn bộ khối lượng xử lý chính xác trong 8 ngày, kể cả lấy dấu vân tay. Điều quan trọng hơn là nhân viên phòng này đã học được cách đọc nhanh để kiểm soát hồ sơ cho những lần sau với hàng ngàn công nhân.&lt;/p&gt;
-
-&lt;h3 id=&quot;không-gian-và-môi-trường-cho-việc-đọc&quot;&gt;Không gian và môi trường cho việc đọc:&lt;/h3&gt;
-
-&lt;p&gt;Một cảm giác khác khi đọc sách là không gian tĩnh lặng. Lúc này tâm trí
-bạn được ru ngủ trong đó và bạn đọc trong trạng thái mơ màng, nửa thức nửa
-ngủ. Bạn không nhớ đã đọc những gì. Đây chính là cách tạo dần cho bạn thói
-quen lười đọc. Cứ nhin thấy sách, tài liệu là muốn ngủ rồi. Não của bạn đã bị
-tạo thói quen nhìn thấy sách là ngủ, là ngại đọc. Vì vậy rèn luyện đọc nhanh,
-đọc tốc độ cao cần tạo cho mình môi trường, không gian phù hợp ngay từ
-khi bắt đầu cuốn sách này hoặc với từng loại tài liệu tương ứng.
-Bạn cần lựa chọn không gian để đọc sách theo sở thích của mình mới cóthể mang lại hiệu quả cao nhất&lt;/p&gt;
-
-&lt;h3 id=&quot;đo-tốc-độ-đọc-và-nắm-bắt-thông-tin&quot;&gt;Đo tốc độ đọc và nắm bắt thông tin:&lt;/h3&gt;
-&lt;p&gt;Có một số cách mang tính căn bản về cách đo tốc độ đọc của bạn, một số
-công ty toàn cầu đã đưa tiêu chí tốc độ đọc cao làm cơ sở tuyển dụng. Một
-cách đơn giản nhất để đo tốc độ đọc đó là đưa ra một bài báo, một cuốn sách
-bất kỳ rồi bấm giờ, đọc trong bao nhiêu phút chia trung bình sẽ ra số lượng
-chữ đọc một phút.&lt;/p&gt;
-&lt;p&gt;Một cách đo khác đó là các dòng chữ sẽ chạy trên màn hình và bạn đọc
-theo nội dung các dòng chữ đó. Cách này tương tự như bạn đọc tài liệu trên
-điện thoại di động vậy. Nhưng để đo được bằng máy tốc độ thường nhanh
-hơn và mắt bạn phải nhìn tập trung vào một số dòng nhất định. Một cách
-khác cũng khá phổ biến hiện nay là dùng các phần mềm đếm chữ, thậm chí
-phần mềm có thể kiểm soát được chuyển động trong mắt của bạn để tự động
-tính toán được tốc độ đọc.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="đọc nhanh" /><category term="kỹ năng" /><summary type="html">:red_circle: Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn Đọc nhanh có lợi gì? :white_check_mark: Vào đầu những năm 2000 trên nhiều phương tiện truyền thông nói tới việc “ai có thông tin là có tất cả”.</summary></entry><entry><title type="html">Tình hình tội phạm sử dụng CÔNG NGHỆ CAO trên thế giới và Việt Nam hiện nay</title><link href="http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc/" rel="alternate" type="text/html" title="Tình hình tội phạm sử dụng CÔNG NGHỆ CAO trên thế giới và Việt Nam hiện nay" /><published>2017-09-12T00:00:00+07:00</published><updated>2017-09-12T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc</id><content type="html" xml:base="http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc/">&lt;h2 id=&quot;tình-hình-tội-phạm-sử-dụng-công-nghệ-cao-trên-thế-giới-và-việt-nam&quot;&gt;Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam&lt;/h2&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="sublime text" /><category term="phím tắt" /><summary type="html">Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.</summary></entry><entry><title type="html">Tình hình tội phạm sử dụng CÔNG NGHỆ CAO trên thế giới và Việt Nam hiện nay</title><link href="http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc/" rel="alternate" type="text/html" title="Tình hình tội phạm sử dụng CÔNG NGHỆ CAO trên thế giới và Việt Nam hiện nay" /><published>2017-09-12T00:00:00+07:00</published><updated>2017-09-12T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc</id><content type="html" xml:base="http://localhost:4000/an-toan-bao-mat-thong-tin/tinh-hinh-toi-pham-cnc/">&lt;h2 id=&quot;tình-hình-tội-phạm-sử-dụng-công-nghệ-cao-trên-thế-giới-và-việt-nam&quot;&gt;Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam&lt;/h2&gt;
 &lt;h3 id=&quot;thực-trạng-công-nghệ-thông-tin&quot;&gt;Thực trạng công nghệ thông tin&lt;/h3&gt;
 &lt;p&gt;:large_orange_diamond: 60% sàn chứng khoán của Mỹ là do công nghệ thông tin.&lt;/p&gt;
 
@@ -345,151 +684,41 @@ tính toán được tốc độ đọc.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="bảo mật" /><category term="công nghệ cao" /><summary type="html">Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam Thực trạng công nghệ thông tin :large_orange_diamond: 60% sàn chứng khoán của Mỹ là do công nghệ thông tin.</summary></entry><entry xml:lang="vi"><title type="html">Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C</title><link href="http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" rel="alternate" type="text/html" title="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C" /><published>2017-09-08T00:00:00+07:00</published><updated>2017-09-08T00:00:00+07:00</updated><id>http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows</id><content type="html" xml:base="http://localhost:4000/sublimetext3/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">&lt;h2 id=&quot;ở-bài-trước-mình-đã-hướng-dẫn-các-bạn-khắc-phục-lỗi-không-cài-được-plugin-trên-sublime-text-3-bài-này-mình-sẽ-hướng-dẫn-các-bạn-cấu-hình-nó-để-lập-trình-ngôn-ngữ-c-c&quot;&gt;Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.&lt;/h2&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="bảo mật" /><category term="công nghệ cao" /><summary type="html">Tình hình tội phạm sử dụng Công Nghệ Cao trên thế giới và Việt Nam Thực trạng công nghệ thông tin :large_orange_diamond: 60% sàn chứng khoán của Mỹ là do công nghệ thông tin.</summary></entry><entry><title type="html">Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc</title><link href="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/" rel="alternate" type="text/html" title="Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc" /><published>2017-09-12T00:00:00+07:00</published><updated>2017-09-12T00:00:00+07:00</updated><id>http://localhost:4000/sharingthing/loi-ich-doc-nhanh</id><content type="html" xml:base="http://localhost:4000/sharingthing/loi-ich-doc-nhanh/">&lt;p&gt;:red_circle: Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn&lt;/p&gt;
+&lt;h3 id=&quot;đọc-nhanh-có-lợi-gì&quot;&gt;Đọc nhanh có lợi gì?&lt;/h3&gt;
+&lt;p&gt;:white_check_mark: Vào đầu những năm 2000 trên nhiều phương tiện truyền thông nói tới việc “ai có thông tin là có tất cả”.&lt;/p&gt;
 
-&lt;p&gt;Trước khi vào bài hướng dẫn các bạn phải cài đặt Sublime Text 3 (tất nhiền rồi) và cài đặt &lt;em&gt;trình biên dịch C&lt;/em&gt;
- như là &lt;strong&gt;Cywin&lt;/strong&gt; hoặc &lt;strong&gt;Mingw&lt;/strong&gt; (Mingw dùng phổ biến hơn). Xem bài hướng dẫn &lt;a href=&quot;http://o7planning.org/vi/10467/huong-dan-cai-dat-trinh-bien-dich-c-cpp-mingw&quot;&gt;Cài Mingw để biên dịch ngôn ngữ C&lt;/a&gt; và Cài biến môi trường để lập trình C bằng cách&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Vào *Control Panel&amp;gt; System&amp;gt; Advanced system settings&amp;gt; Environment Variables*
-chọn edit lại *path* vào add thêm các dòng sau:
-(ở đây MinGW được ví dụ là cài đặt tại thư mục C:\MinGW)
-- C:\MinGW\bin
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-  &lt;li&gt;Đầu tiên bạn mở Sublime Text 3 lên và chọn &lt;em&gt;Tools&lt;/em&gt; &amp;gt; &lt;em&gt;Build System&lt;/em&gt; &amp;gt; &lt;em&gt;New Build System..&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Điều này thật tuyệt vời khi đẩy tốc độ truyền thông của Việt Nam trở thành một trong những quốc gia tốt nhất trên thế giới. Tuy nhiên đến nay thông tin không còn quá quan trọng nữa khi tốc độ truy xuất dữ liệu và tìm kiếm thông tin ai cũng có thể tìm được trên điện thoại thông minh và công cụ tìm kiếm. Chúng ta có nhiều thông tin nhưng đến lúc chúng ta cần phân biệt tin đúng/ sai. Hay nhiều người kết luận thờ ơ “kệ nó, đúng hay sai chả ảnh hưởng gi đến mình”. Nhưng trong công việc bạn không thể vội vã làm ngay được điều đó. Bạn cần đọc, lọc, điều chỉnh, sửa chữa lượng dữ liệu lớn để tìm ra thông tin đúng nhất, phương án xử lý tốt nhất, có lợi cho đơn vị của bạn.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/ST3/st4.png&quot; alt=&quot;Hình 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;:white_check_mark: Đọc nhanh giúp tư du nhanh và suy nghĩ nhanh xử lý các tình huống.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Sau đó sẽ hiện ra file để bạn cấu hình giúp lập trình C trên đó.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Có một phòng nhân sự phàn nàn với tôi việc phải đọc lượng dữ liệu quá lớn về hồ sơ nhân sự của gần 800 công nhân, rồi lọc thông tin của họ, kiểm tra tính xác thực của thông tin, lập danh mục thông tin, chuyển thành dữ liệu tin cậy trên máy tính. Nhưng khi tôi thay đổi cách đọc và tổ chức lại cách làm việc toàn bộ khối lượng xử lý chính xác trong 8 ngày, kể cả lấy dấu vân tay. Điều quan trọng hơn là nhân viên phòng này đã học được cách đọc nhanh để kiểm soát hồ sơ cho những lần sau với hàng ngàn công nhân.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/ST3/st5.png&quot; alt=&quot;Hình 2&quot; /&gt;
-Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán vào file đó rồi lưu lại với tên tùy ý, nên đặt tên là RunC++ như mình (Nếu các bạn lập trình C thì thay &lt;code class=&quot;highlighter-rouge&quot;&gt;g++&lt;/code&gt; thành &lt;code class=&quot;highlighter-rouge&quot;&gt;gcc&lt;/code&gt; nhé:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-sublime-build&quot;&gt;{
-&quot;cmd&quot;: [&quot;g++&quot;, &quot;$file_name&quot;, &quot;-o&quot;, &quot;${file_base_name}.exe&quot;, &quot;&amp;amp;&amp;amp;&quot;, &quot;start&quot;, &quot;cmd&quot;, &quot;/k&quot; , &quot;$file_base_name&quot;],
-&quot;selector&quot;: &quot;source.c&quot;,
-&quot;working_dir&quot;: &quot;${file_path}&quot;,
-&quot;shell&quot;: true,
-&quot;variants&quot;:
-    [
-        {
-            &quot;name&quot;: &quot;Run&quot;,
-            &quot;cmd&quot;: [&quot;start&quot;, &quot;$file_base_name&quot;]
-        }
-    ]
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;không-gian-và-môi-trường-cho-việc-đọc&quot;&gt;Không gian và môi trường cho việc đọc:&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/ST3/st6.png&quot; alt=&quot;Hình 3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Một cảm giác khác khi đọc sách là không gian tĩnh lặng. Lúc này tâm trí
+bạn được ru ngủ trong đó và bạn đọc trong trạng thái mơ màng, nửa thức nửa
+ngủ. Bạn không nhớ đã đọc những gì. Đây chính là cách tạo dần cho bạn thói
+quen lười đọc. Cứ nhin thấy sách, tài liệu là muốn ngủ rồi. Não của bạn đã bị
+tạo thói quen nhìn thấy sách là ngủ, là ngại đọc. Vì vậy rèn luyện đọc nhanh,
+đọc tốc độ cao cần tạo cho mình môi trường, không gian phù hợp ngay từ
+khi bắt đầu cuốn sách này hoặc với từng loại tài liệu tương ứng.
+Bạn cần lựa chọn không gian để đọc sách theo sở thích của mình mới cóthể mang lại hiệu quả cao nhất&lt;/p&gt;
 
-&lt;p&gt;Ô cê vậy là xong rồi đó. Giờ bạn muốn biên dịch và chạy chương trình &lt;code class=&quot;highlighter-rouge&quot;&gt;C&lt;/code&gt; bạn chỉ việc chọn &lt;em&gt;Tools&lt;/em&gt; &amp;gt; &lt;em&gt;Build System&lt;/em&gt; &amp;gt; &lt;em&gt;RunC++&lt;/em&gt;  và nhấn &lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + B&lt;/code&gt;:
-&lt;img src=&quot;/assets/img/ST3/st7.png&quot; alt=&quot;Hình 4&quot; /&gt;
-Sau đó là chương trình được Build và chạy lên như thế này :
-&lt;img src=&quot;/assets/img/ST3/st8.png&quot; alt=&quot;Hình 5&quot; /&gt;
-&lt;strong&gt;Chúc các bạn thành công nha&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;đo-tốc-độ-đọc-và-nắm-bắt-thông-tin&quot;&gt;Đo tốc độ đọc và nắm bắt thông tin:&lt;/h3&gt;
+&lt;p&gt;Có một số cách mang tính căn bản về cách đo tốc độ đọc của bạn, một số
+công ty toàn cầu đã đưa tiêu chí tốc độ đọc cao làm cơ sở tuyển dụng. Một
+cách đơn giản nhất để đo tốc độ đọc đó là đưa ra một bài báo, một cuốn sách
+bất kỳ rồi bấm giờ, đọc trong bao nhiêu phút chia trung bình sẽ ra số lượng
+chữ đọc một phút.&lt;/p&gt;
+&lt;p&gt;Một cách đo khác đó là các dòng chữ sẽ chạy trên màn hình và bạn đọc
+theo nội dung các dòng chữ đó. Cách này tương tự như bạn đọc tài liệu trên
+điện thoại di động vậy. Nhưng để đo được bằng máy tốc độ thường nhanh
+hơn và mắt bạn phải nhìn tập trung vào một số dòng nhất định. Một cách
+khác cũng khá phổ biến hiện nay là dùng các phần mềm đếm chữ, thậm chí
+phần mềm có thể kiểm soát được chuyển động trong mắt của bạn để tự động
+tính toán được tốc độ đọc.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="sublime text" /><category term="c++" /><summary type="html">Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.</summary></entry><entry xml:lang="vi"><title type="html">Khắc phục lỗi không cài được plugins trên Sublime Text 3</title><link href="http://localhost:4000/sublimetext3/install-plugin-for-st/" rel="alternate" type="text/html" title="Khắc phục lỗi không cài được plugins trên Sublime Text 3" /><published>2017-08-27T00:00:00+07:00</published><updated>2017-08-27T00:00:00+07:00</updated><id>http://localhost:4000/sublimetext3/install-plugin-for-st</id><content type="html" xml:base="http://localhost:4000/sublimetext3/install-plugin-for-st/">&lt;h3 id=&quot;sublime-text-là-một-editor-mạnh-mẽ-với-nhiều-plugin-hữu-ích-có-thể-cài-đặt-dễ-dàng-đang-được-rất-nhiều-các-lập-trình-viên-sử-dụng&quot;&gt;Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.&lt;/h3&gt;
-
-&lt;p&gt;Bỗng một ngày đẹp trời bạn mở Submile text lên và muốn cài 1 plugin mà cài xong vào &lt;strong&gt;List Package&lt;/strong&gt; k thấy có thì các bạn đừng có lo. Bạn có thể cài plugins đó bằng cách thủ công như sau:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Click vào &lt;em&gt;Preferences &amp;gt; Browse Package&lt;/em&gt; ở trên thanh công cụ.
-&lt;img src=&quot;/assets/img/ST3/st1.png&quot; alt=&quot;Hình 1&quot; /&gt;
-Sau đó xuất hiện thư mục chứa các &lt;em&gt;package&lt;/em&gt; là …/Packages/. Các bạn muốn cài plugins nào thì copy vào thư mục này.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lên trang của &lt;a href=&quot;https://packagecontrol.io/&quot;&gt;Package Control&lt;/a&gt; để tải các plugin của các bạn rồi đưa vào thư mục trên.
-&lt;img src=&quot;/assets/img/ST3/st2.png&quot; alt=&quot;Hình 2&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Các Bạn muốn plugin vào thì cứ gõ vào &lt;em&gt;Search&lt;/em&gt; sẽ hiện lên đầy đủ các plugin liên quan đến từ khóa của bạn.
-OK Vậy là bạn đã cài đặt xong rồi đó.&lt;/p&gt;
-
-&lt;p&gt;Xem chi tiết thêm tại:&lt;/p&gt;
-&lt;iframe style=&quot;width: 560; height: 315; max-width: 100%; margin: 0 auto;&quot; src=&quot;https://www.youtube.com/embed/OzT13THu-NI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&quot;một-số-plugin-hữu-ích-mà-tớ-đang-dùng&quot;&gt;Một số Plugin hữu ích mà tớ đang dùng:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Alignment&lt;/li&gt;
-  &lt;li&gt;AutoFileName&lt;/li&gt;
-  &lt;li&gt;CSS Format&lt;/li&gt;
-  &lt;li&gt;CSS3&lt;/li&gt;
-  &lt;li&gt;Emmet&lt;/li&gt;
-  &lt;li&gt;HTML5&lt;/li&gt;
-  &lt;li&gt;JavaScript &amp;amp; Coffeescript Build Systems&lt;/li&gt;
-  &lt;li&gt;Package Control&lt;/li&gt;
-  &lt;li&gt;Seti_UI&lt;/li&gt;
-  &lt;li&gt;Sublimerge Pro&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="sublime text" /><category term="plugins" /><summary type="html">Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.</summary></entry><entry xml:lang="vi"><title type="html">Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình</title><link href="http://localhost:4000/life/can-bang-cuoc-song/" rel="alternate" type="text/html" title="Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình" /><published>2017-08-06T00:00:00+07:00</published><updated>2017-08-06T00:00:00+07:00</updated><id>http://localhost:4000/life/can-bang-cuoc-song</id><content type="html" xml:base="http://localhost:4000/life/can-bang-cuoc-song/">&lt;h3 id=&quot;đôi-khi-sự-cân-bằng-trở-thành-thứ-quá-xa-xỉ-trong-cuộc-sống-bồn-bề-bạn-thấy-mệt-mỏi-bởi-những-cuộc-tìm-kiếm-hãy-thử-nghe-theo-những-lời-khuyên-dưới-đây-để-sống-cuộc-đời-mà-bạn-mong-muốn&quot;&gt;Đôi khi &lt;em&gt;sự cân bằng&lt;/em&gt; trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;HỌC CÁCH SỐNG KHÔN NGOAN VỚI STRESS
-    &lt;ul&gt;
-      &lt;li&gt;Bạn thường phản ứng thế nào với áp lực cuộc sống? Hãy chấp nhận một thực tế rằng không thể loại bỏ tất cả stress, như thế ít ra bạn cũng thấy đỡ bức xúc hơn.&lt;/li&gt;
-      &lt;li&gt;Trên thực tế, stress – một khi được kiểm soát đúng – có thể mang lại cho ta động lực để phấn đấu. Nhưng nếu bạn xử lý nó không tốt, nó sẽ quay lại “quật ngã” bạn.&lt;/li&gt;
-      &lt;li&gt;Vậy vấn đề gây stress của bạn là gì? Liệu bạn có thể sẵn lòng loại bỏ chúng ra khỏi cuộc sống?&lt;/li&gt;
-      &lt;li&gt;Hãy tập “cư xử” khôn ngoan với stress bắt đầu bằng những câu hỏi trên. Một khi đã xác định là không thể triệt tiêu chúng, ít ra bạn cũng có thể thay đổi phản ứng của mình.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;ĐƠN GIẢN HÓA MỌI VẤN ĐỀ
-Bạn không cần thiết phải tỏ ra bận rộn từng giây mỗi phút trong ngày. Hãy tập thói quen nói “không” với những thứ mà bạn không muốn, hoặc không có thời gian để thực hiện (và đừng cảm thấy tội lỗi vì điều này). Thay vào đó, nên dành thời gian cho gia đình và bạn bè.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;VUI CHƠI
-    &lt;ul&gt;
-      &lt;li&gt;Một khi bạn tự cho phép quỹ thời gian thư giãn của mình co hẹp, bạn sẽ thấy các mối quan hệ trở nên lỏng lẻo và có ngày phải gánh chịu hậu quả. Hãy tận dụng thời gian để vui chơi.&lt;/li&gt;
-      &lt;li&gt;Đọc sách, nằm bò ra sàn nhà và cùng chơi đồ Lego với đứa con yêu dấu, hoặc cùng xem một bộ phim yêu thích, trò chuyện vui vẻ với những thành viên khác trong gia đình.&lt;/li&gt;
-      &lt;li&gt;Và những lúc như thế, bạn phải thực sự để tâm vào đó. Hãy cho gia đình biết rằng họ quan trọng thế nào với bạn.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;CHIA SẺ KHỐI LƯỢNG CÔNG VIỆC
-    &lt;ul&gt;
-      &lt;li&gt;Vợ chồng và con cái – thậm chí cả trẻ nhỏ – cũng có thể hỗ trợ lẫn nhau trong công việc hằng ngày. Hãy bắt đầu bằng việc cùng ngồi xuống bên nhau và thoả thuận, phân công.&lt;/li&gt;
-      &lt;li&gt;Bạn thấy cái rèm cửa đã không được hút bụi một tháng? Có ai trong gia đình cũng quan tâm đến điều này?&lt;/li&gt;
-      &lt;li&gt;Nên giao cho các con công việc phù hợp với lứa tuổi để giúp trẻ phát triển sự tự tin. Việc chia sẻ công việc sẽ mang lại cho mỗi thành viên nhiều thời gian hơn và quan trọng là nó tạo ra sự gắn bó trong gia đình.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;BÌNH TĨNH THÁO GỠ CÁC YÊU CẦU
-    &lt;ul&gt;
-      &lt;li&gt;Không ít lần bạn bị giằng co giữa nhiều trách nhiệm và cảm thấy mình không đủ để thoả mãn tất cả mọi yêu cầu. Khi đó, hãy tự hỏi bản thân “Cái gì thú vị và xứng đáng cho bạn và gia đình nhất?”.&lt;/li&gt;
-      &lt;li&gt;Đừng để ý tới những lựa chọn tốn thời gian quý báu mà lại vô bổ. Nên suy nghĩ và mong đợi khách quan về bản thân và người khác, đồng thời học cách thích nghi trong mọi tình huống, khi thành thói quen bạn sẽ có cuộc sống cân bằng mong muốn&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;CHĂM SÓC BẢN THÂN
-    &lt;ul&gt;
-      &lt;li&gt;Nên nhớ phải có sức khỏe tốt thì mới dễ dàng xử lý stress. Cần chú ý tới chế độ ăn uống cân bằng, bổ dưỡng, luyện tập đều đặn và nghỉ ngơi khi cơ thể cần.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;BỎ THÓI CHẦN CHỪ
-    &lt;ul&gt;
-      &lt;li&gt;Khi có việc cần làm, hãy làm ngay. Sự lảng tránh đôi khi tốn nhiều sinh lực hơn là việc thực sự tiến hành.&lt;/li&gt;
-      &lt;li&gt;Thậm chí khi cảm thấy rất miễn cưỡng bắt đầu một dự án nào đó, bạn sẽ quên mất những lo ngại ban đầu một khi đã vào cuộc. Bí quyết ở đây là bắt đầu với những phần đơn giản nhất, rồi bạn sẽ thấy thoải mái để bước vào những phần gai góc hơn.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;HỌC CÁCH BIẾT ƠN VÀ NHÌN VÀO KHÍA CẠNH TÍCH CỰC CỦA CUỘC SỐNG CÂN BẰNG
-Bình lặng… nghĩ về cuộc sống xung quanh, bạn tự hỏi mình phải biết ơn điều gì? Hãy dành vài phút mỗi ngày để viết ra ít nhất 5 thứ mà bạn hiểu rằng cần cảm ơn. Đó là một cách hiệu quả để đánh giá có bao nhiêu việc đã diễn ra đi đúng hướng cuộc đời bạn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;CHỊU TRÁCH NHIỆM VỀ CHÍNH MÌNH
-    &lt;ul&gt;
-      &lt;li&gt;Khoảng 30% thời gian tỉnh táo trong cuộc đời của con người là dành cho các hoạt động thiết yếu thường ngày.&lt;/li&gt;
-      &lt;li&gt;Hãy theo dõi khi nào sinh lực của bạn tốt nhất và tồi tệ nhất. Theo dõi nhịp sinh học cơ thể để biết cách tối đa hóa các chu kỳ tự nhiên. Trước khi đi ngủ, hãy dành vài phút để nghĩ về hôm nay và hình dung tới ngày mai. Đừng quên liếc vào danh sách các mục tiêu chính của cuộc đời để ngày mai bạn sẽ không hành động lạc hướng.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Tóm lại, quá trình tìm kiếm sự cân bằng trong cuộc sống diễn ra không có điểm dừng. Đơn giản là vì cuộc sống luôn thay đổi. Nên đánh giá thường xuyên con đường mà bạn đang đi. Bạn chỉ có một cuộc sống, đừng quên giữ bình tĩnh, kiên định, có ý thức phấn đấu cho ước mơ của mình.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nguồn: MR WHY – Phạm Ngọc Anh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="cân bằng" /><category term="life" /><summary type="html">Đôi khi sự cân bằng trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.</summary></entry></feed>
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="đọc nhanh" /><category term="kỹ năng" /><summary type="html">:red_circle: Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn Đọc nhanh có lợi gì? :white_check_mark: Vào đầu những năm 2000 trên nhiều phương tiện truyền thông nói tới việc “ai có thông tin là có tất cả”.</summary></entry></feed>

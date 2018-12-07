@@ -237,18 +237,18 @@ compress_html:
     
 #collections:
 collections:
-  csdl:
-    output: true
-    permalink: /:collection/:path/
-  trickit:
-    output: true
-    permalink: /:collection/:path/
-  laptrinhweb:
-    output: true
-    permalink: /:collection/:path/
-  laptrinhc:
-    output: true
-    permalink: /:collection/:path/
+  # csdl:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # trickit:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # laptrinhweb:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # laptrinhc:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults

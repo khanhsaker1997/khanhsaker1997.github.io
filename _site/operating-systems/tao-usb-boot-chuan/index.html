@@ -165,19 +165,13 @@
         <ul class="visible-links">
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/">about me</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/">About me</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/posts/">my posts</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/posts/">My posts</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/trickit/">Tricks IT</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/csdl/">CSDL</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/music/">music i like</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/music/">Music i like</a></li>
           
             <!-- Search menu -->
             <li class="masthead__menu-item"><a id="masthead-search" href="https://khanhsaker97.github.io/search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
@@ -367,8 +361,14 @@
 <ul>
   <li>B1: Bạn chọn đường dẫn đến file <em>ISO</em> của Kali Linux.</li>
   <li>B2: Chọn USB mà bạn muốn tạo.</li>
-  <li>B3: Bạn Chọn <em>GPT partition scheme for UEFI computer</em> nếu muốn Boot theo chuẩn UEFI và chọn <em>MBR partion scheme for BIOS or UEFI computers</em> nếu muốn Boot theo chuẩn LEGACY.</li>
-  <li>B4: Chọn định dạng <em>FAT32</em> nếu Boot theo UEFI. còn LEGACY thì nên chọn NTFS</li>
+  <li>
+    <p>B3: <strong>MBR partition scheme for BIOS or UEFI computers</strong>: tạo USB boot theo chuẩn BIOS và định dạng phân vùng USB theo chuẩn MBR, nếu bạn muốn tạo USB theo chuẩn BIOS (Legacy BIOS/CMS BIOS) thì bạn chọn dòng này.</p>
+
+    <p><strong>MBR partition scheme for UEFI computers</strong>: tạo USB boot theo chuẩn UEFI và định dạng phân vùng USB theo chuẩn MBR, nếu bạn muốn tạo USB theo chuẩn UEFI thì bạn chọn dòng này.</p>
+
+    <p><strong>GPT partition scheme for UEFI computers</strong>: tạo USB boot theo chuẩn UEFI và định dạng phân vùng USB theo chuẩn GPT, để boot và cài đặt được các dòng laptop mới ngày nay bạn phải chọn dòng này như mình đã hướng dẫn ở trên.</p>
+  </li>
+  <li>B4: Chọn định dạng <em>FAT32</em> hoặc  <em>NTFS</em> đều được.</li>
   <li>B5: Bạn có thể đặt tên mới cho USB tại đây.</li>
   <li>B6: Nhấn <em>Start</em> và chờ đợi.</li>
 </ul>
@@ -454,7 +454,7 @@
 	<!-- Message comments -->
 	<!-- <section>
 		<h4 class="page__comments-title"></h4>
-		<form id="comment-after-post" class="page__comments-form js-form form" method="post" action="https://khanhsaker1997@gmail" _lpchecked="1">
+		<form id="comment-after-post" class="page__comments-form js-form form" method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSdaLOuWHSlzzAob7J1ShY2WuYTMGncV7yR7beavnnhcbTYNnw/formResponse" _lpchecked="1">
 			<div class="form__spinner">
 				<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
 				<span class="sr-only">Loading...</span>
@@ -652,7 +652,6 @@ Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắn
     </div>
   
 </div>
-
 
     <div class="page__footer">
       <footer>

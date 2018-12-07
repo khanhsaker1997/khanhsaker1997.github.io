@@ -6,7 +6,7 @@ $contactForm.submit(function(e) {
 	var defaultSubmitText = $submit.val();
 
 	$.ajax({
-		url: 'https://khanhsaker1997@gmail',
+		url: 'https://docs.google.com/forms/d/e/1FAIpQLSdaLOuWHSlzzAob7J1ShY2WuYTMGncV7yR7beavnnhcbTYNnw/formResponse',
 		method: 'POST',
 		data: $(this).serialize() + '&url=' + encodeURIComponent(window.location),
 		dataType: 'json',
