@@ -2,7 +2,7 @@
 layout: single
 title: "Cách vượt qua mật khẩu không cho chỉnh sửa trong Microsoft Office"
 date: 2017-09-27
-categories: [Tricks]
+categories: [thu-thuat]
 tag: [crack,password]
 lang: vi
 ---

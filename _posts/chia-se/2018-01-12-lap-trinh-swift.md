@@ -2,7 +2,7 @@
 layout: single
 title:  "7 lý do bạn nên học ngôn ngữ lập trình Swift"
 date:   2018-01-12
-categories: [dailysharing]
+categories: [chia-se]
 tags: [swift,laptrinh]
 lang: vi
 header:

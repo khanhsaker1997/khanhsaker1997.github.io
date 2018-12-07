@@ -2,7 +2,7 @@
 layout: single
 title:  "Sửa lỗi không thể kết nối tới server trong SQL server 2008"
 date:   2017-08-23
-categories: [tricks]
+categories: [thu-thuat]
 tags: [trick,it,connect,sql,sql server]
 lang: vi
 header:

@@ -1,0 +1,727 @@
+<!doctype html>
+<!--
+  MakeitSimple Theme 1.0 by Viet Anh Nguyen
+  Based on Minimal Mistakes Jekyll Theme 4.2.2 by Michael Rose
+-->
+<html lang="vi" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C - Nguyễn Duy Khánh</title>
+
+
+
+
+<meta name="description" content="Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.">
+
+
+
+
+<meta property="og:type" content="website">
+<meta name="author" content="Duy Khanh Nguyen">
+<meta property="og:title" content="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C">
+
+
+  <link rel="canonical" href="http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">
+  <meta property="og:url" content="http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">
+
+
+
+  <meta property="og:description" content="Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.">
+
+
+
+
+
+  
+
+  
+    <meta property="fb:app_id" content="430337527301541">
+  
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/img/ST3/header.jpg">
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://localhost:4000",
+      "logo": "https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=500"
+    }
+  </script>
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Duy Khanh Nguyen",
+      "url" : "http://localhost:4000",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Nguyễn Duy Khánh Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+<!-- Custom CSS -->
+   
+
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- <link rel="stylesheet" type="text/css" href="https://khanhsaker97.github.io/assets/css/hihi_chatbot.css"> -->
+
+<!-- Particles Masthead -->
+<!-- <style type="text/css">
+	#masthead-particles {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		overflow: hidden;
+	}
+	.masthead {
+		-webkit-box-shadow: 0 1px 8px -2px #888;
+   		-moz-box-shadow: 0 1px 8px -2px #888;
+        box-shadow: 0 1px 8px -2px #888;
+	}
+</style> -->
+
+<!-- end custom head snippets -->
+
+
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div id="masthead-particles">
+      
+  </div>
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="http://localhost:4000/">Nguyễn Duy Khánh</br>
+            <p id="site-subtitle" style=" margin: 0; line-height: 1; font-size: 0.5em; font-weight: normal;
+                font-family: &quot;Maven Pro&quot;,-apple-system,&quot;.SFNSText-Regular&quot;,&quot;San Francisco&quot;,&quot;Roboto&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;Lucida Grande&quot;,Arial,sans-serif;
+            ">write code everyday <span class="blinking-cursor">_</span></p>
+        </a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/">About me</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/posts/">My posts</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/music/">Music i like</a></li>
+          
+            <!-- Search menu -->
+            <li class="masthead__menu-item"><a id="masthead-search" href="https://khanhsaker97.github.io/search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+        </ul>
+        <button><div class="navicon"></div></button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('http://localhost:4000/assets/img/ST3/header.jpg');"
+>
+  
+    <div class="wrapper">
+      <h1 class="page__title" itemprop="headline">
+        
+          Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C
+
+        
+      </h1>
+      <!-- 
+        <p class="page__lead"><h2 id="ở-bài-trước-mình-đã-hướng-dẫn-các-bạn-khắc-phục-lỗi-không-cài-được-plugin-trên-sublime-text-3-bài-này-mình-sẽ-hướng-dẫn-các-bạn-cấu-hình-nó-để-lập-trình-ngôn-ngữ-c-c">Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.</h2>
+
+</p>
+       -->
+      
+
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=250" alt="Duy Khanh Nguyen" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">Hi! I'm Duy Khanh</h3>
+    
+      <p class="author__bio" itemprop="description">
+        Blogger / Developer / Tech lover
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">Hanoi, VN</span>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://khanhsaker97.github.io" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> Website
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="mailto:khanhsaker1997@gmail.com">
+            <meta itemprop="email" content="khanhsaker1997@gmail.com" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://www.facebook.com/khanhsakercsdn" itemprop="sameAs">
+            <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/khanhsaker97" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C">
+    <meta itemprop="description" content="Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.">
+    <meta itemprop="datePublished" content="September 08, 2017">
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        <h2 id="ở-bài-trước-mình-đã-hướng-dẫn-các-bạn-khắc-phục-lỗi-không-cài-được-plugin-trên-sublime-text-3-bài-này-mình-sẽ-hướng-dẫn-các-bạn-cấu-hình-nó-để-lập-trình-ngôn-ngữ-c-c">Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.</h2>
+
+<p>Trước khi vào bài hướng dẫn các bạn phải cài đặt Sublime Text 3 (tất nhiền rồi) và cài đặt <em>trình biên dịch C</em>
+ như là <strong>Cywin</strong> hoặc <strong>Mingw</strong> (Mingw dùng phổ biến hơn). Xem bài hướng dẫn <a href="http://o7planning.org/vi/10467/huong-dan-cai-dat-trinh-bien-dich-c-cpp-mingw">Cài Mingw để biên dịch ngôn ngữ C</a> và Cài biến môi trường để lập trình C bằng cách</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> Vào *Control Panel&gt; System&gt; Advanced system settings&gt; Environment Variables*
+chọn edit lại *path* vào add thêm các dòng sau:
+(ở đây MinGW được ví dụ là cài đặt tại thư mục C:\MinGW)
+- C:\MinGW\bin
+</code></pre></div></div>
+<ul>
+  <li>Đầu tiên bạn mở Sublime Text 3 lên và chọn <em>Tools</em> &gt; <em>Build System</em> &gt; <em>New Build System..</em></li>
+</ul>
+
+<p><img src="/assets/img/ST3/st4.png" alt="Hình 1" /></p>
+
+<ul>
+  <li>Sau đó sẽ hiện ra file để bạn cấu hình giúp lập trình C trên đó.</li>
+</ul>
+
+<p><img src="/assets/img/ST3/st5.png" alt="Hình 2" />
+Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán vào file đó rồi lưu lại với tên tùy ý, nên đặt tên là RunC++ như mình (Nếu các bạn lập trình C thì thay <code class="highlighter-rouge">g++</code> thành <code class="highlighter-rouge">gcc</code> nhé:</p>
+<pre><code class="language-sublime-build">{
+"cmd": ["g++", "$file_name", "-o", "${file_base_name}.exe", "&amp;&amp;", "start", "cmd", "/k" , "$file_base_name"],
+"selector": "source.c",
+"working_dir": "${file_path}",
+"shell": true,
+"variants":
+    [
+        {
+            "name": "Run",
+            "cmd": ["start", "$file_base_name"]
+        }
+    ]
+}
+</code></pre>
+
+<p><img src="/assets/img/ST3/st6.png" alt="Hình 3" /></p>
+
+<p>Ô cê vậy là xong rồi đó. Giờ bạn muốn biên dịch và chạy chương trình <code class="highlighter-rouge">C</code> bạn chỉ việc chọn <em>Tools</em> &gt; <em>Build System</em> &gt; <em>RunC++</em>  và nhấn <code class="highlighter-rouge">Ctrl + B</code>:
+<img src="/assets/img/ST3/st7.png" alt="Hình 4" />
+Sau đó là chương trình được Build và chạy lên như thế này :
+<img src="/assets/img/ST3/st8.png" alt="Hình 5" />
+<strong>Chúc các bạn thành công nha</strong></p>
+
+<blockquote>
+  <p>By Nguyễn Duy Khánh</p>
+</blockquote>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://localhost:4000/tags/#c" class="page__taxonomy-item" rel="tag">c++</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://localhost:4000/tags/#sublime-text" class="page__taxonomy-item" rel="tag">sublime text</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://localhost:4000/categories/#thu-thuat" class="page__taxonomy-item" rel="tag">thu-thuat</a>
+    
+    </span>
+  </p>
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-09-08T00:00:00+07:00">September 08, 2017</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://plus.google.com/share?url=http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+    </div>
+
+    
+      <div class="page__comments">
+	<!-- Message comments -->
+	<!-- <section>
+		<h4 class="page__comments-title"></h4>
+		<form id="comment-after-post" class="page__comments-form js-form form" method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSdaLOuWHSlzzAob7J1ShY2WuYTMGncV7yR7beavnnhcbTYNnw/formResponse" _lpchecked="1">
+			<div class="form__spinner">
+				<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+				<span class="sr-only">Loading...</span>
+			</div>
+			<fieldset>
+				<label for="comment-form-message">Bạn có góp ý về bài viết của tôi hoặc muốn nói gì đó với tôi? Gửi tin nhắn ngay:</label>
+				<div class="small help-block">Send me a message about my post or wanna tell me sth?</div>
+				<textarea type="text" rows="3" id="comment-form-message" name="message" tabindex="1"></textarea>
+				<label for="comment-form-name">Tên và mail để tôi có thể liên lạc với bạn:</label>
+				<div class="small help-block">Your name and your email</div>
+				<input type="text" id="comment-form-name" name="email" tabindex="2">
+			</fieldset>
+			<fieldset>
+				<input type="submit" id="comment-form-submit" tabindex="5" class="btn btn-default" value="Send">
+			</fieldset>
+		</form>
+	</section> -->
+
+	<section>
+		<h4>Comments</h4>
+		<div class="small help-block">Lưu ý: Hệ thống comment Disqus có thể không được load thành công do bị chặn bởi nhà mạng. Để khắc phục, đổi DNS về 8.8.8.8 hoặc 8.8.4.4 .</div>
+		<div id="disqus_thread"></div>
+			<script>
+
+			/**
+			*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+			*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+			/*
+			var disqus_config = function () {
+			this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+			this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+			};
+			*/
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://khanhsaker97-github-io.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+			</script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	</section>
+
+
+
+	<!-- Facebook comments -->
+	<!-- <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8&appId=1794997907410583";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<h4 class="page__comments-title">Facebook comment</h4>
+	<section>
+		<div class="fb-comments" data-href="http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" data-numposts="5" data-width="100%"></div>
+	</section> -->
+</div>
+    
+
+
+  </article>
+
+  <!-- Page related post showing last posts -->
+  
+    <div class="page__related">
+       <h4 class="page__related-title">Recent Posts</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/chia-se/ly-do-nen-hoc-python/" rel="permalink">Những lý do mà bạn nên học Python ngay bây giờ
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Những lý do mà bạn nên học Python ngay bây giờ
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/chia-se/lap-trinh-swift/" rel="permalink">7 lý do bạn nên học ngôn ngữ lập trình Swift
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">7 lý do bạn nên học ngôn ngữ lập trình Swift
+Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắng bắt đầu với một ngôn ngữ lập trình cổ. Người mới học t...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/an-toan-thong-tin/cong-bo-giao-thuc-wpa3/" rel="permalink">Giao thức bảo mật WPA3 mới được công bố
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Giao thức bảo mật không dây WPA3 mới vừa được công bố có gì đáng quan tâm?
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/an-toan-thong-tin/viet-nam-tac-chien-khong-gian-mang/" rel="permalink">Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng
+</a>
+      
+    </h3>
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+
+
+
+
+  1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng
+
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+    
+    
+      <li><a href="https://facebook.com/khanhsakercsdn"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+      <li><a href="http://github.com/khanhsaker97"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2018 Duy Khanh Nguyen. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>. Original theme from <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-102795282-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+<!-- Custom scripts for each page -->	
+	
+
+
+
+  </body>
+</html>

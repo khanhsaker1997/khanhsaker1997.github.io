@@ -2,7 +2,7 @@
 layout: single
 title:  "Cách để luôn chạy ứng dụng với administrator"
 date:   2017-08-19
-categories: [tricks]
+categories: [thu-thuat]
 tags: [trick,it,run,adminstrator]
 lang: vi
 header:

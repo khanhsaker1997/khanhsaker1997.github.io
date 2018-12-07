@@ -2,7 +2,7 @@
 layout: single
 title:  "Hướng dẫn cài song song 2 hệ điều hành Windows 10 và Kali Linux"
 date:   2017-08-03
-categories: [Operating-Systems]
+categories: [he-dieu-hanh]
 tags: [systems, song song, hệ điều hành]
 lang: vi
 header:

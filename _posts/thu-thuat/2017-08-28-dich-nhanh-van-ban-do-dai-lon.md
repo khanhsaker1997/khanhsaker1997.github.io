@@ -2,7 +2,7 @@
 layout: single
 title:  "Cách dịch nhanh văn bản có độ dài lớn mà Google dịch không dịch được"
 date:   2017-08-28
-categories: [tricks]
+categories: [thu-thuat]
 tags: [trick,it,transtale,google]
 lang: vi
 header:

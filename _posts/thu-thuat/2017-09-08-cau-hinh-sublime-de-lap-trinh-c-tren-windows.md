@@ -2,7 +2,7 @@
 layout: single
 title: "Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C"
 date: 2017-09-08
-categories: [SublimeText3]
+categories: [thu-thuat]
 tags: [sublime text,c++]
 lang: vi
 header:

@@ -2,7 +2,7 @@
 layout: single
 title:  "Tổng hợp các phím tắt hữu ích cho trên Windows"
 date:   2017-09-18
-categories: [tricks]
+categories: [thu-thuat]
 tags: [phím tắt,windows]
 lang: vi
 header:

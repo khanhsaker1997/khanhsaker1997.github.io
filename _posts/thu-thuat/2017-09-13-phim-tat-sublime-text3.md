@@ -2,7 +2,7 @@
 layout: single
 title: "Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3"
 date: 2017-09-13
-categories: [SublimeText3]
+categories: [thu-thuat]
 tags: [sublime text,phím tắt]
 lang: vi
 ---

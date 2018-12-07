@@ -2,7 +2,7 @@
 layout: single
 title: "Giao thức bảo mật WPA3 mới được công bố"
 date: 2018-01-10
-categories: [an-toan-bao-mat-thong-tin]
+categories: [an-toan-thong-tin]
 tags: [an toàn,bảo mật, công nghệ cao]
 header:
     overlay_image: "/assets/img/post/an-toan-bao-mat.jpg"

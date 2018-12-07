@@ -2,7 +2,7 @@
 layout: single
 title:  "Hướng dẫn cài đặt USB Boot theo chuẩn UEFI hoặc LEGACY"
 date:   2017-08-03
-categories: [Operating-Systems]
+categories: [he-dieu-hanh]
 tags: [usb, boot]
 lang: vi
 header:

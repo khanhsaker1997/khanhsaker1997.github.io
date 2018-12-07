@@ -2,7 +2,7 @@
 layout: single
 title:  "Share: Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng! - Facebook Trịnh Thành"
 date:   2017-07-30
-categories: [dailysharing]
+categories: [chia-se]
 tags: [sống]
 lang: vi
 header:

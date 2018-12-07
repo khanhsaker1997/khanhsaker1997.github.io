@@ -2,7 +2,7 @@
 layout: single
 title: "Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri thức và nâng cao kỹ năng làm việc"
 date: 2017-09-12
-categories: [sharingthing]
+categories: [chia-se]
 tags: [đọc nhanh,kỹ năng]
 ---
 :red_circle: Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn
