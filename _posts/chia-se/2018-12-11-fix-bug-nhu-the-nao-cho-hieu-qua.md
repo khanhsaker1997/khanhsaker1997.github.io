@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  "Fix bug như thế nào cho hiệu quả"
-date:   2018-12-11
+title: "Fix bug như thế nào cho hiệu quả"
+date: 2018-12-11
 categories: [chia-se]
 tags: [fix bug,laptrinh]
 lang: vi
 header:
-overlay_image: "assets/img/trickit/fix-bug.png"
-og_image: "assets/img/trickit/fix-bug.png"
+	overlay_image: "/assets/img/trickit/fix-bug.png"
+og_image: "/assets/img/trickit/fix-bug.png"
 ---
 
 ## Fix bug là gì?

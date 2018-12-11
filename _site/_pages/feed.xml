@@ -7,14 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Fix bug như thế nào cho hiệu quả</title>
+        <title></title>
         <description>
           
           Fix bug là gì? Các bạn có thể hiểu đơn giản fix bug mình đang nói ở đây là sửa lỗi, giải quyết vấn đề đang vướng mắc trong lĩnh vực công nghệ thông tin như lỗi trong khi lập trình, lỗi khi sử dụng phần mềm mà không được...
         </description>
-        <pubDate>Tue, 11 Dec 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/chia-se/fix-bug-nhu-the-nao-cho-hieu-qua/</link>
-        <guid isPermaLink="true">http://localhost:4000/chia-se/fix-bug-nhu-the-nao-cho-hieu-qua/</guid>
+        <pubDate>Tue, 11 Dec 2018 08:10:18 +0700</pubDate>
+        <link>http://localhost:4000/2018-12-11-fix-bug-nhu-the-nao-cho-hieu-qua/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-12-11-fix-bug-nhu-the-nao-cho-hieu-qua/</guid>
       </item>
     
       <item>
