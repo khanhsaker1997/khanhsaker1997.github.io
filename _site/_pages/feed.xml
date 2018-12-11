@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Fix bug như thế nào cho hiệu quả</title>
+        <description>
+          
+          Fix bug là gì? Các bạn có thể hiểu đơn giản fix bug mình đang nói ở đây là sửa lỗi, giải quyết vấn đề đang vướng mắc trong lĩnh vực công nghệ thông tin như lỗi trong khi lập trình, lỗi khi sử dụng phần mềm mà không được...
+        </description>
+        <pubDate>Tue, 11 Dec 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/chia-se/fix-bug-nhu-the-nao-cho-hieu-qua/</link>
+        <guid isPermaLink="true">http://localhost:4000/chia-se/fix-bug-nhu-the-nao-cho-hieu-qua/</guid>
+      </item>
+    
+      <item>
         <title>Những lý do mà bạn nên học Python ngay bây giờ</title>
         <description>
           
@@ -213,17 +224,6 @@
         <pubDate>Thu, 03 Aug 2017 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/he-dieu-hanh/cai-song-song-linux-windows10/</link>
         <guid isPermaLink="true">http://localhost:4000/he-dieu-hanh/cai-song-song-linux-windows10/</guid>
-      </item>
-    
-      <item>
-        <title>Share: Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng! - Facebook Trịnh Thành</title>
-        <description>
-          
-          Link bài viết: https://www.facebook.com/thanh.akita/posts/10208865590339573?pnref=story Bài viết này được chia sẻ trên Facebook Trịnh Thành. Đôi khi việc so đo cuộc sống của bạn với cuộc sống của những người xung quanh sẽ làm bạn quên mất cuộc sống này là của riêng bạn. “Đừng để tâm thái quá bạn đang...
-        </description>
-        <pubDate>Sun, 30 Jul 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/chia-se/ban-dang-di-dung-huong/</link>
-        <guid isPermaLink="true">http://localhost:4000/chia-se/ban-dang-di-dung-huong/</guid>
       </item>
     
   </channel>
