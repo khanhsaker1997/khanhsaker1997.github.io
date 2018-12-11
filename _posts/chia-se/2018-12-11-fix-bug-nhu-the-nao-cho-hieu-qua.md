@@ -6,7 +6,7 @@ categories: [chia-se]
 tags: [fix bug,laptrinh]
 lang: vi
 header:
-	overlay_image: "/assets/img/trickit/fix-bug.png"
+ overlay_image: "/assets/img/trickit/fix-bug.png"
 og_image: "/assets/img/trickit/fix-bug.png"
 ---
 
