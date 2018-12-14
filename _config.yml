@@ -62,7 +62,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "KhanhSaker97"
 facebook:
   username               : "khanhsakercsdn"
   app_id                 : "430337527301541"
@@ -98,11 +98,11 @@ author:
   github           : "khanhsaker97"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "khanh.saker.csdn"
   lastfm           :
   linkedin         :
-  pinterest        :
-  soundcloud       :
+  pinterest        : "khanh04091997"
+  soundcloud       : "nguy-n-duy-kh-nh-307457969"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
@@ -294,24 +294,24 @@ defaults:
       share: true
       related: true
   # _laptrinhc
-  - scope:
-      path: ""
-      type: laptrinhc
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: laptrinhc
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _laptrinhweb
-  - scope:
-      path: ""
-      type: laptrinhweb
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: laptrinhweb
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
