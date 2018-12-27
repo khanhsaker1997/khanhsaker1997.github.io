@@ -5,7 +5,7 @@ date: 2017-09-13
 categories: [thu-thuat]
 tags: [sublime text,phím tắt]
 lang: vi
-image: "/assets/img/ST3/header.jpg"
+image: "/assets/img/post/sublime-plugin.jpg"
 excerpt: "Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó"
 ---
 ## Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.

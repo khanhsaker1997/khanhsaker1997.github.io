@@ -4,7 +4,7 @@ title: "Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng"
 date: 2018-01-09
 categories: [an-toan-thong-tin]
 tags: [an toàn,bảo mật, công nghệ cao]
-image: "/assets/img/post/an-toan-bao-mat.jpg"
+image: "/assets/img/post/tac-chien-khong-gian-mang.jpg"
 excerpt: "Chiều qua (ngày 8/1), lễ công bố Quyết định của Thủ tướng về việc thành lập Bộ tư lệnh Tác chiến không gian mạng của Việt Nam đã được diễn ra."
 ---
 ## Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng

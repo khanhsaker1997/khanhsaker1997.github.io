@@ -5,7 +5,7 @@ date:   2017-08-23
 categories: [thu-thuat]
 tags: [trick,it,connect,sql,sql server]
 lang: vi
-image: "/assets/img/csdl/head.jpg"
+image: "/assets/img/post/sql-server.png"
 excerpt: "Rất nhiều bạn khi mở **SQL Server Managenent Studio** thì không kết nỗi được vào server (Cannot connect to _YourServer_ ). Lỗi đó rất nhiều người bị và nó xảy ra liên tục"
 ---
 ### Rất nhiều bạn khi mở **SQL Server Managenent Studio** thì không kết nỗi được vào server (Cannot connect to _YourServer_ ). Lỗi đó rất nhiều người bị và nó xảy ra liên tục.

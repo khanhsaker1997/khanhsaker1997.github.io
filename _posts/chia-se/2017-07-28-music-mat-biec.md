@@ -5,7 +5,7 @@ date:   2017-07-18
 categories: [chia-se]
 tags: [music]
 lang: vi
-image: "/assets/img/music/matbiec.png"
+image: "/assets/img/post/mat-biec.jpg"
 excerpt: "Thời giờ đã cuốn bay đi những ngày tuổi trẻ còn xanh ngời. Một màu phượng vĩ mới nở hôm qua...mà đã cháy đỏ tim anh rồi. Đã lâu ta ko về trường vắng"
 ---
 

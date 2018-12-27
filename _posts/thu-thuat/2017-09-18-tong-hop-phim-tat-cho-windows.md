@@ -5,7 +5,7 @@ date:   2017-09-18
 categories: [thu-thuat]
 tags: [phím tắt,windows]
 lang: vi
-image: "/assets/img/trickit/windows.jpg"
+image: "/assets/img/post/phim-tat.jpg"
 excerpt: "Thay vì sử dụng chuột, tổng hợp các phím tắt sau đây sẽ giúp cho bạn thao tác và xử nhanh trên giao diện của windows"
 ---
 
