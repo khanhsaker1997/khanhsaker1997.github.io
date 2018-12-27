@@ -5,9 +5,8 @@ date:   2017-08-03
 categories: [he-dieu-hanh]
 tags: [usb, boot]
 lang: vi
-header:
-  overlay_image: "/assets/img/OperatingSystem/backgroundusb.jpg"
-og_image: "/assets/img/OperatingSystem/backgroundusb.jpg"
+image: "/assets/img/OperatingSystem/backgroundusb.jpg"
+excerpt: "Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều hành khác thì hệ điều hành đó của bạn phải Boot theo chuẩn giống chuẩn của Windows bạn đang dùng. Với Kali Linux cũng vậy, muốn **Grub** của Kali Linux nhận phân vùng của Windows thì bạn cũng phải Boot theo chuẩn giống với Windows đang sử dụng. Sau đây mình sẽ hướng dẫn các bạn cài Kali Linux theo chuẩn UEFI hoặc LEGACY"
 ---
 ### Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều hành khác thì hệ điều hành đó của bạn phải Boot theo chuẩn giống chuẩn của Windows bạn đang dùng. Với Kali Linux cũng vậy, muốn **Grub** của Kali Linux nhận phân vùng của Windows thì bạn cũng phải Boot theo chuẩn giống với Windows đang sử dụng. Sau đây mình sẽ hướng dẫn các bạn cài Kali Linux theo chuẩn UEFI hoặc LEGACY.
 

@@ -5,9 +5,8 @@ date: 2017-09-08
 categories: [thu-thuat]
 tags: [sublime text,c++]
 lang: vi
-header:
-  overlay_image: "/assets/img/ST3/header.jpg"
-og_image: "/assets/img/ST3/header.jpg"
+image: "/assets/img/ST3/header.jpg"
+excerpt: "Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++."
 ---
 ## Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.
 

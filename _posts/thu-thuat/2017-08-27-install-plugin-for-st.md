@@ -5,9 +5,8 @@ date: 2017-08-27
 categories: [thu-thuat]
 tags: [sublime text, plugins]
 lang: vi
-header:
-  overlay_image: "/assets/img/ST3/header.jpg"
-og_image: "/assets/img/ST3/header.jpg"
+image: "/assets/img/ST3/header.jpg"
+excerpt: "Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng"
 ---
 ### Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.
 

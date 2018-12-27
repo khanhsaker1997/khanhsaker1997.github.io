@@ -5,9 +5,8 @@ date: 2018-12-11
 categories: [chia-se]
 tags: [fix bug,laptrinh]
 lang: vi
-header:
- overlay_image: "/assets/img/trickit/fix-bug.png"
-og_image: "/assets/img/trickit/fix-bug.png"
+image: "/assets/img/trickit/fix-bug.png"
+excerpt: "Các bạn có thể hiểu đơn giản fix bug mình đang nói ở đây là sửa lỗi, giải quyết vấn đề đang vướng mắc trong lĩnh vực công nghệ thông tin như lỗi trong khi lập trình, lỗi khi sử dụng phần mềm mà không được như ý muốn của các bạn"
 ---
 
 ## Fix bug là gì?

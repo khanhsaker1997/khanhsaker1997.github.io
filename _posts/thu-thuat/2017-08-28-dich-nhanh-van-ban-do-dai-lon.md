@@ -5,9 +5,8 @@ date:   2017-08-28
 categories: [thu-thuat]
 tags: [trick,it,transtale,google]
 lang: vi
-header:
-  overlay_image: "/assets/img/trickit/google-translate.jpg"
-og_image: "/assets/img/trickit/google-transtate.jpg"
+image: "/assets/img/trickit/google-translate.jpg"
+excerpt: "Khi muốn dịch một văn bản các bạn thường sử dụng google dịch. Việc đó đôi khi rất mất thời gian với những văn bản có độ dài lớn. Sau đây mình sẽ hướng dẫn các bạn dịch văn bản đó nhanh hơn"
 ---
 ## Khi muốn dịch một văn bản các bạn thường sử dụng google dịch. Việc đó đôi khi rất mất thời gian với những văn bản có độ dài lớn. Sau đây mình sẽ hướng dẫn các bạn dịch văn bản đó nhanh hơn.
 

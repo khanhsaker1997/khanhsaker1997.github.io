@@ -5,9 +5,8 @@ date:   2018-01-13
 categories: [chia-se]
 tags: [python,laptrinh]
 lang: vi
-header:
-  overlay_image: "https://khanhsaker97.github.io/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
-og_image: "https://khanhsaker97.github.io/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+image: "/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+excerpt: "Với nhừng người mới học lập trình thì **Python là thứ nếu bỏ qua thì bạn sẽ rất hối tiếc** vì quyết định này, nói thật đấy nếu bạn đang muốn học lập trình thì Python là thứ mà chắc chắn cần thử qua"
 ---
 
 # Những lý do mà bạn nên học Python ngay bây giờ

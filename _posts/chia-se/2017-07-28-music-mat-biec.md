@@ -5,7 +5,8 @@ date:   2017-07-18
 categories: [chia-se]
 tags: [music]
 lang: vi
-og_image: "https://khanhsaker97.github.io/assets/img/music/matbiec.png"
+image: "/assets/img/music/matbiec.png"
+excerpt: "Thời giờ đã cuốn bay đi những ngày tuổi trẻ còn xanh ngời. Một màu phượng vĩ mới nở hôm qua...mà đã cháy đỏ tim anh rồi. Đã lâu ta ko về trường vắng"
 ---
 
 <iframe style="width: 560; height: 315; max-width: 100%; margin: 0 auto;" src="https://www.youtube.com/embed/QDY4Gy_4eYw" frameborder="0" allowfullscreen></iframe>

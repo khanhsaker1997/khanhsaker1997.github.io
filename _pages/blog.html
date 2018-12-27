@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My posts"
+#title: "My posts"
 permalink: /posts/
 author_profile: true
 ---
@@ -8,8 +8,18 @@ author_profile: true
   {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
   {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
     {% if month != nmonth %}
-      {% if forloop.index != 1 %}</ul>{% endif %}
-      <h3 class="sub-header">{{ post.date | date: '%B %Y' }}</h3><ul>
+      {% if forloop.index != 1 %}
+      {% endif %}
     {% endif %}
-  <li><span class="time">{{ post.date | date: "%d/%m/%Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  	{% if post.read_time %}
+      {% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}
+    {% endif %}
+  	<span class="time">{{ post.date | date: "%d/%m/%Y" }}</span>
+  	<br>
+  	<img src="{{post.image}}" alt="{{post.title}}">
+
+  	<p style="font-size: 0.8em;text-overflow: ellipsis;width: 100%;margin-top: 3px;text-align: justify;">{{ post.excerpt }}...</p>
+  	<button type="button" class="btn btn-info"><a href="{{ post.url }}">Read More</a></button>
+
 {% endfor %}

@@ -5,6 +5,8 @@ date: 2017-09-27
 categories: [thu-thuat]
 tags: [ẩn thư mục,ẩn ổ đĩa]
 lang: vi
+image:
+excerpt: "Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn"
 ---
 Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn.
 

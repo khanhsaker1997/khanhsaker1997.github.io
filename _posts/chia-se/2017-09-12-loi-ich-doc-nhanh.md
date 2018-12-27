@@ -4,6 +4,8 @@ title: "Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri th�
 date: 2017-09-12
 categories: [chia-se]
 tags: [đọc nhanh,kỹ năng]
+image: "/assets/img/post/doc-nhanh.jpg"
+excerpt: "Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn"
 ---
 :red_circle: Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn
 ### Đọc nhanh có lợi gì?

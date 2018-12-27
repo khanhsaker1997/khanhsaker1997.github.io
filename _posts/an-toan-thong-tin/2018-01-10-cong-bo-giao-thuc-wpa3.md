@@ -4,9 +4,8 @@ title: "Giao thức bảo mật WPA3 mới được công bố"
 date: 2018-01-10
 categories: [an-toan-thong-tin]
 tags: [an toàn,bảo mật, công nghệ cao]
-header:
-    overlay_image: "/assets/img/post/an-toan-bao-mat.jpg"
-og_image: "/assets/img/post/an-toan-bao-mat.jpg"
+excerpt: "WiFi Alliance mới tuyên bố giao thức bảo mật không dây thế hệ mới đã được chờ đợi từ lâu - WiFi Protected Access (WPA3). WPA3 sẽ thay thế WPA2 - giao thức đã và đang được sử dụng 15 năm qua trên nhiều thiết bị không dây, trong đó có smartphone, laptop và các thiết bị IoT."
+image: "/assets/img/post/an-toan-bao-mat.jpg"
 ---
 ## Giao thức bảo mật không dây WPA3 mới vừa được công bố có gì đáng quan tâm?
 

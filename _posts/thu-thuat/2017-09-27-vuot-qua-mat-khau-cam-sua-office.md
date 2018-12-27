@@ -5,6 +5,8 @@ date: 2017-09-27
 categories: [thu-thuat]
 tag: [crack,password]
 lang: vi
+image:
+excerpt: "Khi các bạn tải một tài liệu trên mạng về có thể có tài liệu các bạn chỉ xem được nhưng không sửa được. Đó là do người chủ file đó đã đặt mật khẩu không cho sửa file và chỉ có mật khẩu đó mới sửa được"
 ---
 Khi các bạn tải một tài liệu trên mạng về có thể có tài liệu các bạn chỉ xem được nhưng không sửa được. Đó là do người chủ file đó đã đặt mật khẩu không cho sửa file và chỉ có mật khẩu đó mới sửa được.
 Bài viết này mình sẽ hướng dẫn các bạn phá mật khẩu của file Word hoặc Powpoint hoặc Excel.

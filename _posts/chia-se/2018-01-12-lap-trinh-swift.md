@@ -5,9 +5,8 @@ date:   2018-01-12
 categories: [chia-se]
 tags: [swift,laptrinh]
 lang: vi
-header:
-  overlay_image: "https://khanhsaker97.github.io/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
-og_image: "https://khanhsaker97.github.io/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+image: "/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+excerpt: "Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắng bắt đầu với một ngôn ngữ lập trình cổ. Người mới học tốt hơn nên tiếp cận vào một thứ gì đó hiện đại hơn, chẳng hạn như Python, Ruby hoặc Swift."
 ---
 
 # 7 lý do bạn nên học ngôn ngữ lập trình Swift
