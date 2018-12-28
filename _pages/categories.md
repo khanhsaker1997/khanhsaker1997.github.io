@@ -5,6 +5,8 @@ title: "Posts by Category"
 author_profile: true
 ---
 
+{% include lazyload.html %}
+
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
@@ -26,3 +28,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
