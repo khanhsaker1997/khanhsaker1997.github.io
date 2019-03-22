@@ -671,7 +671,7 @@
   <li>
     <p>Theo sơ đồ dưới đây, Client gửi SYN packet cho server để thông báo server chuẩn bị 1 đường truyền. Server sẽ giành 1 phần tài nguyên hệ thống như bộ nhớ đệm để nhận và truyền dữ liệu. Ngoài ra các thông tin khác của Client cũng được ghi nhận như địa chỉ IP của Client và Cổng ( Port ). Sau đó server sẽ send ngược lại SYN/ACK packet để thông báo Client là mọi thứ đã chuẩn bị và nếu như không nhận đuợc ACK packt của Client ( có thể do packet đã bị thất lạc trên đường truyền ), server sẽ tiếp tục gửi lại SYN/ACK packet cho Client.</p>
 
-    <p><img src="/assets/img/post/synflood.png" alt="Phương pháp SYN flood truyền thống" /></p>
+    <p><img src="/assets/img/post/synflood.PNG" alt="Phương pháp SYN flood truyền thống" /></p>
   </li>
   <li>Nhưng chúng ta sẽ tiếp tục suy nghĩ tiếp. Như vậy với bất cứ 1 SYN packet đơn giản nào, Server cũng phải để 1 phần tài nguyên cho đường truyền đó, và tài nguyên của Server là có hạn và Hacker sẽ tìm mọi cách để Server đạt được cái giới hạn đó. ( Đây còn được gọi là halfopen connection).</li>
   <li>Bằng cách dùng Raw Sockets ( không phải TCP hay DUP packet ), IP gốc của packet có thể bị ghi đè lên và làm giả mạo. Khi một SYN packet với IP giả mạo được gửi đến Server, nó cũng như bao packet khác, vẫn hợp lệ đối với Server và Server sẽ cấp vùng tài nguyên cho đường truyền này, ghi nhận toàn bộ thông tin và gủi SYN/ACK packet ngược lại cho Client. Vì địa chỉ IP của Client là giả mạo nên sẽ không có Client nào nhận được SYN/ACK packet này, sau 1 thời gian không nhận được ACK packet từ Client, Server nghĩ rằng packet bị thất lạc nên lại tiếp tục gửi tiếp SYN/ACK packet, cứ như thế, connection tiếp tục mở.</li>
