@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tìm hiểu phương thức tấn công DoS.
-date: 2019-03-21
+date: 2019-03-22
 categories: [an-toan-thong-tin]
 tags: [an toàn,tấn công mạng]
 image: /assets/img/post/dos.jpg

@@ -17,34 +17,34 @@
 
 
 
-<title>Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C - Nguyễn Duy Khánh</title>
+<title>Tìm hiểu phương thức tấn công DrDoS. - Nguyễn Duy Khánh</title>
 
 
 
 
-<meta name="description" content="Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.">
+<meta name="description" content="Mục tiêu chính của DRDoS là chiếm đoạt toàn bộ băng thông của máy chủ, tức là làm tắc nghẽn hoàn toàn đường kết nối từ máy chủ vào xương sống của Internet và tiêu hao tài nguyên máy chủ.">
 
 
 
 
 <meta property="og:type" content="website">
 <meta name="author" content="Duy Khanh Nguyen">
-<meta property="og:title" content="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C">
+<meta property="og:title" content="Tìm hiểu phương thức tấn công DrDoS.">
 
 
-  <link rel="canonical" href="http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">
-  <meta property="og:url" content="http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">
+  <link rel="canonical" href="http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/">
+  <meta property="og:url" content="http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/">
 
 
 
-  <meta property="og:description" content="Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.">
+  <meta property="og:description" content="Mục tiêu chính của DRDoS là chiếm đoạt toàn bộ băng thông của máy chủ, tức là làm tắc nghẽn hoàn toàn đường kết nối từ máy chủ vào xương sống của Internet và tiêu hao tài nguyên máy chủ.">
 
 
 
   <meta name="twitter:site" content="@KhanhSaker97">
-  <meta name="twitter:title" content="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C">
-  <meta name="twitter:description" content="Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.">
-  <meta name="twitter:url" content="http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/">
+  <meta name="twitter:title" content="Tìm hiểu phương thức tấn công DrDoS.">
+  <meta name="twitter:description" content="Mục tiêu chính của DRDoS là chiếm đoạt toàn bộ băng thông của máy chủ, tức là làm tắc nghẽn hoàn toàn đường kết nối từ máy chủ vào xương sống của Internet và tiêu hao tài nguyên máy chủ.">
+  <meta name="twitter:url" content="http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/">
 
   
     <meta name="twitter:card" content="summary">
@@ -636,14 +636,14 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C">
-    <meta itemprop="description" content="Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.">
-    <meta itemprop="datePublished" content="September 08, 2017">
+    <meta itemprop="headline" content="Tìm hiểu phương thức tấn công DrDoS.">
+    <meta itemprop="description" content="Mục tiêu chính của DRDoS là chiếm đoạt toàn bộ băng thông của máy chủ, tức là làm tắc nghẽn hoàn toàn đường kết nối từ máy chủ vào xương sống của Internet và tiêu hao tài nguyên máy chủ.">
+    <meta itemprop="datePublished" content="March 22, 2019">
     
 
     <div class="page__inner-wrap">
         <header>
-          <h1 class="page__title" itemprop="headline">Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C
+          <h1 class="page__title" itemprop="headline">Tìm hiểu phương thức tấn công DrDoS.
 </h1>
           
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
@@ -653,59 +653,47 @@
 
 
 
-  1 minute read
+  4 minute read
 </p>
-            <img src="/assets/img/post/sublime-text3.jpg">
+            <img src="/assets/img/post/drdos.png">
           
         </header>
 
       <section class="page__content" itemprop="text">
-        <h2 id="ở-bài-trước-mình-đã-hướng-dẫn-các-bạn-khắc-phục-lỗi-không-cài-được-plugin-trên-sublime-text-3-bài-này-mình-sẽ-hướng-dẫn-các-bạn-cấu-hình-nó-để-lập-trình-ngôn-ngữ-c-c">Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.</h2>
+        <h1 id="giới-thiệu-về-drdos">Giới thiệu về DrDoS</h1>
+<p>Vào lúc 2 giờ sáng ngày 11 - 1 - 2002, Trang web GRC.COM đã bị đánh tung khỏi Internet bằng một kiểu tấn công từ chối dịch vụ mới. Điều kinh ngạc chính là nguồn tấn công được bắt đầu bằng những đường chính của Internet, bao gồm Yahoo.com và cả những IP “gary7.nsa.gov”. Chúng tôi đã bị tấn công bởi hàng trăm server mạnh nhất của internet …</p>
 
-<p>Trước khi vào bài hướng dẫn các bạn phải cài đặt Sublime Text 3 (tất nhiền rồi) và cài đặt <em>trình biên dịch C</em>
- như là <strong>Cywin</strong> hoặc <strong>Mingw</strong> (Mingw dùng phổ biến hơn). Xem bài hướng dẫn <a href="http://o7planning.org/vi/10467/huong-dan-cai-dat-trinh-bien-dich-c-cpp-mingw">Cài Mingw để biên dịch ngôn ngữ C</a> và Cài biến môi trường để lập trình C bằng cách</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> Vào *Control Panel&gt; System&gt; Advanced system settings&gt; Environment Variables*
-chọn edit lại *path* vào add thêm các dòng sau:
-(ở đây MinGW được ví dụ là cài đặt tại thư mục C:\MinGW)
-- C:\MinGW\bin
-</code></pre></div></div>
+<p>Vào thời điểm chúng tôi tìm ra cách để ngăn chặn cuộc tấn công này và quay lại internet, 1072519399 packet bị chặn đứng trước khi cuộc tấn công bị dừng … Đây chính là những thông tin được Steve Gibson mô tả trong bài báo về DRDoS mà ông đã gặp ngày 11-1-2002… và bây giờ chúng ta sẽ tìm hiểu xem DRDoS là gì và cách tấn công như thế nào.</p>
+
+<h1 id="lợi-dụng-tcp-phương-pháp-syn-flood-truyền-thống">Lợi dụng TCP: Phương pháp SYN flood truyền thống</h1>
 <ul>
-  <li>Đầu tiên bạn mở Sublime Text 3 lên và chọn <em>Tools</em> &gt; <em>Build System</em> &gt; <em>New Build System..</em></li>
+  <li>Nhiều năm trước đây, sự yếu kém của đường truyền TCP được các HĐH sử dụng đã bị các Internet’s Hacker kháp phá ra và lợi dụng.</li>
+  <li>
+    <p>Theo sơ đồ dưới đây, Client gửi SYN packet cho server để thông báo server chuẩn bị 1 đường truyền. Server sẽ giành 1 phần tài nguyên hệ thống như bộ nhớ đệm để nhận và truyền dữ liệu. Ngoài ra các thông tin khác của Client cũng được ghi nhận như địa chỉ IP của Client và Cổng ( Port ). Sau đó server sẽ send ngược lại SYN/ACK packet để thông báo Client là mọi thứ đã chuẩn bị và nếu như không nhận đuợc ACK packt của Client ( có thể do packet đã bị thất lạc trên đường truyền ), server sẽ tiếp tục gửi lại SYN/ACK packet cho Client.</p>
+
+    <p><img src="/assets/img/post/synflood.png" alt="Phương pháp SYN flood truyền thống" /></p>
+  </li>
+  <li>Nhưng chúng ta sẽ tiếp tục suy nghĩ tiếp. Như vậy với bất cứ 1 SYN packet đơn giản nào, Server cũng phải để 1 phần tài nguyên cho đường truyền đó, và tài nguyên của Server là có hạn và Hacker sẽ tìm mọi cách để Server đạt được cái giới hạn đó. ( Đây còn được gọi là halfopen connection).</li>
+  <li>Bằng cách dùng Raw Sockets ( không phải TCP hay DUP packet ), IP gốc của packet có thể bị ghi đè lên và làm giả mạo. Khi một SYN packet với IP giả mạo được gửi đến Server, nó cũng như bao packet khác, vẫn hợp lệ đối với Server và Server sẽ cấp vùng tài nguyên cho đường truyền này, ghi nhận toàn bộ thông tin và gủi SYN/ACK packet ngược lại cho Client. Vì địa chỉ IP của Client là giả mạo nên sẽ không có Client nào nhận được SYN/ACK packet này, sau 1 thời gian không nhận được ACK packet từ Client, Server nghĩ rằng packet bị thất lạc nên lại tiếp tục gửi tiếp SYN/ACK packet, cứ như thế, connection tiếp tục mở.</li>
+  <li>Nếu như Hacker tiếp tục gửi nhiều SYN packet đến Server và cuối cùng Server đã không thể tiếp nhận thêm 1 connection nào nữa : Server đã bị flood.</li>
+  <li>Đây không phải là kiểu tấn công bằng đường truyền cao, bởi vì chỉ cần 1 máy tính nối internet dial up đơn giản cũng có thể tấn công kiểu này ( tất nhiên sẽ lâu hơn 1 chút ).</li>
 </ul>
 
-<p><img src="/assets/img/ST3/st4.png" alt="Hình 1" /></p>
-
+<h1 id="sự-phát-triển-của-cách-tấn-công-bằng-bandwidth">Sự phát triển của cách tấn công bằng Bandwidth.</h1>
 <ul>
-  <li>Sau đó sẽ hiện ra file để bạn cấu hình giúp lập trình C trên đó.</li>
+  <li>Điều gì xảy ra trong quá trình Bandwidth attack.</li>
+  <li>Không giống như cách tấn công SYN Flood Bandwidth attack tạo 1 brute force attack từ các Server mạnh đến máy của Victim, những packet giả ồ ạt chiếm hết đường truyền của Victim làm máy Victim không thể nhận thêm 1 packet nào khác.</li>
 </ul>
 
-<p><img src="/assets/img/ST3/st5.png" alt="Hình 2" />
-Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán vào file đó rồi lưu lại với tên tùy ý, nên đặt tên là RunC++ như mình (Nếu các bạn lập trình C thì thay <code class="highlighter-rouge">g++</code> thành <code class="highlighter-rouge">gcc</code> nhé:</p>
-<pre><code class="language-sublime-build">{
-"cmd": ["g++", "$file_name", "-o", "${file_base_name}.exe", "&amp;&amp;", "start", "cmd", "/k" , "$file_base_name"],
-"selector": "source.c",
-"working_dir": "${file_path}",
-"shell": true,
-"variants":
-    [
-        {
-            "name": "Run",
-            "cmd": ["start", "$file_base_name"]
-        }
-    ]
-}
-</code></pre>
-
-<p><img src="/assets/img/ST3/st6.png" alt="Hình 3" /></p>
-
-<p>Ô cê vậy là xong rồi đó. Giờ bạn muốn biên dịch và chạy chương trình <code class="highlighter-rouge">C</code> bạn chỉ việc chọn <em>Tools</em> &gt; <em>Build System</em> &gt; <em>RunC++</em>  và nhấn <code class="highlighter-rouge">Ctrl + B</code>:
-<img src="/assets/img/ST3/st7.png" alt="Hình 4" />
-Sau đó là chương trình được Build và chạy lên như thế này :
-<img src="/assets/img/ST3/st8.png" alt="Hình 5" />
-<strong>Chúc các bạn thành công nha</strong></p>
+<h1 id="drdos--thế-hệ-tiếp-theo-của-ddos">DRDoS – Thế hệ tiếp theo của DDoS</h1>
+<ul>
+  <li>Bây giờ, chúng ta hãy nhớ lại phương pháp SYN attack truyền thống của DoS, phương pháp này dựa trên bước thứ nhất để mở connection của TCP để tạo các “open half” connection làm Server bị ăn mòn hết tài nguyên. Các SYN packet được gửi trực tiếp đến Server sau khi đã giả mạo IP nguồn. IP giả mạo sẽ là 1 IP không có thật trên Internet để cho Server không thể nào hoàn thành được connection.</li>
+  <li>Ta có Server A và Victim, giả sử ta gửi 1 SYN packet đến Server A trong đó IP nguồn đã bị giả mạo thành IP của Victim, bạn nghĩ chuyện gì sẽ xảy ra ??? Đúng, Server A sẽ mở 1 connection và gủi SYN/ACK packet cho Victim vì nghĩ rằng Victim muốn mở connection với mình. Và đây chính là khái niệm của Reflection ( Phản xạ ).</li>
+  <li>Hacker sẽ điều khiển Spoof SYN generator, gửi SYN packet đến tất cả các TCP Server lớn, lúc này các TCP Server này vô tình thành Zombie cho Hacker để cùng tấn công Victim và làm nghẽn đường truyền của Victim.</li>
+</ul>
 
 <blockquote>
-  <p>By Nguyễn Duy Khánh</p>
+  <p>Nguồn: KSEC Club.</p>
 </blockquote>
 
         
@@ -727,11 +715,11 @@ Sau đó là chương trình được Build và chạy lên như thế này :
     
       
       
-      <a href="http://localhost:4000/tags/#c" class="page__taxonomy-item" rel="tag">c++</a><span class="sep">, </span>
+      <a href="http://localhost:4000/tags/#an-to%C3%A0n" class="page__taxonomy-item" rel="tag">an toàn</a><span class="sep">, </span>
     
       
       
-      <a href="http://localhost:4000/tags/#sublime-text" class="page__taxonomy-item" rel="tag">sublime text</a>
+      <a href="http://localhost:4000/tags/#t%E1%BA%A5n-c%C3%B4ng-m%E1%BA%A1ng" class="page__taxonomy-item" rel="tag">tấn công mạng</a>
     
     </span>
   </p>
@@ -752,27 +740,27 @@ Sau đó là chương trình được Build và chạy lên như thế này :
     
       
       
-      <a href="http://localhost:4000/categories/#thu-thuat" class="page__taxonomy-item" rel="tag">thu-thuat</a>
+      <a href="http://localhost:4000/categories/#an-toan-thong-tin" class="page__taxonomy-item" rel="tag">an-toan-thong-tin</a>
     
     </span>
   </p>
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-09-08T00:00:00+07:00">September 08, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-03-22T00:00:00+07:00">March 22, 2019</time></p>
         
       </footer>
 
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?via=KhanhSaker97&text=Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?via=KhanhSaker97&text=Tìm hiểu phương thức tấn công DrDoS. http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -840,7 +828,7 @@ Sau đó là chương trình được Build và chạy lên như thế này :
 	}(document, 'script', 'facebook-jssdk'));</script>
 	<h4 class="page__comments-title">Facebook comment</h4>
 	<section>
-		<div class="fb-comments" data-href="http://localhost:4000/thu-thuat/cau-hinh-sublime-de-lap-trinh-c-tren-windows/" data-numposts="5" data-width="100%"></div>
+		<div class="fb-comments" data-href="http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/" data-numposts="5" data-width="100%"></div>
 	</section> -->
 </div>
     
@@ -875,7 +863,7 @@ Sau đó là chương trình được Build và chạy lên như thế này :
 
 
 
-  1 minute read
+  4 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Mục tiêu chính của DRDoS là chiếm đoạt toàn bộ băng thông của máy chủ, tức là làm tắc nghẽn hoàn toàn đường kết nối từ máy chủ vào xương sống của Internet và...</p>
@@ -904,7 +892,7 @@ Sau đó là chương trình được Build và chạy lên như thế này :
 
 
 
-  1 minute read
+  4 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Là một kiểu tấn công mà một người làm cho một hệ thống không thể sử dụng, hoặc làm cho hệ thống đó chậm đi một cách đáng kể với người dùng bình thường, bằng ...</p>
@@ -933,7 +921,7 @@ Sau đó là chương trình được Build và chạy lên như thế này :
 
 
 
-  1 minute read
+  4 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">DDoS có tên đầy đủ là Distributed Denial Of Service – là một biến thể của loại tấn công DOS. Đây là một hình thức tấn công từ chối dịch vụ phân tán, nó làm c...</p>
@@ -962,7 +950,7 @@ Sau đó là chương trình được Build và chạy lên như thế này :
 
 
 
-  1 minute read
+  4 minute read
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">Các bạn hay đặt mật khẩu như thế nào? gồm bao nhiêu ký tự. Bạn nhớ mật khẩu bằng cách nào, ghi ra giấy, ghi vào note, hay nhớ trong đầu hay dùng phần mềm quả...</p>

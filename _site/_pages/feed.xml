@@ -7,14 +7,36 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Tìm hiểu phương thức tấn công DrDoS.</title>
+        <description>
+          
+          Giới thiệu về DrDoS Vào lúc 2 giờ sáng ngày 11 - 1 - 2002, Trang web GRC.COM đã bị đánh tung khỏi Internet bằng một kiểu tấn công từ chối dịch vụ mới. Điều kinh ngạc chính là nguồn tấn công được bắt đầu bằng những đường chính của...
+        </description>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/</link>
+        <guid isPermaLink="true">http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-drdos/</guid>
+      </item>
+    
+      <item>
         <title>Tìm hiểu phương thức tấn công DoS.</title>
         <description>
           
           Tấn công Dos là gì? Là kiểu tấn công từ một cá thể, hay tập hợp các cá thể. là một kiểu tấn công mà một người làm cho một hệ thống không thể sử dụng, hoặc làm cho hệ thống đá chậm đi một cách đáng kể với người...
         </description>
-        <pubDate>Thu, 21 Mar 2019 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-dos/</link>
-        <guid isPermaLink="true">http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-dos/</guid>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-dos-Copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-dos-Copy/</guid>
+      </item>
+    
+      <item>
+        <title>Tìm hiểu phương thức tấn công DDoS.</title>
+        <description>
+          
+          Ý nghĩa của mạng BOT Khi sử dụng một Tool tấn công DoS tới một máy chủ đôi khi không gây ảnh hưởng gì cho máy chủ - Giả sử bạn sử dụng Tool Ping of Death tới một máy chủ, trong đó máy chủ kết nối với mạng tốc...
+        </description>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-ddos/</link>
+        <guid isPermaLink="true">http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-ddos/</guid>
       </item>
     
       <item>
@@ -202,28 +224,6 @@
         <pubDate>Sat, 19 Aug 2017 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/thu-thuat/luon-chay-uong-dung-voi-adminstrator/</link>
         <guid isPermaLink="true">http://localhost:4000/thu-thuat/luon-chay-uong-dung-voi-adminstrator/</guid>
-      </item>
-    
-      <item>
-        <title>4 cách hữu hiệu giúp bạn không còn lãng phí thời gian mỗi ngày</title>
-        <description>
-          
-          Sau khi đọc xong bài viết 4 cách hữu hiệu để không còn lãng phí thời gian mỗi ngày này, bạn sẽ nhận được một món quà vô cùng đặc biệt - một “đống” thời gian để có thể làm việc nhiều hơn ngay lập tức. Điều này nghe có...
-        </description>
-        <pubDate>Mon, 07 Aug 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/chia-se/bon-cach-giup-tranh-lang-phi-tg/</link>
-        <guid isPermaLink="true">http://localhost:4000/chia-se/bon-cach-giup-tranh-lang-phi-tg/</guid>
-      </item>
-    
-      <item>
-        <title>Một số phương pháp giúp bạn cân bằng giữa cuộc sống và công việc của mình</title>
-        <description>
-          
-          Đôi khi sự cân bằng trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn. HỌC CÁCH SỐNG KHÔN NGOAN VỚI STRESS Bạn...
-        </description>
-        <pubDate>Sun, 06 Aug 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/chia-se/can-bang-cuoc-song/</link>
-        <guid isPermaLink="true">http://localhost:4000/chia-se/can-bang-cuoc-song/</guid>
       </item>
     
   </channel>
