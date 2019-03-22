@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-15T08:35:00+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry><title type="html">Danh sách mật khẩu tệ nhất 2018</title><link href="http://localhost:4000/an-toan-thong-tin/danh-sach-mat-khau-te-nhat/" rel="alternate" type="text/html" title="Danh sách mật khẩu tệ nhất 2018" /><published>2018-12-14T00:00:00+07:00</published><updated>2018-12-14T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-thong-tin/danh-sach-mat-khau-te-nhat</id><content type="html" xml:base="http://localhost:4000/an-toan-thong-tin/danh-sach-mat-khau-te-nhat/">&lt;p&gt;Các bạn hay đặt mật khẩu như thế nào? gồm bao nhiêu ký tự. Bạn nhớ mật khẩu bằng cách nào, ghi ra giấy, ghi vào note, hay nhớ trong đầu hay dùng phần mềm quản lý mật khẩu.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-22T10:26:31+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nguyễn Duy Khánh</title><subtitle>Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet</subtitle><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><entry><title type="html">Tìm hiểu phương thức tấn công DoS.</title><link href="http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-dos/" rel="alternate" type="text/html" title="Tìm hiểu phương thức tấn công DoS." /><published>2019-03-21T00:00:00+07:00</published><updated>2019-03-21T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-dos</id><content type="html" xml:base="http://localhost:4000/an-toan-thong-tin/tim-hieu-phuong-thuc-tan-cong-dos/">&lt;h1 id=&quot;tấn-công-dos-là-gì&quot;&gt;Tấn công Dos là gì?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Là kiểu tấn công từ một cá thể, hay tập hợp các cá thể.&lt;/li&gt;
+  &lt;li&gt;là một kiểu tấn công mà một người làm cho một hệ thống không thể sử dụng, hoặc làm cho hệ thống đá chậm đi một cách đáng kể với người dùng bình thường, bằng cách làm quá tải tài nguyên của hệ thống.&lt;/li&gt;
+  &lt;li&gt;DoS &lt;strong&gt;Không có khả năng truy cập&lt;/strong&gt; vào dữ liệu thực của hệ thống nhưng nó có thể làm gián đoạn các dịch vụ mà hệ thống đó cung cấp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;cách-nhận-diện-cuộc-tấn-công-dos&quot;&gt;Cách nhận diện cuộc tấn công DoS.&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mạng thực thi chậm khác thường khi mở tập tin hay truy cập Website.&lt;/li&gt;
+  &lt;li&gt;Không thể dùng một website cụ thể.&lt;/li&gt;
+  &lt;li&gt;Không thể truy cập bất kỳ website nào.&lt;/li&gt;
+  &lt;li&gt;Tăng lượng thư rác nhận được.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;các-dạng-tấn-công-dos&quot;&gt;Các dạng tấn công DoS&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Smurf và Fraggle.
+    &lt;ul&gt;
+      &lt;li&gt;Là thủ phạm sinh ra cực nhiều giao tiếp ICMP (ping) tới địa chỉ Braodcast của nhiều mạng với địa chỉ nguồn là mục tiêu cần tấn công.&lt;/li&gt;
+      &lt;li&gt;Chúng ta cần lưu ý là: Khi ping tới một địa chỉ là quá trình hai chiều - Khi máy A ping tới máy B máy B reply lại hoàn tất quá trình. Khi tôi ping tới địa chỉ Broadcast của mạng nào đó thì toàn bộ các máy tính trong mạng đó sẽ Reply lại tôi. Nhưng giờ tôi thay đổi địa chỉ nguồn, thay địa chỉ nguồn máy C và tôi ping tới địa chỉ Broadcast của một mạng nào đó, thì toàn bộ các máy tính trong mạng đó sẽ Reply lại vào máy C chứ không phải tôi và đó là tấn công Smuff.&lt;/li&gt;
+      &lt;li&gt;Kết quả đích tấn công sẽ phải chịu nhận một đợt Reply gói ICMP cực lớn và làm cho mạng bị dớt hoặc chậm lại không có khả năng đáp ứng các dịch vụ khác.&lt;/li&gt;
+      &lt;li&gt;Quá trình này được khuyêchs đại khi có luồng ping Reply từ một mạng được kết nối với nhau (mạng BOT).&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Tấn công Fraggle, chúng sử dụng UDP echo và tương tự tấn công Smurf.&lt;/p&gt;
+
+        &lt;p&gt;&lt;img src=&quot;/assets/img/post/smurf.png&quot; alt=&quot;Tấn công Smurf&quot; /&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tấn công Buffer overflow.
+    &lt;ul&gt;
+      &lt;li&gt;Buffer Overflow xảy ra tại bất kỳ thời điểm nào có chương trình ghi lượng thông tin lớn hơn dung lượng của bộ nhớ đệm trong bộ nhớ&lt;/li&gt;
+      &lt;li&gt;Kẻ tấn công có thể ghi đè dữ liệu và điều khiển chạy các chương trình và đánh cắp quyền điều khiển của một số chương trình nhằm thực thi các đoạn mã nguy hiểm&lt;/li&gt;
+      &lt;li&gt;Quý trình gửi bức thư điện tử mà file đính kèm dài quá 256 ký tự có thể sẽ xảy ra quá trình tràn bộ nhớ đệm.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tấn công Ping of Death.
+    &lt;ul&gt;
+      &lt;li&gt;Kẻ tấn công gửi những gói tin IP lớn hơn số lượng bytes cho phép của tin IP là 65536 bytes.&lt;/li&gt;
+      &lt;li&gt;Quá trình chia nhỏ gói tin IP thành những phần nhỏ được thực hiện ở layer II.&lt;/li&gt;
+      &lt;li&gt;Quá trình chia nhỏ có thể thực hiện với gói tin 65536 bytes. Nhưng hệ điều hành không thể nhận biết được độ lớn của gói tin này và sẽ bị khởi động lại, hay đơn giản là sẽ bị gián đoạn giao tiếp.&lt;/li&gt;
+      &lt;li&gt;Để nhận biết kẻ tấn công gửi gói tin cho phép thì tương đối dễ dàng.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tấn công Teardrop.
+    &lt;ul&gt;
+      &lt;li&gt;Gói tin IP rất lớn khi đến Router sẽ bị chia nhỏ làm nhiều phần nhỏ và đính các giá trị offset để có thể ráp lại đến khi đến máy đích.&lt;/li&gt;
+      &lt;li&gt;Kẻ tấn công sử dụng gói tin IP với các thông số rất khó hiểu (chồng chéo lên nhau) để chia ra các phần nhỏ (fragment).&lt;/li&gt;
+      &lt;li&gt;Nếu hệ điều hành nhận được các gói tin đã được chia nhỏ và không hiểu được, hệ thống cố gắng build lại gói tin và điều đó chiềm một phần tài nguyên hệ thống, nếu quá trình đó liên tục xảy ra hệ thống không còn tài nguyên cho các ứng dụng khác, phục vụ các user khác.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tấn công SYN.
+    &lt;ul&gt;
+      &lt;li&gt;Kẻ tấn công gửi các yêu cầu (request ảo) TCP SYN tới máy chủ bị tấn công. Để xử lý lượng gói tin SYN này hệ thống cần tốn lượng bộ nhớ cho kết nối.&lt;/li&gt;
+      &lt;li&gt;Khi có rất nhiều gói SYN ảo tới máy chủ và chiếm hết các yêu cầu xử lý của máy chủ. Một người dùng bình thường kết nối tới máy chủ ban đầu thực hiện Request TCP SYN và lúc này máy chủ không còn khả năng đáp lại - Kết nối không được thực hiện.&lt;/li&gt;
+      &lt;li&gt;Đây là kiểu tấn công mà kẻ tấn công lợi dụng quá trình giao tiếp của TCP theo -Three-way.&lt;/li&gt;
+      &lt;li&gt;Các đoạn mã nguy hiểm có khả năng sinh ra một số lượng lớn các gói tin TCp SYN tới máy chủ bị tấn công, địa chỉ IP nguồn của gói tin đã bị thay đổi và đó chính là tấn công DoS.&lt;/li&gt;
+      &lt;li&gt;Quá trình TCP Three-way handshake được thực hiện: Khi máy A muốn giao tiếp với máy B. máy A bắn ra một gói tin TCP SYN tới máy B - máy B khi nhận được gói SYN từ A sẽ gửi lại máy A ACK đồng ý kết nối - Máy A gửi lại máy B gói ACK và bắt đầu các giao tiếp dữ liệu.&lt;/li&gt;
+      &lt;li&gt;Máy A và máy B sẽ dữ kết nối ít nhất 75s, sau đó lại thực hiện một quá trình TCp Three-way handshake lần nữa để thực hiện phiên kết nối tiếp theo để trao đối dữ liệu.&lt;/li&gt;
+      &lt;li&gt;Thật không máy kẻ tấn công đã lợi dụng kẽ hở này để thực hiện hành vi tấn công nhằm sử dụng hết tài nguyên của hệ thống bằng cách làm giảm thời gian yêu cầu Three-way handshake xuống rất nhỏ và không gửi lại gói ACK, cứ bắn gói SYN ra liên tục trong một thời gian nhất định và không bao giờ trả lời lại gói SYN&amp;amp;ACK từ máy bị tấn công.&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Hình dưới thể hiện các giao tiếp bình thường với máy chủ bên dưới thể hiện khi máy chủ bị tấn công gói SYN đến sẽ rất nhiều tỏng khi đó khả năng trả lời của máy chủ lại có hạn và khi đó máy chủ sẽ từ chối các truy cập hợp pháp.&lt;/p&gt;
+
+        &lt;p&gt;&lt;img src=&quot;/assets/img/post/syn.jpg&quot; alt=&quot;Tấn công SYN&quot; /&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Slowloris HTTP DoS.
+    &lt;ul&gt;
+      &lt;li&gt;Tấn công vào tầng ứng dụng của bộ giao thức TCP cụ thể là header của giao thức HTTP khi gửi request.&lt;/li&gt;
+      &lt;li&gt;Do kết nối chưa hoàn thành lên không có thông tin lưu lại trong log.&lt;/li&gt;
+      &lt;li&gt;Có thể phòng chống với nginx, apache mod_antiloris.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Slow rad HTTP DoS.
+    &lt;ul&gt;
+      &lt;li&gt;Tấn công vào tầng ứng dụng của bộ giao thức TCP, cụ thể là body (windows size) của giao thức HTTP trong việc nhận response&lt;/li&gt;
+      &lt;li&gt;Tốc độ tấn công chậm , yêu cầu tài nguyên không cao nhưng cực kì khó chống đỡ.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nguồn: KSEC Club.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="an toàn" /><category term="tấn công mạng" /><summary type="html">Là một kiểu tấn công mà một người làm cho một hệ thống không thể sử dụng, hoặc làm cho hệ thống đó chậm đi một cách đáng kể với người dùng bình thường, bằng cách làm quá tải tài nguyên của hệ thống.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/post/dos.jpg" /></entry><entry><title type="html">Danh sách mật khẩu tệ nhất 2018</title><link href="http://localhost:4000/an-toan-thong-tin/danh-sach-mat-khau-te-nhat/" rel="alternate" type="text/html" title="Danh sách mật khẩu tệ nhất 2018" /><published>2018-12-14T00:00:00+07:00</published><updated>2018-12-14T00:00:00+07:00</updated><id>http://localhost:4000/an-toan-thong-tin/danh-sach-mat-khau-te-nhat</id><content type="html" xml:base="http://localhost:4000/an-toan-thong-tin/danh-sach-mat-khau-te-nhat/">&lt;p&gt;Các bạn hay đặt mật khẩu như thế nào? gồm bao nhiêu ký tự. Bạn nhớ mật khẩu bằng cách nào, ghi ra giấy, ghi vào note, hay nhớ trong đầu hay dùng phần mềm quản lý mật khẩu.&lt;/p&gt;
 
 &lt;p&gt;Đặt mật khẩu dễ nhớ là sự lựa chọn của rất nhiều người. Tuy nhiên điều này là cực kỳ nguy hiểm mà chúng ta thường chủ quan.&lt;/p&gt;
 
@@ -613,70 +698,4 @@ Các bước làm như sau:
 
 &lt;blockquote&gt;
   &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="phím tắt" /><category term="windows" /><summary type="html">Thay vì sử dụng chuột, tổng hợp các phím tắt sau đây sẽ giúp cho bạn thao tác và xử nhanh trên giao diện của windows</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/post/phim-tat.jpg" /></entry><entry xml:lang="vi"><title type="html">Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3</title><link href="http://localhost:4000/thu-thuat/phim-tat-sublime-text3/" rel="alternate" type="text/html" title="Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3" /><published>2017-09-13T00:00:00+07:00</published><updated>2017-09-13T00:00:00+07:00</updated><id>http://localhost:4000/thu-thuat/phim-tat-sublime-text3</id><content type="html" xml:base="http://localhost:4000/thu-thuat/phim-tat-sublime-text3/">&lt;h2 id=&quot;sublime-text-là-một-editor-mạnh-mẽ-với-nhiều-plugin-hữu-ích-sau-đây-là-danh-sách-các-phím-tắt-giup-bạn-làm-việc-nhanh-và-hiệu-quả-hơn-rất-nhiều-với-nó&quot;&gt;Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.&lt;/h2&gt;
-
-&lt;h3 id=&quot;nhóm-phím-tắt-chỉnh-sửa&quot;&gt;Nhóm phím tắt chỉnh sửa.&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + X&lt;/code&gt; : Xóa dòng đang trỏ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + Enter&lt;/code&gt; :   Thêm dòng phía trên con trỏ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Enter&lt;/code&gt; :   Thêm dòng phía dưới con trỏ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + ↑&lt;/code&gt; :   Đưa dòng hiện tại lên trên 1 dòng&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + ↓&lt;/code&gt; :   Đưa dòng hiện tại xuống dưới 1 dòng&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + L&lt;/code&gt; :   Bôi đen cả dòng và đưa con trỏ xuống dòng tiếp theo&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + D&lt;/code&gt; :   Bôi đen từ đang được trỏ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + M&lt;/code&gt; :   Đưa trỏ đến dấu đóng ngoặc gần nhất ( ví dụ trong câu lệnh if-else)&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + M&lt;/code&gt; :   Bôi đen toàn bộ nội dung trong cặp dấu ngoặc&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + KK&lt;/code&gt; : Xóa hết đến cuối dòng bắt đầu từ vị trí con trỏ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + K + Backspace&lt;/code&gt; :   Xóa hết đến đầu dòng bắt đầu từ vị trí con trỏ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + ]&lt;/code&gt; :  Tab dòng hiện tại vào trong 1 tab&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl+ [&lt;/code&gt; :Lùi dòng hiện tại ra ngoài 1 tab&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + D&lt;/code&gt; :   Nhân đôi dòng hiện tại hoặc khối lệnh được bôi đen&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + J&lt;/code&gt; :   Nối dòng phía dưới xuống cuối dòng hiện tại của con trỏ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + /&lt;/code&gt; :   Comment 1 dòng lệnh kiểu //&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + /&lt;/code&gt; :   Comment 1 khối dòng lệnh kiểu /**/&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Y&lt;/code&gt; :   Lấy lại những thao tác vừa bị Undo&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + V&lt;/code&gt; :   Dán và đưa con trỏ xuống cuối dòng&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Space&lt;/code&gt; :   Bật gợi ý&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + U&lt;/code&gt; :   Undo lặp lại những thao tác trước đó&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + KU&lt;/code&gt; :  Chuyển chữ ở con trỏ/bôi đen thành chữ hoa&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + KL&lt;/code&gt; :  Chuyển chữ ở con trỏ/bôi đen thành chữ thường&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;điều-hướng-di-chuyển-đi-đâu-đó&quot;&gt;Điều hướng/ Di chuyển đi đâu đó&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + P&lt;/code&gt; :   Mở nhanh file bằng cách gõ tên&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + R&lt;/code&gt; :   Đi đến vị trí kí tự được gõ&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + ;&lt;/code&gt; :   Đi đến vị trí kí tự được gõ ở trong file hiện tại&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + G&lt;/code&gt; :   Đi đến số dòng được gõ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cài-đặt-chung&quot;&gt;Cài đặt chung&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + P&lt;/code&gt; :   Mở command line&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + KB&lt;/code&gt; :  Đóng mở hiển thị danh sách file (ở bên trái màn hình)&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + Alt + P&lt;/code&gt; : Hiện phạm vi trong thanh trạng thái&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;chia-màn-hình&quot;&gt;Chia màn hình&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + T&lt;/code&gt; :   Mở tab vừa được đóng cuối cùng&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + PgUp&lt;/code&gt; :Mở tab theo một vòng từ trái qua phải&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + PgDown&lt;/code&gt; :  Mở tab theo một vòng từ phải qua trái&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Tab&lt;/code&gt; : Mở tab tiếp theo&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + [NUMBER]&lt;/code&gt;` :Mở tab số [NUMBER]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + F2&lt;/code&gt; :  Đóng mở bookmark&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;F2&lt;/code&gt; : Bookmark tiếp theo&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Shift + F2&lt;/code&gt; : Bookmark phía trước&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ctrl + Shift + F2&lt;/code&gt; :  Xóa bookmark&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hy vọng với những phím tắt này sẽ giúp ích nhiều cho các bạn. Chúc các bạn thành công.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;By Nguyễn Duy Khánh&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="sublime text" /><category term="phím tắt" /><summary type="html">Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/post/sublime-plugin.jpg" /></entry></feed>
+&lt;/blockquote&gt;</content><author><name>Duy Khanh Nguyen</name><email>khanhsaker1997@gmail.com</email><uri>https://khanhsaker97.github.io</uri></author><category term="phím tắt" /><category term="windows" /><summary type="html">Thay vì sử dụng chuột, tổng hợp các phím tắt sau đây sẽ giúp cho bạn thao tác và xử nhanh trên giao diện của windows</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/post/phim-tat.jpg" /></entry></feed>
