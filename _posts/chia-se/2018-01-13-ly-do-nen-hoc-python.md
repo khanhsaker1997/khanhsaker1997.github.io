@@ -6,6 +6,8 @@ categories: [chia-se]
 tags: [python,laptrinh]
 lang: vi
 image: "/assets/img/post/python.jpg"
+header:
+  overlay_image: /assets/img/post/python.jpg
 excerpt: "Với nhừng người mới học lập trình thì **Python là thứ nếu bỏ qua thì bạn sẽ rất hối tiếc** vì quyết định này, nói thật đấy nếu bạn đang muốn học lập trình thì Python là thứ mà chắc chắn cần thử qua"
 ---
 

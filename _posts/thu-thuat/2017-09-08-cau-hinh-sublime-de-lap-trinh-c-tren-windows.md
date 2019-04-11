@@ -6,6 +6,8 @@ categories: [thu-thuat]
 tags: [sublime text,c++]
 lang: vi
 image: "/assets/img/post/sublime-text3.jpg"
+header:
+  overlay_image: /assets/img/post/sublime-text3.jpg
 excerpt: "Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++."
 ---
 ## Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.

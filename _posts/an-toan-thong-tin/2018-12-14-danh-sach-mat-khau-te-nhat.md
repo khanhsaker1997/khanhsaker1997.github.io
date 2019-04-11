@@ -5,6 +5,8 @@ date: 2018-12-14
 categories: [an-toan-thong-tin]
 tags: [an toàn,mật khẩu]
 image: /assets/img/post/password.jpg
+header:
+  overlay_image: /assets/img/post/password.jpg
 excerpt: Các bạn hay đặt mật khẩu như thế nào? gồm bao nhiêu ký tự. Bạn nhớ mật khẩu bằng cách nào, ghi ra giấy, ghi vào note, hay nhớ trong đầu hay dùng phần mềm quản lý mật khẩu.
 ---
 

@@ -6,6 +6,8 @@ categories: [thu-thuat]
 tag: [crack,password]
 lang: vi
 image: "/assets/img/post/pass-office.jpg"
+header:
+  overlay_image: /assets/img/post/pass-office.jpg
 excerpt: "Khi các bạn tải một tài liệu trên mạng về có thể có tài liệu các bạn chỉ xem được nhưng không sửa được. Đó là do người chủ file đó đã đặt mật khẩu không cho sửa file và chỉ có mật khẩu đó mới sửa được"
 ---
 Khi các bạn tải một tài liệu trên mạng về có thể có tài liệu các bạn chỉ xem được nhưng không sửa được. Đó là do người chủ file đó đã đặt mật khẩu không cho sửa file và chỉ có mật khẩu đó mới sửa được.

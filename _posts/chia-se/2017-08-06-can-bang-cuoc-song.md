@@ -6,6 +6,8 @@ categories: [chia-se]
 tags: [cân bằng,life]
 lang: vi
 image: "/assets/img/cuoc-song/Can-bang-cuoc-song.jpg"
+header:
+  overlay_image: /assets/img/cuoc-song/Can-bang-cuoc-song.jpg
 excerpt: "Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn"
 ---
 ### Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.

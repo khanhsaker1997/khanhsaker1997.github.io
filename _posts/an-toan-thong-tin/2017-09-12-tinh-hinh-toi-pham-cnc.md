@@ -6,6 +6,8 @@ excerpt: "An toàn và bảo mật thông tin là một nhiệm vụ vô cùng q
 categories: [an-toan-thong-tin]
 tags: [an toàn,bảo mật, công nghệ cao]
 image: "/assets/img/post/an-toan-bao-mat.jpg"
+header:
+  overlay_image: /assets/img/post/an-toan-bao-mat.jpg
 ---
 ### Thực trạng công nghệ thông tin
 :large_orange_diamond: 60% sàn chứng khoán của Mỹ là do công nghệ thông tin.

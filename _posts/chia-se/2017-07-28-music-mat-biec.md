@@ -6,6 +6,8 @@ categories: [chia-se]
 tags: [music]
 lang: vi
 image: "/assets/img/post/mat-biec.jpg"
+header:
+  overlay_image: /assets/img/post/mat-biec.jpg
 excerpt: "Thời giờ đã cuốn bay đi những ngày tuổi trẻ còn xanh ngời. Một màu phượng vĩ mới nở hôm qua...mà đã cháy đỏ tim anh rồi. Đã lâu ta ko về trường vắng"
 ---
 

@@ -6,6 +6,8 @@ categories: [chia-se]
 tags: [swift,laptrinh]
 lang: vi
 image: "/assets/img/post/swift.jpeg"
+header:
+  overlay_image: /assets/img/post/swift.jpeg
 excerpt: "Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắng bắt đầu với một ngôn ngữ lập trình cổ. Người mới học tốt hơn nên tiếp cận vào một thứ gì đó hiện đại hơn, chẳng hạn như Python, Ruby hoặc Swift."
 ---
 

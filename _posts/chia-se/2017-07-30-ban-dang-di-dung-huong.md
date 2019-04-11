@@ -6,6 +6,8 @@ categories: [chia-se]
 tags: [sống]
 lang: vi
 image: "/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+header:
+  overlay_image: /assets/img/cuoc-song/ban-dang-di-dung-huong.jpg
 excerpt: "Bài viết này được chia sẻ trên Facebook Trịnh Thành. Đôi khi việc so đo cuộc sống của bạn với cuộc sống của những người xung quanh sẽ làm bạn quên mất cuộc sống này là của riêng bạn."
 ---
 

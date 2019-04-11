@@ -5,6 +5,8 @@ date: 2019-03-22
 categories: [an-toan-thong-tin]
 tags: [an toàn,tấn công mạng]
 image: /assets/img/post/dos.jpg
+header:
+  overlay_image: /assets/img/post/dos.jpg
 excerpt: Là một kiểu tấn công mà một người làm cho một hệ thống không thể sử dụng, hoặc làm cho hệ thống đó chậm đi một cách đáng kể với người dùng bình thường, bằng cách làm quá tải tài nguyên của hệ thống.
 ---
 
