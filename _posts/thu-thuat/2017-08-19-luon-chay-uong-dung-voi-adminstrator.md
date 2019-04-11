@@ -6,7 +6,7 @@ categories: [thu-thuat]
 tags: [trick,it,run,adminstrator]
 lang: vi
 image:
-  thumbnail: "/assets/img/post/administration.jpg"
+  thumbnail: /assets/img/post/administration.jpg
 excerpt: "Thông thường khi muốn chạy ứng dụng với quyền quản trị **administrator** bạn chỉ cần click chuột phải vào ứng dụng rồi chọn **_run administrator_**"
 ---
 ### Thông thường khi muốn chạy ứng dụng với quyền quản trị **administrator** bạn chỉ cần click chuột phải vào ứng dụng rồi chọn **_run administrator_**.
