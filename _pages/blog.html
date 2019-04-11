@@ -21,7 +21,7 @@ author_profile: true
     
   	<span class="time">, <i class="fa fa-hospital-o"></i> {{ post.date | date: '%B %d, %Y' }}</span>
   	<br>
-  	<img src="{{post.image}}" alt="{{post.title}}">
+  	<img src="{{post.image.thumbnail}}" alt="{{post.title}}">
 
   	<p style="font-size: 0.8em;text-overflow: ellipsis;width: 100%;margin-top: 3px;text-align: justify;">{{ post.excerpt }}[...]</p>
   	<button type="button" class="btn btn-info btn-sm"><a href="{{ post.url }}" style="font-size: 0.8em;">Read More <i class=" fa fa-angle-double-right"></i></a></button>
