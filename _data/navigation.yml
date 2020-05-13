@@ -1,13 +1,12 @@
 # main links
 main:
-  - title: "About me"
-    url: "/"
-  - title: "My posts"
-    url: "/posts/"
-  # - title: "Tricks It"
-  #   url: "/trickit/"
-  - title: "Music i like"
-    url: "/music/"
-
-  
-  
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
