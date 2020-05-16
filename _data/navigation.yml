@@ -24,11 +24,10 @@ main:
     url: /about/
   - title: "Bài viết"
     url: /year-archive/
-  - title: "Music I Like"
-    url: /music/
   - title: "Tags"
     url: /tags/
-
+  - title: "Music I Like"
+    url: /music/
 
 # documentation links
 docs:
