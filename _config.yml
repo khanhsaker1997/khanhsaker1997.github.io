@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "vi"
 title                    : "Nguyễn Duy Khánh"
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
+subtitle                 : "Lập trình viên - Blogger, một góc riêng của tôi trên Internet!"
 name                     : &name "Duy Khanh Nguyen" # &name is a YAML anchor which can be *referenced later
 description              : &description "Website của Nguyễn Duy Khánh - Lập trình viên - Blogger, một góc riêng của tôi trên Internet"
 url                      : https://khanhsaker97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
