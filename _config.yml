@@ -69,7 +69,7 @@ facebook:
   username               : &facebook "khanhsakercsdn"
   app_id                 :
   publisher              :
-og_image                 : "https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=500" # Open Graph/Twitter default site image
+og_image                 : "https://en.gravatar.com/userimage/122557493/bd3c740bbbb13bac72650de5b7a7b5b1.jpg?size=500" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : &name "Duy Khanh Nguyen" # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=250"
+  avatar           : "https://en.gravatar.com/userimage/122557493/bd3c740bbbb13bac72650de5b7a7b5b1.jpg?size=250"
   bio              : "Blogger / Developer / Tech lover"
   location         : "Hanoi, VN"
   links:
