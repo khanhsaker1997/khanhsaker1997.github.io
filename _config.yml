@@ -20,9 +20,9 @@ url                      : https://khanhsaker97.github.io # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : https://en.gravatar.com/userimage/122557493/4e7b066a328159c46b7a5372ed0489a3.jpg?size=88 # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
@@ -57,7 +57,7 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -179,18 +179,18 @@ kramdown:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # docs:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # recipes:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # pets:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -214,43 +214,43 @@ defaults:
       layout: single
       author_profile: true
   # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     layout: single
+  #     read_time: false
+  #     author_profile: false
+  #     share: false
+  #     comments: false
+  #     sidebar:
+  #       nav: "docs"
   # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: recipes
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _pets
+  # - scope:
+  #     path: ""
+  #     type: pets
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
 
 
 # Sass/SCSS
@@ -263,7 +263,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "+07:00" # America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
