@@ -2,12 +2,12 @@
 layout: single
 title:  "Share: Bạn không đi chậm, bạn không đi nhanh, bạn đang đi đúng hướng! - Facebook Trịnh Thành"
 date:   2017-07-30
-categories: [chia-se]
-tags: [sống]
+categories: [ky-nang-song]
+tags: [kỹ năng sống]
 lang: vi
-image: "/assets/img/cuoc-song/ban-dang-di-dung-huong.jpg"
+image: "https://i.imgur.com/M5AuIq3.jpg"
 header:
-  overlay_image: /assets/img/cuoc-song/ban-dang-di-dung-huong.jpg
+  overlay_image: https://i.imgur.com/M5AuIq3.jpg
 excerpt: "Bài viết này được chia sẻ trên Facebook Trịnh Thành. Đôi khi việc so đo cuộc sống của bạn với cuộc sống của những người xung quanh sẽ làm bạn quên mất cuộc sống này là của riêng bạn."
 ---
 

@@ -2,12 +2,12 @@
 layout: single
 title: "Cách ẩn thư mục và ẩn ổ đĩa trong windows không cần dùng phần mềm"
 date: 2017-09-27
-categories: [thu-thuat]
-tags: [ẩn thư mục,ẩn ổ đĩa]
+categories: [lap-trinh]
+tags: [ẩn thư mục,lập trình, thủ thuật]
 lang: vi
-image: "/assets/img/post/thu-thuat-o-dia.jpg"
+image: "https://i.imgur.com/osuMA8l.jpg"
 header:
-  overlay_image: /assets/img/post/thu-thuat-o-dia.jpg
+  overlay_image: https://i.imgur.com/osuMA8l.jpg
 excerpt: "Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn"
 ---
 Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn.
@@ -15,7 +15,7 @@ excerpt: "Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mụ
 ## Cách ẩn 1 file hoặc 1 thư mục:
 ### Cách 1:
 Một cách đơn giản thông thường khiến bạn có thể ẩn đi thư mục hoặc file là bạn hãy `Click` chuột phải vào thư mục đó rồi chọn `Properties`. Trong mục `Gerenal` bạn chọn `Hidden`. Sau đó nhấn `Apply`
-![anh1](/assets/img/trickit/an-thu-muc1.png)
+![ảnh 1](https://i.imgur.com/mjDFR7B.png)
 
 Tuy nhiên cách này rất dễ bị lộ vì người khác chị cần bật chế độ view Hidden iteam thì thư mục đó vẫn hiển thị lên.
 
@@ -71,14 +71,14 @@ Bạn `Click` vào file `.bat` này sẽ sinh ra 1 folder tên là `private` ở
 Nếu bạn muốn mở nhìn thấy và mở file đó ra thì phải `Click` tiếp vào file `.bat` đó và nhập mật khẩu là `PASSWORD` thì sẽ hiện ra. Mật khẩu bạn có thể thay đổi bằng cách xóa từ `PASSWORD` ở trong đoạn code và thay bằng mật khẩu do bạn đặt ra.
 ## Cách ẩn 1 ổ đĩa:
 Đầu tiên bạn mở cmd lên và gõ `DISKPART` thì sẽ hiện ra 1 cửa sổ như thế này:
-![anh2](/assets/img/trickit/an-thu-muc2.png)
+![anh2](https://i.imgur.com/dpxBLtf.png)
 
 Trong cửa sổ này bạn gõ:
 ```
 LIST VOLUME
 (Lệnh này để liệt kể các ổ đĩa)
 ```
-![anh3](/assets/img/trickit/an-thu-muc3.png)
+![anh3](https://i.imgur.com/eIr2MkR.png)
 
 Các ổ đĩa được đánh số thứ tự 0,1,2,3 với tên là D,C,E,F ... và nhiều thông tin.
 

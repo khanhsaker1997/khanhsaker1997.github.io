@@ -2,11 +2,11 @@
 layout: single
 title: Tìm hiểu phương thức tấn công DDoS.
 date: 2019-03-22
-categories: [an-toan-thong-tin]
-tags: [an toàn,tấn công mạng]
-image: /assets/img/post/ddos.png
+categories: [an-ninh-mang]
+tags: [an ninh mạng]
+image: https://i.imgur.com/TvGfS9P.png
 header:
-  overlay_image: /assets/img/post/ddos.png
+  overlay_image: https://i.imgur.com/TvGfS9P.png
 excerpt: DDoS có tên đầy đủ là Distributed Denial Of Service – là một biến thể của loại tấn công DOS. Đây là một hình thức tấn công từ chối dịch vụ phân tán, nó làm cho người bị tấn công không thể sử dụng một dịch vụ nào đó, nó có thể khiến bạn không thể kết nối với một dịch vụ internet, hoặc nó có thể làm ngưng hoạt động của một chiếc máy tính, một mạng lan nội bộ hoặc thậm chí là cả một hệ thống mạng.
 ---
 

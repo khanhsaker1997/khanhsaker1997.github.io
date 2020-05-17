@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Hướng dẫn cấu hình Sublime Text 3 trên windows để lập trình C"
+title: "Hướng dẫn cấu hình Sublime Text trên windows để lập trình C"
 date: 2017-09-08
-categories: [thu-thuat]
-tags: [sublime text,c++]
+categories: [lap-trinh]
+tags: [sublime text, lập trình c]
 lang: vi
-image: "/assets/img/post/sublime-text3.jpg"
+image: "https://i.imgur.com/QmaM5My.jpg"
 header:
-  overlay_image: /assets/img/post/sublime-text3.jpg
+  overlay_image: https://i.imgur.com/QmaM5My.jpg
 excerpt: "Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++."
 ---
 ## Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.
@@ -22,13 +22,13 @@ chọn edit lại *path* vào add thêm các dòng sau:
  ```
 * Đầu tiên bạn mở Sublime Text 3 lên và chọn *Tools* > *Build System* > *New Build System..*
 
-![Hình 1](/assets/img/ST3/st4.png)
+![Hình 1](https://i.imgur.com/PsMqBmV.png)
 
 * Sau đó sẽ hiện ra file để bạn cấu hình giúp lập trình C trên đó.
 
-![Hình 2](/assets/img/ST3/st5.png)
+![Hình 2](https://i.imgur.com/0KLxFMw.png)
 Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán vào file đó rồi lưu lại với tên tùy ý, nên đặt tên là RunC++ như mình (Nếu các bạn lập trình C thì thay `g++` thành `gcc` nhé:
-```sublime-build
+```yml
 {
 "cmd": ["g++", "$file_name", "-o", "${file_base_name}.exe", "&&", "start", "cmd", "/k" , "$file_base_name"],
 "selector": "source.c",
@@ -44,12 +44,12 @@ Các bạn xóa hết cú pháp trong file đó và copy đoạn mã sau dán v�
 }
 ```
 
-![Hình 3](/assets/img/ST3/st6.png)
+![Hình 3](https://i.imgur.com/1ndSmzC.png)
 
 Ô cê vậy là xong rồi đó. Giờ bạn muốn biên dịch và chạy chương trình `C` bạn chỉ việc chọn *Tools* > *Build System* > *RunC++*  và nhấn `Ctrl + B`:
-![Hình 4](/assets/img/ST3/st7.png)
+![Hình 4](https://i.imgur.com/cEr8ugF.png)
 Sau đó là chương trình được Build và chạy lên như thế này :
-![Hình 5](/assets/img/ST3/st8.png)
+![Hình 5](https://i.imgur.com/vKNCDYq.png)
 **Chúc các bạn thành công nha**
 
 >By Nguyễn Duy Khánh

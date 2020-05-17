@@ -2,12 +2,12 @@
 layout: single
 title:  "Tổng hợp các phím tắt hữu ích cho trên Windows"
 date:   2017-09-18
-categories: [thu-thuat]
-tags: [phím tắt,windows]
+categories: [lap-trinh]
+tags: [lập trình,phím tắt]
 lang: vi
-image: "/assets/img/post/phim-tat.jpg"
+image: "https://i.imgur.com/tEsG2nV.jpg"
 header:
-  overlay_image: /assets/img/post/phim-tat.jpg
+  overlay_image: https://i.imgur.com/tEsG2nV.jpg
 excerpt: "Thay vì sử dụng chuột, tổng hợp các phím tắt sau đây sẽ giúp cho bạn thao tác và xử nhanh trên giao diện của windows"
 ---
 

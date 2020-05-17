@@ -2,11 +2,11 @@
 layout: single
 title: Tìm hiểu phương thức tấn công DoS.
 date: 2019-03-22
-categories: [an-toan-thong-tin]
-tags: [an toàn,tấn công mạng]
-image: /assets/img/post/dos.jpg
+categories: [an-ninh-mang]
+tags: [an ninh mạng]
+image: https://i.imgur.com/HAGkknu.jpg
 header:
-  overlay_image: /assets/img/post/dos.jpg
+  overlay_image: https://i.imgur.com/HAGkknu.jpg
 excerpt: Là một kiểu tấn công mà một người làm cho một hệ thống không thể sử dụng, hoặc làm cho hệ thống đó chậm đi một cách đáng kể với người dùng bình thường, bằng cách làm quá tải tài nguyên của hệ thống.
 ---
 
@@ -29,7 +29,7 @@ excerpt: Là một kiểu tấn công mà một người làm cho một hệ th�
     * Quá trình này được khuyêchs đại khi có luồng ping Reply từ một mạng được kết nối với nhau (mạng BOT).
     * Tấn công Fraggle, chúng sử dụng UDP echo và tương tự tấn công Smurf.
 
-        ![Tấn công Smurf](/assets/img/post/smurf.png)
+        ![Tấn công Smurf](https://i.imgur.com/PagPIVh.jpg)
         
 2. Tấn công Buffer overflow.
     * Buffer Overflow xảy ra tại bất kỳ thời điểm nào có chương trình ghi lượng thông tin lớn hơn dung lượng của bộ nhớ đệm trong bộ nhớ
@@ -54,7 +54,7 @@ excerpt: Là một kiểu tấn công mà một người làm cho một hệ th�
     * Thật không máy kẻ tấn công đã lợi dụng kẽ hở này để thực hiện hành vi tấn công nhằm sử dụng hết tài nguyên của hệ thống bằng cách làm giảm thời gian yêu cầu Three-way handshake xuống rất nhỏ và không gửi lại gói ACK, cứ bắn gói SYN ra liên tục trong một thời gian nhất định và không bao giờ trả lời lại gói SYN&ACK từ máy bị tấn công.
     * Hình dưới thể hiện các giao tiếp bình thường với máy chủ bên dưới thể hiện khi máy chủ bị tấn công gói SYN đến sẽ rất nhiều tỏng khi đó khả năng trả lời của máy chủ lại có hạn và khi đó máy chủ sẽ từ chối các truy cập hợp pháp.
 
-        ![Tấn công SYN](/assets/img/post/syn.jpg)
+        ![Tấn công SYN](https://i.imgur.com/DBkaz9y.jpg)
 
 6. Slowloris HTTP DoS.
     * Tấn công vào tầng ứng dụng của bộ giao thức TCP cụ thể là header của giao thức HTTP khi gửi request.

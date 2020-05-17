@@ -2,12 +2,12 @@
 layout: single
 title:  "Cách dịch nhanh văn bản có độ dài lớn mà Google dịch không dịch được"
 date:   2017-08-28
-categories: [thu-thuat]
-tags: [trick,it,transtale,google]
+categories: [lap-trinh]
+tags: [lập trình, thủ thuật]
 lang: vi
-image: "/assets/img/post/google-translate.png"
+image: "https://i.imgur.com/O1eyw8X.png"
 header:
-  overlay_image: /assets/img/post/google-translate.png
+  overlay_image:
 excerpt: "Khi muốn dịch một văn bản các bạn thường sử dụng google dịch. Việc đó đôi khi rất mất thời gian với những văn bản có độ dài lớn. Sau đây mình sẽ hướng dẫn các bạn dịch văn bản đó nhanh hơn"
 ---
 ## Khi muốn dịch một văn bản các bạn thường sử dụng google dịch. Việc đó đôi khi rất mất thời gian với những văn bản có độ dài lớn. Sau đây mình sẽ hướng dẫn các bạn dịch văn bản đó nhanh hơn.
@@ -17,11 +17,11 @@ excerpt: "Khi muốn dịch một văn bản các bạn thường sử dụng go
 3. Bước 3: Mở file vừa định dạng bằng trình duyệt Chrome cài tiện ích [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en-US).
 4. Bước 4: Bạn Click vào tiện ích [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en-US) ở góc trên bên phải rồi chọn **TRANSLATE THIS PAGE**. Bạn có thể chọn ngôn ngữ dịch sang tùy thích
 
-![Hình 1](/assets/img/trickit/google-translate1.png)
+![Hình 1](https://i.imgur.com/VdfcMEa.png)
 
-Ok. Vậy là xong rồi đó. Chúc các bạn thành công. Thanks you for watching.
+Ok. Vậy là xong rồi đó. Chúc các bạn thành công.
 
-![Hình 2](/assets/img/trickit/google-translate2.png)
+![Hình 2](https://i.imgur.com/qnDic0T.png)
 
 _Xem Chi tiết hơn tại đây:_
 

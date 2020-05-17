@@ -2,11 +2,11 @@
 layout: single
 title: "Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng"
 date: 2018-01-09
-categories: [an-toan-thong-tin]
-tags: [an toàn,bảo mật, công nghệ cao]
-image: "/assets/img/post/tac-chien-khong-gian-mang.jpg"
+categories: [an-ninh-mang]
+tags: [an ninh mạng]
+image: "https://i.imgur.com/iCCISNj.jpg"
 header:
-  overlay_image: /assets/img/post/tac-chien-khong-gian-mang.jpg
+  overlay_image:
 excerpt: "Chiều qua (ngày 8/1), lễ công bố Quyết định của Thủ tướng về việc thành lập Bộ tư lệnh Tác chiến không gian mạng của Việt Nam đã được diễn ra."
 ---
 ## Việt Nam thành lập Bộ tư lệnh Tác chiến không gian mạng
@@ -17,7 +17,7 @@ Trong bài phát biểu, Thủ tướng Nguyễn Xuân Phúc đã nhấn mạnh 
 
 Trong chiến tranh hiện đại có áp dụng các vũ khí công nghệ cao, không gian mạng được coi là môi trường tác chiến thứ 5 gắn kết chặt chẽ với tác chiến trên không, trên bộ, trên biển và trong không gian vũ trụ, tác chiến không gian mạng đã trở thành một phương thức tác chiến cơ bản giữ vai trò quan trọng. Việc bảo vệ không gian mạng góp phần bảo vệ vững chắc chủ quyền quốc gia.
 
-![Thủ tướng Nguyễn Xuân Phúc phát biểu trong buổi lễ thành lập Bộ tư lệnh tác chiến không gian mạng. (Ảnh: VGP/Quang Hiếu.)](https://img.quantrimang.com/photos/image/2018/01/09/bo-tu-lenh-tac-chien-khong-gian-mang-1.jpg)
+![Thủ tướng Nguyễn Xuân Phúc phát biểu trong buổi lễ thành lập Bộ tư lệnh tác chiến không gian mạng)](https://i.imgur.com/Kul2hwq.jpg)
 
 _Thủ tướng Nguyễn Xuân Phúc phát biểu trong buổi lễ thành lập Bộ tư lệnh tác chiến không gian mạng. (Ảnh: VGP/Quang Hiếu.)_
 

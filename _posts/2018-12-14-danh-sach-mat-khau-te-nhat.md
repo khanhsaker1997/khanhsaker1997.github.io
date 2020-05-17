@@ -2,11 +2,11 @@
 layout: single
 title: Danh sách mật khẩu tệ nhất 2018
 date: 2018-12-14
-categories: [an-toan-thong-tin]
-tags: [an toàn,mật khẩu]
-image: /assets/img/post/password.jpg
+categories: [an-ninh-mang]
+tags: [lập trình,an ninh mạng, mật khẩu]
+image: https://i.imgur.com/cCCRHG6.jpg
 header:
-  overlay_image: /assets/img/post/password.jpg
+  overlay_image:
 excerpt: Các bạn hay đặt mật khẩu như thế nào? gồm bao nhiêu ký tự. Bạn nhớ mật khẩu bằng cách nào, ghi ra giấy, ghi vào note, hay nhớ trong đầu hay dùng phần mềm quản lý mật khẩu.
 ---
 

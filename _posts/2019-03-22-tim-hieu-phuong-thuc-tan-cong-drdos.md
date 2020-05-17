@@ -2,11 +2,11 @@
 layout: single
 title: Tìm hiểu phương thức tấn công DrDoS.
 date: 2019-03-22
-categories: [an-toan-thong-tin]
-tags: [an toàn,tấn công mạng]
-image: /assets/img/post/drdos.png
+categories: [an-ninh-mang]
+tags: [an ninh mạng]
+image: https://i.imgur.com/QCQauGE.png
 header:
-  overlay_image: /assets/img/post/drdos.png
+  overlay_image:
 excerpt: Mục tiêu chính của DRDoS là chiếm đoạt toàn bộ băng thông của máy chủ, tức là làm tắc nghẽn hoàn toàn đường kết nối từ máy chủ vào xương sống của Internet và tiêu hao tài nguyên máy chủ.
 ---
 # Giới thiệu về DrDoS
@@ -18,7 +18,7 @@ Vào thời điểm chúng tôi tìm ra cách để ngăn chặn cuộc tấn c�
 * Nhiều năm trước đây, sự yếu kém của đường truyền TCP được các HĐH sử dụng đã bị các Internet's Hacker kháp phá ra và lợi dụng.
 * Theo sơ đồ dưới đây, Client gửi SYN packet cho server để thông báo server chuẩn bị 1 đường truyền. Server sẽ giành 1 phần tài nguyên hệ thống như bộ nhớ đệm để nhận và truyền dữ liệu. Ngoài ra các thông tin khác của Client cũng được ghi nhận như địa chỉ IP của Client và Cổng ( Port ). Sau đó server sẽ send ngược lại SYN/ACK packet để thông báo Client là mọi thứ đã chuẩn bị và nếu như không nhận đuợc ACK packt của Client ( có thể do packet đã bị thất lạc trên đường truyền ), server sẽ tiếp tục gửi lại SYN/ACK packet cho Client.
 
-    ![Phương pháp SYN flood truyền thống](/assets/img/post/synflood.PNG)
+    ![Phương pháp SYN flood truyền thống](https://i.imgur.com/xRAzSo6.png)
 
 * Nhưng chúng ta sẽ tiếp tục suy nghĩ tiếp. Như vậy với bất cứ 1 SYN packet đơn giản nào, Server cũng phải để 1 phần tài nguyên cho đường truyền đó, và tài nguyên của Server là có hạn và Hacker sẽ tìm mọi cách để Server đạt được cái giới hạn đó. ( Đây còn được gọi là halfopen connection).
 * Bằng cách dùng Raw Sockets ( không phải TCP hay DUP packet ), IP gốc của packet có thể bị ghi đè lên và làm giả mạo. Khi một SYN packet với IP giả mạo được gửi đến Server, nó cũng như bao packet khác, vẫn hợp lệ đối với Server và Server sẽ cấp vùng tài nguyên cho đường truyền này, ghi nhận toàn bộ thông tin và gủi SYN/ACK packet ngược lại cho Client. Vì địa chỉ IP của Client là giả mạo nên sẽ không có Client nào nhận được SYN/ACK packet này, sau 1 thời gian không nhận được ACK packet từ Client, Server nghĩ rằng packet bị thất lạc nên lại tiếp tục gửi tiếp SYN/ACK packet, cứ như thế, connection tiếp tục mở.

@@ -2,12 +2,12 @@
 layout: single
 title:  "4 cách hữu hiệu giúp bạn không còn lãng phí thời gian mỗi ngày"
 date:   2017-08-07
-categories: [chia-se]
-tags: [cân bằng,life]
+categories: [ky-nang-song]
+tags: [kỹ năng sống,quản lý thời gian]
 lang: vi
-image: "/assets/img/post/quan-ly-thoi-gian.jpg"
+image: "https://i.imgur.com/l9U4rHF.jpg"
 header:
-  overlay_image: /assets/img/post/quan-ly-thoi-gian.jpg
+  overlay_image: https://i.imgur.com/l9U4rHF.jpg
 excerpt: "Sau khi đọc xong bài viết 4 cách hữu hiệu để không còn lãng phí thời gian mỗi ngày này, bạn sẽ nhận được một món quà vô cùng đặc biệt - một đống thời gian để có thể làm việc nhiều hơn ngay lập tức"
 ---
 

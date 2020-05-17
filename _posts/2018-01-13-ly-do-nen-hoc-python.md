@@ -2,18 +2,18 @@
 layout: single
 title:  "Những lý do mà bạn nên học Python ngay bây giờ"
 date:   2018-01-13
-categories: [chia-se]
-tags: [python,laptrinh]
+categories: [lap-trinh]
+tags: [python,lập trình]
 lang: vi
-image: "/assets/img/post/python.jpg"
+image: "https://i.imgur.com/DGlu62W.jpg"
 header:
-  overlay_image: /assets/img/post/python.jpg
+  overlay_image: https://i.imgur.com/DGlu62W.jpg
 excerpt: "Với nhừng người mới học lập trình thì **Python là thứ nếu bỏ qua thì bạn sẽ rất hối tiếc** vì quyết định này, nói thật đấy nếu bạn đang muốn học lập trình thì Python là thứ mà chắc chắn cần thử qua"
 ---
 
 # Những lý do mà bạn nên học Python ngay bây giờ
 
-![hinh1](https://3.bp.blogspot.com/-dnkavyywDLk/Wlmw9Da2ODI/AAAAAAAAB-0/eGv6XPio-fcDAPp5Dfk5sNqxbFciHFz6gCLcBGAs/s1600/CM_FCzGUAAQyQAt.jpg)
+![hinh1](https://i.imgur.com/4lE7JAZ.jpg)
 
 ### Nó dễ vờ cờ !!!
 Code được viết bằng **Python** thì nó rất đã dễ đọc và nhìn - gần như phần "sườn" của Python được viết bằng tiếng Anh.
@@ -45,7 +45,7 @@ Nếu bạn muốn học và tìm hiểu về bảo mật thì Python chính là
 
 ### Trí tuệ nhân tạo AI, IoT
 
-![hinh2](https://4.bp.blogspot.com/-NpwWgPk9VVM/WlmwhJjtbkI/AAAAAAAAB-s/P1AWYHgjMKUTaBbVK22-5y77vCuWqDM6wCLcBGAs/s640/ai-digital-voices-796x398.jpg)
+![hinh2](https://i.imgur.com/NoS9bwg.jpg)
 
 **Cuộc cách mạng công nghệ 4.0** nó đã sát mông rồi, việc học cũng phải thay đổi theo nó từng ngày từng giờ nếu như các ông không muốn mất việc :)) Điều này cũng sẽ làm bạn trở nên theo kịp với những xu hướng công nghệ.
 
@@ -53,7 +53,7 @@ Với sự linh hoạt của ngôn ngữ, tốc độ, và các chức năng c�
 
 ### Cộng đồng học lớn
 
-![hinh3](https://2.bp.blogspot.com/-OxX_6wO7oeQ/WlmwWybBqpI/AAAAAAAAB-o/GD9E0B-FFTEVtmrklhKUFLrFR7EltfUAACLcBGAs/s400/6a0105360ba1c6970c01bb09a1646b970d-800wi.png)
+![hinh3](https://i.imgur.com/VQp3cdL.png)
 
 Có một vấn đề bạn không thể tìm ra trong Python, hoặc cần một thứ gì đó phát triển việc học của bạn, thì chỉ cần lên những group **Facebook** hay những cộng đồng Python, họ sẽ sẵn sàng giúp đỡ bạn. Did u know? Python là ngôn ngữ chiếm thứ 2 trong 
 

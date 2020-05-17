@@ -2,12 +2,12 @@
 layout: single
 title: "Giao thức bảo mật WPA3 mới được công bố"
 date: 2018-01-10
-categories: [an-toan-thong-tin]
-tags: [an toàn,bảo mật, công nghệ cao]
+categories: [an-ninh-mang]
+tags: [an ninh mạng]
 excerpt: "WiFi Alliance mới tuyên bố giao thức bảo mật không dây thế hệ mới đã được chờ đợi từ lâu - WiFi Protected Access (WPA3). WPA3 sẽ thay thế WPA2 - giao thức đã và đang được sử dụng 15 năm qua trên nhiều thiết bị không dây, trong đó có smartphone, laptop và các thiết bị IoT."
-image: "/assets/img/post/wpa3.jpg"
+image: "https://i.imgur.com/8lgW50u.jpg"
 header:
-  overlay_image: /assets/img/post/wpa3.jpg
+  overlay_image:
 ---
 ## Giao thức bảo mật không dây WPA3 mới vừa được công bố có gì đáng quan tâm?
 
@@ -17,7 +17,7 @@ WPA2 từ lâu đã bị cho là không an toàn do các mạng WiFi mở không
 
 Quan trọng nhất là WPA2 cũng mới bị phát hiện có lỗ hổng KRACK (Key Reinstallation Attack) cho phép kẻ tấn công can thiệp, giải mã traffic WiFi giữa các máy tính và các điểm truy cập.
 
-![Chuẩn WiFi mới mang đến khả năng bảo mật cao hơn](https://img.quantrimang.com/photos/image/2018/01/10/wifi-wpa-3-640.jpg)
+![Chuẩn WiFi mới mang đến khả năng bảo mật cao hơn](https://i.imgur.com/t9oaByc.jpg)
 
 Chuẩn WiFi mới mang đến khả năng bảo mật cao hơn
 

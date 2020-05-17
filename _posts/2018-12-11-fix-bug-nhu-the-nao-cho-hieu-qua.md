@@ -2,12 +2,12 @@
 layout: single
 title: "Fix bug như thế nào cho hiệu quả"
 date: 2018-12-11
-categories: [chia-se]
-tags: [fix bug,laptrinh]
+categories: [lap-trinh]
+tags: [fix bug,lập trình]
 lang: vi
-image: "/assets/img/trickit/fix-bug.png"
+image: "https://i.imgur.com/2EwJZdg.png"
 header:
-  overlay_image: /assets/img/trickit/fix-bug.png
+  overlay_image:
 excerpt: "Các bạn có thể hiểu đơn giản fix bug mình đang nói ở đây là sửa lỗi, giải quyết vấn đề đang vướng mắc trong lĩnh vực công nghệ thông tin như lỗi trong khi lập trình, lỗi khi sử dụng phần mềm mà không được như ý muốn của các bạn"
 ---
 

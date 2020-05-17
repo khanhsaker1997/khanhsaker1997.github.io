@@ -3,18 +3,18 @@ layout: single
 title:  "Hướng dẫn cài đặt USB Boot theo chuẩn UEFI hoặc LEGACY"
 date:   2017-08-03
 categories: [he-dieu-hanh]
-tags: [usb, boot]
+tags: [usb boot]
 lang: vi
-image: "/assets/img/post/usb-boot.jpg"
+image: "https://i.imgur.com/aBgWNlx.jpg"
 header:
-  overlay_image: /assets/img/post/usb-boot.jpg
+  overlay_image: https://i.imgur.com/aBgWNlx.jpg
 excerpt: "Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều hành khác thì hệ điều hành đó của bạn phải Boot theo chuẩn giống chuẩn của Windows bạn đang dùng. Với Kali Linux cũng vậy, muốn **Grub** của Kali Linux nhận phân vùng của Windows thì bạn cũng phải Boot theo chuẩn giống với Windows đang sử dụng. Sau đây mình sẽ hướng dẫn các bạn cài Kali Linux theo chuẩn UEFI hoặc LEGACY"
 ---
 ### Đôi khi các bạn muốn tạo một USB Boot để cài win và muốn Boot theo chuẩn theo ý của mình. Chẳng hạn bạn đang dùng Windows mà muốn cài song song với hệ điều hành khác thì hệ điều hành đó của bạn phải Boot theo chuẩn giống chuẩn của Windows bạn đang dùng. Với Kali Linux cũng vậy, muốn **Grub** của Kali Linux nhận phân vùng của Windows thì bạn cũng phải Boot theo chuẩn giống với Windows đang sử dụng. Sau đây mình sẽ hướng dẫn các bạn cài Kali Linux theo chuẩn UEFI hoặc LEGACY.
 
 #### Các bạn cần chuẩn bị cho mình phần mềm **Rufus**. Phần mềm này rất nhẹ nha. Các bạn có thể [tải về tại đây](http://rufus.akeo.ie/)
 
-![Hình 1](/assets/img/OperatingSystem/rufus.jpg)
+![Hình 1](https://i.imgur.com/RanF4mx.jpg)
 
 * B1: Bạn chọn đường dẫn đến file _ISO_ của Kali Linux.
 * B2: Chọn USB mà bạn muốn tạo.

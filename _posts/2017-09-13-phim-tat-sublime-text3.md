@@ -2,12 +2,12 @@
 layout: single
 title: "Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3"
 date: 2017-09-13
-categories: [thu-thuat]
+categories: [lap-trinh]
 tags: [sublime text,phím tắt]
 lang: vi
-image: "/assets/img/post/sublime-plugin.jpg"
+image: "https://i.imgur.com/QmaM5My.jpg"
 header:
-  overlay_image: /assets/img/post/sublime-plugin.jpg
+  overlay_image: https://i.imgur.com/QmaM5My.jpg
 excerpt: "Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó"
 ---
 ## Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích. Sau đây là danh sách các phím tắt giup bạn làm việc nhanh và hiệu quả hơn rất nhiều với nó.
