@@ -5,9 +5,9 @@ date:   2017-09-18
 categories: [lap-trinh]
 tags: [lập trình,phím tắt]
 lang: vi
-image: "https://i.imgur.com/tEsG2nV.jpg"
 header:
   overlay_image: https://i.imgur.com/tEsG2nV.jpg
+  image: "https://i.imgur.com/tEsG2nV.jpg"
 excerpt: "Thay vì sử dụng chuột, tổng hợp các phím tắt sau đây sẽ giúp cho bạn thao tác và xử nhanh trên giao diện của windows"
 ---
 

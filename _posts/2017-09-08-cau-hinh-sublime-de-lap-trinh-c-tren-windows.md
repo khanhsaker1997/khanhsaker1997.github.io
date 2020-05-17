@@ -5,9 +5,9 @@ date: 2017-09-08
 categories: [lap-trinh]
 tags: [sublime text, lập trình c]
 lang: vi
-image: "https://i.imgur.com/QmaM5My.jpg"
 header:
   overlay_image: https://i.imgur.com/QmaM5My.jpg
+  image: "https://i.imgur.com/QmaM5My.jpg"
 excerpt: "Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++."
 ---
 ## Ở bài trước mình đã hướng dẫn các bạn khắc phục lỗi không cài được Plugin trên Sublime Text 3. Bài này mình sẽ hướng dẫn các bạn cấu hình nó để lập trình ngôn ngữ C, C++.

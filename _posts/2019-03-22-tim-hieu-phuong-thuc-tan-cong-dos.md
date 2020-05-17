@@ -4,9 +4,9 @@ title: Tìm hiểu phương thức tấn công DoS.
 date: 2019-03-22
 categories: [an-ninh-mang]
 tags: [an ninh mạng]
-image: https://i.imgur.com/HAGkknu.jpg
 header:
   overlay_image: https://i.imgur.com/HAGkknu.jpg
+  image: https://i.imgur.com/HAGkknu.jpg
 excerpt: Là một kiểu tấn công mà một người làm cho một hệ thống không thể sử dụng, hoặc làm cho hệ thống đó chậm đi một cách đáng kể với người dùng bình thường, bằng cách làm quá tải tài nguyên của hệ thống.
 ---
 

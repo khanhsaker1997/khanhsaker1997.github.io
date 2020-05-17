@@ -5,9 +5,9 @@ date:   2017-08-03
 categories: [may-tinh]
 tags: [hệ điều hành,linux,windows 10]
 lang: vi
-image: "https://i.imgur.com/LBislm8.jpg"
 header:
-#  overlay_image: https://i.imgur.com/LBislm8.jpg
+    overlay_image: # https://i.imgur.com/LBislm8.jpg
+    image: "https://i.imgur.com/LBislm8.jpg"
 excerpt: "_Windows_ và _Linux_ và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dùng máy ảo, nhưng để trải nghiệm thật nhất, sau đây tôi sẽ hướng dẫn các bạn cài song song 2 hệ điều hành này"
 ---
 ##### _Windows_ và _Linux_ và 2 hệ điều hành được dùng phổ biến nhất hiện nay. Trong khi đó có nhiều bạn muốn được trải nghiệm cả 2 hệ điều hành này. Các bạn có thể dùng máy ảo, nhưng để trải nghiệm thật nhất, sau đây tôi sẽ hướng dẫn các bạn cài song song 2 hệ điều hành này.

@@ -5,9 +5,9 @@ date: 2017-09-12
 excerpt: "An toàn và bảo mật thông tin là một nhiệm vụ vô cùng quan trọng, khó khăn của bất kỳ một tổ chức, cá nhân nào khi tham gia trao đổi tin."
 categories: [an-ninh-mang]
 tags: [an ninh mạng]
-image: "https://i.imgur.com/w8wFbXk.jpg"
 header:
   overlay_image: https://i.imgur.com/w8wFbXk.jpg
+  image: "https://i.imgur.com/w8wFbXk.jpg"
 ---
 ### Thực trạng công nghệ thông tin
 :large_orange_diamond: 60% sàn chứng khoán của Mỹ là do công nghệ thông tin.

@@ -5,9 +5,9 @@ date:   2017-07-30
 categories: [ky-nang-song]
 tags: [kỹ năng sống]
 lang: vi
-image: "https://i.imgur.com/M5AuIq3.jpg"
 header:
   overlay_image: https://i.imgur.com/M5AuIq3.jpg
+  image: "https://i.imgur.com/M5AuIq3.jpg"
 excerpt: "Bài viết này được chia sẻ trên Facebook Trịnh Thành. Đôi khi việc so đo cuộc sống của bạn với cuộc sống của những người xung quanh sẽ làm bạn quên mất cuộc sống này là của riêng bạn."
 ---
 

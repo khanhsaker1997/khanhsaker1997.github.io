@@ -5,9 +5,9 @@ date:   2017-08-07
 categories: [ky-nang-song]
 tags: [kỹ năng sống,quản lý thời gian]
 lang: vi
-image: "https://i.imgur.com/l9U4rHF.jpg"
 header:
   overlay_image: https://i.imgur.com/l9U4rHF.jpg
+  image: "https://i.imgur.com/l9U4rHF.jpg"
 excerpt: "Sau khi đọc xong bài viết 4 cách hữu hiệu để không còn lãng phí thời gian mỗi ngày này, bạn sẽ nhận được một món quà vô cùng đặc biệt - một đống thời gian để có thể làm việc nhiều hơn ngay lập tức"
 ---
 

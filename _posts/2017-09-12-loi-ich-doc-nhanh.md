@@ -4,9 +4,9 @@ title: "Đọc nhanh giúp bạn dễ dàng hơn tiếp cận với kho tri th�
 date: 2017-09-12
 categories: [ky-nang-song]
 tags: [kỹ năng sống, đọc sách]
-image: "https://i.imgur.com/CAqphzD.jpg"
 header:
   overlay_image:
+  image: "https://i.imgur.com/CAqphzD.jpg"
 excerpt: "Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn"
 ---
 :red_circle: Công việc hằng ngày đòi hỏi chúng ta phải làm việc nhiều hơn, nhanh hơn. Bạn càng ở vị trí cao thì bạn càng phải đọc nhiều, suy nghĩ nhanh hơn, làm việc nhiều hơn

@@ -5,9 +5,9 @@ date:   2018-01-12
 categories: [lap-trinh]
 tags: [swift,lập trình]
 lang: vi
-image: "https://i.imgur.com/5W1H3BL.jpg"
 header:
   overlay_image: https://i.imgur.com/5W1H3BL.jpg
+  image: "https://i.imgur.com/5W1H3BL.jpg"
 excerpt: "Lập trình có thể rất căng thẳng, đặc biệt nếu bạn cố gắng bắt đầu với một ngôn ngữ lập trình cổ. Người mới học tốt hơn nên tiếp cận vào một thứ gì đó hiện đại hơn, chẳng hạn như Python, Ruby hoặc Swift."
 ---
 

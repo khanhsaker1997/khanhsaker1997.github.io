@@ -5,9 +5,9 @@ date:   2017-08-19
 categories: [lap-trinh]
 tags: [lập trình, thủ thuật]
 lang: vi
-image: https://i.imgur.com/6XQFpXq.jpg
 header:
   overlay_image:
+  image: https://i.imgur.com/6XQFpXq.jpg
 excerpt: "Thông thường khi muốn chạy ứng dụng với quyền quản trị **administrator** bạn chỉ cần click chuột phải vào ứng dụng rồi chọn **_run administrator_**"
 ---
 ### Thông thường khi muốn chạy ứng dụng với quyền quản trị **administrator** bạn chỉ cần click chuột phải vào ứng dụng rồi chọn **_run administrator_**.

@@ -5,9 +5,9 @@ date:   2017-08-23
 categories: [lap-trinh]
 tags: [lập trình, thủ thuật]
 lang: vi
-image: 
 header:
   overlay_image:
+  image: 
 excerpt: "Rất nhiều bạn khi mở **SQL Server Managenent Studio** thì không kết nỗi được vào server (Cannot connect to _YourServer_ ). Lỗi đó rất nhiều người bị và nó xảy ra liên tục"
 ---
 ### Rất nhiều bạn khi mở **SQL Server Managenent Studio** thì không kết nỗi được vào server (Cannot connect to _YourServer_ ). Lỗi đó rất nhiều người bị và nó xảy ra liên tục.

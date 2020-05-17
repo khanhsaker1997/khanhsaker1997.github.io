@@ -4,9 +4,9 @@ title: Tìm hiểu phương thức tấn công DrDoS.
 date: 2019-03-22
 categories: [an-ninh-mang]
 tags: [an ninh mạng]
-image: https://i.imgur.com/QCQauGE.png
 header:
   overlay_image:
+  image: https://i.imgur.com/QCQauGE.png
 excerpt: Mục tiêu chính của DRDoS là chiếm đoạt toàn bộ băng thông của máy chủ, tức là làm tắc nghẽn hoàn toàn đường kết nối từ máy chủ vào xương sống của Internet và tiêu hao tài nguyên máy chủ.
 ---
 # Giới thiệu về DrDoS

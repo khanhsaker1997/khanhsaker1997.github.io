@@ -5,9 +5,9 @@ date: 2018-12-11
 categories: [lap-trinh]
 tags: [fix bug,lập trình]
 lang: vi
-image: "https://i.imgur.com/2EwJZdg.png"
 header:
   overlay_image:
+  image: "https://i.imgur.com/2EwJZdg.png"
 excerpt: "Các bạn có thể hiểu đơn giản fix bug mình đang nói ở đây là sửa lỗi, giải quyết vấn đề đang vướng mắc trong lĩnh vực công nghệ thông tin như lỗi trong khi lập trình, lỗi khi sử dụng phần mềm mà không được như ý muốn của các bạn"
 ---
 

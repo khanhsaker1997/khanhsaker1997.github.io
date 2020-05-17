@@ -5,9 +5,9 @@ date: 2017-08-27
 categories: [lap-trinh]
 tags: [sublime text,lập trình]
 lang: vi
-image: "https://i.imgur.com/ggtUcYB.png"
 header:
   overlay_image: https://i.imgur.com/ggtUcYB.png
+  image: "https://i.imgur.com/ggtUcYB.png"
 excerpt: "Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng"
 ---
 ### Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.

@@ -5,9 +5,9 @@ date:   2018-01-13
 categories: [lap-trinh]
 tags: [python,lập trình]
 lang: vi
-image: "https://i.imgur.com/DGlu62W.jpg"
 header:
   overlay_image: https://i.imgur.com/DGlu62W.jpg
+  image: "https://i.imgur.com/DGlu62W.jpg"
 excerpt: "Với nhừng người mới học lập trình thì **Python là thứ nếu bỏ qua thì bạn sẽ rất hối tiếc** vì quyết định này, nói thật đấy nếu bạn đang muốn học lập trình thì Python là thứ mà chắc chắn cần thử qua"
 ---
 

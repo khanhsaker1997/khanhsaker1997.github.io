@@ -5,9 +5,9 @@ date: 2017-09-27
 categories: [lap-trinh]
 tags: [ẩn thư mục,lập trình, thủ thuật]
 lang: vi
-image: "https://i.imgur.com/osuMA8l.jpg"
 header:
   overlay_image: https://i.imgur.com/osuMA8l.jpg
+  image: "https://i.imgur.com/osuMA8l.jpg"
 excerpt: "Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn"
 ---
 Đôi khi vì lí do nào đó bạn muốn ẩn đi những thư mục, thậm chí ẩn đi cả ổ đĩa cứng trong máy tính của bạn. Bài viết này mình sẽ hướng dẫn các bạn.

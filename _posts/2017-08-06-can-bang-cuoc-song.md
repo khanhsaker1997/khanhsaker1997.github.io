@@ -5,9 +5,9 @@ date:   2017-08-06
 categories: [ky-nang-song]
 tags: [kỹ năng sống]
 lang: vi
-image: "https://i.imgur.com/RQ3cECl.jpg"
 header:
   overlay_image: https://i.imgur.com/RQ3cECl.jpg
+  image: "https://i.imgur.com/RQ3cECl.jpg"
 excerpt: "Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn"
 ---
 ### Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.
