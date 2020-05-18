@@ -106,4 +106,6 @@ Bước 5: Nhấp vào **OK** để áp dụng các thay đổi của bạn.
 
 # Nếu không có gì khác hoạt động, bạn có thể Reset PC của bạn mà không mất tập tin
 
+> By Nguyễn Duy Khánh
+
 
