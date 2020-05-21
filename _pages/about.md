@@ -41,6 +41,35 @@ layout: single
 
 	<i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
 	<b>Facebook:</b> <a href="https://fb.com/khanhsakercsdn">fb.com/khanhsakercsdn</a>
+
+
+	<section id="contact" style="height: auto">
+		<div>
+			<h2>Say hello to me!</h2>
+		</div>
+		<div>
+			<div>
+				<div id="contact-form-wrapper">
+					<form id="contact-form" class="js-form form" method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSdaLOuWHSlzzAob7J1ShY2WuYTMGncV7yR7beavnnhcbTYNnw/formResponse">
+						<div class="form-group">
+							<label for="message">Message</label>
+							<textarea class="form-control" type="text" rows="3" id="contactform-message" name="entry.937941528" tabindex="1"></textarea>
+						</div>
+						<div class="form-group">
+							<label for="name">Your name</label>
+							<textarea class="form-control" type="text" rows="1" id="contactform-name" name="entry.1468537712" tabindex="1"></textarea>
+						</div>
+						<div class="form-group">
+							<button type="submit" id="contact-form-submit" tabindex="5" class="btn btn--info">
+								<span class="text">Send</span>
+							</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
+
 </div>
 
 <style media="screen">
