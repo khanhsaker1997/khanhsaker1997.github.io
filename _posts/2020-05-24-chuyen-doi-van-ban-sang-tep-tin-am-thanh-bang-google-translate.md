@@ -13,7 +13,7 @@ excerpt: Bài viết này tôi sẽ hướng dẫn các bạn tạo phần mềm
 
 Google cung cấp rất nhiều dịch vụ và là một trong những công ty công nghệ hàng đầu thế giới. Các dịch vụ của Google đều rất dễ sử dụng và tương thích với tất cả các ngôn ngữ trên thế giới. **Google Translate** là ứng dụng dịch văn bản được nhiều người dùng nhất trên thế giới. Nếu khai thác hết tính năng của **Google Translate** bạn còn có thể dùng nó như **Proxy** để truy cập vào trang web bị chặn. Còn trong bài viết này, mình sẽ hướng dẫn các bạn dùng **Google translate** để chuyển đổi văn bản sang tệp tin âm thanh **mp3** đơn giản.
 
-## Bước 1: Truy cập vào trang web dịch vụ của [Google Translate](translate.google.com)
+## Bước 1: Truy cập vào trang web dịch vụ của [Google Translate](https://translate.google.com)
 
 Hoặc bạn có thể tìm kiếm **Translate** rồi click vào kết quả tìm kiếm đầu tiên
 
