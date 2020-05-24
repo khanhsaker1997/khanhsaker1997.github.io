@@ -6,14 +6,16 @@ categories: [lap-trinh]
 tags: [lập trình,windows 10]
 toc: true
 header:
-  # overlay_image: "https://i.imgur.com/0jJPmXc.jpg"
-  image: "https://i.imgur.com/0jJPmXc.jpg"
+  # overlay_image: "https://i.imgur.com/fEcb8Qu.jpg"
+  image: "https://i.imgur.com/fEcb8Qu.jpg"
 excerpt: Bài viết này tôi sẽ hướng dẫn các bạn tạo phần mềm để rọn rác máy tính đơn giản sử dụng lệnh command promt với đuôi mở rộng bat. Cụ thể mình sẽ tạo ứng dụng xóa các file tạm thời trên máy tính để giúp cho máy máy chạy mượt  hơn.
 ---
 
 Google cung cấp rất nhiều dịch vụ và là một trong những công ty công nghệ hàng đầu thế giới. Các dịch vụ của Google đều rất dễ sử dụng và tương thích với tất cả các ngôn ngữ trên thế giới. **Google Translate** là ứng dụng dịch văn bản được nhiều người dùng nhất trên thế giới. Nếu khai thác hết tính năng của **Google Translate** bạn còn có thể dùng nó như **Proxy** để truy cập vào trang web bị chặn. Còn trong bài viết này, mình sẽ hướng dẫn các bạn dùng **Google translate** để chuyển đổi văn bản sang tệp tin âm thanh **mp3** đơn giản.
 
-## Bước 1: Truy cập vào trang web dịch vụ của [Google Translate](translate.google.com) hoặc tìm kiếm **Translate** rồi click vào kết quả tìm kiếm đầu tiên
+## Bước 1: Truy cập vào trang web dịch vụ của [Google Translate](translate.google.com)
+
+Hoặc bạn có thể tìm kiếm **Translate** rồi click vào kết quả tìm kiếm đầu tiên
 
 ![Hình 1](https://i.imgur.com/kuZVdBo.png)
 
@@ -25,7 +27,9 @@ Google cung cấp rất nhiều dịch vụ và là một trong những công ty
 
 ![Hình 3](https://i.imgur.com/pDfoNK0.png)
 
-## Bước 4: Một cửa sổ điều chỉnh sẽ hiện ra ở bên phải màn hình. Bạn chọn vào mục **Network**. Sau đó Click vào nút màu đỏ như hình bên dưới. (Bạn phải đảm bảo nút đó màu đỏ)
+## Bước 4: Một cửa sổ điều chỉnh sẽ hiện ra ở bên phải màn hình. Bạn chọn vào mục **Network**.
+
+Sau đó Click vào nút màu đỏ như hình bên dưới. (Bạn phải đảm bảo nút đó màu đỏ)
 
 ![Hình 4](https://i.imgur.com/OClKnTH.png)
 
