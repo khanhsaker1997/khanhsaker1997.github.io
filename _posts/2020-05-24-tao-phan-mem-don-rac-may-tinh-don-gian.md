@@ -41,16 +41,15 @@ Tệp tin tạm thời trong máy tính của bạn có thể làm bị xóa b�
  deltree /y c:\windows\spool\printers
  cls
  ```
- 
- ## Bước 3: Lưu lại với tên gì cũng được miễn là đuôi mở rộng là **.bat**
 
+## Bước 3: Lưu lại với tên gì cũng được miễn là đuôi mở rộng là **.bat**.
 
- ![hình 3](https://i.imgur.com/TZKigNK.png)
+![hình 3](https://i.imgur.com/TZKigNK.png)
 
- Như vậy là bạn đã có phần mềm rọn rác riêng của bạn rồi đó. Mỗi khi bạn cần dọn rác máy tính thì bạn chỉ cần kích đúp chuột vào tệp tin **.bat** kia.
+Như vậy là bạn đã có phần mềm rọn rác riêng của bạn rồi đó. Mỗi khi bạn cần dọn rác máy tính thì bạn chỉ cần kích đúp chuột vào tệp tin **.bat** kia.
 
- Các bạn có cách nào khác hay ho thì chia sẻ cho anh em biết trong phần bình luận bên dưới nhé.
+Các bạn có cách nào khác hay ho thì chia sẻ cho anh em biết trong phần bình luận bên dưới nhé.
 
- Và để lại nhận xét về bài viết này để mình cải thiện hơn trong các bài viết tiếp theo nha. Cám ơn các bạn!
+Và để lại nhận xét về bài viết này để mình cải thiện hơn trong các bài viết tiếp theo nha. Cám ơn các bạn!
 
- >By Nguyễn Duy Khánh
+>By Nguyễn Duy Khánh
