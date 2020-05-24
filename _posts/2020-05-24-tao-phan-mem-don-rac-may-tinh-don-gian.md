@@ -19,8 +19,6 @@ Tệp tin tạm thời trong máy tính của bạn có thể làm bị xóa b�
 
 ## Bước 2: Sao chép và dán đoạn mã sau đây vào chương trình notepad vừa tạo ra.
 
-![hình 2](https://i.imgur.com/O9P79Pz.png)
-
 ```bat
 @echo off
  del /s /f /q c:\windows\temp\*.*
