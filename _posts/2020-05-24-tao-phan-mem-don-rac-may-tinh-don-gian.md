@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Tạo phần mềm dọn rác máy tính đơn giản
-date: 2020-05-23
+date: 2020-05-24
 categories: [lap-trinh]
 tags: [lập trình,windows 10]
 toc: true
