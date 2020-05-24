@@ -13,7 +13,7 @@ excerpt: Bài viết này tôi sẽ hướng dẫn các bạn tạo phần mềm
 
 Tệp tin tạm thời trong máy tính của bạn có thể làm bị xóa bởi tệp tin **bat**. Tệp tin **bat** dưới đây sẽ xóa mọi các **cookie**, **bộ đệm** và bất kỳ dữ liệu tạm thời nào khác. Các bước để tạo tệp tin như sau:
 
-## Bước 1: Nhấp chuột phải vào màn hình, chuyển đến **new** và nhấp vào **text document**.
+## Bước 1: Nhấp chuột phải vào màn hình, chuyển đến *new* và nhấp vào *text document*.
 
 ![hình 1](https://i.imgur.com/O9P79Pz.png)
 
@@ -42,7 +42,7 @@ Tệp tin tạm thời trong máy tính của bạn có thể làm bị xóa b�
  cls
  ```
 
-## Bước 3: Lưu lại với tên gì cũng được miễn là đuôi mở rộng là **.bat**.
+## Bước 3: Lưu lại với tên gì cũng được miễn là đuôi mở rộng là *.bat*.
 
 ![hình 3](https://i.imgur.com/TZKigNK.png)
 
