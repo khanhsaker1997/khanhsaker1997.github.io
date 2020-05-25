@@ -27,7 +27,7 @@ Bước 1: Nhấn tổ hợp phím **Windows key + R**. Nhập **Regedit** rồi
 
 Bước 2: Trong cửa sổ **Registry Editor** điều hướng đến đường dẫn sau đây. 
 
-**HKEY_CURRENT_USER \ Software \ Microsoft \ Windows \ CurrentVersion \ Chính sách \ Explorer**
+**HKEY_CURRENT_USER \ Software \ Microsoft \ Windows \ CurrentVersion \ Policies \ Explorer**
 
 Tiếp theo, nhấp chuột phải trên vùng trống khung bên phải, chọn **New > DWORD (32-bit) Value**
 
