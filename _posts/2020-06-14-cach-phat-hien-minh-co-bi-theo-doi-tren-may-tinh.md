@@ -23,7 +23,7 @@ Lí do bạn bị theo dõi có rất nhiều. Với bản thân mình, mình t�
 
 Điển hình cho bạn, ngày xưa bộ đội dẫn tín hiệu analog ngoài chiến trường. Nếu để kể địch nghe lén được, mọi kế hoạch sẽ đổ vỡ.
 
-**Note: **Hầu đa máy tính đều bị tracking thông qua "Keylogger", nên mình sẽ nói nhiều về Keylogger thay vì các loại phần mềm theo dõi khác nhé! (đa phần đều như nhau).
+**Note:** Hầu đa máy tính đều bị tracking thông qua "Keylogger", nên mình sẽ nói nhiều về Keylogger thay vì các loại phần mềm theo dõi khác nhé! (đa phần đều như nhau).
 
 ## Dấu hiệu ban đầu
 
