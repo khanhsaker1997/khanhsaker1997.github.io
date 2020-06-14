@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cách kiểm tra địa chỉ IP trên Windows 10
-date: 2020-05-27*
+date: 2020-05-27
 categories: [lap-trinh]
 tags: [lập trình,windows 10]
 toc: true
