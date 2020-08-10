@@ -17,6 +17,8 @@ Trong những năm gần đây, không phải Virus mà chính **Ransomware** m�
 
 Các cuộc tấn công sử dụng Ransomware ngày càng nhiều, vì vậy các bạn nên bật tính năng chống mã độc tống tiền trên Windows để bảo vệ máy tính như sau:
 
+Windows Defender là công cụ có sẵn trên Windows 10 giúp bảo vệ người dùng tránh khỏi các cuộc tấn công mạng. Tuy nhiên, ít người biết rằng công cụ này cũng có tính năng bảo vệ máy tính khỏi mã độc tống tiền (ransomware), nhưng lại bị vô hiệu hóa theo mặc định.
+
 Bước 1: Bạn nhấp vào menu Start trên Windows rồi nhập từ "**Windows Security**" rồi nhấn Enter.
 
 ![Hình 1](https://i.imgur.com/76N2Y4h.jpg)
