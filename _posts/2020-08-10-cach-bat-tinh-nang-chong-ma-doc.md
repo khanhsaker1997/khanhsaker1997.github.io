@@ -3,7 +3,7 @@ layout: single
 title: Cách bật tính năng chống mã độc tống tiền trên Windows
 date: 2020-08-10
 categories: [an-ninh-mang]
-tags: [an ninh mạng],windows 10]
+tags: [an ninh mạng,windows 10]
 toc: true
 header:
   # overlay_image: "https://i.imgur.com/Zfh9hgr*.jpg"
