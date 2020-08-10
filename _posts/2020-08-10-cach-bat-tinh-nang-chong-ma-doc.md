@@ -12,9 +12,9 @@ excerpt: Bài viết này sẽ hướng dẫn các bạn cách bật tính năng
 ---
 
 ## Mã độc tống tiền là gì?
-Mã độc tống tiền (hay còn gọi là Ransomware) là loại phần mềm độc hại có mục đích tống tiền người dùng bằng cách xâm nhập vào máy tính và thao túng dữ liệu của nạn nhân. Thường thì mã độc này sẽ mã hóa giữ liệu và đòi tiền chuôc để giải mã giữ liệu.
+**Mã độc tống tiền** (hay còn gọi là Ransomware) là loại phần mềm độc hại có mục đích tống tiền người dùng bằng cách xâm nhập vào máy tính và thao túng dữ liệu của nạn nhân. Thường thì mã độc này sẽ mã hóa giữ liệu và đòi tiền chuôc để giải mã giữ liệu.
 
-Trong những năm gần đây, không phải Virus mà chính Ransomware mới là mối đe dọa đối với các tổ chức, doanh nghiệp.
+Trong những năm gần đây, không phải Virus mà chính **Ransomware** mới là mối đe dọa đối với các tổ chức, doanh nghiệp.
 
 Các cuộc tấn công sử dụng Ransomware ngày càng nhiều, vì vậy các bạn nên bật tính năng chống mã độc tống tiền trên Windows để bảo vệ máy tính như sau:
 
