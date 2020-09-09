@@ -16,7 +16,7 @@ excerpt: "_Windows_ và _Linux_ và 2 hệ điều hành được dùng phổ bi
 
 **Các bạn cần chuẩn bị:**
 1. Phân vùng ổ cứng tầm 15gb trên Windows (đưa phân vùng đó về chế độ Unallocated).
-2. Một USB Boot Kali Linux theo chuẩn giống hệ điều hành Windows mà bạn đang sử dụng. Bạn có thể dùng phần mềm _Rufus_ và [xem hướng dẫn ở đây](https://khanhsaker97.github.io/operating-systems/tao-usb-boot-chuan/)
+2. Một USB Boot Kali Linux theo chuẩn giống hệ điều hành Windows mà bạn đang sử dụng. Bạn có thể dùng phần mềm _Rufus_ và [xem hướng dẫn ở đây](https://khanhsaker97.github.io/he-dieu-hanh/tao-usb-boot-chuan/)
 3. Kết nối Wifi hoặc mạng Ethernet.
 4. Máy tính và những ngón tay của b (Tất nhiên rồi hehe).
 
