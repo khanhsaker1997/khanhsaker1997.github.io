@@ -9,7 +9,7 @@ header:
   # overlay_image: "https://i.imgur.com/gMRN85c.jpg"
   image: "https://i.imgur.com/O7ghxKB.png"
 excerpt: Bài viết này sẽ giúp các bạn biết cách bảo vệ hệ thống mạng trong nhà khỏi các cuộc tấn công. Bao gồm bảo vệ router và modem cũng như các thiết bị khác bạn dùng để kết nối với Internet.
-#ngay1
+#ngay3
 ---
 # Bạn có biết router và modem của bạn nằm đâu không?
 Các bạn cần phải biết phân biệt cái nào là **router**, cái nào là **modem**, không biết thì tự google nhé. Sau đó, ghi lại thương hiệu và số model trên mỗi thiết bị và tìm Google tên của chúng kèm ngày phát hành. Các thiết bị đó được sản xuất bao lâu rồi? Nếu chúng được sản xuất vài năm trước, bạn nên cân nhắc việc nâng cấp lên một router hay modem đời mới.
