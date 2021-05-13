@@ -40,7 +40,7 @@ layout: single
 	<b>Email:</b> <a href="mailto:khanhsaker1997@gmail.com">khanhsaker1997@gmail.com</a><br><br>
 
 	<i class="fab fa-facebook fa-lg" aria-hidden="true"></i>
-	<b>Facebook:</b> <a href="https://fb.com/khanhsakercsdn">fb.com/khanhsakercsdn</a>
+	<b>Facebook:</b> <a href="https://fb.com/khanhsakercsdn">fb.com/nguyenduykhanhdev</a>
 
 
 	<section id="contact" style="height: auto">

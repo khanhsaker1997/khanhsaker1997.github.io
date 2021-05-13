@@ -57,16 +57,16 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "" # Replace this with your ID, or delete
+google_site_verification : "MCvMpsNqFVcTTGllWfHtEAXtmVwBaqzDT5bR9g-qszA" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "KhanhSaker97"
+  username               : &twitter "duykhanhdev"
 facebook:
-  username               : &facebook "khanhsakercsdn"
+  username               : &facebook "nguyenduykhanhdev"
   app_id                 :
   publisher              :
 og_image                 : "https://en.gravatar.com/userimage/122557493/bd3c740bbbb13bac72650de5b7a7b5b1.jpg?size=500" # Open Graph/Twitter default site image
@@ -76,8 +76,8 @@ social:
   type                   : "Person" # Person or Organization (defaults to Person)
   name                   : "Duy Khanh Nguyen" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/KhanhSaker97"
-    - "https://www.facebook.com/khanhsakercsdn"
+    - "https://twitter.com/duykhanhdev"
+    - "https://www.facebook.com/nguyenduykhanhdev"
 
 # Analytics
 analytics:
@@ -99,13 +99,13 @@ author:
       url: "https://duykhanhdev.tk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/KhanhSaker97"
+      url: "https://twitter.com/duykhanhdev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/khanhsaker97"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/__n_d_khanh"
+      url: "https://instagram.com/duykhanhdev"
 
 
 # Site Footer
@@ -113,13 +113,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/KhanhSaker97"
+      url: "https://twitter.com/duykhanhdev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/khanhsaker97"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/__n_d_khanh"
+      url: "https://instagram.com/duykhanhdev"
 
 
 # Reading Files
@@ -263,7 +263,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Asia/Ho_Chi_Minh" # America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
