@@ -21,7 +21,5 @@ Các bạn đừng lo vì lỗi này rất dễ giải quyết. Đây là do th�
 ![Hình 3](https://i.imgur.com/SunSG5Z.png)
 
 Đợi một lúc cho server nó chạy lên là ok rồi đó các bạn.
-Các bạn có thể xem hướng dẫn chi tiết tại video này:
-<iframe style="width: 560; height: 315; max-width: 100%; margin: 0 auto;"  src="https://www.youtube.com/embed/ZJ9-TvrACGU" frameborder="0" allowfullscreen></iframe>
 
 >By Nguyễn Duy Khánh
