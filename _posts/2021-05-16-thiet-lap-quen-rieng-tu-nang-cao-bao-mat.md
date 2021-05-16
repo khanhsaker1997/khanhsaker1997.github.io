@@ -9,7 +9,7 @@ header:
   # overlay_image: "https://i.imgur.com/gMRN85c.jpg"
   image: "https://i.imgur.com/MbmoYhc.png"
 excerpt: Firefox và Chrome có các ứng dụng đặc biệt mà bạn có thể tải về và tùy chỉnh để khiến trải nghiệm duyệt web tốt hơn.
-#ngay8
+#ngay9
 ---
 Ngày hôm nay chúng ta sẽ cùng bàn về các tiện ích mở rộng hỗ trợ riêng tư và bảo mật trong trình duyệt. Firefox và Chrome có các ứng dụng đặc biệt mà bạn có thể tải về và tùy chỉnh để khiến trải nghiệm duyệt web tốt hơn. Những ứng dụng này có sẵn trên các chợ ứng dụng và tiện ích của Firefox và Chrome, tương tự như các ứng dụng mà bạn có thể tải về trên điện thoại, đây đơn giản chỉ là những ứng dụng hoạt động trên trình duyệt của bạn.
 
@@ -41,22 +41,14 @@ Có rất nhiều trình duyệt khác được xây dựng lấy bảo mật l�
  
 **Những đường dẫn quan trọng**:
 
-chongluadao[.]vn/
-
-coccoc[.]com
-
-privacytools[.]io/
-
-eff[.]org/https-everywhere
-
-eff[.]org/privacybadger
-
-getadblock[.]com/
-
-adblockplus[.]org/
-
-ghostery[.]com/
-
-disconnect[.]me/
-
-github[.]com/gorhill/uBlock
+- chongluadao[.]vn/
+- coccoc[.]com
+- privacytools[.]io/
+- eff[.]org/https-everywhere
+- eff[.]org/privacybadger
+- getadblock[.]com/
+- adblockplus[.]org/
+- ghostery[.]com/
+- disconnect[.]me/
+- github[.]com/gorhill/uBlock
+>Nguồn: Học an ninh mạng cùng Hiếu PC
