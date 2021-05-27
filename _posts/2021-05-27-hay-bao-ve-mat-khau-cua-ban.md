@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Cài đặt chương trình quản lý mật khẩu
+title: Hãy bảo vệ mật khẩu của bạn
 date: 2021-05-18
 categories: [an-ninh-mang]
 tags: [an ninh mạng]
@@ -11,7 +11,8 @@ header:
 excerpt: Một chương trình quản lý mật khẩu là một phần mềm hoặc dịch vụ trực tuyến có chức năng lưu trữ tất cả mật khẩu của bạn tại một nơi và có hỗ trợ khởi tạo hoặc trích xuất mật khẩu bất cứ khi nào bạn cần.
 #ngay13
 ---
-Hôm nay chúng ta hãy cùng bàn luận về chương trình quản lý mật khẩu. Một chương trình quản lý mật khẩu là một phần mềm hoặc dịch vụ trực tuyến có chức năng lưu trữ tất cả mật khẩu của bạn tại một nơi và có hỗ trợ khởi tạo hoặc trích xuất mật khẩu bất cứ khi nào bạn cần.
+# Nên dùng trình quản lý mật khẩu
+Hôm nay chúng ta hãy cùng bàn luận về cách bảo vệ và quản lý mật khẩu. Một chương trình quản lý mật khẩu là một phần mềm hoặc dịch vụ trực tuyến có chức năng lưu trữ tất cả mật khẩu của bạn tại một nơi và có hỗ trợ khởi tạo hoặc trích xuất mật khẩu bất cứ khi nào bạn cần.
 
 Hãy tưởng tượng chương trình quản lý mật khẩu giống như một két sắt an toàn trên không gian mạng được dùng để lưu trữ tất cả các mật khẩu bí mật của bạn. Đây là một công cụ tuyệt vời được khuyên dùng không chỉ vì tính tiện lợi mà còn cực kỳ hữu dụng Con người liên tục phải ghi nhớ rất nhiều, việc ghi nhớ mọi mật khẩu là điều bất khả thi, đặc biệt khi bạn đặt mật khẩu mạnh.
 
@@ -35,6 +36,23 @@ Bằng cách đó mình không phải copy và dán mật khẩu mỗi lần t�
 
 Nếu bạn không thích ý tưởng sử dụng dịch vụ trực tuyến, và bạn hoàn toàn có quyền không tin tưởng, thì bạn có thể sử dụng phương án lưu trữ nội bộ. Các chương trình này sẽ không tiện lợi tương tự như các dịch vụ trực tuyến nhưng an toàn hơn rất nhiều.
 Có rất nhiều lựa chọn khi nhắc đến chương trình quản lý mật khẩu, một số chương trình ưa thích của mình bao gồm Bitwarden, 1Password, KeePass và Dashlane. Một số chương trình miễn phí hoặc có trả phí nhưng sẽ không đắt, một số thì cần phải tốn tiền mua bản quyền. Mỗi dịch vụ đều cung cấp các tính năng tuyệt vời và phương thức an toàn để bạn lưu trữ mật khẩu.
+
+# Nguyên tắc quản lý bảo vệ mật khẩu của bạn
+Hãy bắt đầu với quy tắc quản lý mật khẩu số 1: TỪNG MẬT KHẨU PHẢI KHÁC NHAU. Lý do là gì? Bạn thường sẽ không biết được cách một bên doanh nghiệp lưu trữ mật khẩu của bạn như thế nào khi bạn tạo tài khoản trên trang web của họ. Có thể tính bảo mật của họ đơn giản là cực yếu kém và nếu như họ bị xâm nhập và mật khẩu của bạn bị rò rỉ, bạn chắc chắn không muốn kẻ tấn công thử cùng mật khẩu đã bị rò rỉ đó trên các tài khoản khác của bạn. Kẻ xấu sẽ dễ dàng truy cập vào nhiều tài khoản hơn là chỉ tài khoản đã bị rò rỉ của bạn, vì vậy việc sử dụng mật khẩu khác nhau trên các tài khoản sẽ khiến cho kẻ tấn công gặp nhiều khó khăn khi muốn kiểm soát cuộc sống trực tuyến của bạn.
+
+Vậy làm thế nào để bạn tạo ra một mật khẩu mới đối với từng trang web? Sẽ tốn RẤT NHIỀU CÔNG SỨC và bạn chắc chắn sẽ cạn kiệt ý tưởng trong khi cố gắng tạo ra các mật khẩu mới! Đó là lý do tại sao mình giới thiệu cho bạn chương trình quản lý mật khẩu bên trên. Chương trình quản lý mình sử dụng được gọi là Bitwarden, có thể tự động tạo mật khẩu mới hoặc mình có thể tạo mật khẩu ngẫu nhiên theo cách thủ công có bao gồm các ký tự, số và chữ cái trộn lẫn với nhau.
+
+Nếu bạn chưa biết cách để tạo ngẫu nhiên các mật khẩu mạnh, mình sẽ cung cấp cho bạn một số gợi ý: NIST SP 800-63 khuyến nghị người dùng tạo ra các mật khẩu bao gồm các cụm từ dài gồm bốn từ trở lên. Lý do cho điều này là vì mật khẩu dài hơn sẽ khó bị bẻ khóa bằng phần mềm hơn so với các loại mật khẩu ngắn mặc dù có thể bao gồm đầy đủ chữ cái, số và ký tự. Mình có xu hướng áp dụng cả hai.
+
+Nếu mật khẩu của mình là cụm từ: "It does not do to dwell on dreams and forget to live", sau đó, mình có thể thêm vào một vài chữ cái in hoa, chữ số và ký tự kỳ lạ để khiến mật khẩu thậm chí còn mạnh hơn. Ví dụ: "1t d0E$ N07 Do to Dw3!1 on Dr3aM5 & f0Rg3t tO L1V3". Bây giờ bạn có thể hiểu tại sao mình lại thích các chương trình quản lý mật khẩu đến vậy, việc gõ lại cụm từ đó mỗi khi đăng nhập thực sự là một nỗi đau. Bạn không cần phải thêm vào các chữ cái và ký tự kỳ lạ như mình. Chỉ cần có một cụm từ dài là đủ, mặc mình không thích sử dụng những từ nằm trong từ điển để làm cụm mật khẩu của mình.
+
+NIST cũng khuyến cáo không nên thay đổi mật khẩu của bạn thường xuyên vì điều này có thể sẽ phản tác dụng của quy trình tạo mật khẩu tự động. Mình có xu hướng thay đổi mật khẩu của mình một năm một lần bằng cách tạo mật khẩu mới thông qua công cụ trong Bitwarden.
+
+Bây giờ thì làm thế nào để biết bạn đã tạo bao nhiêu tài khoản trên các trang web trực tuyến? Đây là lúc cần sử dụng quyển sổ ghi chú. Bạn nên ghi lại tất cả các trang web bạn có đăng nhập. Nếu bạn chưa muốn bắt đầu sử dụng chương trình quản lý mật khẩu, hãy tiếp tục và truy cập thủ công từng trang web và thay đổi mật khẩu của bạn thông qua các mục thiết lập tài khoản. Nếu bạn sử dụng Bitwarden như mình, tiện ích này có thể sẽ nhận ra nỗ lực đăng nhập của bạn và hỏi liệu bạn có muốn ghi nhớ thông tin đăng nhập mới để sử dụng trong tương lai không. Mình luôn bấm có.
+
+Một cách đơn giản để xác định các trang web mà bạn đã tạo tài khoản đó chính là tìm kiếm ở mục “hộp thư đến” của tài khoản email. Thông thường, các trang web sẽ gửi cho bạn email xác nhận mỗi khi bạn tạo một tài khoản mới - vì vậy nếu bạn tìm kiếm trong hộp thư đến cụm từ "Xác nhận email của bạn" hoặc “Confirm your email”, khả năng cao bạn sẽ thấy các trang web đó . Bạn cũng có thể tìm kiếm tên đăng nhập của mình trên knowem[.]com/ và trang web này sẽ hiển thị liệu bạn có tạo tên người dùng của mình trên các trang web phổ biến.
+
+Hãy nhớ rằng bạn luôn có thể xóa bất kỳ tài khoản nào bạn không sử dụng nữa bằng cách sử dụng justdelete[.]me và bạn nên cập nhật tất cả mật khẩu của mình sang các mật khẩu hoàn toàn mới để đề phòng những mật khẩu cũ có thể đã từng bị rò rỉ trong quá khứ. Mặc dù mất nhiều thời gian để truy cập thủ công tất cả các tài khoản trực tuyến này để thay đổi mật khẩu nhưng điều này sẽ giúp bạn tiết kiệm rất nhiều thời gian trong tương lai vì bạn sẽ ít có nguy cơ bị thâm nhập hơn.
 
 https://lastpass.com/f?5074626
 https://1password.com/
