@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hãy bảo vệ mật khẩu của bạn
-date: 2021-05-18
+date: 2021-05-27
 categories: [an-ninh-mang]
 tags: [an ninh mạng]
 toc: true
@@ -30,7 +30,7 @@ Những ứng dụng hay phần mềm đều có thể chứa lỗ hổng và m�
 
 Nếu chương trình quản lý bị xâm nhập trái phép, kẻ tấn công chỉ có thể truy cập vào các trang web mình đã mua sắm, các tài khoản thử nghiệm, các trang tin tức và một số trang khác. Mình sẽ thảo luận kỹ hơn về xác thực hai yếu tố và cách tạo ra các mật khẩu mạnh trong vài ngày tiếp theo.
 
-Cá nhân mình sử dụng Bitwarden đã nhiều năm trời. Đây là dịch vụ trực tuyến trên điện thoại và trình duyệt, có thể tự động điền thông tin vào các trang mỗi khi mình truy cập. Ví dụ như khi ghé thăm trang thinkgeek.com, chương trình sẽ nhận diện được trang web và tự động điền vào tài khoản và mật khẩu.
+Cá nhân mình sử dụng Bitwarden đã nhiều năm trời. Đây là dịch vụ trực tuyến trên điện thoại và trình duyệt, có thể tự động điền thông tin vào các trang mỗi khi mình truy cập. Ví dụ như khi ghé thăm trang **thinkgeek.com**, chương trình sẽ nhận diện được trang web và tự động điền vào tài khoản và mật khẩu.
 
 Bằng cách đó mình không phải copy và dán mật khẩu mỗi lần từ ứng dụng Bitwarden, điều này giúp mình tiết kiệm được rất nhiều thời gian. Chương trình này còn có sẵn một công cụ tự động tạo mật khẩu cho mình bất cứ khi nào mình cần. Mình không phải ghi nhớ mật khẩu nữa. Bớt căng thẳng, không phải ghi nhớ nhiều, mọi thứ đều tự động hóa. Quá tuyệt vời.
 
@@ -47,8 +47,6 @@ Nếu bạn chưa biết cách để tạo ngẫu nhiên các mật khẩu mạn
 Nếu mật khẩu của mình là cụm từ: "It does not do to dwell on dreams and forget to live", sau đó, mình có thể thêm vào một vài chữ cái in hoa, chữ số và ký tự kỳ lạ để khiến mật khẩu thậm chí còn mạnh hơn. Ví dụ: "1t d0E$ N07 Do to Dw3!1 on Dr3aM5 & f0Rg3t tO L1V3". Bây giờ bạn có thể hiểu tại sao mình lại thích các chương trình quản lý mật khẩu đến vậy, việc gõ lại cụm từ đó mỗi khi đăng nhập thực sự là một nỗi đau. Bạn không cần phải thêm vào các chữ cái và ký tự kỳ lạ như mình. Chỉ cần có một cụm từ dài là đủ, mặc mình không thích sử dụng những từ nằm trong từ điển để làm cụm mật khẩu của mình.
 
 NIST cũng khuyến cáo không nên thay đổi mật khẩu của bạn thường xuyên vì điều này có thể sẽ phản tác dụng của quy trình tạo mật khẩu tự động. Mình có xu hướng thay đổi mật khẩu của mình một năm một lần bằng cách tạo mật khẩu mới thông qua công cụ trong Bitwarden.
-
-Bây giờ thì làm thế nào để biết bạn đã tạo bao nhiêu tài khoản trên các trang web trực tuyến? Đây là lúc cần sử dụng quyển sổ ghi chú. Bạn nên ghi lại tất cả các trang web bạn có đăng nhập. Nếu bạn chưa muốn bắt đầu sử dụng chương trình quản lý mật khẩu, hãy tiếp tục và truy cập thủ công từng trang web và thay đổi mật khẩu của bạn thông qua các mục thiết lập tài khoản. Nếu bạn sử dụng Bitwarden như mình, tiện ích này có thể sẽ nhận ra nỗ lực đăng nhập của bạn và hỏi liệu bạn có muốn ghi nhớ thông tin đăng nhập mới để sử dụng trong tương lai không. Mình luôn bấm có.
 
 Một cách đơn giản để xác định các trang web mà bạn đã tạo tài khoản đó chính là tìm kiếm ở mục “hộp thư đến” của tài khoản email. Thông thường, các trang web sẽ gửi cho bạn email xác nhận mỗi khi bạn tạo một tài khoản mới - vì vậy nếu bạn tìm kiếm trong hộp thư đến cụm từ "Xác nhận email của bạn" hoặc “Confirm your email”, khả năng cao bạn sẽ thấy các trang web đó . Bạn cũng có thể tìm kiếm tên đăng nhập của mình trên knowem[.]com/ và trang web này sẽ hiển thị liệu bạn có tạo tên người dùng của mình trên các trang web phổ biến.
 
