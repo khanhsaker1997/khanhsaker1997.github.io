@@ -10,7 +10,7 @@ header:
   image: "https://i.imgur.com/RQ3cECl.jpg"
 excerpt: "Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn"
 ---
-### Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.
+# Đôi khi _sự cân bằng_ trở thành thứ quá xa xỉ trong cuộc sống bồn bề. Bạn thấy mệt mỏi bởi những cuộc tìm kiếm. Hãy thử nghe theo những lời khuyên dưới đây để sống cuộc đời mà bạn mong muốn.
 
 1. HỌC CÁCH SỐNG KHÔN NGOAN VỚI STRESS
 * Bạn thường phản ứng thế nào với áp lực cuộc sống? Hãy chấp nhận một thực tế rằng không thể loại bỏ tất cả stress, như thế ít ra bạn cũng thấy đỡ bức xúc hơn.

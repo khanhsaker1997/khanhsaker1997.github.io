@@ -9,7 +9,7 @@ header:
   overlay_image: https://i.imgur.com/w8wFbXk.jpg
   image: "https://i.imgur.com/w8wFbXk.jpg"
 ---
-### Thực trạng công nghệ thông tin
+# Thực trạng công nghệ thông tin
 :large_orange_diamond: 60% sàn chứng khoán của Mỹ là do công nghệ thông tin.
 
 :large_orange_diamond: Ấn Độ đang giàu thứ 10 thế giới (cường quốc xuất khẩu phần mềm nhờ CNTT)
@@ -24,7 +24,7 @@ header:
 
 >Qua đây có thể thấy an toàn và bảo mật thông tin là một nhiệm vụ vô cùng quan trọng, khó khăn của bất kỳ một tổ chức, cá nhân nào khi tham gia trao đổi tin.
 
-### **Hacker, Cracker** là gì:
+# **Hacker, Cracker** là gì:
 * Hack là sử dụng tính sáng tạo đê giải quyết một vấn đề nào đó. Nhiều người dùng sự sáng tạo đó để xâm nhập, lợi dụng khai thác những điểm yếu trên máy tính, điện thoại.. và nhiều thứ khác.
 * **Hacker**: là những người thực hiện hack. Có 4 loại hacker chính hiện hay.
     * Mũ trắng: Dùng Hack vào mục đích tốt.
@@ -34,11 +34,11 @@ header:
 
 * Một số **Nhóm Hacker**, **Hacker** nổi tiếng: Anonymous(vô danh), Lizard Squad, Lulzsec, Syrian Electronic Army(SEA)...
 
-### Vượt qua _mật khẩu_ của WinXP
+# Vượt qua _mật khẩu_ của WinXP
 * Sử dụng tổ hợp phím **CTRL + ALT + DEL** 2 lần liên tiếp thì sẽ được cửa sổ đăng nhập
 * Tại **username = "administrator"** nhấn enter. Ô cê. Nếu k đc thì điển thêm **password = "administrator"**.
 
-### Vượt qua mật khẩu Win 7 và Win 10
+# Vượt qua mật khẩu Win 7 và Win 10
 * Bản chất mật khẩu của windows nằm trong file SAM. Trong file này mật khẩu đã được mã hóa.
 * Dùng công cụ Hiren's Boot để cứu hộ Windows. Trong nó có chức năng phá Pass của windows (Xóa). *Phương thức này cùi rồi* và có nhiều phương pháp mới hiện đại hơn.
 * Dùng USB có cơ chế Bypass. Vượt qua mật khẩu chứ không xóa Pass của nó đi.

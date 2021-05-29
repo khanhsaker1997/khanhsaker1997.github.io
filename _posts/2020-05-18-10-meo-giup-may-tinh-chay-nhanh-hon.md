@@ -2,8 +2,8 @@
 layout: single
 title: 10 Mẹo giúp tăng tốc độ Windows 10 của bạn
 date: 2020-05-18
-categories: [lap-trinh]
-tags: [lập trình,windows 10]
+categories: [huong-dan]
+tags: [hướng dẫn,windows 10]
 toc: true
 header:
   # overlay_image: "https://i.imgur.com/5IaFSiy.jpg"

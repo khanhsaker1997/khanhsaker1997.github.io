@@ -3,7 +3,7 @@ layout: single
 title:  "Những lý do mà bạn nên học Python ngay bây giờ"
 date:   2018-01-13
 categories: [lap-trinh]
-tags: [python,lập trình]
+tags: [lập trình]
 lang: vi
 header:
   overlay_image: https://i.imgur.com/DGlu62W.jpg

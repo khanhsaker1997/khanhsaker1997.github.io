@@ -2,8 +2,8 @@
 layout: single
 title: "Fix bug như thế nào cho hiệu quả"
 date: 2018-12-11
-categories: [lap-trinh]
-tags: [fix bug,lập trình]
+categories: [huong-dan]
+tags: [lập trình,hướng dẫn]
 lang: vi
 header:
   overlay_image:

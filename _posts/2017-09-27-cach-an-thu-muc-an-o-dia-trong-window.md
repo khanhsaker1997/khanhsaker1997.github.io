@@ -2,8 +2,8 @@
 layout: single
 title: "Cách ẩn thư mục và ẩn ổ đĩa trong windows không cần dùng phần mềm"
 date: 2017-09-27
-categories: [lap-trinh]
-tags: [ẩn thư mục,lập trình, thủ thuật]
+categories: [huong-dan]
+tags: [hướng dẫn, thủ thuật]
 lang: vi
 header:
   overlay_image: https://i.imgur.com/osuMA8l.jpg

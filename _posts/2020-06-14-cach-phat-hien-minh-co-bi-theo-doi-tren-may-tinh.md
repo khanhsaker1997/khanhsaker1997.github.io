@@ -2,8 +2,8 @@
 layout: single
 title: Cách phát hiện mình có bị theo dõi trên máy tính
 date: 2020-06-14
-categories: [lap-trinh]
-tags: [lập trình,windows 10]
+categories: [an-ninh-mang]
+tags: [an ninh mạng,windows 10]
 toc: true
 header:
   # overlay_image: "https://i.imgur.com/Zfh9hgr*.jpg"

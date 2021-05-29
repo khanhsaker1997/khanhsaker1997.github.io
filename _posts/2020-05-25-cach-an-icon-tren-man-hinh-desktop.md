@@ -2,8 +2,8 @@
 layout: single
 title: Cách ẩn icons trên màn hình Desktop
 date: 2020-05-25
-categories: [lap-trinh]
-tags: [lập trình,windows 10]
+categories: [huong-dan]
+tags: [hướng dẫn,windows 10]
 toc: true
 header:
   # overlay_image: "https://i.imgur.com/UvejAcH.png"

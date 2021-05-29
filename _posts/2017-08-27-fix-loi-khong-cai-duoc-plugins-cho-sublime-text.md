@@ -2,15 +2,15 @@
 layout: single
 title: "Khắc phục lỗi không cài được plugins trên Sublime Text 3"
 date: 2017-08-27
-categories: [lap-trinh]
-tags: [sublime text,lập trình]
+categories: [huong-dan]
+tags: [hướng dẫn,lập trình]
 lang: vi
 header:
   overlay_image: https://i.imgur.com/ggtUcYB.png
   image: "https://i.imgur.com/ggtUcYB.png"
 excerpt: "Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng"
 ---
-### Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.
+# Sublime text là một editor mạnh mẽ với nhiều plugin hữu ích, có thể cài đặt dễ dàng đang được rất nhiều các lập trình viên sử dụng.
 
 Bỗng một ngày đẹp trời bạn mở Submile text lên và muốn cài 1 plugin mà cài xong vào **List Package** k thấy có thì các bạn đừng có lo. Bạn có thể cài plugins đó bằng cách thủ công như sau:
 
@@ -27,7 +27,7 @@ OK Vậy là bạn đã cài đặt xong rồi đó.
 Xem chi tiết thêm tại video dưới đây:
 <iframe style="width: 560; height: 315; max-width: 100%; margin: 0 auto;" src="https://www.youtube.com/embed/OzT13THu-NI" frameborder="0" allowfullscreen></iframe>
 
-### Một số Plugin hữu ích mà tớ đang dùng:
+# Một số Plugin hữu ích mà tớ đang dùng:
 * Alignment
 * AutoFileName
 * CSS Format

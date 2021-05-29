@@ -2,8 +2,8 @@
 layout: single
 title:  "Cách để luôn chạy ứng dụng với administrator"
 date:   2017-08-19
-categories: [lap-trinh]
-tags: [lập trình, thủ thuật]
+categories: [huong-dan]
+tags: [hướng dẫn, windows 10]
 lang: vi
 header:
   overlay_image:

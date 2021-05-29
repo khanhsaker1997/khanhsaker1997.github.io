@@ -3,7 +3,7 @@ layout: single
 title: Danh sách mật khẩu tệ nhất 2018
 date: 2018-12-14
 categories: [an-ninh-mang]
-tags: [lập trình,an ninh mạng, mật khẩu]
+tags: [an ninh mạng]
 header:
   overlay_image:
   image: https://i.imgur.com/cCCRHG6.jpg

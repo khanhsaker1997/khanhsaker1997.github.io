@@ -2,8 +2,8 @@
 layout: single
 title: "Các phím tắt hay dùng giúp làm việc hiệu quả trong Sublime Text3"
 date: 2017-09-13
-categories: [lap-trinh]
-tags: [sublime text,phím tắt]
+categories: [huong-dan]
+tags: [sublime text,phím tắt, hướng dẫn]
 lang: vi
 header:
   overlay_image: https://i.imgur.com/QmaM5My.jpg

@@ -2,8 +2,8 @@
 layout: single
 title:  "Tổng hợp các phím tắt hữu ích cho trên Windows"
 date:   2017-09-18
-categories: [lap-trinh]
-tags: [lập trình,phím tắt]
+categories: [huong-dan]
+tags: [lập trình, hướng dẫn]
 lang: vi
 header:
   overlay_image: https://i.imgur.com/tEsG2nV.jpg

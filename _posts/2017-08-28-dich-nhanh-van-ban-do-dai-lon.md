@@ -2,15 +2,15 @@
 layout: single
 title:  "Cách dịch nhanh văn bản có độ dài lớn mà Google dịch không dịch được"
 date:   2017-08-28
-categories: [lap-trinh]
-tags: [lập trình, thủ thuật]
+categories: [huong-dan]
+tags: [hướng dẫn, thủ thuật]
 lang: vi
 header:
   overlay_image:
   image: "https://i.imgur.com/O1eyw8X.png"
 excerpt: "Khi muốn dịch một văn bản các bạn thường sử dụng google dịch. Việc đó đôi khi rất mất thời gian với những văn bản có độ dài lớn. Sau đây mình sẽ hướng dẫn các bạn dịch văn bản đó nhanh hơn"
 ---
-## Khi muốn dịch một văn bản các bạn thường sử dụng google dịch. Việc đó đôi khi rất mất thời gian với những văn bản có độ dài lớn. Sau đây mình sẽ hướng dẫn các bạn dịch văn bản đó nhanh hơn.
+# Khi muốn dịch một văn bản các bạn thường sử dụng google dịch. Việc đó đôi khi rất mất thời gian với những văn bản có độ dài lớn. Sau đây mình sẽ hướng dẫn các bạn dịch văn bản đó nhanh hơn.
 
 1. Bước 1: Các bạn tải tiện ích [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en-US) cài vào trình duyệt Chrome.
 2. Bước 2: Các bạn đổi định dạng file văn bản sang định dạng đuôi **.md** .

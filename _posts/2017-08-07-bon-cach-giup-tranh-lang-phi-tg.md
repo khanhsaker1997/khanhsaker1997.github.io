@@ -11,7 +11,7 @@ header:
 excerpt: "Sau khi đọc xong bài viết 4 cách hữu hiệu để không còn lãng phí thời gian mỗi ngày này, bạn sẽ nhận được một món quà vô cùng đặc biệt - một đống thời gian để có thể làm việc nhiều hơn ngay lập tức"
 ---
 
-#### Sau khi đọc xong bài viết 4 cách hữu hiệu để không còn lãng phí thời gian mỗi ngày này, bạn sẽ nhận được một món quà vô cùng đặc biệt - một "đống" thời gian để có thể làm việc nhiều hơn ngay lập tức.
+# Sau khi đọc xong bài viết 4 cách hữu hiệu để không còn lãng phí thời gian mỗi ngày này, bạn sẽ nhận được một món quà vô cùng đặc biệt - một "đống" thời gian để có thể làm việc nhiều hơn ngay lập tức.
 
 Điều này nghe có vẻ khó tin đúng không? Thật ra đây chỉ là một sự thay đổi nhỏ - tất cả những gì bạn cần là **loại bỏ 4 thói quen xấu về quản lý thời gian** để có thể tránh việc lãng phí thời gian ngay từ hôm nay. Mời các bạn cùng tham khảo!
 

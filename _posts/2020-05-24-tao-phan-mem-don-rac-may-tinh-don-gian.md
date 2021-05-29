@@ -2,8 +2,8 @@
 layout: single
 title: Tạo phần mềm dọn rác máy tính đơn giản
 date: 2020-05-24
-categories: [lap-trinh]
-tags: [lập trình,windows 10]
+categories: [huong-dan]
+tags: [hướng dẫn,windows 10]
 toc: true
 header:
   # overlay_image: "https://i.imgur.com/0jJPmXc.jpg"
