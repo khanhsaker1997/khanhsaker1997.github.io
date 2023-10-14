@@ -1,8 +1,8 @@
-<!-- {% if post.header.teaser %}
+{% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
-{% endif %} -->
+{% endif %}
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
@@ -27,7 +27,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    <img src="{{post.header.image}}" alt="{{post.title}}">
+<!--     <img src="{{post.header.image}}" alt="{{post.title}}"> -->
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
