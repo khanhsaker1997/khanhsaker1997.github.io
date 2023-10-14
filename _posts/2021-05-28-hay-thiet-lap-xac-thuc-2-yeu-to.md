@@ -7,7 +7,7 @@ tags: [an ninh mạng]
 toc: true
 header:
   # overlay_image: "https://i.imgur.com/gMRN85c.jpg"
-  image: "https://i.imgur.com/qKtnNU5.png"
+  # image: "https://i.imgur.com/qKtnNU5.png"
 excerpt: Xác thực hai yếu tố là gì? 2FA là một loại xác thực đa yếu tố. 2FA bao gồm ít nhất hai trong ba yếu tố gồm kiến ​​thức (thứ bạn biết), tài sản (thứ bạn có), và thuộc tính (thứ định nghĩa con người bạn)
 #ngay13
 ---
